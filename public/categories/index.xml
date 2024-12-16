@@ -6,20 +6,20 @@
         <description>Recent content in Categories on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 11 Dec 2024 20:14:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/KingdomDuels/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Dec 2024 00:00:06 -0300</lastBuildDate><atom:link href="http://localhost:1313/KingdomDuels/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Updates</title>
+        <link>http://localhost:1313/KingdomDuels/categories/updates/</link>
+        <pubDate>Mon, 16 Dec 2024 00:00:06 -0300</pubDate>
+        
+        <guid>http://localhost:1313/KingdomDuels/categories/updates/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Set Release</title>
         <link>http://localhost:1313/KingdomDuels/categories/set-release/</link>
         <pubDate>Wed, 11 Dec 2024 20:14:00 -0300</pubDate>
         
         <guid>http://localhost:1313/KingdomDuels/categories/set-release/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Updates</title>
-        <link>http://localhost:1313/KingdomDuels/categories/updates/</link>
-        <pubDate>Sun, 01 Dec 2024 15:42:00 -0300</pubDate>
-        
-        <guid>http://localhost:1313/KingdomDuels/categories/updates/</guid>
         <description></description>
         </item>
         <item>

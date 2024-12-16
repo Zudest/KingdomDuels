@@ -11,13 +11,19 @@
     <loc>http://localhost:1313/KingdomDuels/downloads/</loc>
   </url><url>
     <loc>http://localhost:1313/KingdomDuels/categories/</loc>
-    <lastmod>2024-12-11T20:14:00-03:00</lastmod>
+    <lastmod>2024-12-16T00:00:06-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/KingdomDuels/</loc>
-    <lastmod>2024-12-11T20:14:00-03:00</lastmod>
+    <lastmod>2024-12-16T00:00:06-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/KingdomDuels/post/new-website/</loc>
+    <lastmod>2024-12-16T00:00:06-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/KingdomDuels/post/</loc>
-    <lastmod>2024-12-11T20:14:00-03:00</lastmod>
+    <lastmod>2024-12-16T00:00:06-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/KingdomDuels/categories/updates/</loc>
+    <lastmod>2024-12-16T00:00:06-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/KingdomDuels/post/set-09-released/</loc>
     <lastmod>2024-12-11T20:14:00-03:00</lastmod>
@@ -27,9 +33,6 @@
   </url><url>
     <loc>http://localhost:1313/KingdomDuels/post/set-08-released/</loc>
     <lastmod>2024-12-01T15:43:00-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/KingdomDuels/categories/updates/</loc>
-    <lastmod>2024-12-01T15:42:00-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/KingdomDuels/post/deckbuilder-launched/</loc>
     <lastmod>2024-12-01T15:42:00-03:00</lastmod>

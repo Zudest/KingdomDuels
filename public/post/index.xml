@@ -6,7 +6,17 @@
         <description>Recent content in Posts on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 11 Dec 2024 20:14:00 -0300</lastBuildDate><atom:link href="http://localhost:1313/KingdomDuels/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 16 Dec 2024 00:00:06 -0300</lastBuildDate><atom:link href="http://localhost:1313/KingdomDuels/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>New website!</title>
+        <link>http://localhost:1313/KingdomDuels/post/new-website/</link>
+        <pubDate>Mon, 16 Dec 2024 00:00:06 -0300</pubDate>
+        
+        <guid>http://localhost:1313/KingdomDuels/post/new-website/</guid>
+        <description>&lt;p&gt;We have just launched a new website! The goal with it is to consolidate everything Kingdom-Duels-related to a single place (instead of having one site for the landing information, one for the rulebook, one for downloads, one for the story, etc.)&lt;/p&gt;
+&lt;p&gt;There are still a few things missing that we will be updating in the coming days but we are happy that we will finally have a place to keep an archive of old news that we made over the years, alongside all the new updates that may come in the future.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Set 9 [Dungeon of Luck] is here!</title>
         <link>http://localhost:1313/KingdomDuels/post/set-09-released/</link>
         <pubDate>Wed, 11 Dec 2024 20:14:00 -0300</pubDate>
