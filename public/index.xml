@@ -797,7 +797,7 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
         <pubDate>Mon, 16 Dec 2024 00:00:06 -0300</pubDate>
         
         <guid>http://localhost:1313/KingdomDuels/post/new-website/</guid>
-        <description>&lt;p&gt;We have just launched a new website! The goal with it is to consolidate everything Kingdom-Duels-related to a single place (instead of having one site for the landing information, one for the rulebook, one for downloads, one for the story, etc.)&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0001.jpg" alt="Featured image of post New website!" /&gt;&lt;p&gt;We have just launched this new website! The goal with it is to consolidate everything Kingdom-Duels-related to a single place (instead of having one site for the landing information, one for the rulebook, one for downloads, one for the story, etc.)&lt;/p&gt;
 &lt;p&gt;There are still a few things missing that we will be updating in the coming days but we are happy that we will finally have a place to keep an archive of old news that we made over the years, alongside all the new updates that may come in the future.&lt;/p&gt;
 </description>
         </item>
@@ -807,7 +807,18 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
         <pubDate>Wed, 11 Dec 2024 20:14:00 -0300</pubDate>
         
         <guid>http://localhost:1313/KingdomDuels/post/set-09-released/</guid>
-        <description>&lt;hr&gt;
+        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0003.jpg" alt="Featured image of post Set 9 [Dungeon of Luck] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Dungeon of Luck&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-11.&lt;/p&gt;
+&lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Codename: [DOL]&lt;/li&gt;
+&lt;li&gt;It has 55 cards from episodes &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/KingdomDuels/KingdomDuels/story/museum-arc/&#34; &gt;44 to 46&lt;/a&gt; of the Yugioh Scrolls project, and is focused around the Dungeon Dice Monsters mini-arc.&lt;/li&gt;
+&lt;li&gt;Introduces some fun new cards that lets you play in a Dungeon Dice Monster (DDM) inspired gameplay within the Kingdom Duels rules, rolling your dice and moving your characters around a grid to try to defeat the opponent.&lt;/li&gt;
+&lt;li&gt;It provides support for the following duelists: Anzu, Honda, Jonouchi, Yugi, Otogi.&lt;/li&gt;
+&lt;li&gt;Introduces a new terrain: &amp;ldquo;Dungeon&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/index.html#9&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This post was auto-generated for historic purposes based on old content released on a different website.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -819,9 +830,22 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
         <pubDate>Sun, 01 Dec 2024 15:43:00 -0300</pubDate>
         
         <guid>http://localhost:1313/KingdomDuels/post/set-08-released/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0004.jpg" alt="Featured image of post Set 8 [Loose Ends] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Loose Ends&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-01.&lt;/p&gt;
+&lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Codename: [LEN]&lt;/li&gt;
+&lt;li&gt;It has 64 cards from episodes &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/KingdomDuels/KingdomDuels/story/museum-arc/&#34; &gt;41 to 43&lt;/a&gt; of the Yugioh Scrolls project, and is focused around giving a bit of support to some side characters from Duelist Kingdom, and also introducing new duelists like The Big Five and Rebecca.&lt;/li&gt;
+&lt;li&gt;It is the first set based on the Museum Arc, and the very first set to start changing the anime story that we know by following the Yugioh Scrolls storyline instead.&lt;/li&gt;
+&lt;li&gt;It provides support for the following duelists: Kajiki, Ryuzaki, Mai, Kotsuzuka, Brother Mei, Brother Kyu, Kaiba, Mokuba, The Big Five, Yugi, Rebecca, Sugoroku, Arthur.&lt;/li&gt;
+&lt;li&gt;Introduces six new terrains: &amp;ldquo;Desert&amp;rdquo;, &amp;ldquo;Cave&amp;rdquo;, &amp;ldquo;Vortex&amp;rdquo;, &amp;ldquo;Volcano&amp;rdquo;, &amp;ldquo;Ruins&amp;rdquo;, &amp;ldquo;Dragon Valley&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/index.html#8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Related link&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This post was auto-generated for historic purposes based on old content released on a different website.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -833,9 +857,25 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
         <pubDate>Sun, 01 Dec 2024 15:42:00 -0300</pubDate>
         
         <guid>http://localhost:1313/KingdomDuels/post/deckbuilder-launched/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0005.jpg" alt="Featured image of post We have just launched an online Deckbuilder" /&gt;&lt;p&gt;A &lt;a class=&#34;link&#34; href=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;small online browser based app&lt;/a&gt; is now available to help you plan your decks. It has filter options and the possibility to export and import the decks so you can edit them in the future. While not being able to export to Tabletop Simulator at the moment, i think it will be useful for testing ideas or making new decks.&lt;/p&gt;
+&lt;h4 id=&#34;features&#34;&gt;Features
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Filter by card name, code, card frame, duelist, types or set.&lt;/li&gt;
+&lt;li&gt;Left Click on a card to add it to the corresponding Main Deck or Extra Deck (or Token Pile).&lt;/li&gt;
+&lt;li&gt;Right Click on a card to zoom.&lt;/li&gt;
+&lt;li&gt;Export your build to a .json file to save your changes in your own computer.&lt;/li&gt;
+&lt;li&gt;Import the .json file for quick edits.&lt;/li&gt;
+&lt;li&gt;Preview your combined Main Deck + Extra Deck.&lt;/li&gt;
+&lt;li&gt;Save your deck to a textfile to use as a reference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;strong&gt;Kingdom Duels Deckbuilder&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Related link&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This post was auto-generated for historic purposes based on old content released on a different website.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
