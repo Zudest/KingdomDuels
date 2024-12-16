@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Community on Kingdom Duels</title>
+        <link>http://localhost:1313/KingdomDuels/categories/community/</link>
+        <description>Recent content in Community on Kingdom Duels</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 26 Dec 2022 23:25:08 -0300</lastBuildDate><atom:link href="http://localhost:1313/KingdomDuels/categories/community/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Rata made a video about the project</title>
+        <link>http://localhost:1313/KingdomDuels/post/rank10ygo-made-a-video-about-the-project/</link>
+        <pubDate>Mon, 26 Dec 2022 23:25:08 -0300</pubDate>
+        
+        <guid>http://localhost:1313/KingdomDuels/post/rank10ygo-made-a-video-about-the-project/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/zw436d/yugioh_kingdom_duels_master_rule_%C2%BD_by_rata/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/zw436d/yugioh_kingdom_duels_master_rule_%C2%BD_by_rata/&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/qWDPxWXxizs&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=qWDPxWXxizs&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.youtube.com/watch?v=qWDPxWXxizs&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;This post was auto-generated for historic purposes based on old content released on a different website.&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

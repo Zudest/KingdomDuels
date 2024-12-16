@@ -1,0 +1,30 @@
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        {{ if .Get "link" }}
+            <a href="{{ .Get "link" }}" style="text-decoration: none;">
+        {{ end }}
+        
+        <img src="{{ .Get "src" }}" width="{{ .Get "width" | default "140" }}" alt="{{ .Get "alt" }}">
+        
+        {{ with .Get "caption" }}
+        <div style="
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: {{ $.Get "font-size" | default "12px" }};
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        ">
+            {{ . }}
+        </div>
+        {{ end }}
+        
+        {{ if .Get "link" }}
+            </a>
+        {{ end }}
+    </div>
+</div>
