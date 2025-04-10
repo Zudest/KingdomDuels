@@ -3,7 +3,7 @@ title = 'Timeline'
 toc = false
 +++
 
-**[Yugioh Scrolls](/KingdomDuels/yugioh-scrolls)** takes place in an alternative universe to the Yugioh manga or anime that we know. This is a timeline of important events in the Yugioh Scrolls project story, not a timeline of the events of the original Yugioh anime or manga. Here, events happened differently in one single big continuity that takes all story chapters into consideration.
+**[Yugioh Scrolls](/yugioh-scrolls)** takes place in an alternative universe to the Yugioh manga or anime that we know. This is a timeline of important events in the Yugioh Scrolls project story, not a timeline of the events of the original Yugioh anime or manga. Here, events happened differently in one single big continuity that takes all story chapters into consideration.
 
 > _Warning: This timeline contains spoilers for the placements of major events of Yugioh Scrolls._
 
@@ -36,7 +36,7 @@ toc = false
     * Yugi solves the Millennium Puzzle. Atem resurfaces.
     * From this point onward Duel Monsters become insanely popular and technology advances rapidly thanks to the Solid Vision technology, way faster than in our world. The importance of Duel Monsters skyrockets way beyond a simple game, and a huge world paradigm shift occurs.
 * **March 1997 - October 1997 or 1998?**
-    * The events of **[The Millennium Chapter](/KingdomDuels/yugioh-scrolls/#the-millennium-chapter)** take place.
+    * The events of **[The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter)** take place.
 * **October 1997 or 1998? - March 1998 or 1999?**
     * The events of **The King's Chapter** take place.
 * **April 2004 - March 2007**

@@ -1,6 +1,6 @@
 +++
 menus = 'main'
-weight = 40
+weight = 60
 title = 'Downloads'
 toc = false
 readingTime = false
@@ -22,6 +22,8 @@ readingTime = false
 - 🏛️ Museum Arc
     - **[LEN]** → Loose Ends
     - **[DOL]** → Dungeon of Luck
+    - **[VIN]** → Virtual Nightmare
+    - **[BSN]** → Body Snatchers
 
 - 🏞️ Terrains
 

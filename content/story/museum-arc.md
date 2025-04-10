@@ -4,10 +4,11 @@ title = 'Museum Arc'
 description = 'Yugioh Scrolls - The Millennium Chapter - Arc 2'
 categories = ['Yugioh Scrolls']
 readingTime = false
+image = "/img/post/post0007.jpg"
 +++
 
 
-![](/KingdomDuels/img/storyimg/1-02.jpg)
+![](/img/storyimg/1-02.jpg)
 
 _"As normal life returns, the Domino Museum becomes a point of interest for Yugi's other self, who starts uncovering secrets of his past while several chained events happen in that place."_
 
@@ -15,7 +16,7 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 
 >**Author's Note**: My main goal in this arc was to tie multiple short storylines into the city's museum and the egyptian backstory of "the other yugi". Having the egyptian exhibition play a larger role here allows me to flesh out more characters like Ishizu and Shadi. A major goal of this arc aswell was to move the virtual arc here, to have it happen before Battle City which will in turn make Battle City flow better without that interruption before the finals. Overall, this whole Museum arc was also a good chance to focus on the side characters for a bit and plant some seeds for upcoming future plots.
 
-| [← Previous Arc](/KingdomDuels/story/duelist-kingdom-arc/) | [The Millennium Chapter](/KingdomDuels/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](#) |
+| [← Previous Arc](/story/duelist-kingdom-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](#) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ---
@@ -23,50 +24,50 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0041.jpg" caption="41" alt="Episode 41" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0042.jpg" caption="42" alt="Episode 42" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0043.jpg" caption="43" alt="Episode 43" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0044.jpg" caption="44" alt="Episode 44" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0045.jpg" caption="45" alt="Episode 45" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0041.jpg" caption="41" alt="Episode 41" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0042.jpg" caption="42" alt="Episode 42" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0043.jpg" caption="43" alt="Episode 43" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0044.jpg" caption="44" alt="Episode 44" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0045.jpg" caption="45" alt="Episode 45" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0046.jpg" caption="46" alt="Episode 46" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0047.jpg" caption="47" alt="Episode 47" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0048.jpg" caption="48" alt="Episode 48" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0049.jpg" caption="49" alt="Episode 49" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0050.jpg" caption="50" alt="Episode 50" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0046.jpg" caption="46" alt="Episode 46" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0047.jpg" caption="47" alt="Episode 47" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0048.jpg" caption="48" alt="Episode 48" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0049.jpg" caption="49" alt="Episode 49" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0050.jpg" caption="50" alt="Episode 50" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0051.jpg" caption="51" alt="Episode 51" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0052.jpg" caption="52" alt="Episode 52" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0053.jpg" caption="53" alt="Episode 53" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0054.jpg" caption="54" alt="Episode 54" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0055.jpg" caption="55" alt="Episode 55" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0051.jpg" caption="51" alt="Episode 51" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0052.jpg" caption="52" alt="Episode 52" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0053.jpg" caption="53" alt="Episode 53" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0054.jpg" caption="54" alt="Episode 54" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0055.jpg" caption="55" alt="Episode 55" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0056.jpg" caption="56" alt="Episode 56" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0057.jpg" caption="57" alt="Episode 57" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0058.jpg" caption="58" alt="Episode 58" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0059.jpg" caption="59" alt="Episode 59" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0060.jpg" caption="60" alt="Episode 60" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0056.jpg" caption="56" alt="Episode 56" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0057.jpg" caption="57" alt="Episode 57" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0058.jpg" caption="58" alt="Episode 58" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0059.jpg" caption="59" alt="Episode 59" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0060.jpg" caption="60" alt="Episode 60" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0061.jpg" caption="61" alt="Episode 61" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0062.jpg" caption="62" alt="Episode 62" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0063.jpg" caption="63" alt="Episode 63" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0064.jpg" caption="64" alt="Episode 64" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0065.jpg" caption="65" alt="Episode 65" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0061.jpg" caption="61" alt="Episode 61" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0062.jpg" caption="62" alt="Episode 62" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0063.jpg" caption="63" alt="Episode 63" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0064.jpg" caption="64" alt="Episode 64" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0065.jpg" caption="65" alt="Episode 65" width="140" >}}
 </div>
 
 ---
 
 ## Episode 41 - Memories of the Kingdom
 
-![](/KingdomDuels/img/storyimg/ep0041.jpg)
+![](/img/storyimg/ep0041.jpg)
 
 ---
 
@@ -86,7 +87,7 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 
 ## Episode 42 - The Big Five
 
-![](/KingdomDuels/img/storyimg/ep0042.jpg)
+![](/img/storyimg/ep0042.jpg)
 
 ---
 
@@ -98,7 +99,7 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 
 ## Episode 43 - The Girl from America
 
-![](/KingdomDuels/img/storyimg/ep0043.jpg)
+![](/img/storyimg/ep0043.jpg)
 
 ---
 
@@ -114,7 +115,7 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 
 ## Episode 44 - The Mysterious Transfer Student – Ryuji Otogi
 
-![](/KingdomDuels/img/storyimg/ep0044.jpg)
+![](/img/storyimg/ep0044.jpg)
 
 ---
 
@@ -127,7 +128,7 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 
 ## Episode 45 - Showdown! The Dungeon Dice Field
 
-![](/KingdomDuels/img/storyimg/ep0045.jpg)
+![](/img/storyimg/ep0045.jpg)
 
 ---
 
@@ -141,7 +142,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 46 - Jonouchi's Sister
 
-![](/KingdomDuels/img/storyimg/ep0046.jpg)
+![](/img/storyimg/ep0046.jpg)
 
 ---
 
@@ -158,7 +159,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 47 - A Virtual Nightmare
 
-![](/KingdomDuels/img/storyimg/ep0047.jpg)
+![](/img/storyimg/ep0047.jpg)
 
 ---
 
@@ -175,7 +176,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 48 - Deck Master - Deepsea Warrior
 
-![](/KingdomDuels/img/storyimg/ep0048.jpg)
+![](/img/storyimg/ep0048.jpg)
 
 ---
 
@@ -188,7 +189,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 49 - Duel on Ice - Anzu is Targeted
 
-![](/KingdomDuels/img/storyimg/ep0049.jpg)
+![](/img/storyimg/ep0049.jpg)
 
 ---
 
@@ -202,7 +203,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 50 - Gamble to Victory
 
-![](/KingdomDuels/img/storyimg/ep0050.jpg)
+![](/img/storyimg/ep0050.jpg)
 
 ---
 
@@ -214,7 +215,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 51 - A Man's Path
 
-![](/KingdomDuels/img/storyimg/ep0051.jpg)
+![](/img/storyimg/ep0051.jpg)
 
 ---
 
@@ -228,7 +229,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 52 - Settling the Score
 
-![](/KingdomDuels/img/storyimg/ep0052.jpg)
+![](/img/storyimg/ep0052.jpg)
 
 ---
 
@@ -242,7 +243,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 53 - A Deepening Mystery - Noah's True Identity
 
-![](/KingdomDuels/img/storyimg/ep0053.jpg)
+![](/img/storyimg/ep0053.jpg)
 
 ---
 
@@ -254,7 +255,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 54 - Big 5's Counterattack
 
-![](/KingdomDuels/img/storyimg/ep0054.jpg)
+![](/img/storyimg/ep0054.jpg)
 
 ---
 
@@ -266,7 +267,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 55 - Defeat It! Five God Dragon
 
-![](/KingdomDuels/img/storyimg/ep0055.jpg)
+![](/img/storyimg/ep0055.jpg)
 
 ---
 
@@ -277,7 +278,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 56 - Noah vs. Seto - The Duel of Heaven and Earth's Creation
 
-![](/KingdomDuels/img/storyimg/ep0056.jpg)
+![](/img/storyimg/ep0056.jpg)
 
 ---
 
@@ -289,7 +290,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 57 - Darkness of the Kaiba Family
 
-![](/KingdomDuels/img/storyimg/ep0057.jpg)
+![](/img/storyimg/ep0057.jpg)
 
 ---
 
@@ -306,7 +307,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 58 - The Man from Egypt
 
-![](/KingdomDuels/img/storyimg/ep0058.jpg)
+![](/img/storyimg/ep0058.jpg)
 
 ---
 
@@ -322,7 +323,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 59 - Desperate Situation!
 
-![](/KingdomDuels/img/storyimg/ep0059.jpg)
+![](/img/storyimg/ep0059.jpg)
 
 ---
 
@@ -340,7 +341,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 60 - The Pharaoh’s Lost Memories
 
-![](/KingdomDuels/img/storyimg/ep0060.jpg)
+![](/img/storyimg/ep0060.jpg)
 
 ---
 
@@ -354,7 +355,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 61 - The Shattered Millennium Puzzle
 
-![](/KingdomDuels/img/storyimg/ep0061.jpg)
+![](/img/storyimg/ep0061.jpg)
 
 ---
 
@@ -372,7 +373,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 62 - The Fiery Dance Battle
 
-![](/KingdomDuels/img/storyimg/ep0062.jpg)
+![](/img/storyimg/ep0062.jpg)
 
 ---
 
@@ -388,7 +389,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 63 - The Tablet of Lost Memories
 
-![](/KingdomDuels/img/storyimg/ep0063.jpg)
+![](/img/storyimg/ep0063.jpg)
 
 ---
 
@@ -401,7 +402,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 64 - This City will Become Battle City!
 
-![](/KingdomDuels/img/storyimg/ep0064.jpg)
+![](/img/storyimg/ep0064.jpg)
 
 ---
 
@@ -415,7 +416,7 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 
 ## Episode 65 - Clash of the Millennium Items!
 
-![](/KingdomDuels/img/storyimg/ep0065.jpg)
+![](/img/storyimg/ep0065.jpg)
 
 ---
 

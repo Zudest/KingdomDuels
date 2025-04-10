@@ -4,9 +4,10 @@ title = 'Duelist Kingdom Arc'
 description = 'Yugioh Scrolls - The Millennium Chapter - Arc 1'
 categories = ['Yugioh Scrolls']
 readingTime = false
+image = "/img/post/post0011.jpg"
 +++
 
-![](/KingdomDuels/img/storyimg/1-01.jpg)
+![](/img/storyimg/1-01.jpg)
 
 _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasus, the creator of Duel Monsters, in order to recover the soul of Yugi's grandfather."_
 
@@ -14,7 +15,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 >**Author's Note**: My goal with this arc was to recreate it faithfully within the Kingdom Duels ruleset. Therefore, no actual changes were made in the narrative on this particular arc. The 40 episodes are replicated here as precisely as they were in the original japanese run of the anime.
 
-| ← Previous Arc | [The Millennium Chapter](/KingdomDuels/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/KingdomDuels/story/museum-arc/) |
+| ← Previous Arc | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/museum-arc/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ---
@@ -22,74 +23,74 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0001.jpg" caption="1" alt="Episode 1" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0002.jpg" caption="2" alt="Episode 2" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0003.jpg" caption="3" alt="Episode 3" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0004.jpg" caption="4" alt="Episode 4" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0005.jpg" caption="5" alt="Episode 5" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0001.jpg" caption="1" alt="Episode 1" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0002.jpg" caption="2" alt="Episode 2" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0003.jpg" caption="3" alt="Episode 3" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0004.jpg" caption="4" alt="Episode 4" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0005.jpg" caption="5" alt="Episode 5" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0006.jpg" caption="6" alt="Episode 6" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0007.jpg" caption="7" alt="Episode 7" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0008.jpg" caption="8" alt="Episode 8" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0009.jpg" caption="9" alt="Episode 9" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0010.jpg" caption="10" alt="Episode 10" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0006.jpg" caption="6" alt="Episode 6" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0007.jpg" caption="7" alt="Episode 7" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0008.jpg" caption="8" alt="Episode 8" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0009.jpg" caption="9" alt="Episode 9" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0010.jpg" caption="10" alt="Episode 10" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0011.jpg" caption="11" alt="Episode 11" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0012.jpg" caption="12" alt="Episode 12" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0013.jpg" caption="13" alt="Episode 13" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0014.jpg" caption="14" alt="Episode 14" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0015.jpg" caption="15" alt="Episode 15" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0011.jpg" caption="11" alt="Episode 11" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0012.jpg" caption="12" alt="Episode 12" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0013.jpg" caption="13" alt="Episode 13" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0014.jpg" caption="14" alt="Episode 14" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0015.jpg" caption="15" alt="Episode 15" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0016.jpg" caption="16" alt="Episode 16" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0017.jpg" caption="17" alt="Episode 17" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0018.jpg" caption="18" alt="Episode 18" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0019.jpg" caption="19" alt="Episode 19" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0020.jpg" caption="20" alt="Episode 20" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0016.jpg" caption="16" alt="Episode 16" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0017.jpg" caption="17" alt="Episode 17" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0018.jpg" caption="18" alt="Episode 18" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0019.jpg" caption="19" alt="Episode 19" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0020.jpg" caption="20" alt="Episode 20" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0021.jpg" caption="21" alt="Episode 21" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0022.jpg" caption="22" alt="Episode 22" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0023.jpg" caption="23" alt="Episode 23" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0024.jpg" caption="24" alt="Episode 24" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0025.jpg" caption="25" alt="Episode 25" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0021.jpg" caption="21" alt="Episode 21" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0022.jpg" caption="22" alt="Episode 22" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0023.jpg" caption="23" alt="Episode 23" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0024.jpg" caption="24" alt="Episode 24" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0025.jpg" caption="25" alt="Episode 25" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0026.jpg" caption="26" alt="Episode 26" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0027.jpg" caption="27" alt="Episode 27" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0028.jpg" caption="28" alt="Episode 28" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0029.jpg" caption="29" alt="Episode 29" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0030.jpg" caption="30" alt="Episode 30" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0026.jpg" caption="26" alt="Episode 26" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0027.jpg" caption="27" alt="Episode 27" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0028.jpg" caption="28" alt="Episode 28" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0029.jpg" caption="29" alt="Episode 29" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0030.jpg" caption="30" alt="Episode 30" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0031.jpg" caption="31" alt="Episode 31" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0032.jpg" caption="32" alt="Episode 32" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0033.jpg" caption="33" alt="Episode 33" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0034.jpg" caption="34" alt="Episode 34" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0035.jpg" caption="35" alt="Episode 35" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0031.jpg" caption="31" alt="Episode 31" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0032.jpg" caption="32" alt="Episode 32" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0033.jpg" caption="33" alt="Episode 33" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0034.jpg" caption="34" alt="Episode 34" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0035.jpg" caption="35" alt="Episode 35" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0036.jpg" caption="36" alt="Episode 36" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0037.jpg" caption="37" alt="Episode 37" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0038.jpg" caption="38" alt="Episode 38" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0039.jpg" caption="39" alt="Episode 39" width="140" >}}
-{{< imagetext src="/KingdomDuels/img/storyimg/ep0040.jpg" caption="40" alt="Episode 40" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0036.jpg" caption="36" alt="Episode 36" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0037.jpg" caption="37" alt="Episode 37" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0038.jpg" caption="38" alt="Episode 38" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0039.jpg" caption="39" alt="Episode 39" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0040.jpg" caption="40" alt="Episode 40" width="140" >}}
 </div>
 
 ---
 
 ## Episode 1 - The Heart of the Cards
 
-![](/KingdomDuels/img/storyimg/ep0001.jpg)
+![](/img/storyimg/ep0001.jpg)
 
 ---
 
@@ -107,7 +108,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 2 - The Gauntlet is Thrown
 
-![](/KingdomDuels/img/storyimg/ep0002.jpg)
+![](/img/storyimg/ep0002.jpg)
 
 ---
 
@@ -121,7 +122,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 3 - Journey to the Duelist Kingdom
 
-![](/KingdomDuels/img/storyimg/ep0003.jpg)
+![](/img/storyimg/ep0003.jpg)
 
 ---
 
@@ -134,7 +135,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 4 - Insector Combo
 
-![](/KingdomDuels/img/storyimg/ep0004.jpg)
+![](/img/storyimg/ep0004.jpg)
 
 ---
 
@@ -145,7 +146,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 5 - Ultimate Perfect Form - Great Moth
 
-![](/KingdomDuels/img/storyimg/ep0005.jpg)
+![](/img/storyimg/ep0005.jpg)
 
 
 ---
@@ -156,7 +157,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 6 - Gorgeous Harpie Lady
 
-![](/KingdomDuels/img/storyimg/ep0006.jpg)
+![](/img/storyimg/ep0006.jpg)
 
 ---
 
@@ -167,7 +168,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 7 - Attack from the Deep
 
-![](/KingdomDuels/img/storyimg/ep0007.jpg)
+![](/img/storyimg/ep0007.jpg)
 
 ---
 
@@ -178,7 +179,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 8 - Stolen Blue-Eyes White Dragon
 
-![](/KingdomDuels/img/storyimg/ep0008.jpg)
+![](/img/storyimg/ep0008.jpg)
 
 ---
 
@@ -190,7 +191,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 9 - Duel With a Ghoul
 
-![](/KingdomDuels/img/storyimg/ep0009.jpg)
+![](/img/storyimg/ep0009.jpg)
 
 ---
 
@@ -201,7 +202,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 10 - Blue-Eyes White Dragon's Counterattack
 
-![](/KingdomDuels/img/storyimg/ep0010.jpg)
+![](/img/storyimg/ep0010.jpg)
 
 ---
 
@@ -213,7 +214,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 11 - The Power of Friendship! Barbarian #1 and #2
 
-![](/KingdomDuels/img/storyimg/ep0011.jpg)
+![](/img/storyimg/ep0011.jpg)
 
 ---
 
@@ -224,7 +225,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 12 - Black Flame! Red-Eyes Black Dragon
 
-![](/KingdomDuels/img/storyimg/ep0012.jpg)
+![](/img/storyimg/ep0012.jpg)
 
 
 ---
@@ -238,7 +239,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 13 - Evil Spirit of the Ring
 
-![](/KingdomDuels/img/storyimg/ep0013.jpg)
+![](/img/storyimg/ep0013.jpg)
 
 ---
 
@@ -252,7 +253,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 14 - Pitch Black Duel! Castle of Darkening
 
-![](/KingdomDuels/img/storyimg/ep0014.jpg)
+![](/img/storyimg/ep0014.jpg)
 
 ---
 
@@ -263,7 +264,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 15 - Cut Through the Darkness!
 
-![](/KingdomDuels/img/storyimg/ep0015.jpg)
+![](/img/storyimg/ep0015.jpg)
 
 ---
 
@@ -274,7 +275,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 16 - Clash! Blue-Eyes vs Red-Eyes
 
-![](/KingdomDuels/img/storyimg/ep0016.jpg)
+![](/img/storyimg/ep0016.jpg)
 
 
 ---
@@ -289,7 +290,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 17 - Terror! Call of the Living Dead
 
-![](/KingdomDuels/img/storyimg/ep0017.jpg)
+![](/img/storyimg/ep0017.jpg)
 
 ---
 
@@ -302,7 +303,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 18 - Arena of Lost Souls
 
-![](/KingdomDuels/img/storyimg/ep0018.jpg)
+![](/img/storyimg/ep0018.jpg)
 
 ---
 
@@ -313,7 +314,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 19 - Labyrinth Tag Duel
 
-![](/KingdomDuels/img/storyimg/ep0019.jpg)
+![](/img/storyimg/ep0019.jpg)
 
 ---
 
@@ -325,7 +326,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 20 - Three Gods Combine! Gate Guardian
 
-![](/KingdomDuels/img/storyimg/ep0020.jpg)
+![](/img/storyimg/ep0020.jpg)
 
 
 ---
@@ -337,7 +338,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 21 - The Fiend Dragon - Black Demons Dragon
 
-![](/KingdomDuels/img/storyimg/ep0021.jpg)
+![](/img/storyimg/ep0021.jpg)
 
 ---
 
@@ -348,7 +349,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 22 - Duel of Destiny! Yugi vs Kaiba
 
-![](/KingdomDuels/img/storyimg/ep0022.jpg)
+![](/img/storyimg/ep0022.jpg)
 
 ---
 
@@ -360,7 +361,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 23 - Strongest! Blue-Eyes Ultimate Dragon
 
-![](/KingdomDuels/img/storyimg/ep0023.jpg)
+![](/img/storyimg/ep0023.jpg)
 
 ---
 
@@ -370,7 +371,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 24 - Kuribohs Multiply! Shocking Finale
 
-![](/KingdomDuels/img/storyimg/ep0024.jpg)
+![](/img/storyimg/ep0024.jpg)
 
 ---
 
@@ -382,7 +383,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 25 - Shining Friendship
 
-![](/KingdomDuels/img/storyimg/ep0025.jpg)
+![](/img/storyimg/ep0025.jpg)
 
 ---
 
@@ -393,7 +394,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 26 - Save Mokuba! Kaiba vs Pegasus
 
-![](/KingdomDuels/img/storyimg/ep0026.jpg)
+![](/img/storyimg/ep0026.jpg)
 
 ---
 
@@ -405,7 +406,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 27 - Champion vs. Creator, Invincible Toon World
 
-![](/KingdomDuels/img/storyimg/ep0027.jpg)
+![](/img/storyimg/ep0027.jpg)
 
 ---
 
@@ -416,7 +417,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 28 - Night Before the Battle! Pegasus Secret
 
-![](/KingdomDuels/img/storyimg/ep0028.jpg)
+![](/img/storyimg/ep0028.jpg)
 
 ---
 
@@ -431,7 +432,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 29 - Desperate Situation! Shadow of Seduction
 
-![](/KingdomDuels/img/storyimg/ep0029.jpg)
+![](/img/storyimg/ep0029.jpg)
 
 
 ---
@@ -442,7 +443,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 30 - The Legendary Strongest Warrior
 
-![](/KingdomDuels/img/storyimg/ep0030.jpg)
+![](/img/storyimg/ep0030.jpg)
 
 ---
 
@@ -452,7 +453,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 31 - Keith's Machinations
 
-![](/KingdomDuels/img/storyimg/ep0031.jpg)
+![](/img/storyimg/ep0031.jpg)
 
 ---
 
@@ -463,7 +464,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 32 - Surpass Time! Red-Eyes Black Metal Dragon
 
-![](/KingdomDuels/img/storyimg/ep0032.jpg)
+![](/img/storyimg/ep0032.jpg)
 
 ---
 
@@ -475,7 +476,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 33 - Final Match of Friendship - Yugi vs. Jounouchi
 
-![](/KingdomDuels/img/storyimg/ep0033.jpg)
+![](/img/storyimg/ep0033.jpg)
 
 ---
 
@@ -486,7 +487,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 34 - Best of Friends, Best of Duelists
 
-![](/KingdomDuels/img/storyimg/ep0034.jpg)
+![](/img/storyimg/ep0034.jpg)
 
 ---
 
@@ -497,7 +498,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 35 - Yugi vs. Pegasus: Match of the Millennium
 
-![](/KingdomDuels/img/storyimg/ep0035.jpg)
+![](/img/storyimg/ep0035.jpg)
 
 ---
 
@@ -509,7 +510,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 36 - The Invincible Toon Army
 
-![](/KingdomDuels/img/storyimg/ep0036.jpg)
+![](/img/storyimg/ep0036.jpg)
 
 ---
 
@@ -520,7 +521,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 37 - Counterattack Begins! Mind Shuffle
 
-![](/KingdomDuels/img/storyimg/ep0037.jpg)
+![](/img/storyimg/ep0037.jpg)
 
 ---
 
@@ -532,7 +533,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 38 - The Wicked Eye Activates - Sacrifice
 
-![](/KingdomDuels/img/storyimg/ep0038.jpg)
+![](/img/storyimg/ep0038.jpg)
 
 ---
 
@@ -544,7 +545,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 39 - Fusion of Light and Darkness
 
-![](/KingdomDuels/img/storyimg/ep0039.jpg)
+![](/img/storyimg/ep0039.jpg)
 
 ---
 
@@ -557,7 +558,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ## Episode 40 - King of Duelists
 
-![](/KingdomDuels/img/storyimg/ep0040.jpg)
+![](/img/storyimg/ep0040.jpg)
 
 ---
 
