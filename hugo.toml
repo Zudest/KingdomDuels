@@ -1,4 +1,4 @@
-baseURL = 'https://zudest.github.io/KingdomDuels/'
+baseURL = 'https://kingdomduels.com/'
 languageCode = 'en-us'
 title = 'Kingdom Duels'
 theme = 'hugo-theme-stack'
@@ -50,10 +50,10 @@ theme = 'hugo-theme-stack'
         weight = 1
     [[menus.main]]
         name = 'Deckbuilder'
-        url = 'https://zudest.github.io/KingdomDuelsDeckbuilder/'
-        weight = 15
-        [menus.main.params]
-            newTab = true
+        url = '/deckbuilder/'
+        weight = 40
+        #[menus.main.params]
+            #newTab = true
 
     # SOCIAL MENU
     [[menus.social]]
