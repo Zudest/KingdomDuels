@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Kingdom Duels</title>
-        <link>http://localhost:1313/KingdomDuels/tags/</link>
+        <link>https://kingdomduels.com/tags/</link>
         <description>Recent content in Tags on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/KingdomDuels/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>en-us</language><atom:link href="https://kingdomduels.com/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

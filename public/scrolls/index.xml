@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Scrolls on Kingdom Duels</title>
-        <link>http://localhost:1313/KingdomDuels/scrolls/</link>
+        <link>https://kingdomduels.com/scrolls/</link>
         <description>Recent content in Scrolls on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/KingdomDuels/scrolls/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language><atom:link href="https://kingdomduels.com/scrolls/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Setting</title>
-        <link>http://localhost:1313/KingdomDuels/scrolls/world/</link>
+        <link>https://kingdomduels.com/scrolls/world/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/scrolls/world/</guid>
-        <description>&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/KingdomDuels/KingdomDuels/yugioh-scrolls&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt; takes place in a slightly different setting than the original anime and manga. It takes place in a single continuity so all the story chapters are interconnected and can be placed in the &lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/KingdomDuels/KingdomDuels/scrolls/timeline/&#34; &gt;&lt;strong&gt;Timeline&lt;/strong&gt;&lt;/a&gt;, and therefore there are different locations around Japan (and beyond) that are also tied to the chapters of the story, listed here:&lt;/p&gt;
+        <guid>https://kingdomduels.com/scrolls/world/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt; takes place in a slightly different setting than the original anime and manga. It takes place in a single continuity so all the story chapters are interconnected and can be placed in the &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/scrolls/timeline/&#34; &gt;&lt;strong&gt;Timeline&lt;/strong&gt;&lt;/a&gt;, and therefore there are different locations around Japan (and beyond) that are also tied to the chapters of the story, listed here:&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;locations-in-japan&#34;&gt;Locations in Japan
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;(This section is in development)&lt;/em&gt;&lt;/p&gt;
@@ -23,11 +23,11 @@
         </item>
         <item>
         <title>Timeline</title>
-        <link>http://localhost:1313/KingdomDuels/scrolls/timeline/</link>
+        <link>https://kingdomduels.com/scrolls/timeline/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/scrolls/timeline/</guid>
-        <description>&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/KingdomDuels/KingdomDuels/yugioh-scrolls&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt; takes place in an alternative universe to the Yugioh manga or anime that we know. This is a timeline of important events in the Yugioh Scrolls project story, not a timeline of the events of the original Yugioh anime or manga. Here, events happened differently in one single big continuity that takes all story chapters into consideration.&lt;/p&gt;
+        <guid>https://kingdomduels.com/scrolls/timeline/</guid>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt; takes place in an alternative universe to the Yugioh manga or anime that we know. This is a timeline of important events in the Yugioh Scrolls project story, not a timeline of the events of the original Yugioh anime or manga. Here, events happened differently in one single big continuity that takes all story chapters into consideration.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;Warning: This timeline contains spoilers for the placements of major events of Yugioh Scrolls.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -87,7 +87,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;March 1997 - October 1997 or 1998?&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;The events of &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;http://localhost:1313/KingdomDuels/KingdomDuels/yugioh-scrolls/#the-millennium-chapter&#34; &gt;The Millennium Chapter&lt;/a&gt;&lt;/strong&gt; take place.&lt;/li&gt;
+&lt;li&gt;The events of &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/#the-millennium-chapter&#34; &gt;The Millennium Chapter&lt;/a&gt;&lt;/strong&gt; take place.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;October 1997 or 1998? - March 1998 or 1999?&lt;/strong&gt;

@@ -2,42 +2,117 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Posts on Kingdom Duels</title>
-        <link>http://localhost:1313/KingdomDuels/post/</link>
+        <link>https://kingdomduels.com/post/</link>
         <description>Recent content in Posts on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 16 Dec 2024 00:00:06 -0300</lastBuildDate><atom:link href="http://localhost:1313/KingdomDuels/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 01 Apr 2025 00:00:06 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>New website!</title>
-        <link>http://localhost:1313/KingdomDuels/post/new-website/</link>
-        <pubDate>Mon, 16 Dec 2024 00:00:06 -0300</pubDate>
+        <link>https://kingdomduels.com/post/new-website/</link>
+        <pubDate>Tue, 01 Apr 2025 00:00:06 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/new-website/</guid>
-        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0001.jpg" alt="Featured image of post New website!" /&gt;&lt;p&gt;We have just launched this new website! The goal with it is to consolidate everything Kingdom-Duels-related to a single place (instead of having one site for the landing information, one for the rulebook, one for downloads, one for the story, etc.)&lt;/p&gt;
-&lt;p&gt;There are still a few things missing that we will be updating in the coming days but we are happy that we will finally have a place to keep an archive of old news that we made over the years, alongside all the new updates that may come in the future.&lt;/p&gt;
+        <guid>https://kingdomduels.com/post/new-website/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0001.jpg" alt="Featured image of post New website!" /&gt;&lt;p&gt;We have just launched this new website! The goal with it is to consolidate everything Kingdom Duels related to a single place (instead of having one site for the landing information, one for the rulebook, one for downloads, one for the story, etc.)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/&#34; &gt;Home&lt;/a&gt;&lt;/strong&gt;: News feed which includes old news (timestamped) to keep an archive/history of this game.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/about/&#34; &gt;About&lt;/a&gt;&lt;/strong&gt;: Brief introduction to the game and the cards with useful links and images.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/rules/&#34; &gt;Rules&lt;/a&gt;&lt;/strong&gt;: Revamped rulebook with images and sections for easy navigation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt;: The story rewrite have its own dedicated page now, with sub-sections and episode navigation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;Deckbuilder&lt;/a&gt;&lt;/strong&gt;: The deckbuilder has been integrated to the website itself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/restricted-list/&#34; &gt;Restricted List&lt;/a&gt;&lt;/strong&gt;: Useful quick link to check the current restricted list.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/downloads/&#34; &gt;Downloads&lt;/a&gt;&lt;/strong&gt;: All the downloads available for the game, including cards, templates and old versions.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Set 11 [Body Snatchers] is here!</title>
+        <link>https://kingdomduels.com/post/set-11-released/</link>
+        <pubDate>Sat, 29 Mar 2025 21:18:26 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/set-11-released/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0023.jpg" alt="Featured image of post Set 11 [Body Snatchers] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Body Snatchers&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-03-29.&lt;/p&gt;
+&lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Codename: [BSN]&lt;/li&gt;
+&lt;li&gt;It has 66 cards from episodes &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/story/museum-arc/&#34; &gt;51 to 53&lt;/a&gt; of the Yugioh Scrolls project, and continues the story of the Virtual Arc, which was moved ahead in the timeline for the rewrite to have it happen before Battle City.&lt;/li&gt;
+&lt;li&gt;It provides support for the following duelists: Shizuka, Honda, Otogi, Ota, Kaiba, Daimon, Mokuba, Noah.&lt;/li&gt;
+&lt;li&gt;Introduces new terrains: &amp;ldquo;Factory&amp;rdquo;, &amp;ldquo;City&amp;rdquo; and &amp;ldquo;Space&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#11&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Set 10 [Virtual Nightmare] is here!</title>
+        <link>https://kingdomduels.com/post/set-10-released/</link>
+        <pubDate>Sat, 04 Jan 2025 21:09:00 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/set-10-released/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0022.jpg" alt="Featured image of post Set 10 [Virtual Nightmare] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Virtual Nightmare&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-01-04.&lt;/p&gt;
+&lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Codename: [VIN]&lt;/li&gt;
+&lt;li&gt;It has 62 cards from episodes &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/story/museum-arc/&#34; &gt;47 to 50&lt;/a&gt; of the Yugioh Scrolls project, and is focused around the first part of the Virtual Arc, which was moved ahead in the timeline for the rewrite to have it happen before Battle City.&lt;/li&gt;
+&lt;li&gt;Introduces the &amp;ldquo;Deckmaster System&amp;rdquo; concept from the anime with some interesting twists that let you play with that but refocused for the Duelist Kingdom era rules.&lt;/li&gt;
+&lt;li&gt;It provides support for the following duelists: Yugi, Oshita, Anzu, Otaki, Jonouchi, Ooka.&lt;/li&gt;
+&lt;li&gt;Introduces new terrains: &amp;ldquo;Swamp&amp;rdquo;, &amp;ldquo;Icefield&amp;rdquo; and &amp;ldquo;Palace&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#10&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>10 Years Anniversary</title>
+        <link>https://kingdomduels.com/post/10-years/</link>
+        <pubDate>Wed, 25 Dec 2024 13:36:00 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/10-years/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0021.jpg" alt="Featured image of post 10 Years Anniversary" /&gt;&lt;p&gt;10 years ago today i started this project with &lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/2qdbv3/ive_been_working_on_a_yugioh_variant_card_game/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;a post in the yugioh subreddit&lt;/a&gt;. I can&amp;rsquo;t believe it&amp;rsquo;s been a decade already! This project was a silly little hobby of mine for a long time, and i loved seeing it grow. From releasing early concepts in 2015 to the current releases past the 2024 rules rework. I&amp;rsquo;ve worked on it on and off for years, but im honestly really happy to have started it when i did. I want to thank everyone who helped me during this journey. Happy holidays and happy 10 years!&lt;/p&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/1hm3w2s/10_years_ago_today_i_started_a_project_about/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Related link&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>Set 9 [Dungeon of Luck] is here!</title>
-        <link>http://localhost:1313/KingdomDuels/post/set-09-released/</link>
+        <link>https://kingdomduels.com/post/set-09-released/</link>
         <pubDate>Wed, 11 Dec 2024 20:14:00 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/set-09-released/</guid>
-        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0003.jpg" alt="Featured image of post Set 9 [Dungeon of Luck] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Dungeon of Luck&lt;/strong&gt; is the new set that has been released in Kingdom Duels. Codenamed [DOL] it is&lt;/p&gt;
-&lt;hr&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;This post was auto-generated for historic purposes based on old content released on a different website.&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+        <guid>https://kingdomduels.com/post/set-09-released/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0003.jpg" alt="Featured image of post Set 9 [Dungeon of Luck] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Dungeon of Luck&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-11.&lt;/p&gt;
+&lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Codename: [DOL]&lt;/li&gt;
+&lt;li&gt;It has 55 cards from episodes &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/story/museum-arc/&#34; &gt;44 to 46&lt;/a&gt; of the Yugioh Scrolls project, and is focused around the Dungeon Dice Monsters mini-arc.&lt;/li&gt;
+&lt;li&gt;Introduces some fun new cards that lets you play in a Dungeon Dice Monster (DDM) inspired gameplay within the Kingdom Duels rules, rolling your dice and moving your characters around a grid to try to defeat the opponent.&lt;/li&gt;
+&lt;li&gt;It provides support for the following duelists: Anzu, Honda, Jonouchi, Yugi, Otogi.&lt;/li&gt;
+&lt;li&gt;Introduces a new terrain: &amp;ldquo;Dungeon&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#9&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Set 8 [Loose Ends] is here!</title>
-        <link>http://localhost:1313/KingdomDuels/post/set-08-released/</link>
+        <link>https://kingdomduels.com/post/set-08-released/</link>
         <pubDate>Sun, 01 Dec 2024 15:43:00 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/set-08-released/</guid>
-        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0004.jpg" alt="Featured image of post Set 8 [Loose Ends] is here!" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&lt;/a&gt;&lt;/p&gt;
+        <guid>https://kingdomduels.com/post/set-08-released/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0004.jpg" alt="Featured image of post Set 8 [Loose Ends] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Loose Ends&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-01.&lt;/p&gt;
+&lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Codename: [LEN]&lt;/li&gt;
+&lt;li&gt;It has 64 cards from episodes &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/story/museum-arc/&#34; &gt;41 to 43&lt;/a&gt; of the Yugioh Scrolls project, and is focused around giving a bit of support to some side characters from Duelist Kingdom, and also introducing new duelists like The Big Five and Rebecca.&lt;/li&gt;
+&lt;li&gt;It is the first set based on the Museum Arc, and the very first set to start changing the anime story that we know by following the Yugioh Scrolls storyline instead.&lt;/li&gt;
+&lt;li&gt;It provides support for the following duelists: Kajiki, Ryuzaki, Mai, Kotsuzuka, Brother Mei, Brother Kyu, Kaiba, Mokuba, The Big Five, Yugi, Rebecca, Sugoroku, Arthur.&lt;/li&gt;
+&lt;li&gt;Introduces six new terrains: &amp;ldquo;Desert&amp;rdquo;, &amp;ldquo;Cave&amp;rdquo;, &amp;ldquo;Vortex&amp;rdquo;, &amp;ldquo;Volcano&amp;rdquo;, &amp;ldquo;Ruins&amp;rdquo;, &amp;ldquo;Dragon Valley&amp;rdquo;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#8&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Related link&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This post was auto-generated for historic purposes based on old content released on a different website.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -45,13 +120,27 @@
         </item>
         <item>
         <title>We have just launched an online Deckbuilder</title>
-        <link>http://localhost:1313/KingdomDuels/post/deckbuilder-launched/</link>
+        <link>https://kingdomduels.com/post/deckbuilder-launched/</link>
         <pubDate>Sun, 01 Dec 2024 15:42:00 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/deckbuilder-launched/</guid>
-        <description>&lt;img src="http://localhost:1313/KingdomDuels/img/post/post0005.jpg" alt="Featured image of post We have just launched an online Deckbuilder" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&lt;/a&gt;&lt;/p&gt;
+        <guid>https://kingdomduels.com/post/deckbuilder-launched/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0005.jpg" alt="Featured image of post We have just launched an online Deckbuilder" /&gt;&lt;p&gt;A &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;small online browser based app&lt;/a&gt; is now available to help you plan your decks. It has filter options and the possibility to export and import the decks so you can edit them in the future. While not being able to export to Tabletop Simulator at the moment, i think it will be useful for testing ideas or making new decks.&lt;/p&gt;
+&lt;h4 id=&#34;features&#34;&gt;Features
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Filter by card name, code, card frame, duelist, types or set.&lt;/li&gt;
+&lt;li&gt;Left Click on a card to add it to the corresponding Main Deck or Extra Deck (or Token Pile).&lt;/li&gt;
+&lt;li&gt;Right Click on a card to zoom.&lt;/li&gt;
+&lt;li&gt;Export your build to a .json file to save your changes in your own computer.&lt;/li&gt;
+&lt;li&gt;Import the .json file for quick edits.&lt;/li&gt;
+&lt;li&gt;Preview your combined Main Deck + Extra Deck.&lt;/li&gt;
+&lt;li&gt;Save your deck to a textfile to use as a reference.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;&lt;strong&gt;Kingdom Duels Deckbuilder&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;em&gt;Related link&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;This post was auto-generated for historic purposes based on old content released on a different website.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -59,11 +148,11 @@
         </item>
         <item>
         <title>Announcing Yugioh Scrolls</title>
-        <link>http://localhost:1313/KingdomDuels/post/announcing-yugioh-scrolls/</link>
+        <link>https://kingdomduels.com/post/announcing-yugioh-scrolls/</link>
         <pubDate>Sat, 23 Nov 2024 15:41:21 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/announcing-yugioh-scrolls/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/announcing-yugioh-scrolls/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0006.jpg" alt="Featured image of post Announcing Yugioh Scrolls" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -73,11 +162,11 @@
         </item>
         <item>
         <title>New rules and a new card frame design! Sets 1 through 7 released!</title>
-        <link>http://localhost:1313/KingdomDuels/post/new-rules-and-new-design/</link>
+        <link>https://kingdomduels.com/post/new-rules-and-new-design/</link>
         <pubDate>Fri, 01 Nov 2024 19:27:34 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/new-rules-and-new-design/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/1ghhpd9/the_kingdom_duels_project_has_been_updated_with_a/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/new-rules-and-new-design/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0008.jpg" alt="Featured image of post New rules and a new card frame design! Sets 1 through 7 released!" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/1ghhpd9/the_kingdom_duels_project_has_been_updated_with_a/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/1ghhpd9/the_kingdom_duels_project_has_been_updated_with_a/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -87,11 +176,11 @@
         </item>
         <item>
         <title>Rata made a video about the project</title>
-        <link>http://localhost:1313/KingdomDuels/post/rank10ygo-made-a-video-about-the-project/</link>
+        <link>https://kingdomduels.com/post/rank10ygo-made-a-video-about-the-project/</link>
         <pubDate>Mon, 26 Dec 2022 23:25:08 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/rank10ygo-made-a-video-about-the-project/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/zw436d/yugioh_kingdom_duels_master_rule_%C2%BD_by_rata/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/rank10ygo-made-a-video-about-the-project/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0009.jpg" alt="Featured image of post Rata made a video about the project" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/zw436d/yugioh_kingdom_duels_master_rule_%C2%BD_by_rata/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/zw436d/yugioh_kingdom_duels_master_rule_%C2%BD_by_rata/&lt;/a&gt;&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
@@ -112,11 +201,11 @@
         </item>
         <item>
         <title>It&#39;s release day! Kingdom Duels is here!</title>
-        <link>http://localhost:1313/KingdomDuels/post/its-release-day-kingdom-duels-is-here/</link>
+        <link>https://kingdomduels.com/post/its-release-day-kingdom-duels-is-here/</link>
         <pubDate>Sat, 05 Nov 2022 17:15:28 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/its-release-day-kingdom-duels-is-here/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/yn4wm9/its_release_day_kingdom_duels_is_here/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/its-release-day-kingdom-duels-is-here/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0010.jpg" alt="Featured image of post It&#39;s release day! Kingdom Duels is here!" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/yn4wm9/its_release_day_kingdom_duels_is_here/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/yn4wm9/its_release_day_kingdom_duels_is_here/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -126,11 +215,11 @@
         </item>
         <item>
         <title>What was the &#39;Kingdom Card Game&#39;?</title>
-        <link>http://localhost:1313/KingdomDuels/post/what-was-the-kingdom-card-game/</link>
+        <link>https://kingdomduels.com/post/what-was-the-kingdom-card-game/</link>
         <pubDate>Thu, 04 Aug 2022 14:44:09 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/what-was-the-kingdom-card-game/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mz9fu3/kcg_kingdom_card_game/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/what-was-the-kingdom-card-game/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0012.jpg" alt="Featured image of post What was the &#39;Kingdom Card Game&#39;?" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mz9fu3/kcg_kingdom_card_game/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mz9fu3/kcg_kingdom_card_game/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -140,11 +229,11 @@
         </item>
         <item>
         <title>What&#39;s next? The origin of Kingdom Duels</title>
-        <link>http://localhost:1313/KingdomDuels/post/whats-next-the-origin-of-kingdom-duels/</link>
+        <link>https://kingdomduels.com/post/whats-next-the-origin-of-kingdom-duels/</link>
         <pubDate>Mon, 26 Apr 2021 16:13:08 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/whats-next-the-origin-of-kingdom-duels/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mz3lv1/whats_next_the_origin_of_kingdom_duels/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/whats-next-the-origin-of-kingdom-duels/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0013.jpg" alt="Featured image of post What&#39;s next? The origin of Kingdom Duels" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mz3lv1/whats_next_the_origin_of_kingdom_duels/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mz3lv1/whats_next_the_origin_of_kingdom_duels/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -154,19 +243,19 @@
         </item>
         <item>
         <title>KCG Set 3 Released</title>
-        <link>http://localhost:1313/KingdomDuels/post/kcg-set-3-released/</link>
+        <link>https://kingdomduels.com/post/kcg-set-3-released/</link>
         <pubDate>Mon, 12 Apr 2021 15:14:44 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/kcg-set-3-released/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mov0kp/release_03_king_of_duelists_its_finally_here/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mov0kp/release_03_king_of_duelists_its_finally_here/&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mouw4i/rules_v11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mouw4i/rules_v11/&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mpuocx/want_to_make_your_own_cards_this_is_the_psd/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mpuocx/want_to_make_your_own_cards_this_is_the_psd/&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/mhiezu/faq_what_is_the_duelist_kingdom_updated/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/mhiezu/faq_what_is_the_duelist_kingdom_updated/&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/mqsffk/now_attack_the_moon_the_fanmade_duelist_kingdom/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/kcg-set-3-released/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0014.jpg" alt="Featured image of post KCG Set 3 Released" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mov0kp/release_03_king_of_duelists_its_finally_here/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mov0kp/release_03_king_of_duelists_its_finally_here/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mouw4i/rules_v11/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mouw4i/rules_v11/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mpuocx/want_to_make_your_own_cards_this_is_the_psd/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mpuocx/want_to_make_your_own_cards_this_is_the_psd/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/mhiezu/faq_what_is_the_duelist_kingdom_updated/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/mhiezu/faq_what_is_the_duelist_kingdom_updated/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/mqsffk/now_attack_the_moon_the_fanmade_duelist_kingdom/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/yugioh/comments/mqsffk/now_attack_the_moon_the_fanmade_duelist_kingdom/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -176,11 +265,11 @@
         </item>
         <item>
         <title>An update and a new Discord server</title>
-        <link>http://localhost:1313/KingdomDuels/post/an-update-and-a-new-discord-server/</link>
+        <link>https://kingdomduels.com/post/an-update-and-a-new-discord-server/</link>
         <pubDate>Mon, 29 Mar 2021 18:19:13 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/an-update-and-a-new-discord-server/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mfzus0/an_update_and_a_new_discord_server/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/an-update-and-a-new-discord-server/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0015.jpg" alt="Featured image of post An update and a new Discord server" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/TheDuelistKingdom/comments/mfzus0/an_update_and_a_new_discord_server/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/TheDuelistKingdom/comments/mfzus0/an_update_and_a_new_discord_server/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -190,11 +279,11 @@
         </item>
         <item>
         <title>KCG Set 2 Released</title>
-        <link>http://localhost:1313/KingdomDuels/post/kcg-set-2-released/</link>
+        <link>https://kingdomduels.com/post/kcg-set-2-released/</link>
         <pubDate>Sun, 21 Feb 2016 21:04:15 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/kcg-set-2-released/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/46y37y/release_02_castle_guardians_finally_some_new_cards/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/kcg-set-2-released/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0016.jpg" alt="Featured image of post KCG Set 2 Released" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/46y37y/release_02_castle_guardians_finally_some_new_cards/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/46y37y/release_02_castle_guardians_finally_some_new_cards/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -204,15 +293,15 @@
         </item>
         <item>
         <title>KCG Set 1 Released</title>
-        <link>http://localhost:1313/KingdomDuels/post/kcg-set-1-released/</link>
+        <link>https://kingdomduels.com/post/kcg-set-1-released/</link>
         <pubDate>Wed, 02 Dec 2015 15:52:48 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/kcg-set-1-released/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5u5w/release_01_seal_of_exodia_download_print_and/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5u5w/release_01_seal_of_exodia_download_print_and/&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5tv9/rules_v10/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5tv9/rules_v10/&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5vjw/yugi_vs_weevil_episode_4_example_of_a_duel/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/kcg-set-1-released/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0017.jpg" alt="Featured image of post KCG Set 1 Released" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5u5w/release_01_seal_of_exodia_download_print_and/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5u5w/release_01_seal_of_exodia_download_print_and/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5tv9/rules_v10/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5tv9/rules_v10/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5vjw/yugi_vs_weevil_episode_4_example_of_a_duel/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/3v5vjw/yugi_vs_weevil_episode_4_example_of_a_duel/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -222,11 +311,11 @@
         </item>
         <item>
         <title>Starting our own subreddit at /r/TheDuelistKingdom</title>
-        <link>http://localhost:1313/KingdomDuels/post/subreddit/</link>
+        <link>https://kingdomduels.com/post/subreddit/</link>
         <pubDate>Tue, 01 Dec 2015 13:55:38 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/subreddit/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v0mub/faq_what_is_the_duelist_kingdom/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/subreddit/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0018.jpg" alt="Featured image of post Starting our own subreddit at /r/TheDuelistKingdom" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/3v0mub/faq_what_is_the_duelist_kingdom/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://old.reddit.com/r/TheDuelistKingdom/comments/3v0mub/faq_what_is_the_duelist_kingdom/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -236,11 +325,11 @@
         </item>
         <item>
         <title>KCG Beta release of the first edition</title>
-        <link>http://localhost:1313/KingdomDuels/post/kcg-beta-release/</link>
+        <link>https://kingdomduels.com/post/kcg-beta-release/</link>
         <pubDate>Fri, 20 Feb 2015 18:06:54 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/kcg-beta-release/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/2wl6hd/kcg_duelist_kingdom_card_game_post_3_beta_release/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/kcg-beta-release/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0019.jpg" alt="Featured image of post KCG Beta release of the first edition" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/2wl6hd/kcg_duelist_kingdom_card_game_post_3_beta_release/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/yugioh/comments/2wl6hd/kcg_duelist_kingdom_card_game_post_3_beta_release/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -250,11 +339,11 @@
         </item>
         <item>
         <title>Early rules and concepts</title>
-        <link>http://localhost:1313/KingdomDuels/post/and-so-it-continues/</link>
+        <link>https://kingdomduels.com/post/and-so-it-continues/</link>
         <pubDate>Tue, 06 Jan 2015 18:07:54 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/and-so-it-continues/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/2rjxxe/now_attack_the_moon_duelist_kingdom_inspired_card/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/and-so-it-continues/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0020.jpg" alt="Featured image of post Early rules and concepts" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/2rjxxe/now_attack_the_moon_duelist_kingdom_inspired_card/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/yugioh/comments/2rjxxe/now_attack_the_moon_duelist_kingdom_inspired_card/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -264,11 +353,11 @@
         </item>
         <item>
         <title>Lets adapt the Duelist Kingdom rules into its own game</title>
-        <link>http://localhost:1313/KingdomDuels/post/and-so-it-begins/</link>
+        <link>https://kingdomduels.com/post/and-so-it-begins/</link>
         <pubDate>Thu, 25 Dec 2014 13:05:17 -0300</pubDate>
         
-        <guid>http://localhost:1313/KingdomDuels/post/and-so-it-begins/</guid>
-        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/2qdbv3/ive_been_working_on_a_yugioh_variant_card_game/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+        <guid>https://kingdomduels.com/post/and-so-it-begins/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0002.jpg" alt="Featured image of post Lets adapt the Duelist Kingdom rules into its own game" /&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.reddit.com/r/yugioh/comments/2qdbv3/ive_been_working_on_a_yugioh_variant_card_game/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://www.reddit.com/r/yugioh/comments/2qdbv3/ive_been_working_on_a_yugioh_variant_card_game/&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
