@@ -6,7 +6,7 @@ theme = 'hugo-theme-stack'
 [params]
     timeZone = 'Antarctica/Rothera'
     mainSections = ['post','story']
-    #favicon: # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
+    favicon = '/favicon.ico'
     # LEFT SIDEBAR
     [params.sidebar]
         compact = false
