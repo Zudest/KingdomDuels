@@ -2,6 +2,7 @@
 date = '2022-08-04T14:44:09-03:00'
 title = "What was the 'Kingdom Card Game'?"
 categories = ['Updates']
+image = "/img/post/post0012.jpg"
 +++
 
 https://www.reddit.com/r/TheDuelistKingdom/comments/mz9fu3/kcg_kingdom_card_game/

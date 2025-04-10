@@ -1,10 +1,16 @@
 +++
-date = '2024-12-16T00:00:06-03:00'
+date = '2025-04-01T00:00:06-03:00'
 title = "New website!"
 categories = ['Updates']
-image = "/KingdomDuels/img/post/post0001.jpg"
+image = "/img/post/post0001.jpg"
 +++
 
-We have just launched this new website! The goal with it is to consolidate everything Kingdom-Duels-related to a single place (instead of having one site for the landing information, one for the rulebook, one for downloads, one for the story, etc.)
+We have just launched this new website! The goal with it is to consolidate everything Kingdom Duels related to a single place (instead of having one site for the landing information, one for the rulebook, one for downloads, one for the story, etc.)
 
-There are still a few things missing that we will be updating in the coming days but we are happy that we will finally have a place to keep an archive of old news that we made over the years, alongside all the new updates that may come in the future.
+- **[Home](/)**: News feed which includes old news (timestamped) to keep an archive/history of this game.
+- **[About](/about/)**: Brief introduction to the game and the cards with useful links and images.
+- **[Rules](/rules/)**: Revamped rulebook with images and sections for easy navigation.
+- **[Yugioh Scrolls](/yugioh-scrolls/)**: The story rewrite have its own dedicated page now, with sub-sections and episode navigation.
+- **[Deckbuilder](/deckbuilder/)**: The deckbuilder has been integrated to the website itself.
+- **[Restricted List](/restricted-list/)**: Useful quick link to check the current restricted list.
+- **[Downloads](/downloads/)**: All the downloads available for the game, including cards, templates and old versions.

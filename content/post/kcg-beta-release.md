@@ -2,6 +2,7 @@
 date = '2015-02-20T18:06:54-03:00'
 title = 'KCG Beta release of the first edition'
 categories = ['Updates']
+image = "/img/post/post0019.jpg"
 +++
 
 https://www.reddit.com/r/yugioh/comments/2wl6hd/kcg_duelist_kingdom_card_game_post_3_beta_release/

@@ -2,6 +2,7 @@
 date = '2022-11-05T17:15:28-03:00'
 title = "It's release day! Kingdom Duels is here!"
 categories = ['Updates']
+image = "/img/post/post0010.jpg"
 +++
 
 https://www.reddit.com/r/TheDuelistKingdom/comments/yn4wm9/its_release_day_kingdom_duels_is_here/

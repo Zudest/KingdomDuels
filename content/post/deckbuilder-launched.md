@@ -2,11 +2,11 @@
 date = '2024-12-01T15:42:00-03:00'
 title = 'We have just launched an online Deckbuilder'
 categories = ['Updates']
-image = "/KingdomDuels/img/post/post0005.jpg"
+image = "/img/post/post0005.jpg"
 toc = false
 +++
 
-A [small online browser based app](https://zudest.github.io/KingdomDuelsDeckbuilder/) is now available to help you plan your decks. It has filter options and the possibility to export and import the decks so you can edit them in the future. While not being able to export to Tabletop Simulator at the moment, i think it will be useful for testing ideas or making new decks. 
+A [small online browser based app](/deckbuilder/) is now available to help you plan your decks. It has filter options and the possibility to export and import the decks so you can edit them in the future. While not being able to export to Tabletop Simulator at the moment, i think it will be useful for testing ideas or making new decks. 
 
 #### Features
 - Filter by card name, code, card frame, duelist, types or set.
@@ -17,7 +17,7 @@ A [small online browser based app](https://zudest.github.io/KingdomDuelsDeckbuil
 - Preview your combined Main Deck + Extra Deck.
 - Save your deck to a textfile to use as a reference.
 
-[**Kingdom Duels Deckbuilder**](https://zudest.github.io/KingdomDuelsDeckbuilder/)
+[**Kingdom Duels Deckbuilder**](/deckbuilder/)
 
 ---
 
