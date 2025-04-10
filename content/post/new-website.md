@@ -1,5 +1,5 @@
 +++
-date = '2025-04-01T00:00:06-03:00'
+date = '2025-04-09T22:00:00-03:00'
 title = "New website!"
 categories = ['Updates']
 image = "/img/post/post0001.jpg"

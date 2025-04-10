@@ -8,7 +8,7 @@ readingTime = false
 
 ## Download cards by set
 
-[(Temporary Download Link)](https://drive.google.com/drive/folders/1DjpOGiYT_VjMQnTEr3nBwLHyYe8wF4A8)
+[(Google Drive Download Link)](https://drive.google.com/drive/folders/1DjpOGiYT_VjMQnTEr3nBwLHyYe8wF4A8)
 
 - 🏰 Duelist Kingdom Arc
     - **[SOE]** → Seal of Exodia
