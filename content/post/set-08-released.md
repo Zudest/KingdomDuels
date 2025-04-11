@@ -17,9 +17,3 @@ toc = false
 - Introduces six new terrains: "Desert", "Cave", "Vortex", "Volcano", "Ruins", "Dragon Valley".
 
 [**Card Gallery**](/deckbuilder/index.html#8)
-
----
-
-- [*Related link*](https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/)
-
-> _This post was auto-generated for historic purposes based on old content released on a different website._

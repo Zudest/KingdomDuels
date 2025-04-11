@@ -21,8 +21,7 @@ A [small online browser based app](/deckbuilder/) is now available to help you p
 
 ---
 
-- [*Related link*](https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/)
+> _[Related Reddit Post](https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/)_
 
-> _This post was auto-generated for historic purposes based on old content released on a different website._
 
 

@@ -5,14 +5,12 @@ categories = ['Community']
 image = "/img/post/post0009.jpg"
 +++
 
-https://www.reddit.com/r/TheDuelistKingdom/comments/zw436d/yugioh_kingdom_duels_master_rule_%C2%BD_by_rata/
-
 {{< youtube qWDPxWXxizs >}}
 
-https://www.youtube.com/watch?v=qWDPxWXxizs
+_Source: https://www.youtube.com/watch?v=qWDPxWXxizs_
 
 ---
 
-> _This post was auto-generated for historic purposes based on old content released on a different website._
+> _[Original Reddit Post](https://www.reddit.com/r/TheDuelistKingdom/comments/zw436d/yugioh_kingdom_duels_master_rule_%C2%BD_by_rata/)_
 
 
