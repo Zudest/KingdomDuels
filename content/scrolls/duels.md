@@ -1,23 +1,15 @@
 +++
-title = 'Setting'
+title = 'Duels'
 toc = false
 +++
 
->_**[Yugioh Scrolls](/yugioh-scrolls)** takes place in a slightly different setting than the original anime and manga. It takes place in a single continuity so all the story chapters are interconnected and can be placed in the [**Timeline**](/scrolls/timeline/), and therefore there are different locations around Japan (and beyond) that are also tied to the chapters of the story, listed here._
+>_This is a list of duels from Yugioh Scrolls adapted in script format using the Kingdom Duels rules._
 
 ---
 
-## Locations in Japan
+## Millennium Chapter
 
-*(This section is in development)*
-
-## Locations in the rest of the Human World
-
-*(This section is in development)*
-
-## Locations in the Spirit World
-
-*(This section is in development)*
+- [Duels from the Duelist Kingdom Arc](/scrolls/duels-duelist-kingdom-arc/)
 
 ---
 

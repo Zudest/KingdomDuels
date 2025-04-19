@@ -1,21 +1,13 @@
 +++
-title = 'Setting'
+title = 'Characters'
 toc = false
 +++
 
->_**[Yugioh Scrolls](/yugioh-scrolls)** takes place in a slightly different setting than the original anime and manga. It takes place in a single continuity so all the story chapters are interconnected and can be placed in the [**Timeline**](/scrolls/timeline/), and therefore there are different locations around Japan (and beyond) that are also tied to the chapters of the story, listed here._
+>_**[Yugioh Scrolls](/yugioh-scrolls)** takes place in a slightly different setting than the original anime and manga. Characters are usually the same or as close as possible to the original sources, but there might be some differences due to how the story plays out._
 
 ---
 
-## Locations in Japan
-
-*(This section is in development)*
-
-## Locations in the rest of the Human World
-
-*(This section is in development)*
-
-## Locations in the Spirit World
+## Characters from the Millennium Chapter
 
 *(This section is in development)*
 

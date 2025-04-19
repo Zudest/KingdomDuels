@@ -148,7 +148,13 @@ The story is divided into **Chapters** that represent argumental arcs of the ani
 - A small disclaimer is that this is my own take on the yugioh story so take it as that, nothing more, nothing less. It’s essentially a fanfiction that takes advantage of a card variant that we created based on the very first rules of this anime we fans saw as kids.
 - Each chapter roughly represent an anime series, which is further divided into Story Arcs and Episodes. 
 - The script is condensing duels usually to a single episode for convenience rather than to follow a television script format, so duels that took 4 episodes in the real anime are usually condensed into 1 episode here.
-- **[Setting of Yugioh Scrolls](/scrolls/world/)**
-- **[Timeline of Yugioh Scrolls](/scrolls/timeline/)**
-- **[Credits](/credits/)**
 
+---
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
+{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
+{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
+{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
+{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
+</div>

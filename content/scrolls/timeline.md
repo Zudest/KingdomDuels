@@ -3,9 +3,9 @@ title = 'Timeline'
 toc = false
 +++
 
-**[Yugioh Scrolls](/yugioh-scrolls)** takes place in an alternative universe to the Yugioh manga or anime that we know. This is a timeline of important events in the Yugioh Scrolls project story, not a timeline of the events of the original Yugioh anime or manga. Here, events happened differently in one single big continuity that takes all story chapters into consideration.
+>_**[Yugioh Scrolls](/yugioh-scrolls)** takes place in an alternative universe to the Yugioh manga or anime that we know. This is a timeline of important events in the Yugioh Scrolls project story, not a timeline of the events of the original Yugioh anime or manga. Here, events happened differently in one single big continuity that takes all story chapters into consideration._
 
-> _Warning: This timeline contains spoilers for the placements of major events of Yugioh Scrolls._
+> _**Warning**: This timeline contains spoilers for the placements of major events of Yugioh Scrolls._
 
 ---
 
@@ -47,3 +47,14 @@ toc = false
     * The events of **The Numbers Chapter** take place.
     * The events of **The Dimensional Chapter** take place.
     * The events of **The Virtual Chapter** take place.
+
+---
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
+{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
+{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
+{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
+{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
+</div>
+
