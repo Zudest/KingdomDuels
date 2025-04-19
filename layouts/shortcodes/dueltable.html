@@ -1,0 +1,77 @@
+{{/* Kingdom Duels Shortcode - /layouts/shortcodes/dueltable.html */}}
+
+{{ $header1 := .Get "header1" | default "Player" }}
+{{ $header2 := .Get "header2" | default "Action" }}
+{{ $header3 := .Get "header3" | default "LP" }}
+{{ $header4 := .Get "header4" | default "Notes" }}
+
+<style>
+  .kingdom-duels-table table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .kingdom-duels-table th {
+    background-color: #4CAF50;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 12px 8px;
+  }
+  .kingdom-duels-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  .kingdom-duels-table .player-setup { background-color: #FF9800; color: white; }
+  .kingdom-duels-table .player-1 { background-color: #F44336; color: white; }
+  .kingdom-duels-table .player-2 { background-color: #2196F3; color: white; }
+  .kingdom-duels-table .player-3 { background-color: #287a2a; color: white; }
+  .kingdom-duels-table .player-4 { background-color: #e0d039; color: white; }
+  .kingdom-duels-table .player-5 { background-color: #e25786; color: white; }
+  .kingdom-duels-table .player-6 { background-color: #9C27B0; color: white; }
+  </style>
+
+<div class="kingdom-duels-table">
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 10%">{{ $header1 }}</th>
+        <th style="width: 53%">{{ $header2 }}</th>
+        <th style="width: 12%">{{ $header3 }}</th>
+        <th style="width: 25%">{{ $header4 }}</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- $rows := split (trim .Inner "\n") "\n" -}}
+      {{- range $rows -}}
+        {{- if ne . "" -}}
+        <tr>
+          {{- $cells := split . "|" -}}
+          {{- $playerValue := index $cells 0 | default "" -}}
+          {{- $playerType := "" -}}
+          
+          {{- if in (lower $playerValue) "setup" -}}
+            {{- $playerType = "player-setup" -}}
+          {{- else if in (lower $playerValue) "player 1" -}}
+            {{- $playerType = "player-1" -}}
+          {{- else if in (lower $playerValue) "player 2" -}}
+            {{- $playerType = "player-2" -}}
+          {{- else if in (lower $playerValue) "player 3" -}}
+            {{- $playerType = "player-3" -}}
+          {{- else if in (lower $playerValue) "player 4" -}}
+            {{- $playerType = "player-4" -}}
+          {{- else if in (lower $playerValue) "player 5" -}}
+            {{- $playerType = "player-5" -}}
+          {{- else if in (lower $playerValue) "player 6" -}}
+            {{- $playerType = "player-6" -}}
+          {{- end -}}
+          <td class="{{ $playerType }}" style="text-align: center">{{ $playerValue }}</td>
+          <td style="text-align: left">{{ index $cells 1 | default "" }}</td>
+          <td style="text-align: center">{{ index $cells 2 | default "" }}</td>
+          <td style="text-align: left">{{ index $cells 3 | default "" }}</td>
+        </tr>
+        {{- end -}}
+      {{- end -}}
+    </tbody>
+  </table>
+</div>
