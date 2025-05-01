@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rules PDF</title>
+    <style>
+        .container {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #4CAF50;
+            color: white;
+            padding: 12px 24px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            margin: 20px 0;
+            text-decoration: none;
+        }
+        .btn:hover {
+            opacity: 0.9;
+        }
+        #status {
+            margin-top: 20px;
+            font-style: italic;
+        }
+        .progress {
+            display: none;
+            margin: 20px auto;
+            width: 70%;
+        }
+        progress {
+            width: 100%;
+        }
+        .log-container {
+            text-align: left;
+            max-height: 200px;
+            overflow-y: auto;
+            margin: 20px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            background-color: #f9f9f9;
+            display: none;
+            font-size: 12px;
+        }
+        .log-entry {
+            margin: 5px 0;
+            font-family: monospace;
+            font-size: 12px;
+        }
+        .log-error {
+            color: #d32f2f;
+        }
+        .log-warning {
+            color: #f57c00;
+        }
+        .log-info {
+            color: #0288d1;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Kingdom Duels - Rules PDF Generator</h1>
+        <p>Generate a PDF version of the Kingdom Duels rules for offline reading.</p>
+        
+        <button class="btn" id="generatePdf">Generate PDF</button>
+        
+        <div class="progress" id="progressContainer">
+            <p id="progressText">Generating PDF...</p>
+            <progress id="progressBar" value="0" max="100"></progress>
+        </div>
+        
+        <div id="status"></div>
+        
+        <button id="toggleLog" style="margin-top: 20px; font-size: 12px;" onclick="toggleLogView()">Show Debug Log</button>
+        <div id="logContainer" class="log-container"></div>
+    </div>
+
+    <!-- Include libraries -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+    
+    <script>
+        // Debug logging system
+        const logContainer = document.getElementById('logContainer');
+        
+        function log(message, type = 'info') {
+            console.log(message);
+            if (logContainer) {
+                const entry = document.createElement('div');
+                entry.className = `log-entry log-${type}`;
+                entry.textContent = `[${new Date().toLocaleTimeString()}] ${message}`;
+                logContainer.appendChild(entry);
+                logContainer.scrollTop = logContainer.scrollHeight;
+            }
+        }
+        
+        function logError(message) {
+            log(message, 'error');
+        }
+        
+        function logWarning(message) {
+            log(message, 'warning');
+        }
+        
+        function toggleLogView() {
+            const logContainer = document.getElementById('logContainer');
+            const toggleBtn = document.getElementById('toggleLog');
+            
+            if (logContainer.style.display === 'block') {
+                logContainer.style.display = 'none';
+                toggleBtn.textContent = 'Show Debug Log';
+            } else {
+                logContainer.style.display = 'block';
+                toggleBtn.textContent = 'Hide Debug Log';
+            }
+        }
+        
+        // UI elements references
+        const statusElement = document.getElementById('status');
+        const progressContainer = document.getElementById('progressContainer');
+        const progressBar = document.getElementById('progressBar');
+        const progressText = document.getElementById('progressText');
+        
+        // Event listener
+        document.getElementById('generatePdf').addEventListener('click', generatePDF);
+
+        // Helper function to update progress
+        function updateProgress(value, message = null) {
+            progressBar.value = value;
+            if (message) {
+                progressText.textContent = message;
+                statusElement.textContent = message;
+            }
+        }
+        
+        // Main PDF generation function
+        async function generatePDF() {
+            log('Starting PDF generation with html2pdf');
+            
+            try {
+                // Show progress
+                progressContainer.style.display = 'block';
+                updateProgress(5, 'Initializing...');
+                
+                // Fetch the page content
+                updateProgress(10, 'Fetching page content...');
+                const response = await fetch('/rules');
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                
+                const htmlContent = await response.text();
+                log(`Fetched HTML content: ${htmlContent.length} bytes`);
+                
+                updateProgress(20, 'Extracting article content...');
+                
+                // Parse the HTML
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(htmlContent, 'text/html');
+                
+                // Extract the article content section
+                const articleContent = doc.querySelector('.article-content');
+                if (!articleContent) {
+                    throw new Error('Could not find article content in the page');
+                }
+                
+                log(`Found article content with ${articleContent.children.length} child elements`);
+                
+                // Get the title of the document
+                const title = doc.querySelector('.article-title') ? 
+                              doc.querySelector('.article-title').textContent.trim() : 
+                              'Kingdom Duels Rules';
+                
+                await generateWithHtml2PDF(articleContent, title);
+                
+                // Update status and progress
+                updateProgress(100, 'PDF generated successfully!');
+                
+                // Hide progress after a delay
+                setTimeout(() => {
+                    progressContainer.style.display = 'none';
+                }, 3000);
+                
+            } catch (error) {
+                logError(`Error generating PDF: ${error.message}`);
+                statusElement.textContent = `Error: ${error.message}. Check debug log for details.`;
+                progressContainer.style.display = 'none';
+            }
+        }
+        
+        // Generate PDF using html2pdf.js
+        async function generateWithHtml2PDF(contentElement, title) {
+            log('Preparing content for html2pdf...');
+            updateProgress(30, 'Preparing content...');
+            
+            // Create a clone of the content element to avoid modifying the original
+            const content = contentElement.cloneNode(true);
+            
+            // Create a container with proper styling
+            const container = document.createElement('div');
+            container.style.fontFamily = 'Arial, sans-serif';
+            container.style.maxWidth = '800px';
+            container.style.margin = '0 auto';
+            container.style.padding = '20px';
+            
+            // Create a title element
+            const titleElement = document.createElement('h1');
+            titleElement.textContent = title;
+            titleElement.style.textAlign = 'center';
+            titleElement.style.marginBottom = '20px';
+            
+            // Add the title and content to the container
+            container.appendChild(titleElement);
+            container.appendChild(content);
+            
+            // Fix relative image paths and enhance styling
+            updateProgress(50, 'Processing images and styling...');
+            processImagesAndLinks(container);
+            
+            // Create temporary div to hold the container (not appended to the document)
+            const tempWrapper = document.createElement('div');
+            tempWrapper.style.visibility = 'hidden';
+            tempWrapper.style.position = 'absolute';
+            tempWrapper.style.left = '-9999px';
+            tempWrapper.appendChild(container);
+            
+            // Temporarily add to document to ensure proper rendering
+            document.body.appendChild(tempWrapper);
+            
+            updateProgress(60, 'Generating PDF...');
+            
+            // Configure html2pdf options - optimizado para documentos grandes
+            const opt = {
+                margin: [15, 15, 15, 15], // top, right, bottom, left
+                filename: 'kingdom-duels-rules.pdf',
+                image: { type: 'jpeg', quality: 0.9 }, // Reducida calidad para mejorar rendimiento
+                html2canvas: { 
+                    scale: 1.5, // Reducido el scale para evitar problemas de memoria con canvas
+                    useCORS: true,
+                    logging: false,
+                    letterRendering: true
+                },
+                jsPDF: { 
+                    unit: 'mm', 
+                    format: 'a4', 
+                    orientation: 'portrait',
+                    compress: true
+                },
+                pagebreak: {
+                    mode: ['css', 'legacy'], // Eliminado 'avoid-all' para evitar problemas con documentos grandes
+                    avoid: '.avoid-page-break' // Simplificado el sistema de saltos de página
+                }
+            };
+            
+            // Generate PDF
+            try {
+                log('Starting html2pdf conversion...');
+                updateProgress(70, 'Rendering PDF...');
+                
+                await html2pdf()
+                    .from(container)
+                    .set(opt)
+                    .toPdf() // Convert to PDF
+                    .get('pdf') // Get the PDF instance
+                    .then((pdf) => {
+                        // Add page numbers
+                        const totalPages = pdf.internal.getNumberOfPages();
+                        
+                        for (let i = 1; i <= totalPages; i++) {
+                            pdf.setPage(i);
+                            pdf.setFontSize(10);
+                            pdf.setTextColor(100, 100, 100);
+                            
+                            const pageSize = pdf.internal.pageSize;
+                            const pageWidth = pageSize.getWidth();
+                            
+                            const text = `Page ${i} of ${totalPages}`;
+                            const textWidth = pdf.getStringUnitWidth(text) * 10 / pdf.internal.scaleFactor;
+                            const textX = (pageWidth - textWidth) / 2;
+                            
+                            pdf.text(text, textX, pageSize.getHeight() - 10);
+                        }
+                    })
+                    .save() // Save with page numbers added
+                    .then(() => {
+                        log('PDF generated and saved successfully');
+                        updateProgress(95, 'Download complete');
+                        
+                        // Remove the temporary element
+                        document.body.removeChild(tempWrapper);
+                    });
+                
+            } catch (error) {
+                // Remove the temporary element in case of error
+                if (document.body.contains(tempWrapper)) {
+                    document.body.removeChild(tempWrapper);
+                }
+                
+                logError(`html2pdf error: ${error.message}`);
+                throw new Error(`PDF conversion failed: ${error.message}`);
+            }
+        }
+        
+        // Function to process images and links for html2pdf
+        function processImagesAndLinks(container) {
+            // Fix relative image paths
+            const images = container.querySelectorAll('img');
+            images.forEach(img => {
+                const src = img.getAttribute('src');
+                if (src && !src.startsWith('http') && !src.startsWith('data:')) {
+                    img.src = window.location.origin + src;
+                }
+                
+                // Add max-width to prevent images from overflowing
+                img.style.maxWidth = '100%';
+                img.style.height = 'auto';
+                
+                // Limitamos el tamaño máximo para evitar problemas con imágenes grandes
+                const maxWidth = 600;
+                if (img.width > maxWidth) {
+                    const ratio = img.height / img.width;
+                    img.width = maxWidth;
+                    img.height = maxWidth * ratio;
+                }
+            });
+            
+            log(`Processed ${images.length} images`);
+            
+            // Process links
+            const links = container.querySelectorAll('a');
+            links.forEach(link => {
+                // Make links absolute
+                const href = link.getAttribute('href');
+                if (href && !href.startsWith('http') && !href.startsWith('#')) {
+                    link.href = window.location.origin + href;
+                }
+                
+                // Add styling to links
+                link.style.color = '#0066cc';
+                link.style.textDecoration = 'underline';
+            });
+            
+            log(`Processed ${links.length} links`);
+            
+            // Add additional styling for better PDF output
+            const paragraphs = container.querySelectorAll('p');
+            paragraphs.forEach(p => {
+                p.style.margin = '10px 0';
+                p.style.textAlign = 'justify';
+            });
+            
+            // Style headings para mejorar la legibilidad
+            const headings = container.querySelectorAll('h1, h2, h3, h4, h5, h6');
+            headings.forEach(heading => {
+                heading.style.margin = '16px 0 8px 0';
+                heading.style.fontWeight = 'bold';
+            });
+            
+            // Style lists
+            const lists = container.querySelectorAll('ul, ol');
+            lists.forEach(list => {
+                list.style.margin = '10px 0 10px 20px';
+            });
+            
+            // Style blockquotes
+            const blockquotes = container.querySelectorAll('blockquote');
+            blockquotes.forEach(quote => {
+                quote.style.fontStyle = 'italic';
+                quote.style.margin = '20px 0';
+                quote.style.padding = '10px 20px';
+                quote.style.borderLeft = '3px solid #ccc';
+            });
+            
+            // Style horizontal rules
+            const hrs = container.querySelectorAll('hr');
+            hrs.forEach(hr => {
+                hr.style.margin = '20px 0';
+                hr.style.border = 'none';
+                hr.style.borderTop = '1px solid #ccc';
+                hr.style.height = '1px';
+            });
+        }
+    </script>
+</body>
+</html>
