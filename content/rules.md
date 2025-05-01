@@ -4,9 +4,14 @@ weight = 20
 title = 'Rules'
 +++
 
-> *Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!*
+> *Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the Yugioh anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!*
 
 ## 📄 Getting Started
+
+### 📝 About
+
+Kingdom Duels is a turn-based competitive card game that is normally played by 2 players. The main way to win at this game is to reduce your opponent's Life Points (LP) to 0.
+
 
 ### 🗺️ The Game Board
 
@@ -14,23 +19,26 @@ title = 'Rules'
 {{< imagetext src="/img/promotion/RulesField.jpg" link="/img/promotion/RulesField.jpg" alt="?" width="720" >}}
 </div>
 
-The board has a **Frontrow** (five card zones where you play monsters), a **Backrow** (five card zones where you play spell and traps), a **Rule Zone** (where you play rule cards), your **Main Deck Zone**, **Extra Deck Zone** and **Graveyard**.
+This game is played on a board that is divided into several card zones. It has a **Frontrow** (five card zones where you play your monsters) and a **Backrow** (five card zones where you play spell and traps). These two concepts (Frontrow and Backrow) together establish *"your Field"*.
 
+The other four zones of the board are outside of *your Field* and serve different purposes: the **Rule Zone** is where you play rule cards; the **Graveyard** is where you discard cards after use; the **Main Deck Zone** is where you have your deck of cards; and the **Extra Deck Zone** is where you may have a secondary deck of cards.
 
+Your opponent has the exact same board setup as you, with their own Frontrow, Backrow, etc.
 
 ### 🧭 Setup
 
 - Each player begins the Duel with **2000 Life Points** (LP).
 - Each player needs a **Main Deck** with exactly 30 cards and an **Extra Deck** with up to 20 cards.
 - Before the duel starts a **Setup Phase** occurs:
-    - Each player place their shuffled Main Deck and Extra Deck in their corresponding zones.
-    - Each player is allowed to activate **Setup Rule** card(s) that they may have in their Extra Deck.
-    - The starting Terrains are placed in each side of the field. 
+    - **(1)**: Each player place their shuffled Main Deck and Extra Deck in their corresponding zones.
+    - **(2)**: Each player can activate **Setup Rule** card(s) that they may have in their Extra Deck. 
+        - To activate them the player moves the Setup Rule from their Extra Deck into their Rule Zone (for example a Duelist Setup may enable some specific cards to add to their hand, or a Field Setup may define specific Terrains that benefit their strategy).
+    - **(3)**: The starting Terrains are placed in each side of the field. 
         - If a player didn't play a Field Setup card, they must use 5 "Land" Terrains.
-    - Players then decide who goes first (by coin toss, rock-paper-scissors, etc.)
-    - They draw their initial **5 cards**.
-    - If a player played a "Duelist Setup" Rule card, they may swap up to 2 cards from their starting hand with card(s) in the "Cardlist" of that Duelist Setup.
-    - The duel begins.
+    - **(4)**: Players then decide who goes first (by coin toss, rock-paper-scissors, etc.)
+    - **(5)**: They draw their initial **5 cards**.
+        - At this point, if a player played a "Duelist Setup" Rule card, they may swap up to 2 cards from their starting hand with card(s) in the "Cardlist" of that Duelist Setup, and then shuffle their deck.
+    - **(6)**: The duel begins.
 
 ### ⚙️ Turn Structure
 
@@ -41,23 +49,45 @@ The board has a **Frontrow** (five card zones where you play monsters), a **Back
 #### ✋ Draw Clarifications
 
 - During its Draw Phase, a player draws 1 card from their deck (even in the first turn). 
-- There is no hand size limit.
-- If you add cards from (or to) your Deck you must shuffle it afterwards unless otherwise stated.
+- There is no hand size limit, a player can have any number of cards in their hand.
+- If you add cards from (or to) your Deck (outside of drawing them from the top) you must shuffle the Deck afterwards unless otherwise stated.
 - If a player can't draw cards from its Deck then that player loses the duel by deckout.
 
 #### 📌 Main Phase Clarifications
 
-- During your turn you can perform **one** Normal Summon and unlimited Special Summons.
-- You can Normal Summon in **face-up ATK** or **face-up DEF** Position Main Deck Normal monsters of **any** Level without tributing.
-- You **can't Set monsters** in this game. Instead you can **Hide** a monster (or **Summon in Hidden position**) in face-down ATK or face-down DEF position but only if there is an effect that allows you to do so. Monsters with the **FLIP** keyword can be summoned in Hidden DEF position in any terrain that they can be summoned on.
+- Monsters in this game must be "summoned" to the field in a "Monster Zone".
+- During your turn you can perform **one** Normal Summon and any number of Special Summons (which are enabled through card effects).
+- You can Normal Summon in **face-up ATK** or **face-up DEF** Position Normal monsters from your Main Deck of **any** Level without tributing.
+- Monsters can be in ATK Position (upright) or in DEF Position (sideways). The other card types (Spell, Traps and Rules) are always in upright position.
+- You **can't Set monsters face-down** in this game. Instead you can **Hide** a monster (or **Summon in Hidden position**) in face-down ATK or face-down DEF position but only if there is an effect that allows you to do so. Monsters with the **FLIP** keyword can be summoned in Hidden DEF position in any terrain that they can be summoned on.
 - **Monsters Hidden in DEF** Position work exactly like face-down DEF position in the official rules. **Monsters Hidden in ATK** Position are revealed during combat, but can be hidden once again after battle calculations if they are still on the field.
 
 #### ⚔️ Battle Clarifications
 
 - You **can't** attack your opponent's LP directly.
 - Only **one monster** can declare an attack on each Battle Phase.
-- Attacks can be **redirected**. If an attack is redirected then it is now treated as an opponent attack, even during your own Battle Phase, but its source is still considered to be the original monster.
+- Only ATK Position monsters can attack. The difference between ATK values is inflicted to the LP of the monster with the lowest amount of ATK as "**Battle Damage**". DEF Position monsters protect your LP from attacks.
+- Attacks can be **redirected** from one target to another. If an attack is redirected then it is now treated as an opponent attack, even during your own Battle Phase, but its source is still considered to be the original monster.
 
+
+### 🗒️ Components of a Card
+
+![](/img/promotion/RulesCardComponents.jpg)
+
+**Grade Symbol**: The grade or "main icon" of a card in the top right corner provides specific information about how that card is played. It varies from card type and card subtype:
+- **Levels**: Numbers from 1 to 12 on top of an orange and yellow star-pattern icon.
+- **Glyphs**: Brown and white icons with unique symbols for Normal, Equip, Continuous and Setup.
+- **Charges**: Numbers on top of a dark purple icon, exclusive to Symbol Rule Cards.
+
+**Types**: Is a categorization of specific words that a card may have, separated by a vertical bar. They don't provide effects on their own but are used for multiple cards and effects.
+
+**Attribute Symbol**: Can be one of the six attributes (DARK, LIGHT, FIRE, WATER, EARTH, WIND) from the original game (minus DIVINE). All cards have an attribute including spell and traps.
+
+**Effect Box**: The effect box details what the card actually does. Some cards have a dark arrow icon (►) which is used to split the condition required to activate it and the actual effect. An empty square icon (□) is used to make a list of options that a player may choose for the effect.
+
+**ATK/DEF**: Monsters have these values on top of each other marked with small icons of a sword (for ATK) and a shield (for DEF).
+
+**Field Power Bonus**: This is a numeric value with the plus sign near the ATK/DEF that indicates how much ATK/DEF the monster gets when is receiving a field power bonus.
 
 
 ---
@@ -70,9 +100,8 @@ The board has a **Frontrow** (five card zones where you play monsters), a **Back
 
 On top of each Monster Zone in the Frontrow there will be a **"Terrain Marker"** (also called **Terrains**) that may give different effects to the monster card placed on top of it. They are components that recreate the diverse terrain effects of the anime, are not considered cards and are associated to the Monster Zone directly beneath them.
 
-If a Terrain Marker is **replaced** by a new one then the old one must be set aside of the board in no specified zone.
-
-If a monster is somehow summoned in the backrow, it is considered to be in the same Terrain as the corresponding frontrow Monster Zone in the same column.
+- If a Terrain Marker is **replaced** by a new one then the old one must be set aside of the game board in no specified zone.
+- If a monster is somehow summoned in the backrow, it is considered to be in the same Terrain as the corresponding frontrow Monster Zone in the same column.
 
 **Field Setup Rule** cards define the starting Terrains that will be placed on each side of the field. If you don't play a Field Setup Rule card during the setup of the game you are playing on the default rules and you must fill your Frontrow with "Land" Terrains.
 
@@ -82,28 +111,13 @@ If a monster is somehow summoned in the backrow, it is considered to be in the s
 {{< imagetext src="/img/promotion/RulesFPB.jpg" alt="?" caption="In this example: 'Beast', 'Insect' and 'Plant monster types gain the Field Power Bonus." width="500" >}}
 </div>
 
-**"Field Power Bonus"** is a term that is used when a monster is receiving an additional ATK and DEF increase thanks to the Terrain it's located on. The ATK/DEF gain through this effect corresponds to 30% of each monster's original ATK/DEF and is printed on every card.
+**"Field Power Bonus"** is a term that is used when a monster is receiving an additional ATK and DEF increase thanks to the Terrain it's located on. The ATK/DEF gain through this effect corresponds to 30% of each monster's original ATK/DEF and is printed on every monster card.
 
 Each Terrain Marker states which type and/or attribute (if any) gains the Field Power Bonus and this is represented in a specific section between the Name and Effect box.
 
 ---
 
 ## 🎴 The Cards
-
-### 🗒️ Components of a Card
-
-![](/img/promotion/RulesCardComponents.jpg)
-
-**Attribute Symbol**: can be one of the six attributes (DARK, LIGHT, FIRE, WATER, EARTH, WIND) in the original game (minus DIVINE). All cards have an attribute including spell and traps.
-
-**Grade Symbol**: The grade or "main icon" of a card provides specific information about how that card is played. It varies from card type and card subtype. These are **Levels** (numbers 1 to 12 on top of an orange and yellow star-pattern icon), **Glyphs** (icons for Normal, Equip, Continuous, Setup) and **Charges** (a numeric value on top of a dark purple icon used for Symbol Rule Cards)
-
-**Field Power Bonus**: a numeric value with plus sign near the ATK/DEF that indicates how much ATK/DEF the monster gets when is receiving a field power bonus.
-
-**Effect Box Icons**: a dark arrow icon (►) is used to split the condition to activate it and the actual effect. An empty square icon (□) is used to make a list of options.
-
-**Types**: Is a categorization of words that a card may have. They don't provide effects but are used as a reference for multiple cards and effects. 
-
 
 ### 📜 Rule Cards
 
@@ -115,7 +129,7 @@ Rule Cards have effects or mechanics that are added on to the current game **rul
 
 - If they have a "**KEYWORD**:" condition, they can be activated from your Extra Deck into the Rule Zone whenever you have a face-up card in the field that has a Keyword (a Type or Attribute either in the card or mentioned in the card effect) that matches its activation condition (this is a Quick Effect unless otherwise stated). 
 
-- If they have a "**RELIANCE**:" condition, it means that they can only be activated by the effect of specific card listed there. If the card that activated it leaves the field then this card also leaves the field (unless it specifies that the Reliance is on activation only).
+- If they have a "**RELIANCE**:" condition, it means that they can only be activated by the effect of a specific card listed there. If the card that activated it leaves the field then this card also leaves the field (unless it specifies that the Reliance is on activation only).
 
 **Setup Rule Cards** are a subset of Rule cards that can only be played during the Setup Phase before the start of a duel, and each have a different treatment depending on its type:
 
@@ -129,7 +143,7 @@ In the Setup Phase, after drawing their starting hand, a player may choose to re
 
 - → **Challenge Setup Rule Cards** are completely optional and are a way to set some self-limits for yourself during deckbuilding by having to follow the specific restrictions that the card itself defines.
 
-**Symbol Rule Cards** are represent objects or powers from the anime that can interfere in the duel (like the Millennium Items). They are optional to the duel, meaning that all players must unanimously agree if they want to play with them or not before the duel starts (they can also agree to let observers of the duel activate their symbol cards to influence the duel). You may only play one Symbol Rule Card per duel.
+**Symbol Rule Cards** represent objects or powers from the anime that can interfere in the duel (like the Millennium Items). They are optional to the duel, meaning that all players must unanimously agree if they want to play with them or not before the duel starts (they can also agree to let observers of the duel activate their symbol cards to influence the duel). You may only play one Symbol Rule Card per duel.
 
 - They work with a "charge" system which means that activating their effects (that are Quick Effects unless otherwise stated) consume a certain amount of charges that the card must have or they cannot be activated. 
 - Symbol Effects have a flavor name for each effect which has no impact on the gameplay.
@@ -139,11 +153,11 @@ In the Setup Phase, after drawing their starting hand, a player may choose to re
 
 ### 🐉 Monster Cards
 
-**Normal Monster** cards (yellow frame) are placed in the Main Deck (and have effects despite being called "normal" monsters, unlike the original yugioh).
+**Normal Monster** cards (yellow frame) are placed in the Main Deck (and have effects despite being called "normal" monsters, unlike the original yugioh card game).
 
-**Extra Deck Monsters** (ritual, fusions, alters and integrations) have special summoning conditions that you must fulfill to play them from the Extra Deck onto the field.
+**Extra Deck Monsters** (rituals, fusions, alters and integrations) have special mechanics and summoning conditions that you must fulfill to play them from the Extra Deck onto your field.
 
-Cards used for an Extra Deck summon are considered "**Materials**" of that card type (for example Fusion Materials or Ritual Materials).
+Cards used for an Extra Deck monster summon are considered "**Materials**" of that card type (for example Fusion Materials or Ritual Materials).
 
 #### 🌀 Fusion Monster Cards
 
@@ -175,11 +189,11 @@ A monster equipped to another monster is still treated as a monster on the field
 
 #### 🧍 Integration Monster Cards
 
-**Integration Monsters** (brown frame) represent cards that are combined with a duelist that represent you as a player.
+**Integration Monsters** (brown frame) represent cards that merge with the duelist that represents you as a player.
 
 - To summon an Integration Monster you need to have had played a specific Duelist Setup Rule card at the beginning of the game (marked in the summon condition with curly brackets) and Erode from your hand or field the other Material(s) listed on the card.
 
-- If you want to summon in Hidden ATK or Hidden DEF an Integration Summon you are not forced to reveal the eroded material card at that moment, but when you erode it you must set it clearly apart from other cards, and once your monster is revealed or the duel ends you must reveal that it is the proper material, otherwise you lose the duel instead.
+- If you want to summon in Hidden ATK or Hidden DEF Position an Integration Summon you are not forced to reveal the eroded material card right away, but when you erode it you must set it clearly apart from other cards, and once your monster is revealed or the duel ends you must reveal that the eroded card was the proper material, otherwise you lose the duel instead.
 
 ### 🔮 Spell and Trap Cards
 
@@ -187,18 +201,18 @@ A monster equipped to another monster is still treated as a monster on the field
 
 Spell Cards can be activated from the hand or from the field (if they were Set face down) while Trap Cards must be Set face down in the backrow first for a turn before being able to be activated.
 
-Trap Cards have a "**Trigger**" condition which indicates that the card effect is automatically activated when that trigger is met (the player has no control over this activation). If the card says that the Trigger is "None" then you can activate the card at will (considering any other activation condition that the card may have).
+Trap Cards have a "**Trigger**" condition which indicates that the card effect is automatically activated when that trigger is met (the player has no control over this activation). If the card says that the Trigger is "None" then you can activate the card at will as long as you are able to.
 
 If the player **does not** activate a trap card when its Trigger is met then the player gets an Idle Warning. If there are multiple of your traps on the field whose conditions are met at the same time: you can choose how many of them to activate (min. 1) without getting an Idle Warning.
 
 **Continuous Trap Cards** with "Triggers" can be flipped face-up at any time their effect speed allows it, but the effect only activates when the Trigger is met.
 
-Spell and Trap cards can have the auxiliary "**Persist**" type that indicates that the card remains a certain amount of time in the field after its activation (the condition is specified alongside the Persist type in each card).
+Spell and Trap cards can have the auxiliary "**Persist**" type that indicates that the card remains a certain amount of time in the field after its activation (how long it stays on the field is specified in parentheses alongside the Persist type).
 
 
 ### 🌈 Other Cards
 
-There are a few Main Deck cards that have a **combination of two colors** in their frame. These cards are considered as having both their card types at the same time. They are **Spell Monsters**, **Trap Monsters** and **Spell Traps**. You can choose to play them as one card type or the other. Each card specifies how to play them with a "Play" condition on its text.
+There are a few Main Deck cards that have a **combination of two colors** in their frame. These cards are considered as having both their card types at the same time. They are **Spell Monsters**, **Trap Monsters** and **Spell Traps**. You can usually choose to play them as one card type or the other. Each card specifies how to play them with a "Play" condition on its text.
 
 **Token** cards (gray frame) must be kept aside from the game and only brought up to the board when played by an effect. Tokens are considered Normal Monsters unless otherwise stated. Tokens can't be attached to other cards and thus cannot be used for summoning methods that attach their materials. When Tokens leave the field they are removed from the game.
 
@@ -207,9 +221,9 @@ There are a few Main Deck cards that have a **combination of two colors** in the
 
 ### 📿 Divine Cards
 
-**Divine** is a special Type of cards that is usually found in monster cards but can also be found on other card types aswell. Each divine card is color-coded individually, meaning that it can have the frame color of its card type (main deck monster, fusion monster, spell, etc.) or a different color entirely. They have a special mechanic called "Hierarchy".
+**Divine** is a special Type of cards that is usually found in monster cards. Each divine card is color-coded individually, meaning that it can have the frame color of its card type (main deck monster, fusion monster, spell, etc.) or a different color entirely. They have a special mechanic called "Hierarchy".
 
-**Hierarchy** is a scale that goes from 1 to 10. Divine cards of higher Hierarchy are unaffected by divine card effects of lower hierarchy. All non-Divine cards are treated as having a Hierarchy of 0. Hierarchy is represented on a card in the Type section as a single number with a different font, always as the last item in that section.
+**Hierarchy** is a scale that goes from 1 to 10. Divine cards of higher Hierarchy are unaffected by divine card effects of lower hierarchy. All non-Divine cards are treated as having a Hierarchy of 0. Hierarchy is represented on a card as a single digit with a different font on the rightmost part of the Type line.
 
 ---
 
@@ -223,7 +237,12 @@ There are a few Main Deck cards that have a **combination of two colors** in the
 
 **Tilemap**: Some cards can create a "Tilemap" which means that, using the artwork of that card as a reference, they create a grid of Tiles (squares) and Obstructions (black lines) for monsters and other cards to be played in. There can only be one Tilemap in the duel at a time.
 A monster must be on a specific Terrain to be inside the Tilemap. Monsters inside a Tilemap can only move and attack within Tiles of that Tilemap. If a monster inside a Tilemap were to move or be moved by a card effect to a different Terrain it now moves to a different Tile instead.
-- **Tiles**: Within a Tilemap, a Tile is a square in where a monster can be played in. A monster can only occupy one Tile at a time. A monster can move or be moved to another adjacent Tile horizontally or vertically (not in diagonal) if an effect allows it and the path between those tiles is not obstructed. A monster can only attack other monsters that are within one unobstructed Tile from it. A Tilemap can have Tiles of different colors with different effects, but unless otherwise stated all Tiles are White Tiles. Red Tiles and Blue Tiles (also known as Player-colored Tiles) are controlled by the respective player(s) of that color. 
+- **Tiles**: Within a Tilemap, a Tile is a square in where a monster can be played in. 
+    - A monster can only occupy one Tile at a time. 
+    - A monster can move or be moved to another adjacent Tile horizontally or vertically (not in diagonal) if an effect allows it and the path between those tiles is not obstructed. 
+    - A monster can only attack other monsters that are within one unobstructed Tile from it. 
+    - A Tilemap can have Tiles of different colors with different effects, but unless otherwise stated all Tiles are White Tiles. 
+    - Red Tiles and Blue Tiles (also known as Player-colored Tiles) are controlled by the respective player(s) of that color. 
 - **Obstructions**: Within a Tilemap, an Obstruction is a line that separate one tile from another and prevents a monster to move through it or attack through it, unless otherwise stated. The outer limit of the Tilemap (the white space without tiles) is considered an obstruction that cannot be removed through any means.
 
 **Piercing Damage**: If a monster attacks with an ATK that is higher than the DEF of a monster in DEF Position, the attacking player inflict the difference as Battle Damage.
@@ -232,7 +251,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 
 **Erode**: If a card is eroded it means that it is completely removed from play to a non-specified area (its not considered to be on the field, deck, graveyard, hand or zone).
 
-**Permanently**: If a card says to do something permanently it means that that action is done for the remainder of the duel, regardless if the card leaves the field or not.
+**Permanently**: If a card says to do something permanently it means that that action is done for the remainder of the duel, regardless if the card leaves the field or not. Players must track permanent effects at all times.
 
 **Unstoppable**: used in conjunction with Slow or Quick speed, if an effect is Unstoppable it means it cannot be responded by another card, and it cannot be negated.
 
@@ -299,6 +318,7 @@ Additional notes for **Equipping** and **Attaching**:
 - To Equip a card you need an effect that allows you to do so or to have that card be of the Equip Type (Equip Spell or Equip Trap).
 - To Attach a card you need an effect that allows you to do so.
 - If a card leaves the field, all other cards equipped to it are destroyed (unless otherwise stated), and all cards attached to it are sent to the Graveyard (unless otherwise stated).
+- If you attach a card, you also attach any card already attached to that card.
 
 Additional notes for **Hidden** monsters:
 - Hidden monsters receive Field Power Bonus normally like face-up monsters.
@@ -336,7 +356,7 @@ Additional notes for **Hidden** monsters:
 - **Undead**: (Equivalent to "Zombie"). Group of beings that includes mummies, zombies, skeleton, ghosts, apparitions, etc. This also includes certain supernatural beings like Vampires.
 - **Warrior**: Super broad type that refers to humanoid fighters and combatants in general.
 
-**Secondary Monster Types**: Refer to what the monster can do or is affected by.
+**Secondary Monster Types**: Refer to what the monster can do (thematic-wise) or is affected by.
 - **Absorption**: Is able to absorb into itself other creatures or souls.
 - **Blessed**: Is being favored by a god-like entity.
 - **Burrowing**: Is able to dig and go beneath the ground with ease.
@@ -352,6 +372,8 @@ Additional notes for **Hidden** monsters:
 **Alter Monster Types**: A specific group of types that is exclusive to Alter Monsters.
 - **Ascended**: A monster that embraces the holy power to its fullest and is transformed by it.
 - **Eldritch**: A monster transformed in a living horror through unnatural powers beyond human comprehension.
+- **Fallen**: A monster that has fallen to the allure of dark powers and is transformed by them.
+- **Knighted**: A non-warrior monster now turned into a knight.
 - **Metalized**: A monster covered in an alloy that turns a biological being into a metallic/technological version of itself.
 - **Swarm**: A group or copies/clones of a single monster, represented as multiple monsters on the very same card.
 - **Timeshifted**: An older or younger version of a particular monster, in a different point in time.
@@ -417,8 +439,8 @@ Regular Yugioh but...
 - Setup Rule cards must be played in the Setup Phase: Your Field Setup define your terrains. You can change up to 2 cards from your starting hand with cards from your Duelist Setup "cardlist".
 - Terrain Markers exist (they go between the monster zones and the cards). They can give effects and "Field Power Bonus" to monsters on them.
 - You can summon normal monsters of any Level without a tribute.
-- You can play monsters in face-up DEF. You can't Set monsters (you "Hide" them instead).
-- You can only Hide monsters in face-down ATK or face-down DEF if an effect lets you.
+- You can play monsters in face-up DEF. 
+- You can't Set monsters (you "Hide" them instead, but you can only Hide monsters in face-down ATK or face-down DEF if an effect lets you).
 - No direct attacks. Can only attack once per battle phase. Attacks can be redirected.
 - Instead of banish there is "erode" which is a more permanent removal.
 - If you are repeatedly idle by not playing monsters you'll lose.
