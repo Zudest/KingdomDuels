@@ -104,6 +104,13 @@
         function loadCardsData() {
             cardsData = CARDS_DATABASE.cards;
 
+            // Add new fields
+            cardsData.forEach(card => {
+                card.cardid = card.set + "-" + card.id;
+                card.image = `./cards/${card.set}/${card.id}.jpg`;
+                card.fullSet = SET_MAPPING[card.set] || card.set;
+            });
+
             // Load cards from a specific url
             const properUrl = cardImagePath; 
             cardsData.forEach(card => {
@@ -193,11 +200,14 @@
         //#################
 
         function initializeFilters() {
-            const sets = [...new Set(cardsData.map(card => card.set))];
+            const sets = [...new Set(cardsData.map(card => card.fullSet))].sort();
             const frames = [...new Set(cardsData.map(card => card.frame))].sort();
 
             const setFilter = document.getElementById('setFilter');
             const frameFilter = document.getElementById('frameFilter');
+
+            setFilter.innerHTML = '<option value="">Every Set</option>';
+            frameFilter.innerHTML = '<option value="">Every Card Frame</option>';
 
             sets.forEach(set => {
                 const option = document.createElement('option');
@@ -227,7 +237,7 @@
                     card.cardid.toLowerCase().includes(codeFilter) &&
                     card.duelist.toLowerCase().includes(duelistFilter) &&
                     card.types.toLowerCase().includes(typeFilter) &&
-                    (!setFilter || card.set === setFilter) &&
+                    (!setFilter || card.fullSet === setFilter) &&
                     (!frameFilter || card.frame === frameFilter);
             });
 
@@ -243,7 +253,7 @@
                 // Try to find a matching set
                 const setFilter = document.getElementById('setFilter');
                 const matchingSet = Array.from(setFilter.options)
-                    .find(option => option.value.includes(hash));
+                    .find(option => option.value.toLowerCase().includes(hash.toLowerCase()));
 
                 if (matchingSet) {
                     setFilter.value = matchingSet.value;
@@ -594,6 +604,22 @@
         document.addEventListener('DOMContentLoaded', loadCardsData);
 
         //##############################################################################################################################
+
+        const SET_MAPPING = {
+            "T": "Terrains",
+            "SOE": "01 - Seal of Exodia",
+            "TSC": "02 - The Star Chasers",
+            "CHT": "03 - Changing Tides",
+            "NFW": "04 - Nightfall Warriors",
+            "CGU": "05 - Castle Guardians",
+            "SHH": "06 - Shattered Hope",
+            "KOD": "07 - King of Duelists",
+            "LEN": "08 - Loose Ends",
+            "DOL": "09 - Dungeon of Luck",
+            "VIN": "10 - Virtual Nightmare",
+            "BSN": "11 - Body Snatchers",
+            "FTP": "12 - Facing the Past",
+        };
 
         const CARDS_DATABASE = {
             "cards": [
