@@ -15,10 +15,18 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 >**Author's Note**: My goal with this arc was to recreate it faithfully within the Kingdom Duels ruleset. Therefore, no actual changes were made in the narrative on this particular arc. The 40 episodes are replicated here as precisely as they were in the original japanese run of the anime.
 
-| ← Previous Arc | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/museum-arc/) |
-|:--------------------------|:------------------------:|---------------------------:|
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
+{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
+{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
+{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
+{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
+</div>
 
 ---
+
+| ← Previous Arc | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/museum-arc/) |
+|:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes
 

@@ -9,7 +9,8 @@ toc = false
 
 ## Millennium Chapter
 
-- [Duels from the Duelist Kingdom Arc](/scrolls/duels-duelist-kingdom-arc/)
+- [🏰 Duels from the Duelist Kingdom Arc](/scrolls/duels-duelist-kingdom-arc/)
+- [🏛️ Duels from the Museum Arc](/scrolls/duels-museum-arc/)
 
 ---
 
