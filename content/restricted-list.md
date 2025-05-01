@@ -13,6 +13,10 @@ A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while g
 
 > *You are not able to include cards from this list in your decks. If a combo is listed it means that you cannot include ALL the combo-pieces together in your decks, but you might include the individual pieces of the combo.*
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SHH/11.jpg" alt="" width="170" >}}
+</div>
+
 - [SHH-11] → **Deck Destruction Virus of Death**
 
 ---
@@ -21,17 +25,41 @@ A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while g
 
 > *You can include up to 1 card from this list in your decks.*
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/22.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CGU/48.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/30.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/21.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/03.jpg" alt="" width="170" >}}
+</div>
+
 - [SOE-22] → **Blue-Eyes White Dragon**
 - [CGU-48] → **Force**
 - [SOE-30] → **Head of the Sealed One**
 - [TSC-21] → **Holy Barrier - Mirror Force**
-- [KOD-30] → **Silver-Screen Mirror Wall**
+- [KOD-03] → **Silver-Screen Mirror Wall**
 
 ---
 
 ### 4️⃣ Limited 4
 
 > *You can include up to 4 different cards from this list in your decks.*
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/27.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/08.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/23.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CGU/40.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CGU/41.jpg" alt="" width="170" >}}
+</div>
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CGU/42.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SHH/23.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/50.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/19.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/25.jpg" alt="" width="170" >}}
+</div>
 
 - [CHT-27] → **Attack Nullification**
 - [KOD-08] → **Chaos Ritual**
