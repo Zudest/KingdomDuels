@@ -12,6 +12,11 @@ toc = false
 - [🏰 Duels from the Duelist Kingdom Arc](/scrolls/duels-duelist-kingdom-arc/)
 - [🏛️ Duels from the Museum Arc](/scrolls/duels-museum-arc/)
 
+
+## Other Links
+
+- [King of Duelists Tracker](/scrolls/king-of-duelists-tracker/)
+
 ---
 
 <div style="display: flex; justify-content: center; gap: 5px;">
