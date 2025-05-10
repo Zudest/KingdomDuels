@@ -15,7 +15,7 @@ toc = false
 
 ## Other Links
 
-- [King of Duelists Tracker](/scrolls/king-of-duelists-tracker/)
+- [King of Duelists Title Tracker](/scrolls/king-of-duelists-tracker/)
 
 ---
 

@@ -1,0 +1,243 @@
+{{- $id := .Get "id" | default (printf "carousel-%d" (now.UnixNano)) -}}
+{{- $showControls := .Get "controls" | default "true" -}}
+{{- $showIndicators := .Get "indicators" | default "true" -}}
+{{- $maxWidth := .Get "maxwidth" | default "800px" -}}
+{{- $height := .Get "height" | default "auto" -}}
+{{- $objectFit := .Get "objectfit" | default "cover" -}}
+{{- $align := .Get "align" | default "left" -}}
+
+<!-- Get all the image paths from parameters -->
+{{- $image1 := .Get "img1" -}}
+{{- $image2 := .Get "img2" | default "" -}}
+{{- $image3 := .Get "img3" | default "" -}}
+{{- $image4 := .Get "img4" | default "" -}}
+{{- $image5 := .Get "img5" | default "" -}}
+{{- $image6 := .Get "img6" | default "" -}}
+{{- $image7 := .Get "img7" | default "" -}}
+{{- $image8 := .Get "img8" | default "" -}}
+{{- $image9 := .Get "img9" | default "" -}}
+{{- $image10 := .Get "img10" | default "" -}}
+
+<!-- Count how many valid images we have -->
+{{- $count := 1 -}}
+{{- if ne $image2 "" -}}{{- $count = 2 -}}{{- end -}}
+{{- if ne $image3 "" -}}{{- $count = 3 -}}{{- end -}}
+{{- if ne $image4 "" -}}{{- $count = 4 -}}{{- end -}}
+{{- if ne $image5 "" -}}{{- $count = 5 -}}{{- end -}}
+{{- if ne $image6 "" -}}{{- $count = 6 -}}{{- end -}}
+{{- if ne $image7 "" -}}{{- $count = 7 -}}{{- end -}}
+{{- if ne $image8 "" -}}{{- $count = 8 -}}{{- end -}}
+{{- if ne $image9 "" -}}{{- $count = 9 -}}{{- end -}}
+{{- if ne $image10 "" -}}{{- $count = 10 -}}{{- end -}}
+
+<div class="carousel-container" style="max-width: {{- $maxWidth -}}; {{- if eq $align "center" -}}margin: 0 auto;{{- else if eq $align "right" -}}margin-left: auto; margin-right: 0;{{- else -}}margin-left: 0; margin-right: auto;{{- end -}}">
+  <div id="{{- $id -}}" class="carousel">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="{{- $image1 -}}" alt="Slide 1">
+      </div>
+      {{- if ne $image2 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image2 -}}" alt="Slide 2">
+      </div>
+      {{- end -}}
+      {{- if ne $image3 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image3 -}}" alt="Slide 3">
+      </div>
+      {{- end -}}
+      {{- if ne $image4 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image4 -}}" alt="Slide 4">
+      </div>
+      {{- end -}}
+      {{- if ne $image5 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image5 -}}" alt="Slide 5">
+      </div>
+      {{- end -}}
+      {{- if ne $image6 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image6 -}}" alt="Slide 6">
+      </div>
+      {{- end -}}
+      {{- if ne $image7 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image7 -}}" alt="Slide 7">
+      </div>
+      {{- end -}}
+      {{- if ne $image8 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image8 -}}" alt="Slide 8">
+      </div>
+      {{- end -}}
+      {{- if ne $image9 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image9 -}}" alt="Slide 9">
+      </div>
+      {{- end -}}
+      {{- if ne $image10 "" -}}
+      <div class="carousel-item">
+        <img src="{{- $image10 -}}" alt="Slide 10">
+      </div>
+      {{- end -}}
+    </div>
+    
+    {{- if eq $showControls "true" -}}
+    <button class="carousel-control prev" data-carousel-target="{{- $id -}}">&#10094;</button>
+    <button class="carousel-control next" data-carousel-target="{{- $id -}}">&#10095;</button>
+    {{- end -}}
+    
+    {{- if eq $showIndicators "true" -}}
+    <div class="carousel-indicators">
+      {{- range $index := seq 0 (sub $count 1) -}}
+      <button class="carousel-indicator{{- if eq $index 0 -}} active{{- end -}}" data-carousel-target="{{- $id -}}" data-slide-to="{{- $index -}}"></button>
+      {{- end -}}
+    </div>
+    {{- end -}}
+  </div>
+</div>
+
+<style>
+.carousel-container {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+.carousel {
+  position: relative;
+}
+
+.carousel-inner {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.carousel-item {
+  min-width: 100%;
+  flex: 0 0 auto;
+}
+
+.carousel-item img {
+  width: 100%;
+  height: {{- $height -}};
+  object-fit: {{- $objectFit -}};
+  display: block;
+}
+
+.carousel-control {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  z-index: 5;
+  border-radius: 50%;
+  font-size: 18px;
+  line-height: 1;
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.carousel-control.prev {
+  left: 10px;
+}
+
+.carousel-control.next {
+  right: 10px;
+}
+
+.carousel-indicators {
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 8px;
+}
+
+.carousel-indicator {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: rgba(255, 255, 255, 0.5);
+  border: none;
+  cursor: pointer;
+}
+
+.carousel-indicator.active {
+  background-color: white;
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const carousel = document.getElementById('{{- $id -}}');
+  if (!carousel) return;
+  
+  const items = carousel.querySelectorAll('.carousel-item');
+  const indicators = carousel.querySelectorAll('.carousel-indicator');
+  const prevBtn = carousel.querySelector('.carousel-control.prev');
+  const nextBtn = carousel.querySelector('.carousel-control.next');
+  const inner = carousel.querySelector('.carousel-inner');
+  
+  let currentIndex = 0;
+  const itemCount = items.length;
+  
+  function goToSlide(index) {
+    // Handle wrapping
+    if (index < 0) index = itemCount - 1;
+    if (index >= itemCount) index = 0;
+    
+    currentIndex = index;
+    inner.style.transform = `translateX(-${currentIndex * 100}%)`;
+    
+    // Update active state for items
+    items.forEach((item, i) => {
+      if (i === currentIndex) {
+        item.classList.add('active');
+      } else {
+        item.classList.remove('active');
+      }
+    });
+    
+    // Update active state for indicators
+    indicators.forEach((indicator, i) => {
+      if (i === currentIndex) {
+        indicator.classList.add('active');
+      } else {
+        indicator.classList.remove('active');
+      }
+    });
+  }
+  
+  // Set up event listeners
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      goToSlide(currentIndex - 1);
+    });
+  }
+  
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      goToSlide(currentIndex + 1);
+    });
+  }
+  
+  indicators.forEach((indicator, i) => {
+    indicator.addEventListener('click', () => {
+      goToSlide(i);
+    });
+  });
+  
+  // Initial setup to ensure correct initial state
+  goToSlide(0);
+});
+</script>

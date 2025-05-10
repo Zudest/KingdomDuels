@@ -14,18 +14,18 @@ The story is divided into **Chapters** that represent argumental arcs of the ani
 
 ![The Millennium Chapter](/img/storyimg/Chapter01.jpg)
 
-- **Status**: Ongoing. **65/140** episodes.
+- **Status**: Ongoing. **90/140** episodes.
 - **Protagonists**: Yūgi Muto & Pharaoh Atem
 
 <div style="display: flex; justify-content: center; gap: 5px;">
 {{< imagetext src="/img/storyimg/1-01.jpg" link="/story/duelist-kingdom-arc/" alt="Duelist Kingdom Arc" caption="Duelist Kingdom Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/1-02.jpg" link="/story/museum-arc/" alt="Museum Arc" caption="Museum Arc" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/1-03.png" link="/story/battle-city-arc/" alt="Battle City Arc" caption="Battle City Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
 </div>
 
-> **Author Notes**: This chapter follows the same events from the Duel Monster anime but condensed and re-arranged into five major story arcs. It has a bit of original, movie and manga content splashed into it, and some plot points were completely moved around. I attempted to tie in a few missed opportunities, give more relevance to side characters and bring to the limelight the Millennium Items, among other things.
+> **Author Notes**: This chapter follows the same events from the Duel Monster anime but condensed and re-arranged into five major story arcs. It has a bit of original, movie and manga content splashed into it, and some plot points were completely moved around. I attempted to tie in a few missed opportunities, give more relevance to side characters and bring to the limelight the Millennium Items, among other things, but always respecting the original vision and plan.
 
 ---
 

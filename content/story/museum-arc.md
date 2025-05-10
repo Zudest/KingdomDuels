@@ -27,7 +27,7 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 
 ---
 
-| [← Previous Arc](/story/duelist-kingdom-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](#) |
+| [← Previous Arc](/story/duelist-kingdom-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/battle-city-arc/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes
