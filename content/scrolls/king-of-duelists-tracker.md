@@ -19,9 +19,9 @@ toc = false
 ### Current King of Duelists
 
 - **The Other Yugi**
-    - Title defenses: 4 (until ep. 57)
+    - Title defenses: 17 (until ep. 89)
 - **Rebecca**
-    - Title defenses: 0 (until ep. 57)
+    - Title defenses: 0 (until ep. 90)
 
 ---
 
