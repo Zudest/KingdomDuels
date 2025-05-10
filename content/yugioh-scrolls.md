@@ -20,7 +20,7 @@ The story is divided into **Chapters** that represent argumental arcs of the ani
 <div style="display: flex; justify-content: center; gap: 5px;">
 {{< imagetext src="/img/storyimg/1-01.jpg" link="/story/duelist-kingdom-arc/" alt="Duelist Kingdom Arc" caption="Duelist Kingdom Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/1-02.jpg" link="/story/museum-arc/" alt="Museum Arc" caption="Museum Arc" width="140" >}}
-{{< imagetext src="/img/storyimg/1-03.png" link="/story/battle-city-arc/" alt="Battle City Arc" caption="Battle City Arc" width="140" >}}
+{{< imagetext src="/img/storyimg/1-03.jpg" link="/story/battle-city-arc/" alt="Battle City Arc" caption="Battle City Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
 </div>
