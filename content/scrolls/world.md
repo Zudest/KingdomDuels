@@ -9,9 +9,14 @@ toc = false
 
 ## Locations in Japan
 
+- Domino City
+- Duelist Kingdom Island
+
 *(This section is in development)*
 
 ## Locations in the rest of the Human World
+
+- 
 
 *(This section is in development)*
 
