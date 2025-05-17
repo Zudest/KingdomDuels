@@ -6,7 +6,32 @@
         <description>Recent content in Posts on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 01 May 2025 17:08:00 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 17 May 2025 14:40:00 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Terrain Changes</title>
+        <link>https://kingdomduels.com/post/terrain-changes/</link>
+        <pubDate>Sat, 17 May 2025 14:40:00 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/terrain-changes/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0026.jpg" alt="Featured image of post Terrain Changes" /&gt;&lt;p&gt;We are making some changes to the Terrain Markers, and we have two main things to talk about:&lt;/p&gt;
+&lt;h2 id=&#34;design&#34;&gt;Design
+&lt;/h2&gt;&lt;p&gt;After more print-and-play testing and some feedback from the community it has become clear that the Terrains could use a small revamp. Having them in a square size, while serviceable for Tabletop Simulator and visually more cool for promotional material, has been a bit of a problem for actual physical play. Their odd size means that you can&amp;rsquo;t really pack them into a deckbox and need to carry them separately.&lt;/p&gt;
+&lt;p&gt;So, we have been testing card-sized, horizontal, borderless terrains just like you can see in the image:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kingdomduels.com/img/promotion/Picture20250502_01.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The text is centered so its easier to read. And now playing a card on top of them does not cover the actual effect if you place them a bit upwards. Honestly the main benefit is their new size, which is card-size like all other cards: being able to slot them in a regular deckbox instead of having to keep them separated was the main focus of this change.&lt;/p&gt;
+&lt;p&gt;These will be the new Terrain Markers going forward, and the previous square-sized Terrains will be replaced. We will be updating all promotional material and rulebook with the new images in the coming weeks.&lt;/p&gt;
+&lt;h2 id=&#34;field-power-bonus&#34;&gt;Field Power Bonus
+&lt;/h2&gt;&lt;p&gt;Every Terrain will now have between 1 and 3 Monster Types that it gives Field Power Bonus. Previously there were some Terrains with 0 types, and some with 4 or more.&lt;/p&gt;
+&lt;p&gt;We felt that having at least one type (except for the &amp;ldquo;Land&amp;rdquo; terrain which is the default) is a good way to reinforce the design of cards around this iconic mechanic from Duelist Kingdom. Also, having more than 3 was a bit more problematic to keep track and remember while playing, so this is a nice balance between the two options.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Set 12 [Facing the Past] is here!</title>
         <link>https://kingdomduels.com/post/set-12-released/</link>
         <pubDate>Thu, 01 May 2025 17:08:00 -0300</pubDate>

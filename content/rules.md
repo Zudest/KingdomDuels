@@ -231,9 +231,7 @@ There are a few Main Deck cards that have a **combination of two colors** in the
 
 **Effect Speed** is defined as **Slow Speed** and **Quick Speed** (analog to Spell Speed 1 and 2 respectively, there is no Spell Speed 3). Quick Speed can respond to Slow or Quick effects, but Slow Speed can't be used to respond to other effects.
 
-
 **Blue and Red**: Every duel has two opposing sides: Blue and Red. Players must choose which color they belong to at the beginning of the duel in the Setup Phase. Some cards reference Blue/Red Side, in which case they refer to the side controlled by the player(s) of that color. This is applicable to multiplayer rules too.
-
 
 **Tilemap**: Some cards can create a "Tilemap" which means that, using the artwork of that card as a reference, they create a grid of Tiles (squares) and Obstructions (black lines) for monsters and other cards to be played in. There can only be one Tilemap in the duel at a time.
 A monster must be on a specific Terrain to be inside the Tilemap. Monsters inside a Tilemap can only move and attack within Tiles of that Tilemap. If a monster inside a Tilemap were to move or be moved by a card effect to a different Terrain it now moves to a different Tile instead.
@@ -244,6 +242,8 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     - A Tilemap can have Tiles of different colors with different effects, but unless otherwise stated all Tiles are White Tiles. 
     - Red Tiles and Blue Tiles (also known as Player-colored Tiles) are controlled by the respective player(s) of that color. 
 - **Obstructions**: Within a Tilemap, an Obstruction is a line that separate one tile from another and prevents a monster to move through it or attack through it, unless otherwise stated. The outer limit of the Tilemap (the white space without tiles) is considered an obstruction that cannot be removed through any means.
+
+**Subduel**: Some cards can declare or interact with a "Subduel" which acts as a completely separate time-gated game created by an effect. It's a game within the game. When a subduel is in place, the players must play and finish that subduel with different cards before returning to the main duel. The result of a Subduel has no meaning or effect on its own on the main duel, unless an effect says so.
 
 **Piercing Damage**: If a monster attacks with an ATK that is higher than the DEF of a monster in DEF Position, the attacking player inflict the difference as Battle Damage.
 
@@ -363,10 +363,13 @@ Additional notes for **Hidden** monsters:
 - **Dampened**: Is currently soaked in water.
 - **Fireblast**: Is able to attack with a large display of fire.
 - **Flying**: Is able to properly fly (not only float or barely move in the air).
+- **Hypnotized**: Is under mind-control.
+- **Petrified**: Has been turned to stone.
 - **Poisoned**: Is affected by poison or venom.
 - **Protector**: Is able or dedicated to protect others.
 - **Regeneration**: Is able to regenerate wounds or even reverse its own death.
 - **Sealed**: Is sealed through magic or other means.
+- **Slumbering**: Is sleeping or in a deep slumber.
 - **Thunderblast**: Is able to attack with electricity or magic of the electric type.
 
 **Alter Monster Types**: A specific group of types that is exclusive to Alter Monsters.

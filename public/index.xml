@@ -6,7 +6,7 @@
         <description>Recent content on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 10 May 2025 12:00:00 +0000</lastBuildDate><atom:link href="https://kingdomduels.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 17 May 2025 14:40:00 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About</title>
         <link>https://kingdomduels.com/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -482,6 +482,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Obstructions&lt;/strong&gt;: Within a Tilemap, an Obstruction is a line that separate one tile from another and prevents a monster to move through it or attack through it, unless otherwise stated. The outer limit of the Tilemap (the white space without tiles) is considered an obstruction that cannot be removed through any means.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Subduel&lt;/strong&gt;: Some cards can declare or interact with a &amp;ldquo;Subduel&amp;rdquo; which acts as a completely separate time-gated game created by an effect. It&amp;rsquo;s a game within the game. When a subduel is in place, the players must play and finish that subduel with different cards before returning to the main duel. The result of a Subduel has no meaning or effect on its own on the main duel, unless an effect says so.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Piercing Damage&lt;/strong&gt;: If a monster attacks with an ATK that is higher than the DEF of a monster in DEF Position, the attacking player inflict the difference as Battle Damage.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Destruction Damage&lt;/strong&gt;: If a monster is destroyed by a card effect that says &amp;ldquo;apply Destruction Damage&amp;rdquo;, then the controller of that monster receives damage equal to half of its ATK (this is called ‘Destruction Damage’ and is considered Effect Damage). You can&amp;rsquo;t inflict more than 1000 LP of destruction damage per turn.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Erode&lt;/strong&gt;: If a card is eroded it means that it is completely removed from play to a non-specified area (its not considered to be on the field, deck, graveyard, hand or zone).&lt;/p&gt;
@@ -572,10 +573,13 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;li&gt;&lt;strong&gt;Dampened&lt;/strong&gt;: Is currently soaked in water.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Fireblast&lt;/strong&gt;: Is able to attack with a large display of fire.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Flying&lt;/strong&gt;: Is able to properly fly (not only float or barely move in the air).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hypnotized&lt;/strong&gt;: Is under mind-control.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Petrified&lt;/strong&gt;: Has been turned to stone.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Poisoned&lt;/strong&gt;: Is affected by poison or venom.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Protector&lt;/strong&gt;: Is able or dedicated to protect others.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Regeneration&lt;/strong&gt;: Is able to regenerate wounds or even reverse its own death.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sealed&lt;/strong&gt;: Is sealed through magic or other means.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Slumbering&lt;/strong&gt;: Is sleeping or in a deep slumber.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Thunderblast&lt;/strong&gt;: Is able to attack with electricity or magic of the electric type.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Alter Monster Types&lt;/strong&gt;: A specific group of types that is exclusive to Alter Monsters.&lt;/p&gt;
@@ -1700,6 +1704,31 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1CYapJYlAR-obHRjBixno5oEMXigOTMF7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;KCG (2016 Version)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Terrain Changes</title>
+        <link>https://kingdomduels.com/post/terrain-changes/</link>
+        <pubDate>Sat, 17 May 2025 14:40:00 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/terrain-changes/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0026.jpg" alt="Featured image of post Terrain Changes" /&gt;&lt;p&gt;We are making some changes to the Terrain Markers, and we have two main things to talk about:&lt;/p&gt;
+&lt;h2 id=&#34;design&#34;&gt;Design
+&lt;/h2&gt;&lt;p&gt;After more print-and-play testing and some feedback from the community it has become clear that the Terrains could use a small revamp. Having them in a square size, while serviceable for Tabletop Simulator and visually more cool for promotional material, has been a bit of a problem for actual physical play. Their odd size means that you can&amp;rsquo;t really pack them into a deckbox and need to carry them separately.&lt;/p&gt;
+&lt;p&gt;So, we have been testing card-sized, horizontal, borderless terrains just like you can see in the image:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://kingdomduels.com/img/promotion/Picture20250502_01.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;The text is centered so its easier to read. And now playing a card on top of them does not cover the actual effect if you place them a bit upwards. Honestly the main benefit is their new size, which is card-size like all other cards: being able to slot them in a regular deckbox instead of having to keep them separated was the main focus of this change.&lt;/p&gt;
+&lt;p&gt;These will be the new Terrain Markers going forward, and the previous square-sized Terrains will be replaced. We will be updating all promotional material and rulebook with the new images in the coming weeks.&lt;/p&gt;
+&lt;h2 id=&#34;field-power-bonus&#34;&gt;Field Power Bonus
+&lt;/h2&gt;&lt;p&gt;Every Terrain will now have between 1 and 3 Monster Types that it gives Field Power Bonus. Previously there were some Terrains with 0 types, and some with 4 or more.&lt;/p&gt;
+&lt;p&gt;We felt that having at least one type (except for the &amp;ldquo;Land&amp;rdquo; terrain which is the default) is a good way to reinforce the design of cards around this iconic mechanic from Duelist Kingdom. Also, having more than 3 was a bit more problematic to keep track and remember while playing, so this is a nice balance between the two options.&lt;/p&gt;
 </description>
         </item>
         <item>
