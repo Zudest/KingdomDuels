@@ -6,9 +6,17 @@ toc = true
 readingTime = false
 +++
 
-**Yugioh Scrolls** is a fanmade project that is the companion of the **[Kingdom Duels](/about)** project. It’s a complete re-telling / rewriting of the Yu-Gi-Oh! anime in a sort of bullet point script format that answers the question: *“what would have happened if the anime kept going with all the weird rules from Duelist Kingdom instead of the real rules?”.*
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
+{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
+{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
+{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
+{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
+</div>
 
-The story is divided into **Chapters** that represent argumental arcs of the anime series with a different protagonist each time (you can view them as different “anime series” that take place in the same world and continuity, an alternative universe to the one we know). Characters, duels, plot points and entire arcs are changed in this project to tell the same story that we know and love but with a different twist.
+**Yugioh Scrolls** is a fanmade re-telling of the Yu-Gi-Oh! anime in a bullet point script format that uses the **[Kingdom Duels](/about)** rules and answers the question: *“what would have happened if the anime kept going with all the weird rules from Duelist Kingdom instead of the real rules?”.*
+
+The story is divided into **Chapters** which are argumental arcs with a different protagonist each time (you can view them as different “anime series” that take place in the same world and continuity, an alternative universe to the one we are familiar with). Characters, duels, plot points and entire arcs are changed in this project to tell the same story that we know and love but with a different twist.
 
 ## The Millennium Chapter
 

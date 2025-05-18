@@ -32,5 +32,6 @@ const EXTRA_TERRAINS = {
         ,{"name": "Jungle","frame": "Terrain","types": "Terrain","set": "T","id": "30","deck": "C","duelist": ""}
         ,{"name": "Different Dimension","frame": "Terrain","types": "Terrain","set": "T","id": "31","deck": "C","duelist": ""}
         ,{"name": "Tundra","frame": "Terrain","types": "Terrain","set": "T","id": "32","deck": "C","duelist": ""}
+        ,{"name": "Temple","frame": "Terrain","types": "Terrain","set": "T","id": "33","deck": "C","duelist": ""}
     ]
 };

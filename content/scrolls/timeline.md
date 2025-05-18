@@ -35,13 +35,14 @@ toc = false
     * Noah Kaiba dies, Gozaburo uploads his mind into a supercomputer just before his death.
     * Seto and Mokuba are sent to the orphanage and later adopted by Gozaburo.
 * **1991**
-    * Industrial Illusions is founded and Duel Monsters is released worldwide.
+    * Industrial Illusions is founded, headquartered in San Francisco (USA), and Duel Monsters is released worldwide.
     * One of the very early duels that we could see is from Ishizu and Marik as kids.
     * Marik's father carves the symbols onto Marik's back.
 * **1992**
     * On one fateful day Marik leaves the gravekeeper's place and sees the outside world for the first time. Shadi's ghost finds Ishizu and Marik and tells them about the incoming resurrection of the Pharaoh. The evil personality within Marik takes over and kills his father. Marik takes the Millennium Rod and leaves with Rishid. Ishizu inherits the Millennium Tauk.
 * **1995**
     * Pegasus goes to Egypt once again and finds the Egyptian God's stone tablet thanks to Shadi. His team dies in mysterious circumstances briefly after returning from that trip. He ends up designing the God Cards himself but gives them to Ishizu for safekeeping. At some point Marik and his Ghouls steal two of the three cards.
+    * Industrial Illusions grow exponentially. By the end of the year they will have at least two personal satellites in orbit.
 * **1996**
     * Yugi solves the Millennium Puzzle. Atem resurfaces.
     * From this point onward Duel Monsters become insanely popular and technology advances rapidly thanks to the Solid Vision technology, way faster than in our world. The importance of Duel Monsters skyrockets way beyond a simple game, and a huge world paradigm shift occurs.

@@ -256,7 +256,7 @@ const CHAPTER1_ARC2_MUSEUM = {
         ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "FTP","id": "03","deck": "B","duelist": ""}
         ,{"name": "Shizuka","frame": "Rule","types": "Rule Duelist Setup","set": "FTP","id": "04","deck": "B","duelist": ""}
         ,{"name": "Otogi","frame": "Rule","types": "Rule Duelist Setup","set": "FTP","id": "05","deck": "B","duelist": ""}
-        ,{"name": "Honda","frame": "Rule","types": "Rule Duelist Setup","set": "FTP","id": "06","deck": "B","duelist": ""}
+        ,{"name": "Possessed Honda","frame": "Rule","types": "Rule Duelist Setup","set": "FTP","id": "06","deck": "B","duelist": ""}
         ,{"name": "The Big Five","frame": "Rule","types": "Rule Duelist Setup","set": "FTP","id": "07","deck": "B","duelist": ""}
         ,{"name": "Distant Canyon","frame": "Rule","types": "Rule Field Setup","set": "FTP","id": "08","deck": "B","duelist": ""}
         ,{"name": "Deckmaster Dark Magician","frame": "Rule","types": "Rule","set": "FTP","id": "09","deck": "B","duelist": "Yugi"}
@@ -319,5 +319,60 @@ const CHAPTER1_ARC2_MUSEUM = {
         ,{"name": "Gozaburo, Possessed Blood Soul","frame": "Integration Monster","types": "Integration Monster Demon Elemental Fireblast","set": "FTP","id": "66","deck": "B","duelist": "Gozaburo"}
         ,{"name": "Shrink","frame": "Spell","types": "Spell","set": "FTP","id": "67","deck": "A","duelist": "Kaiba"}
         ,{"name": "Soul Crush","frame": "Spell","types": "Spell","set": "FTP","id": "68","deck": "A","duelist": "Kaiba"}
+
+        ,{"name": "Shadi","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "01","deck": "B","duelist": ""}
+        ,{"name": "Kanekura","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "02","deck": "B","duelist": ""}
+        ,{"name": "Millennium Scales","frame": "Rule","types": "Rule Symbol Millennium Item","set": "MLY","id": "03","deck": "B","duelist": "Shadi"}
+        ,{"name": "Rock Turtler","frame": "Monster","types": "Monster Aquatic Elemental","set": "MLY","id": "04","deck": "A","duelist": "Kanekura"}
+        ,{"name": "Bolt Escargot","frame": "Monster","types": "Monster Aquatic Thunderblast","set": "MLY","id": "05","deck": "A","duelist": "Kanekura"}
+        ,{"name": "Millennium Golem","frame": "Monster","types": "Monster Elemental","set": "MLY","id": "06","deck": "A","duelist": "Shadi"}
+        ,{"name": "Pharaonic Retribution Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "MLY","id": "07","deck": "A","duelist": "Shadi"}
+        ,{"name": "Ammit","frame": "Ritual Monster","types": "Ritual Monster Illusion Reptillian","set": "MLY","id": "08","deck": "B","duelist": "Shadi"}
+        ,{"name": "Judgment of the Dead","frame": "Spell","types": "Spell Persist (3 of your End Phases)","set": "MLY","id": "09","deck": "A","duelist": "Shadi"}
+        ,{"name": "Mind Puzzle - Question of Truth","frame": "Rule","types": "Rule","set": "MLY","id": "10","deck": "B","duelist": "Shadi"}
+        ,{"name": "Damsel Token","frame": "Token Monster","types": "Token Monster Support","set": "MLY","id": "11","deck": "C","duelist": "Shadi"}
+        ,{"name": "Adviser Token","frame": "Token Monster","types": "Token Monster Support","set": "MLY","id": "12","deck": "C","duelist": "Shadi"}
+        ,{"name": "Mummy Token","frame": "Token Monster","types": "Token Monster Undead","set": "MLY","id": "13","deck": "C","duelist": "Shadi"}
+        ,{"name": "Gravethief Token","frame": "Token Monster","types": "Token Monster Warrior","set": "MLY","id": "14","deck": "C","duelist": "Shadi"}
+        ,{"name": "Shadi","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "15","deck": "B","duelist": ""}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "16","deck": "B","duelist": ""}
+        ,{"name": "Millennium Key","frame": "Rule","types": "Rule Symbol Millennium Item","set": "MLY","id": "17","deck": "B","duelist": "Shadi"}
+        ,{"name": "Millennium Shield","frame": "Spell Monster","types": "Spell Monster Support","set": "MLY","id": "18","deck": "A","duelist": "Shadi"}
+        ,{"name": "Destroyer Golem","frame": "Monster","types": "Monster Elemental Warrior","set": "MLY","id": "19","deck": "A","duelist": "Shadi, Jonouchi"}
+        ,{"name": "Eye of Ujat","frame": "Trap","types": "Trap","set": "MLY","id": "20","deck": "A","duelist": "Shadi"}
+        ,{"name": "Charm of Shabti","frame": "Spell","types": "Spell Equip","set": "MLY","id": "21","deck": "A","duelist": "Shadi"}
+        ,{"name": "Mind Puzzle - Hell Quiz","frame": "Rule","types": "Rule","set": "MLY","id": "22","deck": "B","duelist": "Shadi"}
+        ,{"name": "Mind Puzzle - Concentration or Death","frame": "Rule","types": "Rule","set": "MLY","id": "23","deck": "B","duelist": "Shadi"}
+        ,{"name": "Minor Goblin Official","frame": "Spell","types": "Spell Persist (2 of your End Phases)","set": "MLY","id": "24","deck": "A","duelist": "Shadi"}
+        ,{"name": "Largemouth","frame": "Monster","types": "Monster Aquatic Demon","set": "MLY","id": "25","deck": "A","duelist": "Shadi"}
+        ,{"name": "Amulet of the Protector Spirit","frame": "Spell","types": "Spell Equip","set": "MLY","id": "26","deck": "A","duelist": "Shadi"}
+        ,{"name": "Primitive Revival Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "MLY","id": "27","deck": "A","duelist": "Shadi"}
+        ,{"name": "Millennium Primitive Man","frame": "Ritual Monster","types": "Ritual Monster Beast Warrior","set": "MLY","id": "28","deck": "B","duelist": "Shadi"}
+        ,{"name": "Mind Puzzle - Game of Death","frame": "Rule","types": "Rule","set": "MLY","id": "29","deck": "B","duelist": "Shadi"}
+        ,{"name": "Shadi","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "30","deck": "B","duelist": ""}
+        ,{"name": "Yoshimori","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "31","deck": "B","duelist": ""}
+        ,{"name": "Guardian Sphinx","frame": "Monster","types": "Monster Elemental","set": "MLY","id": "32","deck": "A","duelist": "Yoshimori"}
+        ,{"name": "Mind Puzzle - Marionette Design","frame": "Rule","types": "Rule","set": "MLY","id": "33","deck": "B","duelist": "Shadi"}
+        ,{"name": "Marionette Token","frame": "Token Monster","types": "Token Monster Warrior","set": "MLY","id": "34","deck": "C","duelist": "Shadi"}
+        ,{"name": "Mister Bomber","frame": "Spell Monster","types": "Spell Monster Machine","set": "MLY","id": "35","deck": "A","duelist": "Shadi"}
+        ,{"name": "Red Potion","frame": "Spell","types": "Spell","set": "MLY","id": "36","deck": "A","duelist": "Shadi"}
+        ,{"name": "Priest Seto","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "37","deck": "B","duelist": ""}
+        ,{"name": "Pharaoh Servant","frame": "Rule","types": "Rule Duelist Setup","set": "MLY","id": "38","deck": "B","duelist": ""}
+        ,{"name": "Pharaoh's Palace","frame": "Rule","types": "Rule Field Setup","set": "MLY","id": "39","deck": "B","duelist": ""}
+        ,{"name": "Diaha","frame": "Rule","types": "Rule Game Setup","set": "MLY","id": "40","deck": "B","duelist": "Priest Seto, Pharaoh Servant"}
+        ,{"name": "Ba","frame": "Token Monster","types": "Token Monster Elemental","set": "MLY","id": "41","deck": "C","duelist": "Priest Seto, Pharaoh Servant"}
+        ,{"name": "Zemia Tablet Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "MLY","id": "42","deck": "A","duelist": "Priest Seto"}
+        ,{"name": "God of Zemia","frame": "Divine Monster","types": "Divine Monster Demon Flying","set": "MLY","id": "43","deck": "A","duelist": "Priest Seto"}
+        ,{"name": "Zemia","frame": "Ritual Monster","types": "Ritual Monster Demon Flying","set": "MLY","id": "44","deck": "B","duelist": "Priest Seto"}
+        ,{"name": "Winged Dragon Tablet Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "MLY","id": "45","deck": "A","duelist": "Pharaoh Servant"}
+        ,{"name": "Winged Dragon","frame": "Ritual Monster","types": "Ritual Monster Dragon Fireblast Flying","set": "MLY","id": "46","deck": "B","duelist": "Pharaoh Servant"}
+        ,{"name": "La Jinn Tablet Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "MLY","id": "47","deck": "A","duelist": "Priest Seto"}
+        ,{"name": "La Jinn","frame": "Ritual Monster","types": "Ritual Monster Demon","set": "MLY","id": "48","deck": "B","duelist": "Priest Seto"}
+        ,{"name": "Faerie Dragon Tablet Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "MLY","id": "49","deck": "A","duelist": "Pharaoh Servant"}
+        ,{"name": "Fairy Dragon","frame": "Monster","types": "Monster Dragon Flying","set": "MLY","id": "50","deck": "A","duelist": "Pharaoh Servant"}
+        ,{"name": "Faerie Dragon","frame": "Ritual Monster","types": "Ritual Monster Dragon Flying","set": "MLY","id": "51","deck": "B","duelist": "Pharaoh Servant"}
+        ,{"name": "Kaiser Dragon","frame": "Fusion Monster","types": "Fusion Monster Dragon Flying","set": "MLY","id": "52","deck": "B","duelist": "Pharaoh Servant"}
+        ,{"name": "White Dragon Tablet Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "MLY","id": "53","deck": "A","duelist": "Priest Seto"}
+        ,{"name": "White Dragon","frame": "Ritual Monster","types": "Ritual Monster Dragon Flying","set": "MLY","id": "54","deck": "B","duelist": "Priest Seto"}
     ]
 };

@@ -14,7 +14,7 @@ const CHAPTER1_ARC1_DUELISTKINGDOM = {
         ,{"name": "Kaiba Corporation Arena","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "SOE","id": "12","deck": "B","duelist": ""}
         ,{"name": "Kaiba Corporation Arena","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "SOE","id": "13","deck": "B","duelist": ""}
         ,{"name": "Cyclops","frame": "Monster","types": "Monster Beast Warrior","set": "SOE","id": "14","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Winged Dragon, Guardian of the Fortress","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "SOE","id": "15","deck": "A","duelist": "Yugi"}
+        ,{"name": "Winged Dragon, Guardian of the Fortress","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "SOE","id": "15","deck": "A","duelist": "Yugi, Pharaoh Servant"}
         ,{"name": "Saggi the Dark Clown","frame": "Monster","types": "Monster Spellcaster","set": "SOE","id": "16","deck": "A","duelist": "Kaiba"}
         ,{"name": "Dark Generator","frame": "Spell","types": "Spell Equip","set": "SOE","id": "17","deck": "A","duelist": "Kaiba"}
         ,{"name": "Critter","frame": "Monster","types": "Monster Demon","set": "SOE","id": "18","deck": "A","duelist": "Yugi, Rebecca, Arthur"}
@@ -93,7 +93,7 @@ const CHAPTER1_ARC1_DUELISTKINGDOM = {
         ,{"name": "Burning Land","frame": "Spell","types": "Spell","set": "TSC","id": "28","deck": "A","duelist": "Yugi"}
         ,{"name": "Great Moth","frame": "Alter Monster","types": "Alter Monster Timeshifted Insect","set": "TSC","id": "29","deck": "B","duelist": "Haga"}
         ,{"name": "Corrosive Poison","frame": "Rule","types": "Rule","set": "TSC","id": "30","deck": "B","duelist": "Haga, Mokuba"}
-        ,{"name": "Fusion","frame": "Spell","types": "Spell","set": "TSC","id": "31","deck": "A","duelist": "Yugi, Kaiba, Brother Mei, Pegasus, The Big Five"}
+        ,{"name": "Fusion","frame": "Spell","types": "Spell","set": "TSC","id": "31","deck": "A","duelist": "Yugi, Kaiba, Brother Mei, Pegasus, The Big Five, Pharaoh Servant"}
         ,{"name": "Gaia the Dragon Knight","frame": "Fusion Monster","types": "Fusion Monster Dragon Warrior Flying","set": "TSC","id": "32","deck": "B","duelist": "Yugi"}
         ,{"name": "Magical Drizzle","frame": "Spell","types": "Spell","set": "TSC","id": "33","deck": "A","duelist": "Yugi"}
         ,{"name": "Electric Current","frame": "Rule","types": "Rule","set": "TSC","id": "34","deck": "B","duelist": "Yugi"}
@@ -139,7 +139,7 @@ const CHAPTER1_ARC1_DUELISTKINGDOM = {
         ,{"name": "Silk Hat Token","frame": "Token Monster","types": "Token Monster Elemental","set": "CHT","id": "22","deck": "C","duelist": "Yugi"}
         ,{"name": "Curse of the Hexagram","frame": "Trap","types": "Trap Equip","set": "CHT","id": "23","deck": "A","duelist": "Yugi"}
         ,{"name": "Grappler","frame": "Monster","types": "Monster Reptillian","set": "CHT","id": "24","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Kentauros","frame": "Monster","types": "Monster Beast","set": "CHT","id": "25","deck": "A","duelist": "Kaiba"}
+        ,{"name": "Kentauros","frame": "Monster","types": "Monster Beast","set": "CHT","id": "25","deck": "A","duelist": "Kaiba, Priest Seto"}
         ,{"name": "Holy Elf","frame": "Monster","types": "Monster Spellcaster Blessed","set": "CHT","id": "26","deck": "A","duelist": "Yugi, Ooka, The Big Five"}
         ,{"name": "Attack Nullification","frame": "Spell","types": "Spell","set": "CHT","id": "27","deck": "A","duelist": "Kaiba, Noah"}
         ,{"name": "Resurrection of the Dead","frame": "Spell","types": "Spell","set": "CHT","id": "28","deck": "A","duelist": "Yugi, Kaiba, Mai, Sugoroku"}
@@ -209,7 +209,7 @@ const CHAPTER1_ARC1_DUELISTKINGDOM = {
         ,{"name": "Duel Disk System","frame": "Rule","types": "Rule Game Setup","set": "NFW","id": "40","deck": "B","duelist": "Kaiba"}
         ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "41","deck": "B","duelist": ""}
         ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "42","deck": "B","duelist": ""}
-        ,{"name": "Minotaurus","frame": "Monster","types": "Monster Beast Warrior","set": "NFW","id": "43","deck": "A","duelist": "Kaiba"}
+        ,{"name": "Minotaurus","frame": "Monster","types": "Monster Beast Warrior","set": "NFW","id": "43","deck": "A","duelist": "Kaiba, Priest Seto"}
         ,{"name": "Armored Lizard","frame": "Monster","types": "Monster Reptillian","set": "NFW","id": "44","deck": "A","duelist": "Jonouchi"}
         ,{"name": "Minocentaur","frame": "Fusion Monster","types": "Fusion Monster Beast Warrior","set": "NFW","id": "45","deck": "B","duelist": "Kaiba"}
         ,{"name": "Garoozis","frame": "Monster","types": "Monster Reptillian Warrior","set": "NFW","id": "46","deck": "A","duelist": "Jonouchi"}
@@ -275,9 +275,9 @@ const CHAPTER1_ARC1_DUELISTKINGDOM = {
         ,{"name": "Magic Lamp","frame": "Trap Monster","types": "Trap Monster Demon","set": "SHH","id": "04","deck": "A","duelist": "Kaiba"}
         ,{"name": "Multiply","frame": "Spell","types": "Spell","set": "SHH","id": "05","deck": "A","duelist": "Yugi"}
         ,{"name": "Clone Token","frame": "Token Monster","types": "Token Monster Elemental","set": "SHH","id": "06","deck": "C","duelist": "Yugi"}
-        ,{"name": "The Eye of Truth","frame": "Spell","types": "Spell","set": "SHH","id": "07","deck": "A","duelist": "Yugi"}
+        ,{"name": "The Eye of Truth","frame": "Spell","types": "Spell","set": "SHH","id": "07","deck": "A","duelist": "Yugi, Shadi"}
         ,{"name": "Sword Stalker of Revenge","frame": "Monster","types": "Monster Demon Warrior","set": "SHH","id": "08","deck": "A","duelist": "Kaiba"}
-        ,{"name": "La Jinn the Demonic Spirit of the Lamp","frame": "Monster","types": "Monster Demon","set": "SHH","id": "09","deck": "A","duelist": "Kaiba"}
+        ,{"name": "La Jinn the Demonic Spirit of the Lamp","frame": "Monster","types": "Monster Demon","set": "SHH","id": "09","deck": "A","duelist": "Kaiba, Priest Seto"}
         ,{"name": "Magic Removal","frame": "Spell","types": "Spell","set": "SHH","id": "10","deck": "A","duelist": "Kaiba, Mai, Anzu"}
         ,{"name": "Deck Destruction Virus of Death","frame": "Trap","types": "Trap Equip","set": "SHH","id": "11","deck": "A","duelist": "Kaiba"}
         ,{"name": "Holy Elf's Blessing","frame": "Spell","types": "Spell","set": "SHH","id": "12","deck": "A","duelist": "Kaiba, Shizuka"}

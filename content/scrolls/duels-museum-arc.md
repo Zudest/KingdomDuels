@@ -574,3 +574,92 @@ Player 2|He then summons Blue-Eyes White Dragon (3000), it attacks and destroys 
 Player 2|Kaiba wins.||
 {{< /dueltable >}}
 
+---
+## EP 58 - Shadi vs Kanekura
+
+{{< dueltable header1="EP 58" header2="Shadi vs Kanekura" header4="Partial Duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|2000 - 2000|
+Setup|Kanekura has Rock Turtler in face-up DEF and Bolt Escargot in face-up DEF.||
+Setup|Shadi has Millennium Golem in ATK.||
+Player 1|Shadi draws. He plays Retribution Ritual and tributes Millennium Golem to summon Ammit.||
+Player 1|He then activates his Judgment of the Dead, which activates his Rule card "Mind Puzzle - Question of Truth", and therefore a subduel happens.||A subduel begins here. Player 5 = Shadi, Player 6 = Kanekura.
+Player 6|Kanekura's standby phase. 100% Land terrains. No cards in hand, graveyard or deck. He has Gravethief Token in ATK. Shadi has Damsel Token in ATK, Adviser Token in DEF, Mummy Token in ATK. 1800 LP for Shadi, 2000 for Kanekura.|(1800 - 2000)|Subduel.
+Player 6|Kanekura chooses the Adviser Token 3rd effect to increase the attack of his Gravethief Token (1200 → 1700). He then activates Damsel Token effect to gain 700 LP and inflict 300 LP. Due to him gaining LP, his Gravethief Token gains 300 ATK until the End Phase (1700 → 2000).|(1500 - 2700)|Subduel.
+Player 6|Kanekura's Gravethief Token (2000) attacks the Mummy Token (800). 1200 LP damage. It is not enough to win this turn. The subduel ends.|(600 - 2700)|Subduel ends.
+Player 1|As Kanekura wasn't able to win the subduel, Judgment of the Dead inflicts 1000 LP of damage to him.|2000 - 1000|
+Player 1|Ammit effect activates, gaining Piercing Damage until the End Phase. It attacks (2500) and destroys Bolt Escargot (1500 DEF). 1000 LP damage.|2000 - 0|
+Player 1|Shadi wins.||
+{{< /dueltable >}}
+
+---
+## EP 59 - Shadi vs Yugi
+
+{{< dueltable header1="EP 59" header2="Shadi vs Yugi" >}}Setup|Duel in Tabletop terrain (100% Land)|2000 - 2000|Mind duel.
+Player 1|Shadi draws and plays his Millennium Key to the Rule Zone. He activates his effect to see Yugi's Extra Deck (Charges 7 → 4)||After seeing that Yugi doesn't play his own symbol he doesn't uses his Key anymore.
+Player 1|He plays the Eye of Truth to see what yugi has in his hand. He then plays his Millennium Shield in face-up DEF and ends his turn.||
+Player 2|Yugi draws and summons Silver Fang in face-up DEF and ends his turn.||
+Player 1|Shadi draws and summons Destroyer Golem (1500). It attacks and destroys Silver Fang (800 DEF). He then sets a card.||
+Player 1|Shadi recharges his Symbol (Charges 4 → 5).||
+Player 2|Yugi draws and summons Devil Dragon in ATK (1700). It attacks Destroyer Golem but Shadi activates his trap card Eye of Ujat, redirecting the attack to the Millennium Shield but it does no damage due to Devil Dragon effect.||
+Player 1|Shadi draws and activates his Charm of Shabti.||
+Player 1|He then activates his Judgment of the Dead, which activates his Rule card "Mind Puzzle - Hell Quiz", and therefore a subduel happens.||A subduel begins here. Player 5 = Shadi, Player 6 = Yugi.
+Player 6|Yugi's Standby Phase. 100% Graveyard Terrain. In hand he has Resurrection of the Dead, Offerings to the Dead, Soul Release and Brain Control. No cards in graveyard or deck. Shadi has 3 Mummy Tokens and 2 Undead Warriors, all in attack, no cards in his hand.|(700 - 100)|Subduel.
+Player 6|Yugi uses Offerings to the Dead, discarding Resurrection of the Dead, to destroy one Undead Warrior.||Subduel.
+Player 6|He uses Brain Control to take control of the other Undead Warrior.||Subduel.
+Player 6|He uses Soul Release to remove the Undead Warrior in Shadi's graveyard, and therefore change 1 Graveyard terrain to Land terrain, in where a Mummy Token actually is (who lose field power bonus).||Subduel.
+Player 6|Undead Warrior in a graveyard terrain (1200 + 360 = 1560) attacks the Mummy Token in Land Terrain (800). 760 LP damage. The subduel ends.|(0 - 100)|Subduel ends.
+Player 1|Shadi recharges his Symbol (Charges 5 → 6).||
+Player 1|Shadi changes his Destroyer Golem to DEF, sets a card and ends his turn.||
+Player 2|Yugi draws. He uses Hand Obliteration to destroy all hands and draw again. He then summons Curse of Dragon (2000), it attacks and destroys Destroyer Golem (1000 DEF).||
+Player 1|Shadi draws, he activates his set Pharaonic Retribution Ritual, tributing his Millennium Shield to Ritual Summon Ammit.||
+Player 1|He activates his Judgment of the Dead, which activates his Rule card "Mind Puzzle - Concentration or Death", and therefore a subduel happens.||A subduel begins here. Player 5 = Shadi, Player 6 = Yugi.
+Player 6|Yugi's Standby Phase. 100% Land Terrain. No cards in hand, graveyard or deck. Yugi has Gaia the Dragon Knight in ATK. Shadi has Kuriboh, Critter, Grappler and Barox in face-up DEF, he also has a face-down monster in DEF and Minor Goblin Official active since his previous turn.|(1000 - 600)|Subduel.
+Player 6|Yugi can only attack the hidden monster due to Minor Goblin Official, and has to declare a Level and Attribute to do it. He checks the other cards and figures it out that they go from level 1 to 5 except they are missing level 2. And they are all dark except grappler which is water, Grappler being the only even level of the bunch. He declares level 2 and WATER, which is correct.||Subduel.
+Player 6|Gaia (2600) attacks and destroys Largemouth (550 DEF) and due to Piercing it inflicts 2050 LP damage. The subduel ends.|(0 - 600)|Subduel ends.
+Player 1|Shadi's Ammit (2500) attacks and destroys Curse of Dragon (2000). 500 LP damage.|2000 - 1500|
+Player 1|Shadi recharges his Symbol (Charges 6 → 7) and ends his turn.||
+Player 2|Yugi draws. He summons Dark Magician in ATK (2500). He equips it with Book of Secret Arts (2500 → 2800). It attacks and destroys Ammit (2500). 300 LP damage.|1700 - 1500|
+Player 2|Yugi sets a card.||
+Player 1|Shadi draws, he activates his Primitive Revival Ritual and Ritual Summons Millennium Primitive Man (2750) by eroding Destroyer Golem, Millennium Shield and Ammit from his graveyard.||
+Player 1|He activates his Judgment of the Dead, which activates his Rule card "Mind Puzzle - Game of Death", and therefore a subduel happens.||A subduel begins here. Player 5 = Shadi, Player 6 = Yugi.
+Player 6|Yugi's Standby Phase. 100% Land Terrain. No cards in hand, graveyard or deck. Yugi has Cavern Devil Ogre Rock in ATK, and in his hand he has "Shield in the Right Hand, Sword in the Left Hand", "Offerings to the Dead", "Awakening", "Breath of God". Shadi has Clone Token in DEF equipped with Amulet of the Protector Spirit, both targeting Yugi's monster.|(600 - 200)|Subduel.
+Player 6|Yugi uses Offerings to the Dead, discarding Shield in the Right Hand Sword in the Left Hand, to decrease his own Cavern Devil's ATK by 600 (800 → 200). It is decreasing so it does not trigger the Amulet.||Subduel.
+Player 6|He then activates Awakening, targeting Shadi's Clone Token (800 → 1200).||Subduel.
+Player 6|Yugi then activates Breath of God, which destroys both monsters at the same time and inflict destruction damage. 100 LP damage to Yugi, 600 LP damage to Shadi. The subduel ends.|(0 - 100)|Subduel ends.
+Player 1|Primitive Man attacks Dark Magician but Yugi activates his set Curse of the Hexagram to negate the attack and weaken it (2750 → 2050).||
+Player 1|In his End Phase, Judgment of the Dead "persist" condition ends and it is sent to the graveyard, Shadi takes 1000 LP of damage.|700 - 1500|
+Player 2|Yugi draws. Dark Magician (2800) attacks and destroys Primitive Man (2050). 750 LP damage.|0 - 1500|
+Player 2|Yugi wins.||
+{{< /dueltable >}}
+
+---
+## EP 59 - Shadi vs Yoshimori
+
+{{< dueltable header1="EP 59" header2="Shadi vs Yoshimori" header4="Partial Duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|1900 - 800|
+Setup|Yoshimori has Guardian Sphinx in face-up DEF.||
+Setup|Shadi has Ammit in ATK.||
+Player 1|A subduel is active due to Judgment of the Dead, the current puzzle is "Mind Puzzle - Marionette Design"||A subduel is in play. Player 5 = Shadi, Player 6 = Yoshimori.
+Player 6|Yoshimori's Standby Phase. 100% Land Terrain. No cards in graveyard or deck. Yoshimori has Marionette Token in ATK, and in his hand he has "Brain Control", "Mimic Illusionist", "Stampeding Sword Beast". Shadi has Mister Bomber in DEF, no cards in hand and "Legendary Sword", "Red Medicine" and "Magic Removal" in his graveyard.|(200 - 200)|Subduel.
+Player 6|Yoshimori summons Stampeding Sword Beast thinking that the piercing will win him the game. Unfortunately he didn't account for his Marionette Token being forced to attack, which makes him unable to attack with his Sword Beast.||Subduel.
+Player 6|Marionette Token (700) attacks Mister Bomber (900 DEF). 200 LP self-damage. Yoshimori loses, the subduel ends.|(200 - 0)|Subduel ends.
+Player 1|As Yoshimori lost the subduel, Judgment of the Dead inflicts 1000 LP of damage to him.|1900 - 0|
+Player 1|Shadi wins.||
+{{< /dueltable >}}
+
+---
+## EP 60 - Priest Seto vs Pharaoh Servant
+
+{{< dueltable header1="EP 60" header2="Priest Seto vs Pharaoh Servant" header4="Partial Duel. Flashback" >}}Setup|Duel in progress. Pharaoh's Court (Desert 40%, Temple 60%)|2000 - 2000|
+Setup|"Diaha" Rule activated. Each player summons a Ba token, attaching all Normal monsters in their decks to them.||
+Player 1|Priest Seto draws. He activates Zemia Tablet Ritual to Ritual Summon Zemia in ATK by eroding God of Zemia from his Ba.||
+Player 2|Pharaoh Servant draws. He activates Winged Dragon Tablet Ritual, eroding Winged Dragon Guardian of the Fortress from his Ba to Ritual Summon "Winged Dragon" in ATK.||
+Player 2|Winged Dragon (1400) attacks and destroys God of Zemia (1300). Priest's Seto Ba loses 100 LP.|1900 - 2000|
+Player 1|Priest Seto draws. He activates La Jinn Tablet Ritual, eroding La Jinn the Demonic Spirit of the Lamp to Ritual Summon "La Jinn" in ATK.||
+Player 1|He doesn't attack due to La Jinn effect.||
+Player 2|Pharaoh Servant draws. He activates Faerie Dragon Tablet Ritual, eroding Fairy Dragon from his Ba to Ritual Summon "Faerie Dragon" in ATK.||
+Player 2|He then activates Fusion to Fusion Summon Kaiser Dragon by fusing his two monsters.||
+Player 2|Kaiser Dragon (2300) attacks and destroys La Jinn (1800). Priest's Seto Ba loses 500 LP.|1400 - 2000|
+Player 1|Priest Seto draws. He activates White Dragon Ritual, eroding Minotaurus and Kentaurus from his Ba to Ritual Summon "White Dragon" in ATK.||
+Player 1|White Dragon (3000) attacks and destroys Kaiser Dragon (2300). Pharaoh Servant Ba loses 700 LP.|1400 - 1300|
+Player 1|White Dragon activates its effect to halve its attack until the End Phase to declare another attack 3000 → 1500. It attacks the Ba directly. Pharaoh Servant Ba loses 1500 LP.|1400 - 0|
+Player 1|Priest Seto wins.||
+{{< /dueltable >}}

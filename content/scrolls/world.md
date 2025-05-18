@@ -1,28 +1,43 @@
 +++
 title = 'Setting'
-toc = false
+toc = true
 +++
 
 >_**[Yugioh Scrolls](/yugioh-scrolls)** takes place in a slightly different setting than the original anime and manga. It takes place in a single continuity so all the story chapters are interconnected and can be placed in the [**Timeline**](/scrolls/timeline/), and therefore there are different locations around Japan (and beyond) that are also tied to the chapters of the story, listed here._
 
 ---
 
+*(This section is in development)*
+
 ## Locations in Japan
 
-- Domino City
-- Duelist Kingdom Island
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Domino City" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Pegasus' Island" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Arukatorazu" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+</div>
 
-*(This section is in development)*
+## Other Locations in the Human World
 
-## Locations in the rest of the Human World
-
-- 
-
-*(This section is in development)*
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Egypt" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="San Francisco, USA" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Virtual World" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+</div>
 
 ## Locations in the Spirit World
 
-*(This section is in development)*
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+</div>
 
 ---
 
