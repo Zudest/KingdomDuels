@@ -180,10 +180,40 @@
             }
         }
 
+        // Generate simulator data for KDSim compatibility
+        function generateSimulatorData(deck) {
+            const simulatorData = {
+                mainDeck: [],
+                extraDeck: [],
+                otherCards: []
+            };
+            
+            deck.forEach(card => {
+                const simCard = {
+                    cardId: card.cardid,
+                    name: card.name,
+                    type: card.frame,
+                    description: "",
+                    image: card.image
+                };
+                
+                if (card.deck === 'A') {
+                    simulatorData.mainDeck.push(simCard);
+                } else if (card.deck === 'B') {
+                    simulatorData.extraDeck.push(simCard);
+                } else if (card.deck === 'C') {
+                    simulatorData.otherCards.push(simCard);
+                }
+            });
+            
+            return simulatorData;
+        }
+
         // Export deck as JSON to later import to edit
         function exportDeckJSON() {
             const deckData = {
-                cards: deck.map(card => card.cardid)
+                cards: deck.map(card => card.cardid),
+                simulator: generateSimulatorData(deck)
             };
 
             const blob = new Blob([JSON.stringify(deckData, null, 2)], { type: 'application/json' });
