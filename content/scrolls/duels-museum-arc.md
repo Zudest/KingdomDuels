@@ -663,3 +663,157 @@ Player 1|White Dragon (3000) attacks and destroys Kaiser Dragon (2300). Pharaoh 
 Player 1|White Dragon activates its effect to halve its attack until the End Phase to declare another attack 3000 → 1500. It attacks the Ba directly. Pharaoh Servant Ba loses 1500 LP.|1400 - 0|
 Player 1|Priest Seto wins.||
 {{< /dueltable >}}
+
+---
+## EP 61 - Keith vs Yugi
+
+{{< dueltable header1="EP 61" header2="Keith vs Yugi" >}}Setup|Abandoned Warehouse terrain (20% Factory, 80% City)|2000 - 2000|
+Player 2|Yugi draws, he summons Elf Swordsman in ATK.||
+Player 1|Keith draws, he hides a monster in City terrain.||
+Player 2|Yugi draws. Elf Swordsman attacks Cyber Pod that has a Flip effect. Cyber Pod is destroyed but Elf swordsman is also destroyed. Both players pick up 5 cards and summon level 4 or lower normal monsters from there, adding the rest to their hands.||
+Player 2|Yugi special summon Silver Fang in face-up DEF in City terrain. Keith summon Mecha Hunter in ATK and Ground Attacker Bugroth in ATK.||
+Player 1|Keith draws, he summons Machine King in ATK in Factory terrain (1600 → 2080) and gaining more attack due to its effect as there are two other machine monsters (2080 → 2280)||
+Player 1|Machine King (2280) attacks and destroys Silver Fang (800 DEF)||
+Player 2|Yugi draws, he hides a monster in DEF in City.||
+Player 1|Keith draws, he summons Megasonic Eye. Machine King gains more attack due to its effect (2280 → 2380). Machine King (2380) attacks and destroys Giant Soldier of Stone (2000 DEF).||
+Player 2|Yugi draws, he uses Fusion to Fusion Summon Gaia the Dragon Knight by fusing Curse of Dragon and Gaia the Fierce Knight from his hand.||
+Player 2|Gaia the Fierce Knight (2600) attacks Mecha Hunter (1850) and destroys it. 750 LP damage. Machine King loses attack (2380 → 2280).|1250 - 2000|
+Player 1|Keith draws. He switch Megasonic Eye and Ground Attacker Bugroth to DEF. He plays Machine Conversion Factory to change the terrains to Factory to buff his monsters.||
+Player 1|Machine King whose field power bonus was changed due to Conversion Factory (1600 + 200 + 480 → 1600 + 200 + 1000, meaning 2280 → 2800) attacks and destroys Gaia the Fierce Knight (2600). 200 LP damage.|1250 - 1800|
+Player 2|Yugi draws. He activates Magical Drizzle's first effect, having every monster gain the Dampened type. He then activates Accelerated Corrosion Rule card to lower the attack of the dampened machines by removing their field power bonus.||
+Player 2|He plays Demon's Summon in ATK and activates Electric Current Rule card. Demon's Summon gains the buff for Thunderblast attacking Dampened (2500 → 3500) and destroys Machine King (2800 → 1800 due to Accelerated Corriosn). It should be 1700 LP of damage but due to Megasonic Eye the damage is reduced to 750 LP damage.|500 - 1800|
+Player 1|Keith draws and activates Angel's Charity to draw 3 and discard 2, he discards Royal Guard and Giganto, drawing Mechanical Soldier, one other card and the Advent of Zera that he cheated on top of the deck.||Keith cheats here.
+Player 1|He activates Advent of Zera, tributing Megasonic Eye and Ground Attacker Bugroth to add Warrior of Zera and Gargoyle Powered to his hand, and immediately Fusion Summon Zera.||
+Player 1|Zera (2800) attacks and destroys Demon's Summon (2500). 300 LP damage.|500 - 1500|
+Player 2|Yugi draws. He hides Devil Dragon in DEF in the City because he has no monsters and passes.||
+Player 1|Keith draws. He summons Mechanical Soldier in a Factory (1700 → 2210). He also cheats here, adding a Magic Jammer to his hand from his wrist, and setting it. He then activates Defense Seal to switch Devil Dragon to ATK.||Keith cheats here.
+Player 1|Zera (2800) attacks and destroys Devil Dragon (1700). 1100 LP damage.|500 - 400|
+Player 2|Yugi draws. He hides Holy Elf in DEF in the City because he has no monsters and passes.||
+Player 1|Keith draws. Mechanical Soldier (2210) attacks and destroys Holy Elf (2000 DEF). He then sets two cards, and switches Zera to DEF.||
+Player 2|Yugi draws. He sets a card and summons Dark Magician in face-up DEF, and activates Magical Silk Hats, but this triggers Magic Jammer which destroys the hats.||
+Player 1|Keith draws. In his Standby Phase he activates his set Evil Ceremony to switch the battle position of all monsters on the field (Zera and Dark Magician to ATK, Mechanical Soldier to DEF)||
+Player 1|Zera (2800) attacks Dark Magician (2500) but Yugi activates Holy Barrier Mirror Force to redirect the attack, but Keith activates God's Judgment to negate it by paying half of his life points. Dark Magician is destroyed. 300 LP damage.|250 - 100|
+Player 2|Yugi draws and smiles seeing what he drew. He sets a card and plays a monster in hidden DEF.||
+Player 2|At this point Bakura interferes and interrupts the duel, breaking Keith's Mind Control.|DNF|
+{{< /dueltable >}}
+
+---
+## EP 62 - Otogi vs Jonouchi
+
+{{< dueltable header1="EP 62" header2="Otogi vs Jonouchi" header4="Partial Duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|700 - 1100|
+Setup|Otogi has Super-Dimensional Fighter Vic Viper in ATK.||
+Setup|Jonouchi has Giant Idol of Steel in ATK equipped with Magic-Reflection Armor Metal Force, and Goblin Attack Force in DEF.||
+Player 1|Otogi activates Cyclon Laser, equipping it to Vic Viper (1200 → 1500). It attacks and destroys Goblin Attack Force.||
+Player 2|Jonouchi draws and activates Shield in the Right Hand, Sword in the Left Hand to change the atk/def of all monsters on the field. Giant Idol of Steel (1400 → 1800) attacks and destroys Vic Viper (1500 → 800). 1000 LP damage.|0 - 1100|
+Player 2|Jonouchi wins.||
+{{< /dueltable >}}
+
+---
+## EP 62 - Step Johnny vs Anzu
+
+{{< dueltable header1="EP 62" header2="Step Johnny vs Anzu" >}}Setup|Duel in Kaiba Corporation Arena (Arena 100%)|2000 - 2000|
+Player 1|Johnny draws and summons Sonic Maiden in ATK.||
+Player 2|Anzu draws and summons Fairy's Gift (1400), who attacks and destroys Sonic Maiden (1200). 200 LP damage.|1800 - 2000|
+Player 1|Johnny draws and summons Water Dancer in ATK (1400)||
+Player 2|Anzu draws and passes.||
+Player 1|Johnny draws and summons Spirit of the Harp in DEF (2000 DEF). He then activates Chorus of Sanctuary to increase the DEF of its monsters and Alter Summon Muse Angel in DEF.||
+Player 2|Anzu draws and summons Valkyrie (1800), who attacks and destroys Water Dancer (1400). 400 LP damage.|1400 - 2000|
+Player 1|Johnny draws and summons Musician King (1750) in ATK, who attacks and destroys Fairy's Gift (1400). 350 LP damage. He then sets a card.|1400 - 1650|
+Player 2|Anzu draws. Her Valkyrie (1800) attacks Musician King (1750) but Johnny activates his trap Magic-Reflection Armor - Metal Force, and Alter Summons Heavy Metal King, attaching Metal Force to it. A replay occurs and Heavy Metal King (2050) destroys Valkyrie. 250 LP self-damage.|1400 - 1400|
+Player 1|Johnny draws and passes.||
+Player 2|Anzu draws, she summons Dancing Elf in hidden DEF.||
+Player 1|Johnny draws. Heavy Metal King attacks gaining half its opponent's attack for that battle (2050 + (300 / 2) → 2200) and destroys Dancing Elf (200 DEF → 700 DEF due to Chorus of Sanctuary), but its flip effect activates and it negates the EQUIP effect of Metal Morph until her next End Phase.||
+Player 2|Anzu draws. She summons Maha Vailo in ATK (1550). She equips Book of Secret Arts to it, also gaining a buff for its own effect (1550 → 2350). Maha Vailo attacks and destroys Heavy Metal King (2050). 300 LP damage.|1100 - 1400|
+Player 2|At this point Johnny protests that his monster should have gained ATK, but Yugi explains that the effect is actually to gain ATK while attacking, not while being attacked. Anzu thanks him for his insight, and Johnny asks for his name one more time. When he realizes that Yugi is indeed the Duel King, Johnny runs away (Surrender Card rule).|0 - 1400|
+Player 2|Anzu wins.||
+{{< /dueltable >}}
+
+---
+## EP 63 - Ishizu vs Yugi
+
+{{< dueltable header1="EP 63" header2="Ishizu vs Yugi" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|
+Player 1|Ishizu plays her Millennium Necklace to the Rule Zone.||During this entire duel Ishizu in her mind predicts the next card Yugi is going to draw and play, but he doesnt use his symbol.
+Player 1|She uses her Mind Prediction effect (Charges 7 → 6) to see Yugi's hand and top 3 cards of the decks.||
+Player 1|Ishizu draws and uses Hand Obliteration, they both discard their hands and draw new cards, to Yugi's shock as he is forced to discard Dark Magician among other strong cards.||
+Player 1|She hides a monster in DEF in the Ruins and activates Necrovalley.||
+Player 2|Yugi draws Resurrection of the Dead, but is unable to use it due to Necrovalley.||
+Player 2|He summons Winged Dragon, Guardian of the Fortress in ATK. It attacks (1400) but the hidden monster was Gravekeeper's Spy (2000), which activates its effect when is flipped and survives the attack. 600 LP self-damage.|2000 - 1400|
+Player 1|Ishizu draws. She sets a card and summons Gravekeeper's Assassin (1500 → 1800). Her Assassin attacks and destroys Winged Dragon. 400 LP damage.|2000 - 1000|
+Player 2|Yugi draws. He activates Monster Replace, to return to his hand Gravekeeper's Spy (which returns to Ishizu's Hand), and in his place he summons Curse of Dragon.||
+Player 2|Curse of Dragon (2000) attacks Gravekeeper's Assassin (1900 → 1500), but Ishizu activates her trap card Curse of the Hexagram to negate the attack.||
+Player 2|Yugi summons Giant Soldier of Stone in face-up DEF in the Ruins (2000 → 2600 DEF) and passes.||
+Player 2|Before the end of his turn, Ishizu uses her Mind Prediction effect (Charges 6 → 5) to see Yugi's hand and top 3 cards of the decks.||
+Player 1|Ishizu draws. She summons Mudora (1500 → 1900), who attacks the weakened Curse of Dragon (2000 → 1300) and destroys it. 700 LP damage.|2000 - 300|
+Player 2|Yugi draws. He switches Giant Soldier of Stone to ATK to activate its effect, destroying Necrovalley. He now has the option of resurrecting a strong monster using his Resurrection of the Dead in his hand, but instead Yugi uses his Brain Control to take control of the Assassin, and activates Chaos Ritual to tribute the Assassin alongside the Holy Elf in his hand to Ritual Summon Chaos Soldier.||
+Player 2|Chaos Soldier (3000) attacks and destroys Mudora (1900). 1100 LP damage.|900 - 300|
+Player 2|At this point, Ishizu surrenders (Surrender Card rule), stating that before the duel even started she saw in the future that she couldn't win against him, but she still wanted to see the power of his determination.||
+Player 2|Yugi wins.||
+{{< /dueltable >}}
+
+---
+## EP 64 - Bakura vs Ishizu
+
+{{< dueltable header1="EP 64" header2="Bakura vs Ishizu" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|
+Player 1|Bakura plays his Millennium Ring into the Rule Zone.||
+Player 1|Bakura uses his Mind Compass effect (Charges 7 → 6) and declare Normal Monster to have ishizu reveal to him one of them. Ishizu is surprised at seeing him having a Millennium Item, but she hasn't activated her own yet so she reveals Mudora from her hand.||
+Player 1|Bakura hides a monster in DEF, sets a card and passes.||
+Player 2|Ishizu plays her Millennium Tauk into the Rule Zone.||
+Player 2|She uses her Mind Prediction effect (Charges 7 → 4) to try to see his hand and top 3 cards of each deck. It costs more charges than normal because Bakura has a Millennium Item Symbol active. Bakura negates the effect by paying 1 charge (6 → 5).||
+Player 2|She summons Mudora (1500) in ATK and attacks the hidden monster, which is Metamor Pot (600 DEF). It is destroyed and its effect activates, making both players discard their hands and draw 5 new cards.||
+Player 1|Bakura draws and uses his Mind Compass symbol effect (Charges 5 → 4) but Ishizu activates her concealment symbol effect in response (Charges 4 → 0), negating all effects that target her.||
+Player 1|Bakura hides a monster in DEF and passes.||
+Player 2|Ishizu draws, she summons Gravekeeper's Priestess (1500) and activates its effect. She does not reveal any card from the top. Priestess attacks the face-down card, which is Incubus Ghost (1800 DEF). Ishizu loses 300 LP.|2000 - 1700|
+Player 2|Ishizu sets a card and passes her turn. During the End Phase Incubus Ghost attaches itself to Gravekeeper's Priestess, adding the Slumbering type. At this point Bakura plays Bedtime Rule card so Priestess is changed to DEF. Bakura gains 300 LP and Priestess DEF is decreased (1500 DEF → 1200 DEF).|2300 - 1700|
+Player 1|Bakura draws. He summons Seven-Armed Fiend in ATK (666), paying 666 LP.|1634 - 1700|
+Player 1|He declares an attack using the STRIKE effect, which Ishizu responds by attempting to use her face-down card, but at this moment Shadi appears, interrupting the duel which ends in a no-result.|DNF|
+{{< /dueltable >}}
+
+---
+## EP 65 - Bakura vs Pegasus
+
+{{< dueltable header1="EP 65" header2="Bakura vs Pegasus" header4="Partial Duel. Flashback" >}}Setup|Duel in Progress. Tabletop terrain (100% Land)|200 - 1600|
+Setup|Bakura has Millennium Ring with 0 charges and Ghost Earl in ATK.||
+Setup|Pegasus has Millennium Eye with 0 charges, has Toon World with Toon Defense attached, Toon Gemini Elf and Toon Cannon Soldier in ATK||
+Player 2|Pegasus draws. He summons Goblin Attack Force, turning them into Toon Goblin Attack Force||
+Player 2|Toon Goblin Attack Force (2300) attacks Ghost Earl (2000). 300 LP damage.|0 - 1600|
+Player 2|Pegasus wins. Bakura would then use his Millennium Item to erase Pegasus memory of this mind duel and think of an alternative strategy: to defeat this man he needs to duel him when he is at his weakest.||
+{{< /dueltable >}}
+
+---
+## EP 65 - Bakura vs Pegasus
+
+{{< dueltable header1="EP 65" header2="Bakura vs Pegasus" header4="Partial Duel. Flashback" >}}Setup|Duel in Progress. Tabletop terrain (100% Land)|1200 - 400|
+Setup|Bakura has Happy Lover in ATK equipped with Mask of Darkness (1700 ATK). He has his Millennium Ring symbol with 4 charges.||
+Setup|Pegasus has Illusionist Faceless Mage in ATK. He has his Millennium Eye symbol without charges.||
+Player 1|Bakura's Happy Lover (1700) attacks and destroys Illusionist Faceless Mage (1200). No LP damage inflicted due to Mask of Darkness effect.||
+Player 2|Pegasus draws Monster Eye. He has no options in his hand to use. He passes and gets an Idle Warning.||
+Player 2|In his End Phase, given that it has been 12 of Pegasus End Phases since Doma the Angel of Silent Death was sent to the graveyard, it's effect resolves and Pegasus loses the duel.|0 - 400|
+Player 2|Bakura wins.||
+{{< /dueltable >}}
+
+---
+## EP 65 - Bakura vs Shadi
+
+{{< dueltable header1="EP 65" header2="Bakura vs Shadi" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|
+Player 1|Bakura plays his Millennium Ring into the Rule Zone.||
+Player 1|He plays a monster in hidden DEF and sets a card.||
+Player 2|Shadi draws. Bakura activates his Millennium Ring Mind Compass effect (Charges 7 → 6) and declares Trap. Shadi has no Traps in hand to reveal.||
+Player 2|Shadi then plays his Millennium Key into the Rule Zone and uses its effect to force bakura to play one of the cards (Charges 7 → 4).||
+Player 2|He summons Millennium Golem in ATK in the Ruins (2000 → 2600). Then, he plays on the field his Judgment of the Dead. He then goes to activate its effect but in response Bakura laughs and activates his set Magic Removal, destroying Judgment of the Dead before the subduel happens, and due to it leaving the field Shadi loses 1000 LP.|2000 - 1000|
+Player 2|Shadi attacks with his Millennium Golem, but the attacked card was Electric Lizard, so Millennium Golem cannot attack on its next turn.||
+Player 1|Bakura draws, he plays a monster in hidden DEF, sets the card Shadi forced him to play and passes.||
+Player 2|Shadi draws. Given than his Millennium Golem cannot attack due to Electric Lizard, Shadi figures that Bakura doesn't want his monster to be attacked.||
+Player 2|He summons Destroyer Golem in a Ruins terrain (1500 → 1950) and it attacks the hidden monster, which is Chaos Pot. Chaos Pot activates its effect. Shadi is unable to summon any monster from his top 5 cards so he discards them all (Charm of Shabti, Pharaohnic Retribution Ritual, Swords of Revealing Light, Remove Trap and Soul Release). Bakura hides in DEF Flesh-Eating Insect. He discards Reaper of the Cards, Defense Seal, Incubus Ghost and Change of Heart.||
+Player 2|In the End Phase Bakura uses his Millennium Ring Compass effect (Charges 6 → 5) and declares Trap. Shadi has no Traps in hand to reveal once again. Shadi then uses his own symbol to regain a charge (Charges 4 → 5).||
+Player 1|Bakura draws, he sets a card and ends his turn.||
+Player 2|Shadi draws. He summons Man with the Eye of Wdjat in face-up DEF. Shadi uses its effect to look at Bakura's set card. It is revealed to be Diabound Ritual. Curious, Shadi uses his Millennium Item effect to see his Extra Deck (Charges 5 → 2) and sees the card mentioned in that spell. For some reason that card terrifies Shadi, and even he is not sure why. Bakura smiles but says nothing, and the card goes back to its position after this effect.||
+Player 1|Bakura draws. He flips his Flesh-Eating Insect into face-up DEF, targeting and destroying Man with the Eye of Wdjat.||
+Player 2|Shadi draws. He summons Gravekeeper's Priest in ATK. It attacks and destroys Flesh-Eating Insect who was in DEF. He then sets a card and uses his symbol to regain charges (Charges 2 → 3)||
+Player 1|Bakura draws. He summons "Hades, Demon King of the Underworld".||
+Player 1|Hades attacks Gravekeeper's Priest but Shadi activates his trap Curse of the Millennium Shield, which equips Millennium Shield to Gravekeeper's Priest, buffing its DEF and preventing its destruction. Battle damage is halved but Bakura receives damage for his own attack (3000 - 2450 = 550 / 2 = 275 LP Self-Damage).|1725 - 1000|
+Player 1|Bakura sets a card and passes. He hasn't activated his Millennium Item in the last rounds, as if stating that he doesn't need it to win.||
+Player 2|Shadi draws and plays Flame Dancer in face-up DEF, using its effect on his Priest to allow it to attack with its DEF which is a fixed value of 3000 due to the shield.||
+Player 2|The Priest attacks Hades, but Bakura activates his trap Cursed Document to weaken it (3000 → 1500 → 1300), so Hades has the higher ATK (2450). 1150 LP self damage.|1725 - 0|
+Player 2|Bakura wins.||
+{{< /dueltable >}}
+
