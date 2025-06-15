@@ -19,7 +19,7 @@ toc = false
 
 - Check the recent [**Museum Arc Retrospective**](/post/retrospective-museum-arc/) where I expand a bit about how was the experience of designing cards and mechanics for the very first Story Arc after Duelist Kingdom.
 
-- Check the recent [**Changes in Preparation for Battle City**](/post/???/) where we discuss about some important structural and quality of life changes that the game is receiving before we start with the Battle City Arc.
+- Check the recent [**Changes in Preparation for Battle City**](/post/adjustments-before-battle-city/) where we discuss about some important structural and quality of life changes that the game is receiving before we start with the Battle City Arc.
 
 - Take a look at the tentative [rulebook](/rules-wip) with all the upcoming changes that we'll be rolling in the coming weeks.
 
