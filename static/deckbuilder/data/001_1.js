@@ -1,382 +1,382 @@
 const CHAPTER1_ARC1_DUELISTKINGDOM = {
     "cards": [
-        {"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "01","deck": "B","duelist": ""}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "02","deck": "B","duelist": ""}
-        ,{"name": "Tabletop","frame": "Rule","types": "Rule Field Setup","set": "SOE","id": "03","deck": "B","duelist": ""}
-        ,{"name": "Shien's Body Double","frame": "Monster","types": "Monster Warrior Support","set": "SOE","id": "04","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Shadow Fighter","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "05","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Sea King of Anger","frame": "Monster","types": "Monster Aquatic Warrior","set": "SOE","id": "06","deck": "A","duelist": "Jonouchi, Mokuba"}
-        ,{"name": "Claw Reacher","frame": "Monster","types": "Monster Demon","set": "SOE","id": "07","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Death Stalker","frame": "Monster","types": "Monster Warrior Insect","set": "SOE","id": "08","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Dark Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "SOE","id": "09","deck": "A","duelist": "Yugi"}
-        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "10","deck": "B","duelist": ""}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "11","deck": "B","duelist": ""}
-        ,{"name": "Kaiba Corporation Arena","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "SOE","id": "12","deck": "B","duelist": ""}
-        ,{"name": "Kaiba Corporation Arena","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "SOE","id": "13","deck": "B","duelist": ""}
-        ,{"name": "Cyclops","frame": "Monster","types": "Monster Beast Warrior","set": "SOE","id": "14","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Winged Dragon, Guardian of the Fortress","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "SOE","id": "15","deck": "A","duelist": "Yugi, Pharaoh Servant"}
-        ,{"name": "Saggi the Dark Clown","frame": "Monster","types": "Monster Spellcaster","set": "SOE","id": "16","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Dark Generator","frame": "Spell","types": "Spell Equip","set": "SOE","id": "17","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Critter","frame": "Monster","types": "Monster Demon","set": "SOE","id": "18","deck": "A","duelist": "Yugi, Rebecca, Arthur"}
-        ,{"name": "Bull Devil","frame": "Monster","types": "Monster Beast Warrior","set": "SOE","id": "19","deck": "A","duelist": "Yugi"}
-        ,{"name": "Saigar","frame": "Monster","types": "Monster Beast","set": "SOE","id": "20","deck": "A","duelist": "Yugi, Mokuba"}
-        ,{"name": "Gaia the Fierce Knight","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "21","deck": "A","duelist": "Yugi"}
-        ,{"name": "Blue-Eyes White Dragon","frame": "Monster","types": "Monster Dragon Flying","set": "SOE","id": "22","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Imp","frame": "Monster","types": "Monster Demon","set": "SOE","id": "23","deck": "A","duelist": "Yugi"}
-        ,{"name": "Beaver Warrior","frame": "Monster","types": "Monster Beast Warrior","set": "SOE","id": "24","deck": "A","duelist": "Yugi"}
-        ,{"name": "Swords of Revealing Light","frame": "Spell","types": "Spell Persist (3 opponent End Phases)","set": "SOE","id": "25","deck": "A","duelist": "Yugi, Sugoroku"}
-        ,{"name": "Rude Kaiser","frame": "Monster","types": "Monster Reptillian Warrior","set": "SOE","id": "26","deck": "A","duelist": "Yugi, Kaiba, Jonouchi"}
-        ,{"name": "Judge Man","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "27","deck": "A","duelist": "Kaiba, Ooka, The Big Five"}
-        ,{"name": "Dark Magician","frame": "Monster","types": "Monster Spellcaster","set": "SOE","id": "28","deck": "A","duelist": "Yugi, Sugoroku"}
-        ,{"name": "Heart of the Cards","frame": "Rule","types": "Rule Symbol","set": "SOE","id": "29","deck": "B","duelist": "Yugi"}
-        ,{"name": "Head of the Sealed One","frame": "Divine Monster","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "30","deck": "A","duelist": "Yugi, Gozaburo"}
-        ,{"name": "Right Leg of the Sealed One","frame": "Divine Monster","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "31","deck": "A","duelist": "Yugi, Gozaburo"}
-        ,{"name": "Left Leg of the Sealed One","frame": "Divine Monster","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "32","deck": "A","duelist": "Yugi, Gozaburo"}
-        ,{"name": "Right Arm of the Sealed One","frame": "Divine Monster","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "33","deck": "A","duelist": "Yugi, Gozaburo"}
-        ,{"name": "Left Arm of the Sealed One","frame": "Divine Monster","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "34","deck": "A","duelist": "Yugi, Gozaburo"}
-        ,{"name": "Palace God Pantheon","frame": "Rule","types": "Rule","set": "SOE","id": "35","deck": "B","duelist": "Yugi"}
-        ,{"name": "Exodia","frame": "Divine Fusion Monster","types": "Divine Fusion Monster Spellcaster Warrior Palace God (Hierarchy 7)","set": "SOE","id": "36","deck": "B","duelist": "Yugi"}
-        ,{"name": "Anzu","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "37","deck": "B","duelist": ""}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "38","deck": "B","duelist": ""}
-        ,{"name": "Cavern Devil - Ogre Rock","frame": "Monster","types": "Monster Elemental","set": "SOE","id": "39","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Happy Lover","frame": "Monster","types": "Monster Angel Flying","set": "SOE","id": "40","deck": "A","duelist": "Anzu, Bakura"}
-        ,{"name": "Breath of God","frame": "Spell","types": "Spell","set": "SOE","id": "41","deck": "A","duelist": "Anzu, Yugi"}
-        ,{"name": "Haga","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "42","deck": "B","duelist": ""}
-        ,{"name": "Ryuzaki","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "43","deck": "B","duelist": ""}
-        ,{"name": "Two-Headed King Rex","frame": "Monster","types": "Monster Dinosaur Flying","set": "SOE","id": "44","deck": "A","duelist": "Ryuzaki"}
-        ,{"name": "Basic Insect","frame": "Monster","types": "Monster Insect","set": "SOE","id": "45","deck": "A","duelist": "Haga, Mokuba"}
-        ,{"name": "Messiah's Antlion Larva","frame": "Trap","types": "Trap Equip","set": "SOE","id": "46","deck": "A","duelist": "Haga"}
-        ,{"name": "Insect Armor with Laser Cannon LV. 5","frame": "Spell","types": "Spell Equip","set": "SOE","id": "47","deck": "A","duelist": "Haga"}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "48","deck": "B","duelist": ""}
-        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "49","deck": "B","duelist": ""}
-        ,{"name": "Millennium Eye","frame": "Rule","types": "Rule Symbol Millennium Item","set": "SOE","id": "50","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Devil Dragon","frame": "Monster","types": "Monster Demon Dragon Fireblast Flying","set": "SOE","id": "51","deck": "A","duelist": "Yugi"}
-        ,{"name": "Pot of Dragon-Tribe Sealing","frame": "Trap Monster","types": "Trap Monster Demon","set": "SOE","id": "52","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Silver Fang","frame": "Monster","types": "Monster Beast","set": "SOE","id": "53","deck": "A","duelist": "Yugi"}
-        ,{"name": "Jar Djinn","frame": "Monster","types": "Monster Spellcaster","set": "SOE","id": "54","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Sun Shower","frame": "Trap","types": "Trap","set": "SOE","id": "55","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Undead Warrior","frame": "Monster","types": "Monster Undead Warrior","set": "SOE","id": "56","deck": "A","duelist": "Yugi"}
-        ,{"name": "Book of Secret Arts","frame": "Spell","types": "Spell Equip","set": "SOE","id": "57","deck": "A","duelist": "Yugi, Anzu"}
-        ,{"name": "Illusionist Faceless Mage","frame": "Monster","types": "Monster Illusion Spellcaster","set": "SOE","id": "58","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Eye of Illusion","frame": "Spell","types": "Spell Equip","set": "SOE","id": "59","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Power of Hypnosis","frame": "Rule","types": "Rule","set": "SOE","id": "60","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Elf Swordsman","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "61","deck": "A","duelist": "Yugi, Sugoroku"}
-        ,{"name": "Demon's Summon","frame": "Monster","types": "Monster Demon Thunderblast","set": "SOE","id": "62","deck": "A","duelist": "Yugi, Sugoroku"}
+        {"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "01","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "02","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Tabletop","frame": "Rule","types": "Rule Field Setup","set": "SOE","id": "03","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Shien's Body Double","frame": "Monster","types": "Monster Warrior Support","set": "SOE","id": "04","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "2","atk": "800","def": "400","bonusatk": "240","bonusdef": "120"}
+        ,{"name": "Shadow Fighter","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "05","deck": "A","duelist": "Jonouchi","attribute": "dark","grade": "lvl","gradeval": "2","atk": "800","def": "600","bonusatk": "240","bonusdef": "180"}
+        ,{"name": "Sea King of Anger","frame": "Monster","types": "Monster Aquatic Warrior","set": "SOE","id": "06","deck": "A","duelist": "Jonouchi, Mokuba","attribute": "water","grade": "lvl","gradeval": "3","atk": "800","def": "700","bonusatk": "240","bonusdef": "210"}
+        ,{"name": "Claw Reacher","frame": "Monster","types": "Monster Demon","set": "SOE","id": "07","deck": "A","duelist": "Jonouchi","attribute": "dark","grade": "lvl","gradeval": "3","atk": "1000","def": "800","bonusatk": "300","bonusdef": "240"}
+        ,{"name": "Death Stalker","frame": "Monster","types": "Monster Warrior Insect","set": "SOE","id": "08","deck": "A","duelist": "Jonouchi","attribute": "dark","grade": "lvl","gradeval": "3","atk": "900","def": "800","bonusatk": "270","bonusdef": "240"}
+        ,{"name": "Dark Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "SOE","id": "09","deck": "A","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "3","atk": "1500","def": "800","bonusatk": "450","bonusdef": "240"}
+        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "10","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "11","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kaiba Corporation Arena","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "SOE","id": "12","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kaiba Corporation Arena","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "SOE","id": "13","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Cyclops","frame": "Monster","types": "Monster Beast Warrior","set": "SOE","id": "14","deck": "A","duelist": "Kaiba","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1200","def": "1000","bonusatk": "360","bonusdef": "300"}
+        ,{"name": "Winged Dragon, Guardian of the Fortress","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "SOE","id": "15","deck": "A","duelist": "Yugi, Pharaoh Servant","attribute": "wind","grade": "lvl","gradeval": "4","atk": "1400","def": "1200","bonusatk": "420","bonusdef": "360"}
+        ,{"name": "Saggi the Dark Clown","frame": "Monster","types": "Monster Spellcaster","set": "SOE","id": "16","deck": "A","duelist": "Kaiba","attribute": "dark","grade": "lvl","gradeval": "3","atk": "600","def": "1500","bonusatk": "180","bonusdef": "450"}
+        ,{"name": "Dark Generator","frame": "Spell","types": "Spell Equip","set": "SOE","id": "17","deck": "A","duelist": "Kaiba","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Critter","frame": "Monster","types": "Monster Demon","set": "SOE","id": "18","deck": "A","duelist": "Yugi, Rebecca, Arthur","attribute": "dark","grade": "lvl","gradeval": "3","atk": "1000","def": "600","bonusatk": "300","bonusdef": "180"}
+        ,{"name": "Bull Devil","frame": "Monster","types": "Monster Beast Warrior","set": "SOE","id": "19","deck": "A","duelist": "Yugi","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1800","def": "1300","bonusatk": "540","bonusdef": "390"}
+        ,{"name": "Saigar","frame": "Monster","types": "Monster Beast","set": "SOE","id": "20","deck": "A","duelist": "Yugi, Mokuba","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1200","def": "600","bonusatk": "360","bonusdef": "180"}
+        ,{"name": "Gaia the Fierce Knight","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "21","deck": "A","duelist": "Yugi","attribute": "earth","grade": "lvl","gradeval": "7","atk": "2300","def": "2100","bonusatk": "690","bonusdef": "630"}
+        ,{"name": "Blue-Eyes White Dragon","frame": "Monster","types": "Monster Dragon Flying","set": "SOE","id": "22","deck": "A","duelist": "Kaiba","attribute": "light","grade": "lvl","gradeval": "8","atk": "3000","def": "2500","bonusatk": "900","bonusdef": "750"}
+        ,{"name": "Imp","frame": "Monster","types": "Monster Demon","set": "SOE","id": "23","deck": "A","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1300","def": "1000","bonusatk": "390","bonusdef": "300"}
+        ,{"name": "Beaver Warrior","frame": "Monster","types": "Monster Beast Warrior","set": "SOE","id": "24","deck": "A","duelist": "Yugi","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1200","def": "1500","bonusatk": "360","bonusdef": "450"}
+        ,{"name": "Swords of Revealing Light","frame": "Spell","types": "Spell Persist (3 opponent End Phases)","set": "SOE","id": "25","deck": "A","duelist": "Yugi, Sugoroku, Shadi","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Rude Kaiser","frame": "Monster","types": "Monster Reptillian Warrior","set": "SOE","id": "26","deck": "A","duelist": "Yugi, Kaiba, Jonouchi","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1800","def": "1600","bonusatk": "540","bonusdef": "480"}
+        ,{"name": "Judge Man","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "27","deck": "A","duelist": "Kaiba, Ooka, The Big Five","attribute": "earth","grade": "lvl","gradeval": "6","atk": "2200","def": "1500","bonusatk": "660","bonusdef": "450"}
+        ,{"name": "Dark Magician","frame": "Monster","types": "Monster Spellcaster","set": "SOE","id": "28","deck": "A","duelist": "Yugi, Sugoroku","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2500","def": "2100","bonusatk": "750","bonusdef": "630"}
+        ,{"name": "Heart of the Cards","frame": "Rule","types": "Rule Symbol","set": "SOE","id": "29","deck": "B","duelist": "Yugi","attribute": "light","grade": "glyph","gradeval": "CHRG 1"}
+        ,{"name": "Head of the Sealed One","frame": "Divine","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "30","deck": "A","duelist": "Yugi, Gozaburo","attribute": "dark","grade": "lvl","gradeval": "3","atk": "1000","def": "1000","bonusatk": "300","bonusdef": "300"}
+        ,{"name": "Right Leg of the Sealed One","frame": "Divine","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "31","deck": "A","duelist": "Yugi, Gozaburo","attribute": "dark","grade": "lvl","gradeval": "1","atk": "200","def": "300","bonusatk": "60","bonusdef": "90"}
+        ,{"name": "Left Leg of the Sealed One","frame": "Divine","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "32","deck": "A","duelist": "Yugi, Gozaburo","attribute": "dark","grade": "lvl","gradeval": "1","atk": "200","def": "300","bonusatk": "60","bonusdef": "90"}
+        ,{"name": "Right Arm of the Sealed One","frame": "Divine","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "33","deck": "A","duelist": "Yugi, Gozaburo","attribute": "dark","grade": "lvl","gradeval": "1","atk": "200","def": "300","bonusatk": "60","bonusdef": "90"}
+        ,{"name": "Left Arm of the Sealed One","frame": "Divine","types": "Divine Monster Spellcaster Sealed Palace God (Hierarchy 1)","set": "SOE","id": "34","deck": "A","duelist": "Yugi, Gozaburo","attribute": "dark","grade": "lvl","gradeval": "1","atk": "200","def": "300","bonusatk": "60","bonusdef": "90"}
+        ,{"name": "Palace God Pantheon","frame": "Rule","types": "Rule","set": "SOE","id": "35","deck": "B","duelist": "Yugi","attribute": "dark","grade": "glyph","gradeval": "-"}
+        ,{"name": "Exodia","frame": "Divine","types": "Divine Fusion Monster Spellcaster Warrior Palace God (Hierarchy 7)","set": "SOE","id": "36","deck": "B","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "12","atk": "5000","def": "5000","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Anzu","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "37","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "38","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Cavern Devil - Ogre Rock","frame": "Monster","types": "Monster Elemental","set": "SOE","id": "39","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "3","atk": "800","def": "1200","bonusatk": "240","bonusdef": "360"}
+        ,{"name": "Happy Lover","frame": "Monster","types": "Monster Angel Flying","set": "SOE","id": "40","deck": "A","duelist": "Anzu, Bakura","attribute": "light","grade": "lvl","gradeval": "2","atk": "800","def": "500","bonusatk": "240","bonusdef": "150"}
+        ,{"name": "Breath of God","frame": "Spell","types": "Spell","set": "SOE","id": "41","deck": "A","duelist": "Anzu, Yugi","attribute": "wind","grade": "glyph","gradeval": "-"}
+        ,{"name": "Haga","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "42","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Ryuzaki","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "43","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Two-Headed King Rex","frame": "Monster","types": "Monster Dinosaur Flying","set": "SOE","id": "44","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1600","def": "1200","bonusatk": "480","bonusdef": "360"}
+        ,{"name": "Basic Insect","frame": "Monster","types": "Monster Insect","set": "SOE","id": "45","deck": "A","duelist": "Haga, Mokuba","attribute": "earth","grade": "lvl","gradeval": "2","atk": "500","def": "700","bonusatk": "150","bonusdef": "210"}
+        ,{"name": "Messiah's Antlion Larva","frame": "Trap","types": "Trap Equip","set": "SOE","id": "46","deck": "A","duelist": "Haga","attribute": "light","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Insect Armor with Laser Cannon LV. 5","frame": "Spell","types": "Spell Equip","set": "SOE","id": "47","deck": "A","duelist": "Haga","attribute": "fire","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "48","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "SOE","id": "49","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Millennium Eye","frame": "Rule","types": "Rule Symbol Millennium Item","set": "SOE","id": "50","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "glyph","gradeval": "CHRG 7"}
+        ,{"name": "Devil Dragon","frame": "Monster","types": "Monster Demon Dragon Fireblast Flying","set": "SOE","id": "51","deck": "A","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1700","def": "1200","bonusatk": "510","bonusdef": "360"}
+        ,{"name": "Pot of Dragon-Tribe Sealing","frame": "Combination","types": "Trap Monster Demon","set": "SOE","id": "52","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "2","atk": "100","def": "200","bonusatk": "30","bonusdef": "60"}
+        ,{"name": "Silver Fang","frame": "Monster","types": "Monster Beast","set": "SOE","id": "53","deck": "A","duelist": "Yugi","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1200","def": "800","bonusatk": "360","bonusdef": "240"}
+        ,{"name": "Jar Djinn","frame": "Monster","types": "Monster Spellcaster","set": "SOE","id": "54","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "3","atk": "200","def": "1800","bonusatk": "60","bonusdef": "540"}
+        ,{"name": "Sun Shower","frame": "Trap","types": "Trap","set": "SOE","id": "55","deck": "A","duelist": "Pegasus","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Undead Warrior","frame": "Monster","types": "Monster Undead Warrior","set": "SOE","id": "56","deck": "A","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "3","atk": "1200","def": "900","bonusatk": "360","bonusdef": "270"}
+        ,{"name": "Book of Secret Arts","frame": "Spell","types": "Spell Equip","set": "SOE","id": "57","deck": "A","duelist": "Yugi, Anzu","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Illusionist Faceless Mage","frame": "Monster","types": "Monster Illusion Spellcaster","set": "SOE","id": "58","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1200","def": "2200","bonusatk": "360","bonusdef": "660"}
+        ,{"name": "Eye of Illusion","frame": "Spell","types": "Spell Equip","set": "SOE","id": "59","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Power of Hypnosis","frame": "Rule","types": "Rule","set": "SOE","id": "60","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "glyph","gradeval": "-"}
+        ,{"name": "Elf Swordsman","frame": "Monster","types": "Monster Warrior","set": "SOE","id": "61","deck": "A","duelist": "Yugi, Sugoroku","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1400","def": "1200","bonusatk": "420","bonusdef": "360"}
+        ,{"name": "Demon's Summon","frame": "Monster","types": "Monster Demon Thunderblast","set": "SOE","id": "62","deck": "A","duelist": "Yugi, Sugoroku","attribute": "dark","grade": "lvl","gradeval": "6","atk": "2500","def": "1200","bonusatk": "750","bonusdef": "360"}
 
-        ,{"name": "Duelist Kingdom","frame": "Emblem","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "01","deck": "A","duelist": ""}
-        ,{"name": "Set Sail for the Kingdom","frame": "Emblem","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "02","deck": "A","duelist": ""}
-        ,{"name": "Duelist's Glove","frame": "Emblem","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "03","deck": "A","duelist": ""}
-        ,{"name": "Glory of the King's Right Hand","frame": "Emblem","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "04","deck": "A","duelist": ""}
-        ,{"name": "Glory of the King's Left Hand","frame": "Emblem","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "05","deck": "A","duelist": ""}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "06","deck": "B","duelist": ""}
-        ,{"name": "Haga","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "07","deck": "B","duelist": ""}
-        ,{"name": "Forest Glade","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "TSC","id": "08","deck": "B","duelist": ""}
-        ,{"name": "Forest Glade","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "TSC","id": "09","deck": "B","duelist": ""}
-        ,{"name": "Killer Bee","frame": "Monster","types": "Monster Insect Flying","set": "TSC","id": "10","deck": "A","duelist": "Haga"}
-        ,{"name": "Mammoth Graveyard","frame": "Monster","types": "Monster Undead Dinosaur","set": "TSC","id": "11","deck": "A","duelist": "Yugi"}
-        ,{"name": "Hercules Beetle","frame": "Monster","types": "Monster Insect","set": "TSC","id": "12","deck": "A","duelist": "Haga"}
-        ,{"name": "Gremlin","frame": "Monster","types": "Monster Demon","set": "TSC","id": "13","deck": "A","duelist": "Yugi"}
-        ,{"name": "Horn of the Unicorn","frame": "Spell","types": "Spell Equip","set": "TSC","id": "14","deck": "A","duelist": "Yugi"}
-        ,{"name": "Power Booster LV. 2","frame": "Spell","types": "Spell Equip","set": "TSC","id": "15","deck": "A","duelist": "Haga"}
-        ,{"name": "LV. 3 Laser Cannon","frame": "Spell","types": "Spell Equip","set": "TSC","id": "16","deck": "A","duelist": "Haga"}
-        ,{"name": "Griffore","frame": "Monster","types": "Monster Beast","set": "TSC","id": "17","deck": "A","duelist": "Yugi"}
-        ,{"name": "Roachball","frame": "Monster","types": "Monster Insect","set": "TSC","id": "18","deck": "A","duelist": "Haga"}
-        ,{"name": "Big Ant","frame": "Monster","types": "Monster Insect","set": "TSC","id": "19","deck": "A","duelist": "Haga"}
-        ,{"name": "Sickle Killer","frame": "Monster","types": "Monster Insect","set": "TSC","id": "20","deck": "A","duelist": "Haga"}
-        ,{"name": "Holy Barrier - Mirror Force","frame": "Trap","types": "Trap","set": "TSC","id": "21","deck": "A","duelist": "Yugi, Anzu"}
-        ,{"name": "Larva Moth","frame": "Monster","types": "Monster Insect","set": "TSC","id": "22","deck": "A","duelist": "Haga"}
-        ,{"name": "Monster Recovery","frame": "Spell","types": "Spell","set": "TSC","id": "23","deck": "A","duelist": "Yugi"}
-        ,{"name": "Kuriboh","frame": "Monster","types": "Monster Demon","set": "TSC","id": "24","deck": "A","duelist": "Yugi"}
-        ,{"name": "Parasite Worm","frame": "Trap Monster","types": "Trap Monster Insect","set": "TSC","id": "25","deck": "A","duelist": "Haga"}
-        ,{"name": "Cocoon of Evolution","frame": "Spell Monster","types": "Spell Monster Insect","set": "TSC","id": "26","deck": "A","duelist": "Haga"}
-        ,{"name": "Curse of Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "TSC","id": "27","deck": "A","duelist": "Yugi"}
-        ,{"name": "Burning Land","frame": "Spell","types": "Spell","set": "TSC","id": "28","deck": "A","duelist": "Yugi"}
-        ,{"name": "Great Moth","frame": "Alter Monster","types": "Alter Monster Timeshifted Insect","set": "TSC","id": "29","deck": "B","duelist": "Haga"}
-        ,{"name": "Corrosive Poison","frame": "Rule","types": "Rule","set": "TSC","id": "30","deck": "B","duelist": "Haga, Mokuba"}
-        ,{"name": "Fusion","frame": "Spell","types": "Spell","set": "TSC","id": "31","deck": "A","duelist": "Yugi, Kaiba, Brother Mei, Pegasus, The Big Five, Pharaoh Servant"}
-        ,{"name": "Gaia the Dragon Knight","frame": "Fusion Monster","types": "Fusion Monster Dragon Warrior Flying","set": "TSC","id": "32","deck": "B","duelist": "Yugi"}
-        ,{"name": "Magical Drizzle","frame": "Spell","types": "Spell","set": "TSC","id": "33","deck": "A","duelist": "Yugi"}
-        ,{"name": "Electric Current","frame": "Rule","types": "Rule","set": "TSC","id": "34","deck": "B","duelist": "Yugi"}
-        ,{"name": "Barren Valley","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "TSC","id": "35","deck": "B","duelist": ""}
-        ,{"name": "Barren Valley","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "TSC","id": "36","deck": "B","duelist": ""}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "37","deck": "B","duelist": ""}
-        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "38","deck": "B","duelist": ""}
-        ,{"name": "Foot of the Mountain","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "TSC","id": "39","deck": "B","duelist": ""}
-        ,{"name": "Foot of the Mountain","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "TSC","id": "40","deck": "B","duelist": ""}
-        ,{"name": "Masaki the Legendary Swordsman","frame": "Monster","types": "Monster Warrior","set": "TSC","id": "41","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Harpie Lady","frame": "Monster","types": "Monster Avian Flying","set": "TSC","id": "42","deck": "A","duelist": "Mai"}
-        ,{"name": "Flying Advantage","frame": "Rule","types": "Rule","set": "TSC","id": "43","deck": "B","duelist": "Mai"}
-        ,{"name": "Tiger Axe","frame": "Monster","types": "Monster Beast Warrior","set": "TSC","id": "44","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Cyber Bondage","frame": "Spell","types": "Spell Equip","set": "TSC","id": "45","deck": "A","duelist": "Mai"}
-        ,{"name": "Demon Hunter","frame": "Monster","types": "Monster Warrior","set": "TSC","id": "46","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Baby Dragon","frame": "Monster","types": "Monster Dragon Flying","set": "TSC","id": "47","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Kaleidoscope - Elegant Doppelgangers","frame": "Spell","types": "Spell","set": "TSC","id": "48","deck": "A","duelist": "Mai"}
-        ,{"name": "Time Wizard","frame": "Spell Monster","types": "Spell Monster Spellcaster","set": "TSC","id": "49","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Thousand Dragon","frame": "Alter Monster","types": "Alter Monster Timeshifted Dragon Fireblast Flying","set": "TSC","id": "50","deck": "B","duelist": "Jonouchi"}
-        ,{"name": "Decrepit Harpie Lady","frame": "Alter Monster","types": "Alter Monster Timeshifted Avian Flying","set": "TSC","id": "51","deck": "B","duelist": "Mai"}
+        ,{"name": "Duelist Kingdom","frame": "Emblem (This card cannot be used in a Duel)","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "01","deck": "A","duelist": ""}
+        ,{"name": "Set Sail for the Kingdom","frame": "Emblem (This card cannot be used in a Duel)","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "02","deck": "A","duelist": ""}
+        ,{"name": "Duelist's Glove","frame": "Emblem (This card cannot be used in a Duel)","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "03","deck": "A","duelist": ""}
+        ,{"name": "Glory of the King's Right Hand","frame": "Emblem (This card cannot be used in a Duel)","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "04","deck": "A","duelist": ""}
+        ,{"name": "Glory of the King's Left Hand","frame": "Emblem (This card cannot be used in a Duel)","types": "Emblem (This card cannot be used in a Duel)","set": "TSC","id": "05","deck": "A","duelist": ""}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "06","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Haga","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "07","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Forest Glade","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "TSC","id": "08","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Forest Glade","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "TSC","id": "09","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Killer Bee","frame": "Monster","types": "Monster Insect Flying","set": "TSC","id": "10","deck": "A","duelist": "Haga","attribute": "wind","grade": "lvl","gradeval": "4","atk": "1200","def": "1000","bonusatk": "360","bonusdef": "300"}
+        ,{"name": "Mammoth Graveyard","frame": "Monster","types": "Monster Undead Dinosaur","set": "TSC","id": "11","deck": "A","duelist": "Yugi","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1200","def": "800","bonusatk": "360","bonusdef": "240"}
+        ,{"name": "Hercules Beetle","frame": "Monster","types": "Monster Insect","set": "TSC","id": "12","deck": "A","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1500","def": "2000","bonusatk": "450","bonusdef": "600"}
+        ,{"name": "Gremlin","frame": "Monster","types": "Monster Demon","set": "TSC","id": "13","deck": "A","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1300","def": "1400","bonusatk": "390","bonusdef": "420"}
+        ,{"name": "Horn of the Unicorn","frame": "Spell","types": "Spell Equip","set": "TSC","id": "14","deck": "A","duelist": "Yugi","attribute": "light","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Power Booster LV. 2","frame": "Spell","types": "Spell Equip","set": "TSC","id": "15","deck": "A","duelist": "Haga","attribute": "earth","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "LV. 3 Laser Cannon","frame": "Spell","types": "Spell Equip","set": "TSC","id": "16","deck": "A","duelist": "Haga","attribute": "fire","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Griffore","frame": "Monster","types": "Monster Beast","set": "TSC","id": "17","deck": "A","duelist": "Yugi","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1200","def": "1500","bonusatk": "360","bonusdef": "450"}
+        ,{"name": "Roachball","frame": "Monster","types": "Monster Insect","set": "TSC","id": "18","deck": "A","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1200","def": "1400","bonusatk": "360","bonusdef": "420"}
+        ,{"name": "Big Ant","frame": "Monster","types": "Monster Insect","set": "TSC","id": "19","deck": "A","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1200","def": "1500","bonusatk": "360","bonusdef": "450"}
+        ,{"name": "Sickle Killer","frame": "Monster","types": "Monster Insect","set": "TSC","id": "20","deck": "A","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1150","def": "1400","bonusatk": "345","bonusdef": "420"}
+        ,{"name": "Holy Barrier - Mirror Force","frame": "Trap","types": "Trap","set": "TSC","id": "21","deck": "A","duelist": "Yugi, Anzu","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Larva Moth","frame": "Monster","types": "Monster Insect","set": "TSC","id": "22","deck": "A","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "1","atk": "500","def": "400","bonusatk": "150","bonusdef": "120"}
+        ,{"name": "Monster Recovery","frame": "Spell","types": "Spell","set": "TSC","id": "23","deck": "A","duelist": "Yugi","attribute": "wind","grade": "glyph","gradeval": "-"}
+        ,{"name": "Kuriboh","frame": "Monster","types": "Monster Demon","set": "TSC","id": "24","deck": "A","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "1","atk": "300","def": "200","bonusatk": "90","bonusdef": "60"}
+        ,{"name": "Parasite Worm","frame": "Combination","types": "Trap Monster Insect","set": "TSC","id": "25","deck": "A","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "2","atk": "400 / 0","def": "","bonusatk": "120 / 0","bonusdef": ""}
+        ,{"name": "Cocoon of Evolution","frame": "Combination","types": "Spell Monster Insect","set": "TSC","id": "26","deck": "A","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "3","atk": "0","def": "2000","bonusatk": "0","bonusdef": "600"}
+        ,{"name": "Curse of Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "TSC","id": "27","deck": "A","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "5","atk": "2000","def": "1500","bonusatk": "600","bonusdef": "450"}
+        ,{"name": "Burning Land","frame": "Spell","types": "Spell","set": "TSC","id": "28","deck": "A","duelist": "Yugi","attribute": "fire","grade": "glyph","gradeval": "-"}
+        ,{"name": "Great Moth","frame": "Alter Monster","types": "Alter Monster Timeshifted Insect","set": "TSC","id": "29","deck": "B","duelist": "Haga","attribute": "earth","grade": "lvl","gradeval": "8","atk": "2600","def": "2300","bonusatk": "780","bonusdef": "690"}
+        ,{"name": "Corrosive Poison","frame": "Rule","types": "Rule","set": "TSC","id": "30","deck": "B","duelist": "Haga, Mokuba","attribute": "water","grade": "glyph","gradeval": "-"}
+        ,{"name": "Fusion","frame": "Spell","types": "Spell","set": "TSC","id": "31","deck": "A","duelist": "Yugi, Kaiba, Brother Mei, Pegasus, The Big Five, Pharaoh Servant","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Gaia the Dragon Knight","frame": "Fusion Monster","types": "Fusion Monster Dragon Warrior Flying","set": "TSC","id": "32","deck": "B","duelist": "Yugi","attribute": "wind","grade": "lvl","gradeval": "7","atk": "2600","def": "2100","bonusatk": "780","bonusdef": "630"}
+        ,{"name": "Magical Drizzle","frame": "Spell","types": "Spell","set": "TSC","id": "33","deck": "A","duelist": "Yugi","attribute": "water","grade": "glyph","gradeval": "-"}
+        ,{"name": "Electric Current","frame": "Rule","types": "Rule","set": "TSC","id": "34","deck": "B","duelist": "Yugi","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Barren Valley","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "TSC","id": "35","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Barren Valley","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "TSC","id": "36","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "37","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "TSC","id": "38","deck": "B","duelist": "","attribute": "wind","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Foot of the Mountain","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "TSC","id": "39","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Foot of the Mountain","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "TSC","id": "40","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Masaki the Legendary Swordsman","frame": "Monster","types": "Monster Warrior","set": "TSC","id": "41","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1100","def": "1100","bonusatk": "330","bonusdef": "330"}
+        ,{"name": "Harpie Lady","frame": "Monster","types": "Monster Avian Flying","set": "TSC","id": "42","deck": "A","duelist": "Mai","attribute": "wind","grade": "lvl","gradeval": "4","atk": "1300","def": "1400","bonusatk": "390","bonusdef": "420"}
+        ,{"name": "Flying Advantage","frame": "Rule","types": "Rule","set": "TSC","id": "43","deck": "B","duelist": "Mai","attribute": "wind","grade": "glyph","gradeval": "-"}
+        ,{"name": "Tiger Axe","frame": "Monster","types": "Monster Beast Warrior","set": "TSC","id": "44","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1300","def": "1100","bonusatk": "390","bonusdef": "330"}
+        ,{"name": "Cyber Bondage","frame": "Spell","types": "Spell Equip","set": "TSC","id": "45","deck": "A","duelist": "Mai","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Demon Hunter","frame": "Monster","types": "Monster Warrior","set": "TSC","id": "46","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1500","def": "1200","bonusatk": "450","bonusdef": "360"}
+        ,{"name": "Baby Dragon","frame": "Monster","types": "Monster Dragon Flying","set": "TSC","id": "47","deck": "A","duelist": "Jonouchi","attribute": "wind","grade": "lvl","gradeval": "3","atk": "1200","def": "700","bonusatk": "360","bonusdef": "210"}
+        ,{"name": "Kaleidoscope - Elegant Doppelgangers","frame": "Spell","types": "Spell","set": "TSC","id": "48","deck": "A","duelist": "Mai","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Time Wizard","frame": "Combination","types": "Spell Monster Spellcaster","set": "TSC","id": "49","deck": "A","duelist": "Jonouchi","attribute": "light","grade": "lvl","gradeval": "2","atk": "500","def": "400","bonusatk": "150","bonusdef": "120"}
+        ,{"name": "Thousand Dragon","frame": "Alter Monster","types": "Alter Monster Timeshifted Dragon Fireblast Flying","set": "TSC","id": "50","deck": "B","duelist": "Jonouchi","attribute": "wind","grade": "lvl","gradeval": "7","atk": "2400","def": "2000","bonusatk": "720","bonusdef": "600"}
+        ,{"name": "Decrepit Harpie Lady","frame": "Alter Monster","types": "Alter Monster Timeshifted Avian Flying","set": "TSC","id": "51","deck": "B","duelist": "Mai","attribute": "wind","grade": "lvl","gradeval": "4","atk": "800","def": "900","bonusatk": "240","bonusdef": "270"}
 
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "01","deck": "B","duelist": ""}
-        ,{"name": "Kajiki","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "02","deck": "B","duelist": ""}
-        ,{"name": "Ocean Cliff","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "03","deck": "B","duelist": ""}
-        ,{"name": "Ocean Cliff","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "04","deck": "B","duelist": ""}
-        ,{"name": "Devil Kraken","frame": "Monster","types": "Monster Aquatic","set": "CHT","id": "05","deck": "A","duelist": "Kajiki"}
-        ,{"name": "Jellyfish","frame": "Monster","types": "Monster Aquatic","set": "CHT","id": "06","deck": "A","duelist": "Kajiki"}
-        ,{"name": "Full Moon","frame": "Spell","types": "Spell Continuous","set": "CHT","id": "07","deck": "A","duelist": "Yugi"}
-        ,{"name": "Leviathan","frame": "Monster","types": "Monster Aquatic Dragon","set": "CHT","id": "08","deck": "A","duelist": "Kajiki"}
-        ,{"name": "Giant Soldier of Stone","frame": "Monster","types": "Monster Elemental Warrior","set": "CHT","id": "09","deck": "A","duelist": "Yugi, Rebecca, Arthur"}
-        ,{"name": "Megalodon","frame": "Monster","types": "Monster Aquatic","set": "CHT","id": "10","deck": "A","duelist": "Kajiki"}
-        ,{"name": "Mokuba","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "11","deck": "B","duelist": ""}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "12","deck": "B","duelist": ""}
-        ,{"name": "The Surrounding Forest","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "13","deck": "B","duelist": ""}
-        ,{"name": "The Surrounding Forest","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "14","deck": "B","duelist": ""}
-        ,{"name": "Flesh-Eating Plant","frame": "Monster","types": "Monster Plant","set": "CHT","id": "15","deck": "A","duelist": "Mokuba"}
-        ,{"name": "Krokodilius","frame": "Monster","types": "Monster Reptillian Support","set": "CHT","id": "16","deck": "A","duelist": "Mokuba"}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "17","deck": "B","duelist": ""}
-        ,{"name": "Impersonator of Death","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "18","deck": "B","duelist": ""}
-        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "19","deck": "B","duelist": ""}
-        ,{"name": "Defense Seal","frame": "Spell Trap","types": "Spell Trap","set": "CHT","id": "20","deck": "A","duelist": "Kaiba, Kotsuzuka, Keith"}
-        ,{"name": "Magical Silk Hats","frame": "Spell","types": "Spell Persist (5 of your End Phases)","set": "CHT","id": "21","deck": "A","duelist": "Yugi"}
-        ,{"name": "Silk Hat Token","frame": "Token Monster","types": "Token Monster Elemental","set": "CHT","id": "22","deck": "C","duelist": "Yugi"}
-        ,{"name": "Curse of the Hexagram","frame": "Trap","types": "Trap Equip","set": "CHT","id": "23","deck": "A","duelist": "Yugi"}
-        ,{"name": "Grappler","frame": "Monster","types": "Monster Reptillian","set": "CHT","id": "24","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Kentauros","frame": "Monster","types": "Monster Beast","set": "CHT","id": "25","deck": "A","duelist": "Kaiba, Priest Seto"}
-        ,{"name": "Holy Elf","frame": "Monster","types": "Monster Spellcaster Blessed","set": "CHT","id": "26","deck": "A","duelist": "Yugi, Ooka, The Big Five"}
-        ,{"name": "Attack Nullification","frame": "Spell","types": "Spell","set": "CHT","id": "27","deck": "A","duelist": "Kaiba, Noah"}
-        ,{"name": "Resurrection of the Dead","frame": "Spell","types": "Spell","set": "CHT","id": "28","deck": "A","duelist": "Yugi, Kaiba, Mai, Sugoroku"}
-        ,{"name": "Bond with Blue-Eyes","frame": "Rule","types": "Rule Symbol","set": "CHT","id": "29","deck": "B","duelist": ""}
-        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "30","deck": "B","duelist": ""}
-        ,{"name": "The Forest Line","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "31","deck": "B","duelist": ""}
-        ,{"name": "The Forest Line","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "32","deck": "B","duelist": ""}
-        ,{"name": "Honda","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "33","deck": "B","duelist": ""}
-        ,{"name": "Ryuzaki","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "34","deck": "B","duelist": ""}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "35","deck": "B","duelist": ""}
-        ,{"name": "Grassland's End","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "36","deck": "B","duelist": ""}
-        ,{"name": "Grassland's End","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "37","deck": "B","duelist": ""}
-        ,{"name": "Leogun","frame": "Monster","types": "Monster Beast","set": "CHT","id": "38","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Axe Raider","frame": "Monster","types": "Monster Warrior","set": "CHT","id": "39","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Swordsaurus","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "40","deck": "A","duelist": "Ryuzaki"}
-        ,{"name": "Megasaurus","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "41","deck": "A","duelist": "Ryuzaki"}
-        ,{"name": "Flame Swordsman","frame": "Monster","types": "Monster Warrior Fireblast","set": "CHT","id": "42","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Burning Fighting Spirit","frame": "Rule","types": "Rule","set": "CHT","id": "43","deck": "B","duelist": "Jonouchi"}
-        ,{"name": "Corpse-Devouring Dinosaur","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "44","deck": "A","duelist": "Ryuzaki"}
-        ,{"name": "Wild Raptor","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "45","deck": "A","duelist": "Ryuzaki"}
-        ,{"name": "Barbarian #1","frame": "Monster","types": "Monster Beast Warrior","set": "CHT","id": "46","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Barbarian #2","frame": "Monster","types": "Monster Beast Warrior","set": "CHT","id": "47","deck": "A","duelist": "Jonouchi, Honda"}
-        ,{"name": "Evil Night Dragon","frame": "Monster","types": "Monster Dragon Flying","set": "CHT","id": "48","deck": "A","duelist": "Ryuzaki"}
-        ,{"name": "Trakodon","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "49","deck": "A","duelist": "Ryuzaki"}
-        ,{"name": "Red-Eyes Black Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "CHT","id": "50","deck": "A","duelist": "Ryuzaki, Jonouchi"}
-        ,{"name": "Claw of the Dark Dragon Tribe","frame": "Spell","types": "Spell Equip","set": "CHT","id": "51","deck": "A","duelist": "Ryuzaki, Jonouchi"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "01","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kajiki","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "02","deck": "B","duelist": "","attribute": "water","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Ocean Cliff","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "03","deck": "B","duelist": "","attribute": "water","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Ocean Cliff","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "04","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Devil Kraken","frame": "Monster","types": "Monster Aquatic","set": "CHT","id": "05","deck": "A","duelist": "Kajiki","attribute": "water","grade": "lvl","gradeval": "4","atk": "1200","def": "1400","bonusatk": "360","bonusdef": "420"}
+        ,{"name": "Jellyfish","frame": "Monster","types": "Monster Aquatic","set": "CHT","id": "06","deck": "A","duelist": "Kajiki","attribute": "water","grade": "lvl","gradeval": "4","atk": "1200","def": "1500","bonusatk": "360","bonusdef": "450"}
+        ,{"name": "Full Moon","frame": "Spell","types": "Spell Continuous","set": "CHT","id": "07","deck": "A","duelist": "Yugi","attribute": "light","grade": "glyph","gradeval": "CONT."}
+        ,{"name": "Leviathan","frame": "Monster","types": "Monster Aquatic Dragon","set": "CHT","id": "08","deck": "A","duelist": "Kajiki","attribute": "water","grade": "lvl","gradeval": "5","atk": "1800","def": "1500","bonusatk": "540","bonusdef": "450"}
+        ,{"name": "Giant Soldier of Stone","frame": "Monster","types": "Monster Elemental Warrior","set": "CHT","id": "09","deck": "A","duelist": "Yugi, Rebecca, Arthur","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1300","def": "2000","bonusatk": "390","bonusdef": "600"}
+        ,{"name": "Megalodon","frame": "Monster","types": "Monster Aquatic","set": "CHT","id": "10","deck": "A","duelist": "Kajiki","attribute": "water","grade": "lvl","gradeval": "5","atk": "1500","def": "1200","bonusatk": "450","bonusdef": "360"}
+        ,{"name": "Mokuba","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "11","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "12","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "The Surrounding Forest","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "13","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "The Surrounding Forest","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "14","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Flesh-Eating Plant","frame": "Monster","types": "Monster Plant","set": "CHT","id": "15","deck": "A","duelist": "Mokuba","attribute": "earth","grade": "lvl","gradeval": "2","atk": "800","def": "600","bonusatk": "240","bonusdef": "180"}
+        ,{"name": "Krokodilius","frame": "Monster","types": "Monster Reptillian Support","set": "CHT","id": "16","deck": "A","duelist": "Mokuba","attribute": "water","grade": "lvl","gradeval": "4","atk": "1100","def": "1200","bonusatk": "330","bonusdef": "360"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "17","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Impersonator of Death","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "18","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "19","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Defense Seal","frame": "Combination","types": "Spell Trap","set": "CHT","id": "20","deck": "A","duelist": "Kaiba, Kotsuzuka, Keith, Bakura","attribute": "earth"}
+        ,{"name": "Magical Silk Hats","frame": "Spell","types": "Spell Persist (5 of your End Phases)","set": "CHT","id": "21","deck": "A","duelist": "Yugi","attribute": "dark"}
+        ,{"name": "Silk Hat Token","frame": "Monster","types": "Token Monster Elemental","set": "CHT","id": "22","deck": "B","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "1","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Curse of the Hexagram","frame": "Trap","types": "Trap Equip","set": "CHT","id": "23","deck": "A","duelist": "Yugi, Ishizu","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Grappler","frame": "Monster","types": "Monster Reptillian","set": "CHT","id": "24","deck": "A","duelist": "Kaiba","attribute": "water","grade": "lvl","gradeval": "4","atk": "1300","def": "1200","bonusatk": "390","bonusdef": "360"}
+        ,{"name": "Kentauros","frame": "Monster","types": "Monster Beast","set": "CHT","id": "25","deck": "A","duelist": "Kaiba, Priest Seto","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1300","def": "1550","bonusatk": "390","bonusdef": "465"}
+        ,{"name": "Holy Elf","frame": "Monster","types": "Monster Spellcaster Blessed","set": "CHT","id": "26","deck": "A","duelist": "Yugi, Ooka, The Big Five","attribute": "light","grade": "lvl","gradeval": "4","atk": "800","def": "2000","bonusatk": "240","bonusdef": "600"}
+        ,{"name": "Attack Nullification","frame": "Spell","types": "Spell","set": "CHT","id": "27","deck": "A","duelist": "Kaiba, Noah","attribute": "light"}
+        ,{"name": "Resurrection of the Dead","frame": "Spell","types": "Spell","set": "CHT","id": "28","deck": "A","duelist": "Yugi, Kaiba, Mai, Sugoroku","attribute": "light"}
+        ,{"name": "Bond with Blue-Eyes","frame": "Rule","types": "Rule Symbol","set": "CHT","id": "29","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "CHRG 1"}
+        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "30","deck": "B","duelist": "","attribute": "wind","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "The Forest Line","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "31","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "The Forest Line","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "32","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Honda","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "33","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Ryuzaki","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "34","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "CHT","id": "35","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Grassland's End","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CHT","id": "36","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Grassland's End","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CHT","id": "37","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Leogun","frame": "Monster","types": "Monster Beast","set": "CHT","id": "38","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1750","def": "1550","bonusatk": "525","bonusdef": "465"}
+        ,{"name": "Axe Raider","frame": "Monster","types": "Monster Warrior","set": "CHT","id": "39","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1700","def": "1150","bonusatk": "510","bonusdef": "345"}
+        ,{"name": "Swordsaurus","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "40","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "6","atk": "1750","def": "2030","bonusatk": "525","bonusdef": "609"}
+        ,{"name": "Megasaurus","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "41","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "6","atk": "1800","def": "2000","bonusatk": "540","bonusdef": "600"}
+        ,{"name": "Flame Swordsman","frame": "Monster","types": "Monster Warrior Fireblast","set": "CHT","id": "42","deck": "A","duelist": "Jonouchi","attribute": "fire","grade": "lvl","gradeval": "5","atk": "1800","def": "1600","bonusatk": "540","bonusdef": "480"}
+        ,{"name": "Burning Fighting Spirit","frame": "Rule","types": "Rule","set": "CHT","id": "43","deck": "B","duelist": "Jonouchi","attribute": "fire"}
+        ,{"name": "Corpse-Devouring Dinosaur","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "44","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1600","def": "1200","bonusatk": "480","bonusdef": "360"}
+        ,{"name": "Wild Raptor","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "45","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1500","def": "800","bonusatk": "450","bonusdef": "240"}
+        ,{"name": "Barbarian #1","frame": "Monster","types": "Monster Beast Warrior","set": "CHT","id": "46","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1550","def": "1800","bonusatk": "465","bonusdef": "540"}
+        ,{"name": "Barbarian #2","frame": "Monster","types": "Monster Beast Warrior","set": "CHT","id": "47","deck": "A","duelist": "Jonouchi, Honda","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1800","def": "1500","bonusatk": "540","bonusdef": "450"}
+        ,{"name": "Evil Night Dragon","frame": "Monster","types": "Monster Dragon Flying","set": "CHT","id": "48","deck": "A","duelist": "Ryuzaki","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2350","def": "2400","bonusatk": "705","bonusdef": "720"}
+        ,{"name": "Trakodon","frame": "Monster","types": "Monster Dinosaur","set": "CHT","id": "49","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1300","def": "800","bonusatk": "390","bonusdef": "240"}
+        ,{"name": "Red-Eyes Black Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "CHT","id": "50","deck": "A","duelist": "Ryuzaki, Jonouchi","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2400","def": "2000","bonusatk": "720","bonusdef": "600"}
+        ,{"name": "Claw of the Dark Dragon Tribe","frame": "Spell","types": "Spell Equip","set": "CHT","id": "51","deck": "A","duelist": "Ryuzaki, Jonouchi","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
 
-        ,{"name": "Bakura","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "01","deck": "B","duelist": ""}
-        ,{"name": "The Other Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "02","deck": "B","duelist": ""}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "03","deck": "B","duelist": ""}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "04","deck": "B","duelist": ""}
-        ,{"name": "Anzu","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "05","deck": "B","duelist": ""}
-        ,{"name": "Honda","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "06","deck": "B","duelist": ""}
-        ,{"name": "Commander","frame": "Monster","types": "Monster Machine Warrior","set": "NFW","id": "07","deck": "A","duelist": "Honda"}
-        ,{"name": "Honda, the Commander","frame": "Integration Monster","types": "Integration Monster Machine Warrior","set": "NFW","id": "08","deck": "B","duelist": "Honda"}
-        ,{"name": "White Thief","frame": "Monster","types": "Monster Spellcaster","set": "NFW","id": "09","deck": "A","duelist": "Bakura"}
-        ,{"name": "Reaper of the Cards","frame": "Monster","types": "Monster Demon Flying","set": "NFW","id": "10","deck": "A","duelist": "Bakura, Panik"}
-        ,{"name": "Babylon","frame": "Monster","types": "Monster Demon","set": "NFW","id": "11","deck": "A","duelist": "Jonouchi, Daimon"}
-        ,{"name": "Jonouchi, the Flame Swordsman","frame": "Integration Monster","types": "Integration Monster Warrior Fireblast","set": "NFW","id": "12","deck": "B","duelist": "Jonouchi"}
-        ,{"name": "Yugi, the Dark Magician","frame": "Integration Monster","types": "Integration Monster Spellcaster","set": "NFW","id": "13","deck": "B","duelist": "Yugi"}
-        ,{"name": "Metamor Pot","frame": "Monster","types": "Monster Demon","set": "NFW","id": "14","deck": "A","duelist": "Bakura"}
-        ,{"name": "Saint Magician","frame": "Monster","types": "Monster Spellcaster Blessed","set": "NFW","id": "15","deck": "A","duelist": "Anzu"}
-        ,{"name": "Anzu, the Saint Magician","frame": "Integration Monster","types": "Integration Monster Spellcaster Blessed","set": "NFW","id": "16","deck": "B","duelist": "Anzu"}
-        ,{"name": "Anthrosaurus","frame": "Monster","types": "Monster Dinosaur Support","set": "NFW","id": "17","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "You Reap what you Sow","frame": "Trap","types": "Trap","set": "NFW","id": "18","deck": "A","duelist": "Bakura"}
-        ,{"name": "Electric Lizard","frame": "Monster","types": "Monster Demon Thunderblast","set": "NFW","id": "19","deck": "A","duelist": "Bakura"}
-        ,{"name": "Flesh-Eating Insect","frame": "Monster","types": "Monster Insect","set": "NFW","id": "20","deck": "A","duelist": "Bakura"}
-        ,{"name": "Horn of Ascension","frame": "Trap","types": "Trap","set": "NFW","id": "21","deck": "A","duelist": "Anzu"}
-        ,{"name": "High Priestess","frame": "Monster","types": "Monster Spellcaster Blessed","set": "NFW","id": "22","deck": "A","duelist": "Bakura"}
-        ,{"name": "Change of Heart","frame": "Spell","types": "Spell","set": "NFW","id": "23","deck": "A","duelist": "Bakura"}
-        ,{"name": "Bakura, the Change of Heart","frame": "Integration Monster","types": "Integration Monster Angel Demon","set": "NFW","id": "24","deck": "B","duelist": "Bakura"}
-        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "25","deck": "B","duelist": ""}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "26","deck": "B","duelist": ""}
-        ,{"name": "Panik","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "27","deck": "B","duelist": ""}
-        ,{"name": "Black Forest Lake","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "NFW","id": "28","deck": "B","duelist": ""}
-        ,{"name": "Black Forest Lake","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "NFW","id": "29","deck": "B","duelist": ""}
-        ,{"name": "Castle of Darkening","frame": "Monster","types": "Monster Demon","set": "NFW","id": "30","deck": "A","duelist": "Panik"}
-        ,{"name": "Flotation Ring","frame": "Spell","types": "Spell Equip","set": "NFW","id": "31","deck": "A","duelist": "Panik"}
-        ,{"name": "Barox","frame": "Monster","types": "Monster Beast Demon Flying","set": "NFW","id": "32","deck": "A","duelist": "Panik"}
-        ,{"name": "Dark Chimera","frame": "Monster","types": "Monster Demon","set": "NFW","id": "33","deck": "A","duelist": "Panik"}
-        ,{"name": "Supreme King of the Dark Demon World","frame": "Monster","types": "Monster Demon","set": "NFW","id": "34","deck": "A","duelist": "Panik"}
-        ,{"name": "Sealing Light","frame": "Rule","types": "Rule","set": "NFW","id": "35","deck": "B","duelist": "Yugi"}
-        ,{"name": "Chaos Shield","frame": "Spell","types": "Spell Equip","set": "NFW","id": "36","deck": "A","duelist": "Panik"}
-        ,{"name": "Metal Guardian","frame": "Monster","types": "Monster Demon Machine Protector","set": "NFW","id": "37","deck": "A","duelist": "Panik"}
-        ,{"name": "Watchful Protector","frame": "Rule","types": "Rule","set": "NFW","id": "38","deck": "B","duelist": "Panik, Yugi"}
-        ,{"name": "Catapult Turtle","frame": "Monster","types": "Monster Aquatic Machine","set": "NFW","id": "39","deck": "A","duelist": "Yugi, Sugoroku"}
-        ,{"name": "Duel Disk System","frame": "Rule","types": "Rule Game Setup","set": "NFW","id": "40","deck": "B","duelist": "Kaiba"}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "41","deck": "B","duelist": ""}
-        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "42","deck": "B","duelist": ""}
-        ,{"name": "Minotaurus","frame": "Monster","types": "Monster Beast Warrior","set": "NFW","id": "43","deck": "A","duelist": "Kaiba, Priest Seto"}
-        ,{"name": "Armored Lizard","frame": "Monster","types": "Monster Reptillian","set": "NFW","id": "44","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Minocentaur","frame": "Fusion Monster","types": "Fusion Monster Beast Warrior","set": "NFW","id": "45","deck": "B","duelist": "Kaiba"}
-        ,{"name": "Garoozis","frame": "Monster","types": "Monster Reptillian Warrior","set": "NFW","id": "46","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "47","deck": "B","duelist": ""}
-        ,{"name": "Keith","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "48","deck": "B","duelist": ""}
-        ,{"name": "Garnecia Elefantis","frame": "Monster","types": "Monster Beast Warrior","set": "NFW","id": "49","deck": "A","duelist": "Keith"}
-        ,{"name": "Flying Elephant","frame": "Monster","types": "Monster Beast Flying","set": "NFW","id": "50","deck": "A","duelist": "Pegasus"}
+        ,{"name": "Bakura","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "01","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "The Other Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "02","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "03","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "04","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Anzu","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "05","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Honda","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "06","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Commander","frame": "Monster","types": "Monster Machine Warrior","set": "NFW","id": "07","deck": "A","duelist": "Honda","attribute": "dark","grade": "lvl","gradeval": "2","atk": "750","def": "700","bonusatk": "225","bonusdef": "210"}
+        ,{"name": "Honda, the Commander","frame": "Integration Monster","types": "Integration Monster Machine Warrior","set": "NFW","id": "08","deck": "B","duelist": "Honda","attribute": "dark","grade": "lvl","gradeval": "2","atk": "750","def": "700","bonusatk": "225","bonusdef": "210"}
+        ,{"name": "White Thief","frame": "Monster","types": "Monster Spellcaster","set": "NFW","id": "09","deck": "A","duelist": "Bakura","attribute": "light","grade": "lvl","gradeval": "3","atk": "1000","def": "700","bonusatk": "300","bonusdef": "210"}
+        ,{"name": "Reaper of the Cards","frame": "Monster","types": "Monster Demon Flying","set": "NFW","id": "10","deck": "A","duelist": "Bakura, Panik","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1380","def": "1930","bonusatk": "414","bonusdef": "579"}
+        ,{"name": "Babylon","frame": "Monster","types": "Monster Demon","set": "NFW","id": "11","deck": "A","duelist": "Jonouchi, Daimon","attribute": "earth","grade": "lvl","gradeval": "2","atk": "700","def": "600","bonusatk": "210","bonusdef": "180"}
+        ,{"name": "Jonouchi, the Flame Swordsman","frame": "Integration Monster","types": "Integration Monster Warrior Fireblast","set": "NFW","id": "12","deck": "B","duelist": "Jonouchi","attribute": "fire","grade": "lvl","gradeval": "5","atk": "1800","def": "1600","bonusatk": "540","bonusdef": "480"}
+        ,{"name": "Yugi, the Dark Magician","frame": "Integration Monster","types": "Integration Monster Spellcaster","set": "NFW","id": "13","deck": "B","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2500","def": "2100","bonusatk": "750","bonusdef": "630"}
+        ,{"name": "Metamor Pot","frame": "Monster","types": "Monster Demon","set": "NFW","id": "14","deck": "A","duelist": "Bakura","attribute": "dark","grade": "lvl","gradeval": "2","atk": "700","def": "600","bonusatk": "210","bonusdef": "180"}
+        ,{"name": "Saint Magician","frame": "Monster","types": "Monster Spellcaster Blessed","set": "NFW","id": "15","deck": "A","duelist": "Anzu","attribute": "light","grade": "lvl","gradeval": "1","atk": "300","def": "400","bonusatk": "90","bonusdef": "120"}
+        ,{"name": "Anzu, the Saint Magician","frame": "Integration Monster","types": "Integration Monster Spellcaster Blessed","set": "NFW","id": "16","deck": "B","duelist": "Anzu","attribute": "light","grade": "lvl","gradeval": "1","atk": "300","def": "400","bonusatk": "90","bonusdef": "120"}
+        ,{"name": "Anthrosaurus","frame": "Monster","types": "Monster Dinosaur Support","set": "NFW","id": "17","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1000","def": "850","bonusatk": "300","bonusdef": "255"}
+        ,{"name": "You Reap what you Sow","frame": "Trap","types": "Trap","set": "NFW","id": "18","deck": "A","duelist": "Bakura","attribute": "fire"}
+        ,{"name": "Electric Lizard","frame": "Monster","types": "Monster Demon Thunderblast","set": "NFW","id": "19","deck": "A","duelist": "Bakura","attribute": "light","grade": "lvl","gradeval": "3","atk": "850","def": "800","bonusatk": "255","bonusdef": "240"}
+        ,{"name": "Flesh-Eating Insect","frame": "Monster","types": "Monster Insect","set": "NFW","id": "20","deck": "A","duelist": "Bakura","attribute": "earth","grade": "lvl","gradeval": "2","atk": "450","def": "600","bonusatk": "135","bonusdef": "180"}
+        ,{"name": "Horn of Ascension","frame": "Trap","types": "Trap","set": "NFW","id": "21","deck": "A","duelist": "Anzu","attribute": "wind"}
+        ,{"name": "High Priestess","frame": "Monster","types": "Monster Spellcaster Blessed","set": "NFW","id": "22","deck": "A","duelist": "Bakura","attribute": "light","grade": "lvl","gradeval": "3","atk": "1100","def": "800","bonusatk": "330","bonusdef": "240"}
+        ,{"name": "Change of Heart","frame": "Spell","types": "Spell","set": "NFW","id": "23","deck": "A","duelist": "Bakura","attribute": "dark"}
+        ,{"name": "Bakura, the Change of Heart","frame": "Integration Monster","types": "Integration Monster Angel Demon","set": "NFW","id": "24","deck": "B","duelist": "Bakura","attribute": "dark","grade": "lvl","gradeval": "2","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "25","deck": "B","duelist": "","attribute": "wind","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "26","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Panik","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "27","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Black Forest Lake","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "NFW","id": "28","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Black Forest Lake","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "NFW","id": "29","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Castle of Darkening","frame": "Monster","types": "Monster Demon","set": "NFW","id": "30","deck": "A","duelist": "Panik","attribute": "dark","grade": "lvl","gradeval": "4","atk": "920","def": "1930","bonusatk": "276","bonusdef": "579"}
+        ,{"name": "Flotation Ring","frame": "Spell","types": "Spell Equip","set": "NFW","id": "31","deck": "A","duelist": "Panik","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Barox","frame": "Monster","types": "Monster Beast Demon Flying","set": "NFW","id": "32","deck": "A","duelist": "Panik","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1380","def": "1530","bonusatk": "414","bonusdef": "459"}
+        ,{"name": "Dark Chimera","frame": "Monster","types": "Monster Demon","set": "NFW","id": "33","deck": "A","duelist": "Panik","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1610","def": "1460","bonusatk": "483","bonusdef": "438"}
+        ,{"name": "Supreme King of the Dark Demon World","frame": "Monster","types": "Monster Demon","set": "NFW","id": "34","deck": "A","duelist": "Panik","attribute": "dark","grade": "lvl","gradeval": "5","atk": "2000","def": "1530","bonusatk": "600","bonusdef": "459"}
+        ,{"name": "Sealing Light","frame": "Rule","types": "Rule","set": "NFW","id": "35","deck": "B","duelist": "Yugi","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Chaos Shield","frame": "Spell","types": "Spell Equip","set": "NFW","id": "36","deck": "A","duelist": "Panik","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Metal Guardian","frame": "Monster","types": "Monster Demon Machine Protector","set": "NFW","id": "37","deck": "A","duelist": "Panik","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1150","def": "2150","bonusatk": "345","bonusdef": "645"}
+        ,{"name": "Watchful Protector","frame": "Rule","types": "Rule","set": "NFW","id": "38","deck": "B","duelist": "Panik, Yugi","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Catapult Turtle","frame": "Monster","types": "Monster Aquatic Machine","set": "NFW","id": "39","deck": "A","duelist": "Yugi, Sugoroku","attribute": "water","grade": "lvl","gradeval": "5","atk": "1000","def": "2000","bonusatk": "300","bonusdef": "600"}
+        ,{"name": "Duel Disk System","frame": "Rule","types": "Rule Game Setup","set": "NFW","id": "40","deck": "B","duelist": "Kaiba","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "41","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "42","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Minotaurus","frame": "Monster","types": "Monster Beast Warrior","set": "NFW","id": "43","deck": "A","duelist": "Kaiba, Priest Seto","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1700","def": "1000","bonusatk": "510","bonusdef": "300"}
+        ,{"name": "Armored Lizard","frame": "Monster","types": "Monster Reptillian","set": "NFW","id": "44","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "4","atk": "1500","def": "1200","bonusatk": "450","bonusdef": "360"}
+        ,{"name": "Minocentaur","frame": "Fusion Monster","types": "Fusion Monster Beast Warrior","set": "NFW","id": "45","deck": "B","duelist": "Kaiba","attribute": "earth","grade": "lvl","gradeval": "6","atk": "2000","def": "1700","bonusatk": "600","bonusdef": "510"}
+        ,{"name": "Garoozis","frame": "Monster","types": "Monster Reptillian Warrior","set": "NFW","id": "46","deck": "A","duelist": "Jonouchi","attribute": "fire","grade": "lvl","gradeval": "5","atk": "1800","def": "1500","bonusatk": "540","bonusdef": "450"}
+        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "47","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Keith","frame": "Rule","types": "Rule Duelist Setup","set": "NFW","id": "48","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Garnecia Elefantis","frame": "Monster","types": "Monster Beast Warrior","set": "NFW","id": "49","deck": "A","duelist": "Keith","attribute": "earth","grade": "lvl","gradeval": "7","atk": "2400","def": "2000","bonusatk": "720","bonusdef": "600"}
+        ,{"name": "Flying Elephant","frame": "Monster","types": "Monster Beast Flying","set": "NFW","id": "50","deck": "A","duelist": "Pegasus","attribute": "wind","grade": "lvl","gradeval": "4","atk": "1850","def": "1300","bonusatk": "555","bonusdef": "390"}
 
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "01","deck": "B","duelist": ""}
-        ,{"name": "Kotsuzuka","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "02","deck": "B","duelist": ""}
-        ,{"name": "Secret Graveyard","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CGU","id": "03","deck": "B","duelist": ""}
-        ,{"name": "Secret Graveyard","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CGU","id": "04","deck": "B","duelist": ""}
-        ,{"name": "Medusa's Ghost","frame": "Monster","types": "Monster Undead","set": "CGU","id": "05","deck": "A","duelist": "Kotsuzuka"}
-        ,{"name": "Demon Slayer, the Armored Warrior","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "06","deck": "A","duelist": "Kotsuzuka"}
-        ,{"name": "Crawling Dragon","frame": "Monster","types": "Monster Dragon Fireblast","set": "CGU","id": "07","deck": "A","duelist": "Kotsuzuka"}
-        ,{"name": "Murder Circus","frame": "Monster","types": "Monster Demon","set": "CGU","id": "08","deck": "A","duelist": "Kotsuzuka"}
-        ,{"name": "Call of the Living Dead","frame": "Spell","types": "Spell Continuous","set": "CGU","id": "09","deck": "A","duelist": "Kotsuzuka"}
-        ,{"name": "Living Graveyard","frame": "Rule","types": "Rule","set": "CGU","id": "10","deck": "B","duelist": "Kotsuzuka"}
-        ,{"name": "Armored Warrior Zombie","frame": "Alter Monster","types": "Alter Monster Zombie Warrior Regeneration","set": "CGU","id": "11","deck": "B","duelist": "Kotsuzuka"}
-        ,{"name": "Dragon Zombie","frame": "Alter Monster","types": "Alter Monster Zombie Dragon Regeneration","set": "CGU","id": "12","deck": "B","duelist": "Kotsuzuka"}
-        ,{"name": "Murder Circus Zombie","frame": "Alter Monster","types": "Alter Monster Zombie Demon Regeneration","set": "CGU","id": "13","deck": "B","duelist": "Kotsuzuka"}
-        ,{"name": "Ghost King - Pumpking","frame": "Monster","types": "Monster Undead","set": "CGU","id": "14","deck": "A","duelist": "Kotsuzuka"}
-        ,{"name": "Glassman","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "15","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Grappling Warrior Ultimator","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "16","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Shield in the Right Hand, Sword in the Left Hand","frame": "Spell","types": "Spell","set": "CGU","id": "17","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "18","deck": "B","duelist": ""}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "19","deck": "B","duelist": ""}
-        ,{"name": "Brother Mei","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "20","deck": "B","duelist": ""}
-        ,{"name": "Brother Kyu","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "21","deck": "B","duelist": ""}
-        ,{"name": "Secret Underground Arena","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CGU","id": "22","deck": "B","duelist": ""}
-        ,{"name": "Secret Underground Arena","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CGU","id": "23","deck": "B","duelist": ""}
-        ,{"name": "Labyrinth Wall","frame": "Spell Monster","types": "Spell Monster Elemental","set": "CGU","id": "24","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "First Labyrinth Layout","frame": "Rule","types": "Rule","set": "CGU","id": "25","deck": "B","duelist": "Brother Kyu"}
-        ,{"name": "Shadow Ghoul","frame": "Monster","types": "Monster Undead","set": "CGU","id": "26","deck": "A","duelist": "Brother Mei, Rebecca, Arthur"}
-        ,{"name": "Wall Shadow","frame": "Fusion Monster","types": "Fusion Monster Elemental Undead","set": "CGU","id": "27","deck": "B","duelist": "Brother Mei"}
-        ,{"name": "Landmine Spider","frame": "Trap","types": "Trap","set": "CGU","id": "28","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Landmine Spider Token","frame": "Token Monster","types": "Token Monster Insect","set": "CGU","id": "29","deck": "C","duelist": "Brother Kyu"}
-        ,{"name": "Demonic Tank of the Labyrinth","frame": "Monster","types": "Monster Demon Machine","set": "CGU","id": "30","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Chain-Attached Boomerang","frame": "Trap","types": "Trap Equip","set": "CGU","id": "31","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Labyrinth Change","frame": "Spell","types": "Spell","set": "CGU","id": "32","deck": "A","duelist": "Brother Mei"}
-        ,{"name": "Second Labyrinth Layout","frame": "Rule","types": "Rule","set": "CGU","id": "33","deck": "B","duelist": "Brother Mei"}
-        ,{"name": "Dungeon Worm","frame": "Monster","types": "Monster Insect Burrowing","set": "CGU","id": "34","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Burrowing Threat","frame": "Rule","types": "Rule","set": "CGU","id": "35","deck": "B","duelist": "Brother Kyu"}
-        ,{"name": "Magic Box of Death","frame": "Spell","types": "Spell","set": "CGU","id": "36","deck": "A","duelist": "Yugi"}
-        ,{"name": "Awakening","frame": "Spell","types": "Spell Equip","set": "CGU","id": "37","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Monster Tamer","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "38","deck": "A","duelist": "Brother Mei"}
-        ,{"name": "Salamandra","frame": "Spell","types": "Spell Equip","set": "CGU","id": "39","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Demonic Wind Deity - Hyuga","frame": "Divine Monster","types": "Divine Monster Demon Flying Storm Guardian (Hierarchy 1)","set": "CGU","id": "40","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Demonic Thunder Deity - Sanga","frame": "Divine Monster","types": "Divine Monster Demon Thunderblast Storm Guardian (Hierarchy 1)","set": "CGU","id": "41","deck": "A","duelist": "Brother Mei"}
-        ,{"name": "Demonic Water Deity - Suga","frame": "Divine Monster","types": "Divine Monster Demon Aquatic Storm Guardian (Hierarchy 1)","set": "CGU","id": "42","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Gate Guardian","frame": "Divine Fusion Monster","types": "Divine Fusion Monster Demon Protector Storm Guardian (Hierarchy 3)","set": "CGU","id": "43","deck": "B","duelist": "Brother Kyu"}
-        ,{"name": "Storm Guardian Pantheon","frame": "Rule","types": "Rule","set": "CGU","id": "44","deck": "B","duelist": "Brother Kyu"}
-        ,{"name": "Water Rising","frame": "Spell","types": "Spell Persist (until target leaves the field)","set": "CGU","id": "45","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Remove Trap","frame": "Spell","types": "Spell","set": "CGU","id": "46","deck": "A","duelist": "Brother Mei"}
-        ,{"name": "Black Demons Dragon","frame": "Fusion Monster","types": "Fusion Monster Demon Dragon Fireblast Flying","set": "CGU","id": "47","deck": "B","duelist": "Yugi, Jonouchi"}
-        ,{"name": "Force","frame": "Spell","types": "Spell","set": "CGU","id": "48","deck": "A","duelist": "Brother Kyu"}
-        ,{"name": "Mimic Illusionist","frame": "Spell Monster","types": "Spell Monster Illusion","set": "CGU","id": "49","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Monster Replace","frame": "Spell","types": "Spell","set": "CGU","id": "50","deck": "A","duelist": "Yugi"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "01","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kotsuzuka","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "02","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Secret Graveyard","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CGU","id": "03","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Secret Graveyard","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CGU","id": "04","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Medusa's Ghost","frame": "Monster","types": "Monster Undead","set": "CGU","id": "05","deck": "A","duelist": "Kotsuzuka","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1500","def": "1200","bonusatk": "450","bonusdef": "360"}
+        ,{"name": "Demon Slayer, the Armored Warrior","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "06","deck": "A","duelist": "Kotsuzuka","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1500","def": "1700","bonusatk": "450","bonusdef": "510"}
+        ,{"name": "Crawling Dragon","frame": "Monster","types": "Monster Dragon Fireblast","set": "CGU","id": "07","deck": "A","duelist": "Kotsuzuka","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1600","def": "1400","bonusatk": "480","bonusdef": "420"}
+        ,{"name": "Murder Circus","frame": "Monster","types": "Monster Demon","set": "CGU","id": "08","deck": "A","duelist": "Kotsuzuka","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1350","def": "1400","bonusatk": "405","bonusdef": "420"}
+        ,{"name": "Call of the Living Dead","frame": "Spell","types": "Spell Continuous","set": "CGU","id": "09","deck": "A","duelist": "Kotsuzuka","attribute": "dark","grade": "glyph","gradeval": "CONT."}
+        ,{"name": "Living Graveyard","frame": "Rule","types": "Rule","set": "CGU","id": "10","deck": "B","duelist": "Kotsuzuka","attribute": "dark","grade": "glyph","gradeval": "-"}
+        ,{"name": "Armored Warrior Zombie","frame": "Alter Monster","types": "Alter Monster Zombie Warrior Regeneration","set": "CGU","id": "11","deck": "B","duelist": "Kotsuzuka","attribute": "dark","grade": "lvl","gradeval": "3","atk": "1500","def": "0","bonusatk": "450","bonusdef": "0"}
+        ,{"name": "Dragon Zombie","frame": "Alter Monster","types": "Alter Monster Zombie Dragon Regeneration","set": "CGU","id": "12","deck": "B","duelist": "Kotsuzuka","attribute": "dark","grade": "lvl","gradeval": "3","atk": "1600","def": "0","bonusatk": "480","bonusdef": "0"}
+        ,{"name": "Murder Circus Zombie","frame": "Alter Monster","types": "Alter Monster Zombie Demon Regeneration","set": "CGU","id": "13","deck": "B","duelist": "Kotsuzuka","attribute": "dark","grade": "lvl","gradeval": "2","atk": "1350","def": "0","bonusatk": "405","bonusdef": "0"}
+        ,{"name": "Ghost King - Pumpking","frame": "Monster","types": "Monster Undead","set": "CGU","id": "14","deck": "A","duelist": "Kotsuzuka","attribute": "dark","grade": "lvl","gradeval": "6","atk": "1500","def": "2000","bonusatk": "450","bonusdef": "600"}
+        ,{"name": "Glassman","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "15","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1100","def": "1000","bonusatk": "330","bonusdef": "300"}
+        ,{"name": "Grappling Warrior Ultimator","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "16","deck": "A","duelist": "Jonouchi","attribute": "earth","grade": "lvl","gradeval": "3","atk": "700","def": "1000","bonusatk": "210","bonusdef": "300"}
+        ,{"name": "Shield in the Right Hand, Sword in the Left Hand","frame": "Spell","types": "Spell","set": "CGU","id": "17","deck": "A","duelist": "Jonouchi","attribute": "light"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "18","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "19","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Brother Mei","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "20","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Brother Kyu","frame": "Rule","types": "Rule Duelist Setup","set": "CGU","id": "21","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Secret Underground Arena","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "CGU","id": "22","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Secret Underground Arena","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "CGU","id": "23","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Labyrinth Wall","frame": "Combination","types": "Spell Monster Elemental","set": "CGU","id": "24","deck": "A","duelist": "Brother Kyu","attribute": "earth","grade": "lvl","gradeval": "5","atk": "0","def": "3000","bonusatk": "0","bonusdef": "900"}
+        ,{"name": "First Labyrinth Layout","frame": "Rule","types": "Rule","set": "CGU","id": "25","deck": "B","duelist": "Brother Kyu","attribute": "earth","grade": "glyph","gradeval": "-"}
+        ,{"name": "Shadow Ghoul","frame": "Monster","types": "Monster Undead","set": "CGU","id": "26","deck": "A","duelist": "Brother Mei, Rebecca, Arthur","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1600","def": "1300","bonusatk": "480","bonusdef": "390"}
+        ,{"name": "Wall Shadow","frame": "Fusion Monster","types": "Fusion Monster Elemental Undead","set": "CGU","id": "27","deck": "B","duelist": "Brother Mei","attribute": "dark","grade": "lvl","gradeval": "7","atk": "1600","def": "3000","bonusatk": "480","bonusdef": "900"}
+        ,{"name": "Landmine Spider","frame": "Trap","types": "Trap","set": "CGU","id": "28","deck": "A","duelist": "Brother Kyu","attribute": "earth"}
+        ,{"name": "Landmine Spider Token","frame": "Monster","types": "Token Monster Insect","set": "CGU","id": "29","deck": "B","duelist": "Brother Kyu","attribute": "earth","grade": "lvl","gradeval": "4","atk": "2100","def": "1000","bonusatk": "630","bonusdef": "300"}
+        ,{"name": "Demonic Tank of the Labyrinth","frame": "Monster","types": "Monster Demon Machine","set": "CGU","id": "30","deck": "A","duelist": "Brother Kyu","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2400","def": "2400","bonusatk": "720","bonusdef": "720"}
+        ,{"name": "Chain-Attached Boomerang","frame": "Trap","types": "Trap Equip","set": "CGU","id": "31","deck": "A","duelist": "Jonouchi","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Labyrinth Change","frame": "Spell","types": "Spell","set": "CGU","id": "32","deck": "A","duelist": "Brother Mei","attribute": "earth"}
+        ,{"name": "Second Labyrinth Layout","frame": "Rule","types": "Rule","set": "CGU","id": "33","deck": "B","duelist": "Brother Mei","attribute": "earth","grade": "glyph","gradeval": "-"}
+        ,{"name": "Dungeon Worm","frame": "Monster","types": "Monster Insect Burrowing","set": "CGU","id": "34","deck": "A","duelist": "Brother Kyu","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1800","def": "1500","bonusatk": "540","bonusdef": "450"}
+        ,{"name": "Burrowing Threat","frame": "Rule","types": "Rule","set": "CGU","id": "35","deck": "B","duelist": "Brother Kyu","attribute": "earth","grade": "glyph","gradeval": "-"}
+        ,{"name": "Magic Box of Death","frame": "Spell","types": "Spell","set": "CGU","id": "36","deck": "A","duelist": "Yugi","attribute": "dark"}
+        ,{"name": "Awakening","frame": "Spell","types": "Spell Equip","set": "CGU","id": "37","deck": "A","duelist": "Brother Kyu","attribute": "earth","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Monster Tamer","frame": "Monster","types": "Monster Warrior","set": "CGU","id": "38","deck": "A","duelist": "Brother Mei","attribute": "earth","grade": "lvl","gradeval": "5","atk": "1800","def": "1600","bonusatk": "540","bonusdef": "480"}
+        ,{"name": "Salamandra","frame": "Spell","types": "Spell Equip","set": "CGU","id": "39","deck": "A","duelist": "Jonouchi","attribute": "fire","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Demonic Wind Deity - Hyuga","frame": "Divine","types": "Divine Monster Demon Flying Storm Guardian (Hierarchy 1)","set": "CGU","id": "40","deck": "A","duelist": "Brother Kyu","attribute": "wind","grade": "lvl","gradeval": "7","atk": "2400","def": "2200","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Demonic Thunder Deity - Sanga","frame": "Divine","types": "Divine Monster Demon Thunderblast Storm Guardian (Hierarchy 1)","set": "CGU","id": "41","deck": "A","duelist": "Brother Mei","attribute": "light","grade": "lvl","gradeval": "7","atk": "2600","def": "2200","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Demonic Water Deity - Suga","frame": "Divine","types": "Divine Monster Demon Aquatic Storm Guardian (Hierarchy 1)","set": "CGU","id": "42","deck": "A","duelist": "Brother Kyu","attribute": "water","grade": "lvl","gradeval": "7","atk": "2500","def": "2200","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Gate Guardian","frame": "Divine","types": "Divine Fusion Monster Demon Protector Storm Guardian (Hierarchy 3)","set": "CGU","id": "43","deck": "B","duelist": "Brother Kyu","attribute": "dark","grade": "lvl","gradeval": "11","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Storm Guardian Pantheon","frame": "Rule","types": "Rule","set": "CGU","id": "44","deck": "B","duelist": "Brother Kyu","attribute": "dark","grade": "glyph","gradeval": "-"}
+        ,{"name": "Water Rising","frame": "Spell","types": "Spell Persist (until target leaves the field)","set": "CGU","id": "45","deck": "A","duelist": "Brother Kyu","attribute": "water"}
+        ,{"name": "Remove Trap","frame": "Spell","types": "Spell","set": "CGU","id": "46","deck": "A","duelist": "Brother Mei, Shadi","attribute": "light"}
+        ,{"name": "Black Demons Dragon","frame": "Fusion Monster","types": "Fusion Monster Demon Dragon Fireblast Flying","set": "CGU","id": "47","deck": "B","duelist": "Yugi, Jonouchi","attribute": "dark","grade": "lvl","gradeval": "9","atk": "3200","def": "2500","bonusatk": "960","bonusdef": "750"}
+        ,{"name": "Force","frame": "Spell","types": "Spell","set": "CGU","id": "48","deck": "A","duelist": "Brother Kyu","attribute": "dark"}
+        ,{"name": "Mimic Illusionist","frame": "Combination","types": "Spell Monster Illusion","set": "CGU","id": "49","deck": "A","duelist": "Jonouchi","attribute": "dark","grade": "lvl","gradeval": "5","atk": "0","def": "100","bonusatk": "0","bonusdef": "30"}
+        ,{"name": "Monster Replace","frame": "Spell","types": "Spell","set": "CGU","id": "50","deck": "A","duelist": "Yugi","attribute": "wind"}
 
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "01","deck": "B","duelist": ""}
-        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "02","deck": "B","duelist": ""}
-        ,{"name": "Gargoyle Powered","frame": "Monster","types": "Monster Demon","set": "SHH","id": "03","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Magic Lamp","frame": "Trap Monster","types": "Trap Monster Demon","set": "SHH","id": "04","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Multiply","frame": "Spell","types": "Spell","set": "SHH","id": "05","deck": "A","duelist": "Yugi"}
-        ,{"name": "Clone Token","frame": "Token Monster","types": "Token Monster Elemental","set": "SHH","id": "06","deck": "C","duelist": "Yugi"}
-        ,{"name": "The Eye of Truth","frame": "Spell","types": "Spell","set": "SHH","id": "07","deck": "A","duelist": "Yugi, Shadi"}
-        ,{"name": "Sword Stalker of Revenge","frame": "Monster","types": "Monster Demon Warrior","set": "SHH","id": "08","deck": "A","duelist": "Kaiba"}
-        ,{"name": "La Jinn the Demonic Spirit of the Lamp","frame": "Monster","types": "Monster Demon","set": "SHH","id": "09","deck": "A","duelist": "Kaiba, Priest Seto"}
-        ,{"name": "Magic Removal","frame": "Spell","types": "Spell","set": "SHH","id": "10","deck": "A","duelist": "Kaiba, Mai, Anzu"}
-        ,{"name": "Deck Destruction Virus of Death","frame": "Trap","types": "Trap Equip","set": "SHH","id": "11","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Holy Elf's Blessing","frame": "Spell","types": "Spell","set": "SHH","id": "12","deck": "A","duelist": "Kaiba, Shizuka"}
-        ,{"name": "Blue-Eyes Ultimate Dragon","frame": "Fusion Monster","types": "Fusion Monster Dragon Flying","set": "SHH","id": "13","deck": "B","duelist": "Kaiba"}
-        ,{"name": "Living Arrow","frame": "Spell","types": "Spell","set": "SHH","id": "14","deck": "A","duelist": "Yugi"}
-        ,{"name": "Swarm of Kuribohs","frame": "Alter Monster","types": "Alter Monster Swarm Demon Protector","set": "SHH","id": "15","deck": "B","duelist": "Yugi"}
-        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "16","deck": "B","duelist": ""}
-        ,{"name": "Anzu","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "17","deck": "B","duelist": ""}
-        ,{"name": "Petit Angel","frame": "Monster","types": "Monster Angel Flying","set": "SHH","id": "18","deck": "A","duelist": "Anzu"}
-        ,{"name": "Fairy's Gift","frame": "Monster","types": "Monster Angel Spellcaster Flying","set": "SHH","id": "19","deck": "A","duelist": "Anzu"}
-        ,{"name": "Rose Whip","frame": "Spell","types": "Spell Equip","set": "SHH","id": "20","deck": "A","duelist": "Mai"}
-        ,{"name": "Harpie's Feather Duster","frame": "Spell","types": "Spell","set": "SHH","id": "21","deck": "A","duelist": "Mai"}
-        ,{"name": "Friendship","frame": "Monster","types": "Monster Angel Flying","set": "SHH","id": "22","deck": "A","duelist": "Anzu"}
-        ,{"name": "Emissaries of Reconciliation","frame": "Trap","types": "Trap","set": "SHH","id": "23","deck": "A","duelist": "Anzu"}
-        ,{"name": "Silver Bow and Arrow","frame": "Spell","types": "Spell Equip","set": "SHH","id": "24","deck": "A","duelist": "Anzu"}
-        ,{"name": "Elf's Light","frame": "Spell","types": "Spell","set": "SHH","id": "25","deck": "A","duelist": "Anzu"}
-        ,{"name": "Shining Friendship","frame": "Alter Monster","types": "Alter Monster Ascended Angel Flying","set": "SHH","id": "26","deck": "B","duelist": "Anzu"}
-        ,{"name": "Soul Prison","frame": "Emblem","types": "Emblem (This card cannot be used in a Duel)","set": "SHH","id": "27","deck": "A","duelist": ""}
-        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "28","deck": "B","duelist": ""}
-        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "29","deck": "B","duelist": ""}
-        ,{"name": "Duelist Kingdom Championship Arena","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "SHH","id": "30","deck": "B","duelist": ""}
-        ,{"name": "Duelist Kingdom Championship Arena","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "SHH","id": "31","deck": "B","duelist": ""}
-        ,{"name": "Caricature Alligator","frame": "Monster","types": "Monster Reptillian","set": "SHH","id": "32","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Parrot Dragon","frame": "Monster","types": "Monster Avian Flying","set": "SHH","id": "33","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Hypnotism","frame": "Spell","types": "Spell","set": "SHH","id": "34","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Prognostication","frame": "Trap","types": "Trap","set": "SHH","id": "35","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Dark Energy","frame": "Spell","types": "Spell Persist (until your next End Phase)","set": "SHH","id": "36","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Dark Rabbit","frame": "Monster","types": "Monster Beast","set": "SHH","id": "37","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Toon World","frame": "Spell","types": "Spell Continuous","set": "SHH","id": "38","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Toon Rabbit","frame": "Alter Monster","types": "Alter Monster Toon Beast","set": "SHH","id": "39","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Elusive Toons","frame": "Rule","types": "Rule","set": "SHH","id": "40","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Blue-Eyes Toon Dragon","frame": "Alter Monster","types": "Alter Monster Toon Dragon Flying","set": "SHH","id": "41","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Shine Palace","frame": "Spell","types": "Spell","set": "SHH","id": "42","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Curse of Darkness","frame": "Spell","types": "Spell Equip","set": "SHH","id": "43","deck": "A","duelist": "Kaiba"}
-        ,{"name": "Copycat","frame": "Spell","types": "Spell","set": "SHH","id": "44","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Devil Box","frame": "Monster","types": "Monster Demon","set": "SHH","id": "45","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Toon Devil Box","frame": "Alter Monster","types": "Alter Monster Toon Demon","set": "SHH","id": "46","deck": "B","duelist": "Pegasus"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "01","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "02","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Gargoyle Powered","frame": "Monster","types": "Monster Demon","set": "SHH","id": "03","deck": "A","duelist": "Kaiba, Keith","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1600","def": "1200","bonusatk": "480","bonusdef": "360"}
+        ,{"name": "Magic Lamp","frame": "Combination","types": "Trap Monster Demon","set": "SHH","id": "04","deck": "A","duelist": "Kaiba","attribute": "dark","grade": "lvl","gradeval": "3","atk": "900","def": "500","bonusatk": "270","bonusdef": "150"}
+        ,{"name": "Multiply","frame": "Spell","types": "Spell","set": "SHH","id": "05","deck": "A","duelist": "Yugi","attribute": "dark"}
+        ,{"name": "Clone Token","frame": "Monster","types": "Token Monster Elemental","set": "SHH","id": "06","deck": "B","duelist": "Yugi","attribute": "light","grade": "lvl","gradeval": "1","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "The Eye of Truth","frame": "Spell","types": "Spell","set": "SHH","id": "07","deck": "A","duelist": "Yugi, Shadi","attribute": "light"}
+        ,{"name": "Sword Stalker of Revenge","frame": "Monster","types": "Monster Demon Warrior","set": "SHH","id": "08","deck": "A","duelist": "Kaiba","attribute": "dark","grade": "lvl","gradeval": "6","atk": "2000","def": "1600","bonusatk": "600","bonusdef": "480"}
+        ,{"name": "La Jinn the Demonic Spirit of the Lamp","frame": "Monster","types": "Monster Demon","set": "SHH","id": "09","deck": "A","duelist": "Kaiba, Priest Seto","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1800","def": "1000","bonusatk": "540","bonusdef": "300"}
+        ,{"name": "Magic Removal","frame": "Spell","types": "Spell","set": "SHH","id": "10","deck": "A","duelist": "Kaiba, Mai, Anzu, Bakura","attribute": "light"}
+        ,{"name": "Deck Destruction Virus of Death","frame": "Trap","types": "Trap Equip","set": "SHH","id": "11","deck": "A","duelist": "Kaiba","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Holy Elf's Blessing","frame": "Spell","types": "Spell","set": "SHH","id": "12","deck": "A","duelist": "Kaiba, Shizuka","attribute": "light"}
+        ,{"name": "Blue-Eyes Ultimate Dragon","frame": "Fusion Monster","types": "Fusion Monster Dragon Flying","set": "SHH","id": "13","deck": "B","duelist": "Kaiba","attribute": "light","grade": "lvl","gradeval": "12","atk": "4500","def": "3800","bonusatk": "1350","bonusdef": "1140"}
+        ,{"name": "Living Arrow","frame": "Spell","types": "Spell","set": "SHH","id": "14","deck": "A","duelist": "Yugi","attribute": "light"}
+        ,{"name": "Swarm of Kuribohs","frame": "Alter Monster","types": "Alter Monster Swarm Demon Protector","set": "SHH","id": "15","deck": "B","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "1","atk": "300","def": "200","bonusatk": "90","bonusdef": "60"}
+        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "16","deck": "B","duelist": "","attribute": "wind","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Anzu","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "17","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Petit Angel","frame": "Monster","types": "Monster Angel Flying","set": "SHH","id": "18","deck": "A","duelist": "Anzu","attribute": "light","grade": "lvl","gradeval": "3","atk": "600","def": "900","bonusatk": "180","bonusdef": "270"}
+        ,{"name": "Fairy's Gift","frame": "Monster","types": "Monster Angel Spellcaster Flying","set": "SHH","id": "19","deck": "A","duelist": "Anzu","attribute": "light","grade": "lvl","gradeval": "4","atk": "1400","def": "1000","bonusatk": "420","bonusdef": "300"}
+        ,{"name": "Rose Whip","frame": "Spell","types": "Spell Equip","set": "SHH","id": "20","deck": "A","duelist": "Mai","attribute": "earth","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Harpie's Feather Duster","frame": "Spell","types": "Spell","set": "SHH","id": "21","deck": "A","duelist": "Mai","attribute": "wind"}
+        ,{"name": "Friendship","frame": "Monster","types": "Monster Angel Flying","set": "SHH","id": "22","deck": "A","duelist": "Anzu","attribute": "light","grade": "lvl","gradeval": "4","atk": "1300","def": "1100","bonusatk": "390","bonusdef": "330"}
+        ,{"name": "Emissaries of Reconciliation","frame": "Trap","types": "Trap","set": "SHH","id": "23","deck": "A","duelist": "Anzu","attribute": "light"}
+        ,{"name": "Silver Bow and Arrow","frame": "Spell","types": "Spell Equip","set": "SHH","id": "24","deck": "A","duelist": "Anzu","attribute": "wind","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Elf's Light","frame": "Spell","types": "Spell","set": "SHH","id": "25","deck": "A","duelist": "Anzu","attribute": "light"}
+        ,{"name": "Shining Friendship","frame": "Alter Monster","types": "Alter Monster Ascended Angel Flying","set": "SHH","id": "26","deck": "B","duelist": "Anzu","attribute": "light","grade": "lvl","gradeval": "4","atk": "1700","def": "900","bonusatk": "510","bonusdef": "270"}
+        ,{"name": "Soul Prison","frame": "Emblem (This card cannot be used in a Duel)","types": "Emblem (This card cannot be used in a Duel)","set": "SHH","id": "27","deck": "A","duelist": ""}
+        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "28","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Kaiba","frame": "Rule","types": "Rule Duelist Setup","set": "SHH","id": "29","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Duelist Kingdom Championship Arena","frame": "Rule","types": "Rule Field Setup Matched (Red Side)","set": "SHH","id": "30","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Duelist Kingdom Championship Arena","frame": "Rule","types": "Rule Field Setup Matched (Blue Side)","set": "SHH","id": "31","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Caricature Alligator","frame": "Monster","types": "Monster Reptillian","set": "SHH","id": "32","deck": "A","duelist": "Pegasus","attribute": "water","grade": "lvl","gradeval": "4","atk": "800","def": "1600","bonusatk": "240","bonusdef": "480"}
+        ,{"name": "Parrot Dragon","frame": "Monster","types": "Monster Avian Flying","set": "SHH","id": "33","deck": "A","duelist": "Pegasus","attribute": "wind","grade": "lvl","gradeval": "5","atk": "2000","def": "1300","bonusatk": "600","bonusdef": "390"}
+        ,{"name": "Hypnotism","frame": "Spell","types": "Spell","set": "SHH","id": "34","deck": "A","duelist": "Kaiba","attribute": "dark"}
+        ,{"name": "Prognostication","frame": "Trap","types": "Trap","set": "SHH","id": "35","deck": "A","duelist": "Pegasus","attribute": "light"}
+        ,{"name": "Dark Energy","frame": "Spell","types": "Spell Persist (until your next End Phase)","set": "SHH","id": "36","deck": "A","duelist": "Pegasus","attribute": "dark"}
+        ,{"name": "Dark Rabbit","frame": "Monster","types": "Monster Beast","set": "SHH","id": "37","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1100","def": "1500","bonusatk": "330","bonusdef": "450"}
+        ,{"name": "Toon World","frame": "Spell","types": "Spell Continuous","set": "SHH","id": "38","deck": "A","duelist": "Pegasus","attribute": "light","grade": "glyph","gradeval": "CONT."}
+        ,{"name": "Toon Rabbit","frame": "Alter Monster","types": "Alter Monster Toon Beast","set": "SHH","id": "39","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "4","atk": "1100","def": "1500","bonusatk": "330","bonusdef": "450"}
+        ,{"name": "Elusive Toons","frame": "Rule","types": "Rule","set": "SHH","id": "40","deck": "B","duelist": "Pegasus","attribute": "wind","grade": "glyph","gradeval": "-"}
+        ,{"name": "Blue-Eyes Toon Dragon","frame": "Alter Monster","types": "Alter Monster Toon Dragon Flying","set": "SHH","id": "41","deck": "B","duelist": "Pegasus","attribute": "light","grade": "lvl","gradeval": "8","atk": "3000","def": "2500","bonusatk": "900","bonusdef": "750"}
+        ,{"name": "Shine Palace","frame": "Spell","types": "Spell","set": "SHH","id": "42","deck": "A","duelist": "Pegasus","attribute": "light"}
+        ,{"name": "Curse of Darkness","frame": "Spell","types": "Spell Equip","set": "SHH","id": "43","deck": "A","duelist": "Kaiba","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Copycat","frame": "Spell","types": "Spell","set": "SHH","id": "44","deck": "A","duelist": "Pegasus","attribute": "light"}
+        ,{"name": "Devil Box","frame": "Monster","types": "Monster Demon","set": "SHH","id": "45","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2300","def": "2000","bonusatk": "690","bonusdef": "600"}
+        ,{"name": "Toon Devil Box","frame": "Alter Monster","types": "Alter Monster Toon Demon","set": "SHH","id": "46","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2300","def": "2000","bonusatk": "690","bonusdef": "600"}
 
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "01","deck": "B","duelist": ""}
-        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "02","deck": "B","duelist": ""}
-        ,{"name": "Silver-Screen Mirror Wall","frame": "Trap","types": "Trap Continuous","set": "KOD","id": "03","deck": "A","duelist": "Mai"}
-        ,{"name": "Harpie's Pet Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "KOD","id": "04","deck": "A","duelist": "Mai"}
-        ,{"name": "Shadow of Seduction","frame": "Spell","types": "Spell Equip","set": "KOD","id": "05","deck": "A","duelist": "Mai"}
-        ,{"name": "Purity","frame": "Rule","types": "Rule","set": "KOD","id": "06","deck": "B","duelist": "Yugi"}
-        ,{"name": "Brain Control","frame": "Spell","types": "Spell","set": "KOD","id": "07","deck": "A","duelist": "Yugi, Sugoroku"}
-        ,{"name": "Chaos Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "KOD","id": "08","deck": "A","duelist": "Yugi"}
-        ,{"name": "Chaos Soldier","frame": "Ritual Monster","types": "Ritual Monster Warrior","set": "KOD","id": "09","deck": "B","duelist": "Yugi"}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "10","deck": "B","duelist": ""}
-        ,{"name": "Keith","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "11","deck": "B","duelist": ""}
-        ,{"name": "Pendulum Blade Torture Machine","frame": "Monster","types": "Monster Machine","set": "KOD","id": "12","deck": "A","duelist": "Keith"}
-        ,{"name": "Spell Reflecting Armor","frame": "Rule","types": "Rule","set": "KOD","id": "13","deck": "B","duelist": "Keith"}
-        ,{"name": "Magic Knight Giltia","frame": "Monster","types": "Monster Spellcaster Warrior","set": "KOD","id": "14","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "TM-1 Launcher Spider","frame": "Monster","types": "Monster Machine","set": "KOD","id": "15","deck": "A","duelist": "Keith"}
-        ,{"name": "Devilzoa","frame": "Monster","types": "Monster Demon","set": "KOD","id": "16","deck": "A","duelist": "Keith"}
-        ,{"name": "Magic-Reflection Armor - Metal Force","frame": "Trap","types": "Trap Equip","set": "KOD","id": "17","deck": "A","duelist": "Keith"}
-        ,{"name": "Metal Devilzoa","frame": "Alter Monster","types": "Alter Monster Metalized Demon","set": "KOD","id": "18","deck": "B","duelist": "Keith"}
-        ,{"name": "Skewer Pitfall","frame": "Trap","types": "Trap","set": "KOD","id": "19","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Revolver Dragon","frame": "Monster","types": "Monster Dragon Machine","set": "KOD","id": "20","deck": "A","duelist": "Keith"}
-        ,{"name": "Rusty Revolver Dragon","frame": "Alter Monster","types": "Alter Monster Timeshifted Dragon Machine","set": "KOD","id": "21","deck": "B","duelist": "Keith"}
-        ,{"name": "Time Machine","frame": "Trap","types": "Trap","set": "KOD","id": "22","deck": "A","duelist": "Keith"}
-        ,{"name": "Slot Machine AM-7","frame": "Monster","types": "Monster Machine","set": "KOD","id": "23","deck": "A","duelist": "Keith"}
-        ,{"name": "Red-Eyes Black Metal Dragon","frame": "Alter Monster","types": "Alter Monster Metalized Dragon Fireblast Flying","set": "KOD","id": "24","deck": "B","duelist": "Jonouchi"}
-        ,{"name": "7 Completed","frame": "Spell","types": "Spell Equip","set": "KOD","id": "25","deck": "A","duelist": "Keith"}
-        ,{"name": "Spherical Time Bomb","frame": "Spell Monster","types": "Spell Monster Equip Machine","set": "KOD","id": "26","deck": "A","duelist": "Keith"}
-        ,{"name": "Iron Heart","frame": "Monster","types": "Monster Machine","set": "KOD","id": "27","deck": "A","duelist": "Keith"}
-        ,{"name": "Gatekeeper","frame": "Monster","types": "Monster Machine Protector","set": "KOD","id": "28","deck": "A","duelist": "Keith"}
-        ,{"name": "Killer Machine","frame": "Monster","types": "Monster Machine Warrior","set": "KOD","id": "29","deck": "A","duelist": "Keith, Honda"}
-        ,{"name": "Bandit","frame": "Spell","types": "Spell","set": "KOD","id": "30","deck": "A","duelist": "Keith"}
-        ,{"name": "Graverobber","frame": "Spell Trap","types": "Spell Trap","set": "KOD","id": "31","deck": "A","duelist": "Jonouchi"}
-        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "32","deck": "B","duelist": ""}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "33","deck": "B","duelist": ""}
-        ,{"name": "Torunka, the Black-Clothed Great Sage","frame": "Alter Monster","types": "Alter Monster Timeshifted Spellcaster","set": "KOD","id": "34","deck": "B","duelist": "Yugi"}
-        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "35","deck": "B","duelist": ""}
-        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "36","deck": "B","duelist": ""}
-        ,{"name": "Bow-Drawing Mermaid","frame": "Monster","types": "Monster Aquatic","set": "KOD","id": "37","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Tears of a Mermaid","frame": "Trap","types": "Trap","set": "KOD","id": "38","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Dragon Egger","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "KOD","id": "39","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Trap Displacement","frame": "Trap","types": "Trap","set": "KOD","id": "40","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Chains of Magic Energy","frame": "Spell","types": "Spell","set": "KOD","id": "41","deck": "A","duelist": "Bakura"}
-        ,{"name": "Toon Mermaid","frame": "Alter Monster","types": "Alter Monster Toon Aquatic","set": "KOD","id": "42","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Toon Dragon Egger","frame": "Alter Monster","types": "Alter Monster Toon Dragon Fireblast Flying","set": "KOD","id": "43","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Gorgon's Eye","frame": "Trap","types": "Trap Continuous","set": "KOD","id": "44","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Petrification","frame": "Rule","types": "Rule","set": "KOD","id": "45","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Toon Demon","frame": "Alter Monster","types": "Alter Monster Toon Demon Thunderblast","set": "KOD","id": "46","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Millennium Puzzle","frame": "Rule","types": "Rule Symbol Millennium Item","set": "KOD","id": "47","deck": "B","duelist": "Yugi"}
-        ,{"name": "Magical Neutralizing Force Field","frame": "Spell","types": "Spell","set": "KOD","id": "48","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Dark-Eyes Illusionist","frame": "Monster","types": "Monster Illusion","set": "KOD","id": "49","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Illusion Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "KOD","id": "50","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Sacrifice","frame": "Ritual Monster","types": "Ritual Monster Illusion Absorption","set": "KOD","id": "51","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Assimilation","frame": "Rule","types": "Rule","set": "KOD","id": "52","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Time Bomber","frame": "Spell Monster","types": "Spell Monster Machine","set": "KOD","id": "53","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Symbol of Friendship","frame": "Rule","types": "Rule Symbol","set": "KOD","id": "54","deck": "B","duelist": "Anzu, Honda, Jonouchi, Yugi"}
-        ,{"name": "Chaos Black Magic Ritual","frame": "Spell","types": "Spell Persist (until the Ritual is fulfiled)","set": "KOD","id": "55","deck": "A","duelist": "Yugi"}
-        ,{"name": "Magician of Black Chaos","frame": "Ritual Monster","types": "Ritual Monster Spellcaster","set": "KOD","id": "56","deck": "B","duelist": "Yugi"}
-        ,{"name": "Thousand-Eyes Heresy God","frame": "Divine Monster","types": "Divine Monster Spellcaster Wicked God (Hierarchy 1)","set": "KOD","id": "57","deck": "A","duelist": "Pegasus"}
-        ,{"name": "Thousand-Eyes Sacrifice","frame": "Divine Fusion Monster","types": "Divine Fusion Monster Illusion Absorption Wicked God (Hierarchy 3)","set": "KOD","id": "58","deck": "B","duelist": "Pegasus"}
-        ,{"name": "Mask of Darkness","frame": "Spell Monster","types": "Spell Monster Demon","set": "KOD","id": "59","deck": "A","duelist": "Bakura"}
-        ,{"name": "Doma the Angel of Silent Death","frame": "Monster","types": "Monster Angel Demon Flying","set": "KOD","id": "60","deck": "A","duelist": "Bakura"}
-        ,{"name": "Millennium Ring","frame": "Rule","types": "Rule Symbol Millennium Item","set": "KOD","id": "61","deck": "B","duelist": "Bakura"}
-        ,{"name": "Cyndia","frame": "Emblem","types": "Emblem (This card cannot be used in a Duel)","set": "KOD","id": "62","deck": "A","duelist": ""}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "01","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Mai","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "02","deck": "B","duelist": "","attribute": "wind","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Silver-Screen Mirror Wall","frame": "Trap","types": "Trap Continuous","set": "KOD","id": "03","deck": "A","duelist": "Mai","attribute": "light","grade": "glyph","gradeval": "CONT."}
+        ,{"name": "Harpie's Pet Dragon","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "KOD","id": "04","deck": "A","duelist": "Mai","attribute": "wind","grade": "lvl","gradeval": "7","atk": "2000","def": "2500","bonusatk": "600","bonusdef": "750"}
+        ,{"name": "Shadow of Seduction","frame": "Spell","types": "Spell Equip","set": "KOD","id": "05","deck": "A","duelist": "Mai","attribute": "dark","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Purity","frame": "Rule","types": "Rule","set": "KOD","id": "06","deck": "B","duelist": "Yugi","attribute": "light","grade": "glyph","gradeval": "-"}
+        ,{"name": "Brain Control","frame": "Spell","types": "Spell","set": "KOD","id": "07","deck": "A","duelist": "Yugi, Sugoroku","attribute": "dark"}
+        ,{"name": "Chaos Ritual","frame": "Ritual Monster","types": "Spell Persist (until the Ritual is fulfiled)","set": "KOD","id": "08","deck": "B","duelist": "Yugi","attribute": "light"}
+        ,{"name": "Chaos Soldier","frame": "Ritual Monster","types": "Ritual Monster Warrior","set": "KOD","id": "09","deck": "B","duelist": "Yugi","attribute": "earth","grade": "lvl","gradeval": "8","atk": "3000","def": "2500","bonusatk": "900","bonusdef": "750"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "10","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Keith","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "11","deck": "B","duelist": "","attribute": "earth","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Pendulum Blade Torture Machine","frame": "Monster","types": "Monster Machine","set": "KOD","id": "12","deck": "A","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "6","atk": "1750","def": "2000","bonusatk": "525","bonusdef": "600"}
+        ,{"name": "Spell Reflecting Armor","frame": "Rule","types": "Rule","set": "KOD","id": "13","deck": "B","duelist": "Keith","attribute": "earth","grade": "glyph","gradeval": "-"}
+        ,{"name": "Magic Knight Giltia","frame": "Monster","types": "Monster Spellcaster Warrior","set": "KOD","id": "14","deck": "A","duelist": "Jonouchi","attribute": "light","grade": "lvl","gradeval": "5","atk": "1850","def": "1500","bonusatk": "555","bonusdef": "450"}
+        ,{"name": "TM-1 Launcher Spider","frame": "Monster","types": "Monster Machine","set": "KOD","id": "15","deck": "A","duelist": "Keith","attribute": "fire","grade": "lvl","gradeval": "7","atk": "2200","def": "2500","bonusatk": "660","bonusdef": "750"}
+        ,{"name": "Devilzoa","frame": "Monster","types": "Monster Demon","set": "KOD","id": "16","deck": "A","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2600","def": "1900","bonusatk": "780","bonusdef": "570"}
+        ,{"name": "Magic-Reflection Armor - Metal Force","frame": "Trap","types": "Trap Equip","set": "KOD","id": "17","deck": "A","duelist": "Keith, Step Johnny","attribute": "earth","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Metal Devilzoa","frame": "Alter Monster","types": "Alter Monster Metalized Demon","set": "KOD","id": "18","deck": "B","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "8","atk": "3000","def": "2300","bonusatk": "900","bonusdef": "690"}
+        ,{"name": "Skewer Pitfall","frame": "Trap","types": "Trap","set": "KOD","id": "19","deck": "A","duelist": "Jonouchi","attribute": "earth"}
+        ,{"name": "Revolver Dragon","frame": "Monster","types": "Monster Dragon Machine","set": "KOD","id": "20","deck": "A","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2600","def": "2200","bonusatk": "780","bonusdef": "660"}
+        ,{"name": "Rusty Revolver Dragon","frame": "Alter Monster","types": "Alter Monster Timeshifted Dragon Machine","set": "KOD","id": "21","deck": "B","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "7","atk": "1800","def": "1400","bonusatk": "540","bonusdef": "420"}
+        ,{"name": "Time Machine","frame": "Trap","types": "Trap","set": "KOD","id": "22","deck": "A","duelist": "Keith","attribute": "wind"}
+        ,{"name": "Slot Machine AM-7","frame": "Monster","types": "Monster Machine","set": "KOD","id": "23","deck": "A","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "7","atk": "2000","def": "2300","bonusatk": "600","bonusdef": "690"}
+        ,{"name": "Red-Eyes Black Metal Dragon","frame": "Alter Monster","types": "Alter Monster Metalized Dragon Fireblast Flying","set": "KOD","id": "24","deck": "B","duelist": "Jonouchi","attribute": "dark","grade": "lvl","gradeval": "8","atk": "2800","def": "2400","bonusatk": "840","bonusdef": "720"}
+        ,{"name": "7 Completed","frame": "Spell","types": "Spell Equip","set": "KOD","id": "25","deck": "A","duelist": "Keith","attribute": "light","grade": "glyph","gradeval": "EQUIP"}
+        ,{"name": "Spherical Time Bomb","frame": "Combination","types": "Spell Monster Equip Machine","set": "KOD","id": "26","deck": "A","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "4","atk": "2900","def": "1400","bonusatk": "870","bonusdef": "420"}
+        ,{"name": "Iron Heart","frame": "Monster","types": "Monster Machine","set": "KOD","id": "27","deck": "A","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1700","def": "1400","bonusatk": "510","bonusdef": "420"}
+        ,{"name": "Gatekeeper","frame": "Monster","types": "Monster Machine Protector","set": "KOD","id": "28","deck": "A","duelist": "Keith","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1500","def": "1800","bonusatk": "450","bonusdef": "540"}
+        ,{"name": "Killer Machine","frame": "Monster","types": "Monster Machine Warrior","set": "KOD","id": "29","deck": "A","duelist": "Keith, Honda","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1450","def": "1500","bonusatk": "435","bonusdef": "450"}
+        ,{"name": "Bandit","frame": "Spell","types": "Spell","set": "KOD","id": "30","deck": "A","duelist": "Keith","attribute": "dark"}
+        ,{"name": "Graverobber","frame": "Combination","types": "Spell Trap","set": "KOD","id": "31","deck": "A","duelist": "Jonouchi","attribute": "dark"}
+        ,{"name": "Jonouchi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "32","deck": "B","duelist": "","attribute": "fire","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "33","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Torunka, the Black-Clothed Great Sage","frame": "Alter Monster","types": "Alter Monster Timeshifted Spellcaster","set": "KOD","id": "34","deck": "B","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "9","atk": "100","def": "3200","bonusatk": "30","bonusdef": "960"}
+        ,{"name": "Yugi","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "35","deck": "B","duelist": "","attribute": "light","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Pegasus","frame": "Rule","types": "Rule Duelist Setup","set": "KOD","id": "36","deck": "B","duelist": "","attribute": "dark","grade": "glyph","gradeval": "SETUP"}
+        ,{"name": "Bow-Drawing Mermaid","frame": "Monster","types": "Monster Aquatic","set": "KOD","id": "37","deck": "A","duelist": "Pegasus","attribute": "water","grade": "lvl","gradeval": "4","atk": "1400","def": "1500","bonusatk": "420","bonusdef": "450"}
+        ,{"name": "Tears of a Mermaid","frame": "Trap","types": "Trap","set": "KOD","id": "38","deck": "A","duelist": "Pegasus","attribute": "water"}
+        ,{"name": "Dragon Egger","frame": "Monster","types": "Monster Dragon Fireblast Flying","set": "KOD","id": "39","deck": "A","duelist": "Pegasus","attribute": "fire","grade": "lvl","gradeval": "7","atk": "2200","def": "2600","bonusatk": "660","bonusdef": "780"}
+        ,{"name": "Trap Displacement","frame": "Trap","types": "Trap","set": "KOD","id": "40","deck": "A","duelist": "Pegasus","attribute": "dark"}
+        ,{"name": "Chains of Magic Energy","frame": "Spell","types": "Spell","set": "KOD","id": "41","deck": "A","duelist": "Bakura","attribute": "light"}
+        ,{"name": "Toon Mermaid","frame": "Alter Monster","types": "Alter Monster Toon Aquatic","set": "KOD","id": "42","deck": "B","duelist": "Pegasus","attribute": "water","grade": "lvl","gradeval": "4","atk": "1400","def": "1500","bonusatk": "420","bonusdef": "450"}
+        ,{"name": "Toon Dragon Egger","frame": "Alter Monster","types": "Alter Monster Toon Dragon Fireblast Flying","set": "KOD","id": "43","deck": "B","duelist": "Pegasus","attribute": "fire","grade": "lvl","gradeval": "7","atk": "2200","def": "2600","bonusatk": "660","bonusdef": "780"}
+        ,{"name": "Gorgon's Eye","frame": "Trap","types": "Trap Continuous","set": "KOD","id": "44","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "glyph","gradeval": "CONT."}
+        ,{"name": "Petrification","frame": "Rule","types": "Rule","set": "KOD","id": "45","deck": "B","duelist": "Pegasus","attribute": "earth","grade": "glyph","gradeval": "-"}
+        ,{"name": "Toon Demon","frame": "Alter Monster","types": "Alter Monster Toon Demon Thunderblast","set": "KOD","id": "46","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "6","atk": "2500","def": "1200","bonusatk": "750","bonusdef": "360"}
+        ,{"name": "Millennium Puzzle","frame": "Rule","types": "Rule Symbol Millennium Item","set": "KOD","id": "47","deck": "B","duelist": "Yugi","attribute": "dark","grade": "glyph","gradeval": "CHRG 7"}
+        ,{"name": "Magical Neutralizing Force Field","frame": "Spell","types": "Spell","set": "KOD","id": "48","deck": "A","duelist": "Pegasus","attribute": "wind"}
+        ,{"name": "Dark-Eyes Illusionist","frame": "Monster","types": "Monster Illusion","set": "KOD","id": "49","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "1","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Illusion Ritual","frame": "Ritual Monster","types": "Spell Persist (until the Ritual is fulfiled)","set": "KOD","id": "50","deck": "B","duelist": "Pegasus","attribute": "dark"}
+        ,{"name": "Sacrifice","frame": "Ritual Monster","types": "Ritual Monster Illusion Absorption","set": "KOD","id": "51","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "1","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Assimilation","frame": "Rule","types": "Rule","set": "KOD","id": "52","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "glyph","gradeval": "-"}
+        ,{"name": "Time Bomber","frame": "Combination","types": "Spell Monster Machine","set": "KOD","id": "53","deck": "A","duelist": "Pegasus","attribute": "fire","grade": "lvl","gradeval": "2","atk": "200","def": "1000","bonusatk": "60","bonusdef": "300"}
+        ,{"name": "Symbol of Friendship","frame": "Rule","types": "Rule Symbol","set": "KOD","id": "54","deck": "B","duelist": "Anzu, Honda, Jonouchi, Yugi","attribute": "light","grade": "glyph","gradeval": "CHRG 1"}
+        ,{"name": "Chaos Black Magic Ritual","frame": "Ritual Monster","types": "Spell Persist (until the Ritual is fulfiled)","set": "KOD","id": "55","deck": "B","duelist": "Yugi","attribute": "dark"}
+        ,{"name": "Magician of Black Chaos","frame": "Ritual Monster","types": "Ritual Monster Spellcaster","set": "KOD","id": "56","deck": "B","duelist": "Yugi","attribute": "dark","grade": "lvl","gradeval": "8","atk": "2800","def": "2600","bonusatk": "840","bonusdef": "780"}
+        ,{"name": "Thousand-Eyes Heresy God","frame": "Divine","types": "Divine Monster Spellcaster Wicked God (Hierarchy 1)","set": "KOD","id": "57","deck": "A","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "1","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Thousand-Eyes Sacrifice","frame": "Divine","types": "Divine Fusion Monster Illusion Absorption Wicked God (Hierarchy 3)","set": "KOD","id": "58","deck": "B","duelist": "Pegasus","attribute": "dark","grade": "lvl","gradeval": "1","atk": "0","def": "0","bonusatk": "0","bonusdef": "0"}
+        ,{"name": "Mask of Darkness","frame": "Combination","types": "Spell Monster Demon","set": "KOD","id": "59","deck": "A","duelist": "Bakura","attribute": "dark","grade": "lvl","gradeval": "2","atk": "900","def": "400","bonusatk": "270","bonusdef": "120"}
+        ,{"name": "Doma the Angel of Silent Death","frame": "Monster","types": "Monster Angel Demon Flying","set": "KOD","id": "60","deck": "A","duelist": "Bakura","attribute": "dark","grade": "lvl","gradeval": "5","atk": "1600","def": "1400","bonusatk": "480","bonusdef": "420"}
+        ,{"name": "Millennium Ring","frame": "Rule","types": "Rule Symbol Millennium Item","set": "KOD","id": "61","deck": "B","duelist": "Bakura","attribute": "dark","grade": "glyph","gradeval": "CHRG 7"}
+        ,{"name": "Cyndia","frame": "Emblem (This card cannot be used in a Duel)","types": "Emblem (This card cannot be used in a Duel)","set": "KOD","id": "62","deck": "A","duelist": ""}
     ]
 };
