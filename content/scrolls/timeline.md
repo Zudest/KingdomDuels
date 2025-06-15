@@ -39,9 +39,10 @@ toc = false
     * One of the very early duels that we could see is from Ishizu and Marik as kids.
     * Marik's father carves the symbols onto Marik's back.
 * **1992**
-    * On one fateful day Marik leaves the gravekeeper's place and sees the outside world for the first time. Shadi's ghost finds Ishizu and Marik and tells them about the incoming resurrection of the Pharaoh. The evil personality within Marik takes over and kills his father. Marik takes the Millennium Rod and leaves with Rishid. Ishizu inherits the Millennium Tauk.
+    * On one fateful day Marik leaves the gravekeeper's place and sees the outside world for the first time. Shadi's ghost finds Ishizu and Marik and tells them about the incoming resurrection of the Pharaoh. The evil personality within Marik takes over and kills his father. Marik takes the Millennium Rod and leaves with Rishid the following day. Ishizu inherits the Millennium Tauk.
 * **1995**
-    * Pegasus goes to Egypt once again and finds the Egyptian God's stone tablet thanks to Shadi. His team dies in mysterious circumstances briefly after returning from that trip. He ends up designing the God Cards himself but gives them to Ishizu for safekeeping. At some point Marik and his Ghouls steal two of the three cards.
+    * Pegasus goes to Egypt once again and finds the Egyptian God's stone tablet thanks to Shadi. His team dies in mysterious circumstances briefly after returning from that trip. He ends up designing the God Cards himself but gives them to Ishizu for safekeeping. 
+    * At some point Marik and his Ghouls steal two of the three cards, but they are stopped by Ishizu from stealing the last one.
     * Industrial Illusions grow exponentially. By the end of the year they will have at least two personal satellites in orbit.
 * **1996**
     * Yugi solves the Millennium Puzzle. Atem resurfaces.
@@ -52,7 +53,7 @@ toc = false
         * The National Japanese tournament happens, Haga is declared champion.
         * Pegasus defeats Yugi, taking his grandfather's soul as hostage with his Millennium Eye.
         * The Duelist Kingdom tournament happens (duration 2 days). Yugi wins the tournament, defeats Pegasus and becomes Duelist King, saving his grandfather's soul. Bakura later uses this opportunity to challenge and defeat the weakened Pegasus, taking his Millennium Eye and putting him into a coma.
-        * Simultaneously to that tournament, Pegasus attempted and failed to take over Kaiba Corporation. Kaiba ended up firing The Big Five for this.
+        * Simultaneously to that tournament, Pegasus attempted and failed to take over Kaiba Corporation with the help of the other shareholders of that company: the group known as "the Big Five". Kaiba ends up firing The Big Five for this betrayal.
         * Start of a new school year (2nd year of school for Yugi and friends). Otogi joins the classroom.
         * Kaiba, Yugi and friends end up imprisoned in a virtual world, in a trap set up by the Big Five and Noah Kaiba (duration 1 day).
         * "The Art of Egypt" exhibition takes place in the Domino City Museum. Shadi's spirit tests Yugi in a duel. Ishizu meets Kaiba, gives him an Egyptian God card, and a few days later she also meets Yugi. She gives both of them knowledge about the past using the old stone tablets and her Millennium Item.

@@ -1,0 +1,1273 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=" Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the Yugioh anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!\n📄 Getting Started\r📝 About\rKingdom Duels is a turn-based competitive card game that is normally played by 2 players. The main way to win at this game is to reduce your opponent&rsquo;s Life Points (LP) to 0.\n">
+<title>Rules (WIP)</title>
+
+<link rel='canonical' href='https://kingdomduels.com/rules-wip/'>
+
+<link rel="stylesheet" href="/scss/style.min.c3546715361c8a70b76d6d774e1e9b4fd6436d6cc44762f40a04b7fdd2b602e5.css"><meta property='og:title' content="Rules (WIP)">
+<meta property='og:description' content=" Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the Yugioh anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!\n📄 Getting Started\r📝 About\rKingdom Duels is a turn-based competitive card game that is normally played by 2 players. The main way to win at this game is to reduce your opponent&rsquo;s Life Points (LP) to 0.\n">
+<meta property='og:url' content='https://kingdomduels.com/rules-wip/'>
+<meta property='og:site_name' content='Kingdom Duels'>
+<meta property='og:type' content='article'><meta property='article:section' content='' />
+<meta name="twitter:title" content="Rules (WIP)">
+<meta name="twitter:description" content=" Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the Yugioh anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!\n📄 Getting Started\r📝 About\rKingdom Duels is a turn-based competitive card game that is normally played by 2 players. The main way to win at this game is to reduce your opponent&rsquo;s Life Points (LP) to 0.\n">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            localStorage.setItem(colorSchemeKey, "auto");
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu17114950421265479909.png" width="684"
+                            height="240" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+            </figure>
+            
+        
+        
+        
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://discord.gg/mn29q7qah4'
+                        target="_blank"
+                        title="Discord"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-discord"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M8 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M14 12a1 1 0 1 0 2 0a1 1 0 0 0 -2 0" /><path d="M15.5 17c0 1 1.5 3 2 3c1.5 0 2.833 -1.667 3.5 -3c.667 -1.667 .5 -5.833 -1.5 -11.5c-1.457 -1.015 -3 -1.34 -4.5 -1.5l-.972 1.923a11.913 11.913 0 0 0 -4.053 0l-.975 -1.923c-1.5 .16 -3.043 .485 -4.5 1.5c-2 5.667 -2.167 9.833 -1.5 11.5c.667 1.333 2 3 3.5 3c.5 0 2 -2 2 -3" /><path d="M7 16.5c3.5 1 6.5 1 10 0" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://www.youtube.com/@kingdomduels'
+                        target="_blank"
+                        title="Youtube"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-youtube"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M2 8a4 4 0 0 1 4 -4h12a4 4 0 0 1 4 4v8a4 4 0 0 1 -4 4h-12a4 4 0 0 1 -4 -4v-8z" /><path d="M10 9l5 3l-5 3z" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://steamcommunity.com/sharedfiles/filedetails/?id=2884430004'
+                        target="_blank"
+                        title="Steam (Tabletop Simulator)"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-brand-steam"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M16.5 5a4.5 4.5 0 1 1 -.653 8.953l-4.347 3.009l0 .038a3 3 0 0 1 -2.824 3l-.176 0a3 3 0 0 1 -2.94 -2.402l-2.56 -1.098v-3.5l3.51 1.755a2.989 2.989 0 0 1 2.834 -.635l2.727 -3.818a4.5 4.5 0 0 1 4.429 -5.302z" /><circle cx="16.5" cy="9.5" r="1" fill="currentColor" /></svg>
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='https://www.reddit.com/r/TheDuelistKingdom/'
+                        target="_blank"
+                        title="Reddit"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-messages" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M21 14l-3 -3h-7a1 1 0 0 1 -1 -1v-6a1 1 0 0 1 1 -1h9a1 1 0 0 1 1 1v10" />
+  <path d="M14 15v2a1 1 0 0 1 -1 1h-7l-3 3v-10a1 1 0 0 1 1 -1h2" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/about/' >
+                
+                
+                
+                <span>About</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/rules/' >
+                
+                
+                
+                <span>Rules</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/yugioh-scrolls/' >
+                
+                
+                
+                <span>Yugioh Scrolls</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/deckbuilder/' >
+                
+                
+                
+                <span>Deckbuilder</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/restricted-list/' >
+                
+                
+                
+                <span>Restricted List</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/downloads/' >
+                
+                
+                
+                <span>Downloads</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#-getting-started">📄 Getting Started</a>
+      <ul>
+        <li><a href="#-about">📝 About</a></li>
+        <li><a href="#-the-game-board">🗺️ The Game Board</a></li>
+        <li><a href="#-setup">🧭 Setup</a></li>
+        <li><a href="#-turn-structure">⚙️ Turn Structure</a></li>
+        <li><a href="#-components-of-a-card">🗒️ Components of a Card</a></li>
+      </ul>
+    </li>
+    <li><a href="#-terrain-markers">⛰️ Terrain Markers</a>
+      <ul>
+        <li><a href="#-field-power-bonus">🏞️ Field Power Bonus</a></li>
+      </ul>
+    </li>
+    <li><a href="#-the-cards">🎴 The Cards</a></li>
+    <li><a href="#-rule-cards">📜 Rule Cards</a></li>
+    <li><a href="#-monster-cards">🐉 Monster Cards</a>
+      <ul>
+        <li><a href="#-fusion-monster-cards">🌀 Fusion Monster Cards</a></li>
+        <li><a href="#-ritual-monster-cards">🕯️ Ritual Monster Cards</a></li>
+        <li><a href="#-alter-monster-cards">🔃 Alter Monster Cards</a></li>
+        <li><a href="#-integration-monster-cards">🧍 Integration Monster Cards</a></li>
+        <li><a href="#-token-monster-cards">🀄 Token Monster Cards</a></li>
+      </ul>
+    </li>
+    <li><a href="#-spell-and-trap-cards">🔮 Spell and Trap Cards</a></li>
+    <li><a href="#-other-card-types">🗃️ Other Card Types</a>
+      <ul>
+        <li><a href="#-combination-cards">🌈 Combination Cards</a></li>
+        <li><a href="#-divine-cards">📿 Divine Cards</a></li>
+      </ul>
+    </li>
+    <li><a href="#-terminology">📃 Terminology</a>
+      <ul>
+        <li><a href="#-effect-types">📝 Effect Types</a></li>
+      </ul>
+    </li>
+    <li><a href="#-idleness-rule">💤 Idleness Rule</a></li>
+    <li><a href="#-clarifications">☕ Clarifications</a></li>
+    <li><a href="#-type-details">✨ Type Details</a></li>
+    <li><a href="#-multiplayer-rules">🤝 Multiplayer Rules</a></li>
+    <li><a href="#-deckbuilding">🔧 Deckbuilding</a></li>
+    <li><a href="#tldr">TL;DR</a></li>
+  </ul>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/rules-wip/">Rules (WIP)</a>
+        </h2>
+    
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    31 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <blockquote>
+<p><em>Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the Yugioh anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!</em></p>
+</blockquote>
+<h2 id="-getting-started">📄 Getting Started
+</h2><h3 id="-about">📝 About
+</h3><p>Kingdom Duels is a turn-based competitive card game that is normally played by 2 players. The main way to win at this game is to reduce your opponent&rsquo;s Life Points (LP) to 0.</p>
+<h3 id="-the-game-board">🗺️ The Game Board
+</h3><div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+            <a href="/img/promotion/RulesField.jpg" style="text-decoration: none;">
+        
+        
+        <img src="/img/promotion/RulesField.jpg" width="720" alt="?">
+        
+        
+        
+        
+            </a>
+        
+    </div>
+</div>
+</div>
+<p>This game is played on a board that is divided into several card zones. It has a <strong>Frontrow</strong> (five card zones where you play your monsters) and a <strong>Backrow</strong> (five card zones where you play spell and traps). These two concepts (Frontrow and Backrow) together establish <em>&ldquo;your Field&rdquo;</em>.</p>
+<p>The other four zones of the board are outside of <em>your Field</em> and serve different purposes: the <strong>Rule Zone</strong> is where you play rule cards; the <strong>Graveyard</strong> is where you discard cards after use; the <strong>Main Deck Zone</strong> is where you have your deck of cards; and the <strong>Extra Deck Zone</strong> is where you may have a secondary deck of cards.</p>
+<p>Your opponent has the exact same board setup as you, with their own Frontrow, Backrow, etc.</p>
+<h3 id="-setup">🧭 Setup
+</h3><ul>
+<li>Each player begins the Duel with <strong>2000 Life Points</strong> (LP).</li>
+<li>Each player needs a <strong>Main Deck</strong> with exactly 30 cards and an <strong>Extra Deck</strong> with up to 20 cards.</li>
+<li>Before the duel starts a <strong>Setup Phase</strong> occurs:
+<ul>
+<li><strong>(1)</strong>: Each player place their shuffled Main Deck and Extra Deck in their corresponding zones.</li>
+<li><strong>(2)</strong>: Each player can activate <strong>Setup Rule</strong> card(s) that they may have in their Extra Deck.
+<ul>
+<li>To activate them the player moves the Setup Rule from their Extra Deck into their Rule Zone (for example a Duelist Setup may enable some specific cards to add to their hand, or a Field Setup may define specific Terrains that benefit their strategy).</li>
+</ul>
+</li>
+<li><strong>(3)</strong>: The starting Terrains are placed in each side of the field, defined by a TERRAINS effect.
+<ul>
+<li>If a player didn&rsquo;t activated a TERRAINS effect they must use 5 &ldquo;Land&rdquo; Terrains.</li>
+</ul>
+</li>
+<li><strong>(4)</strong>: Players then decide who goes first (by coin toss, rock-paper-scissors, etc.)</li>
+<li><strong>(5)</strong>: They draw their initial <strong>5 cards</strong>.
+<ul>
+<li>At this point, if a player used a STRATEGY effect, they may swap up to 2 cards from their starting hand with card(s) in that STRATEGY, and then shuffle their deck.</li>
+</ul>
+</li>
+<li><strong>(6)</strong>: The duel begins.</li>
+</ul>
+</li>
+</ul>
+<h3 id="-turn-structure">⚙️ Turn Structure
+</h3><p><img src="/img/promotion/RulesPhases.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p><em>Draw Phase → Standby Phase → Main Phase 1 → Battle Phase → Main Phase 2 → End Phase</em></p>
+<h4 id="-draw-clarifications">✋ Draw Clarifications
+</h4><ul>
+<li>During its Draw Phase, a player draws 1 card from their deck (even in the first turn).</li>
+<li>There is no hand size limit, a player can have any number of cards in their hand.</li>
+<li>If you add cards from (or to) your Deck (outside of drawing them from the top) you must shuffle the Deck afterwards unless otherwise stated.</li>
+<li>If a player can&rsquo;t draw cards from its Deck then that player loses the duel by deckout.</li>
+</ul>
+<h4 id="-main-phase-clarifications">📌 Main Phase Clarifications
+</h4><ul>
+<li>Monsters in this game must be &ldquo;summoned&rdquo; to the field in a &ldquo;Monster Zone&rdquo;.</li>
+<li>During your turn you can perform <strong>one</strong> Normal Summon and any number of Special Summons (which are enabled through card effects).</li>
+<li>You can Normal Summon in <strong>face-up ATK</strong> or <strong>face-up DEF</strong> Position Normal monsters from your Main Deck of <strong>any</strong> Level without tributing.</li>
+<li>Monsters can be in ATK Position (upright) or in DEF Position (sideways). The other card types (Spell, Traps and Rules) are always in upright position.</li>
+<li>You <strong>can&rsquo;t Set monsters face-down</strong> in this game. Instead you can <strong>Hide</strong> a monster (or <strong>Summon in Hidden position</strong>) in face-down ATK or face-down DEF position but only if there is an effect that allows you to do so. Monsters with the <strong>FLIP</strong> keyword can be summoned in Hidden DEF position in any terrain that they can be summoned on.</li>
+<li><strong>Monsters Hidden in DEF</strong> Position work exactly like face-down DEF position in the official rules. <strong>Monsters Hidden in ATK</strong> Position are revealed during combat, but can be hidden once again after battle calculations if they are still on the field.</li>
+</ul>
+<h4 id="-battle-clarifications">⚔️ Battle Clarifications
+</h4><ul>
+<li>You <strong>can&rsquo;t</strong> attack your opponent&rsquo;s LP directly.</li>
+<li>Only <strong>one monster</strong> can declare an attack on each Battle Phase.</li>
+<li>Only ATK Position monsters can attack. The difference between ATK values is inflicted to the LP of the monster with the lowest amount of ATK as &ldquo;<strong>Battle Damage</strong>&rdquo;. DEF Position monsters protect your LP from attacks.</li>
+<li>Attacks can be <strong>redirected</strong> from one target to another. If an attack is redirected then it is now treated as an opponent attack, even during your own Battle Phase, but its source is still considered to be the original monster.</li>
+</ul>
+<h3 id="-components-of-a-card">🗒️ Components of a Card
+</h3><p><img src="/img/promotion/RulesCardComponents.jpg"
+	
+	
+	
+	loading="lazy"
+	
+	
+></p>
+<p><strong>Grade Symbol</strong>: The grade or &ldquo;main icon&rdquo; of a card in the top right corner provides specific information about how that card is played. It varies from card type and card subtype:</p>
+<ul>
+<li><strong>Levels</strong>: Numbers from 1 to 12 on top of an orange and yellow star-pattern icon.</li>
+<li><strong>Glyphs</strong>: Brown and white icons with unique symbols for Normal, Equip, Continuous and Setup.</li>
+<li><strong>Charges</strong>: Numbers on top of a dark purple icon, exclusive to Symbol Rule Cards.</li>
+</ul>
+<p><strong>Types</strong>: Is a categorization of specific words that a card may have, separated by a vertical bar. They don&rsquo;t provide effects on their own but are used for multiple cards and effects.</p>
+<p><strong>Attribute Symbol</strong>: Can be one of the six attributes (DARK, LIGHT, FIRE, WATER, EARTH, WIND) from the original game (minus DIVINE). All cards have an attribute including spell and traps.</p>
+<p><strong>Effect Box</strong>: The effect box details what the card actually does. Some cards have a dark arrow icon (►) which is used to split the condition required to activate it and the actual effect. An empty square icon (□) is used to make a list of options that a player may choose for the effect.</p>
+<p><strong>ATK/DEF</strong>: Monsters have these values on top of each other marked with small icons of a sword (for ATK) and a shield (for DEF).</p>
+<p><strong>Field Power Bonus</strong>: This is a numeric value with the plus sign near the ATK/DEF that indicates how much ATK/DEF the monster gets when is receiving a field power bonus.</p>
+<hr>
+<h2 id="-terrain-markers">⛰️ Terrain Markers
+</h2><div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+            <a href="/img/promotion/RulesFieldTerrain.jpg" style="text-decoration: none;">
+        
+        
+        <img src="/img/promotion/RulesFieldTerrain.jpg" width="720" alt="?">
+        
+        
+        <div style="
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        ">
+            Example of a field with 5 Forest Terrains and two monsters Hidden (face-down), one in ATK and one in DEF.
+        </div>
+        
+        
+        
+            </a>
+        
+    </div>
+</div>
+</div>
+<p>On top of each Monster Zone in the Frontrow there will be a <strong>&ldquo;Terrain Marker&rdquo;</strong> (also called <strong>Terrains</strong>) that may give different effects to the monster card placed on top of it. They are game components that recreate the diverse terrain effects of the anime, are not considered cards and are associated to the Monster Zone directly beneath them.</p>
+<ul>
+<li>If a Terrain Marker is <strong>replaced</strong> by a new one then the old one must be set aside of the game board in no specified zone.</li>
+<li>If a monster is somehow summoned in the backrow, it is considered to be in the same Terrain as the corresponding frontrow Monster Zone in the same column.</li>
+</ul>
+<p>The <strong>TERRAINS</strong> effect type within <strong>Field Setup Rule</strong> cards cards define the starting Terrains that will be placed on each side of the field. If you don&rsquo;t activate a TERRAINS effect during the setup of the game you are playing on the default rules and you must fill your Frontrow with 5 &ldquo;Land&rdquo; Terrains.</p>
+<h3 id="-field-power-bonus">🏞️ Field Power Bonus
+</h3><div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="/img/promotion/RulesFPB.jpg" width="500" alt="?">
+        
+        
+        <div style="
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        ">
+            In this example: &#39;Beast&#39;, &#39;Insect&#39; and &#39;Plant monster types gain the Field Power Bonus.
+        </div>
+        
+        
+        
+    </div>
+</div>
+</div>
+<p><strong>&ldquo;Field Power Bonus&rdquo;</strong> is a term that is used when a monster is receiving an additional ATK and DEF increase thanks to the Terrain it&rsquo;s located on. The ATK/DEF gain through this effect corresponds to 30% of each monster&rsquo;s original ATK/DEF and is printed on every monster card.</p>
+<p>Each Terrain Marker states which type and/or attribute (if any) gains the Field Power Bonus and this is represented in a specific section between the Name and Effect box.</p>
+<hr>
+<h2 id="-the-cards">🎴 The Cards
+</h2><p>Broadly speaking there are four main types of cards in this game you have to be mindful of, which are: <strong>Rules</strong>, <strong>Monsters</strong>, <strong>Spells</strong>, <strong>Traps</strong>.</p>
+<div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/30.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/28.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/28.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/21.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+</div>
+<hr>
+<h2 id="-rule-cards">📜 Rule Cards
+</h2><p><strong>Rule Cards</strong> (light green frame) are placed in the Extra Deck and can only be played into the Rule Zone. If they leave the Rule Zone they go back to the Extra Deck.</p>
+<p>Rule Cards have effects or mechanics that are added on to the current game <strong>ruleset</strong> for as long as that Rule Card is active on the Rule Zone. These effects cannot be negated and there is no limit to the amount of cards that can be played in your Rule Zone. They may be one of the following types: <strong>Normal</strong>, <strong>Setup</strong> or <strong>Symbol</strong>.</p>
+<div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/30.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/11.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/01.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+</div>
+<blockquote>
+<p>→ <strong>Normal Rule Cards</strong></p>
+</blockquote>
+<p>They simply say &ldquo;Rule&rdquo; in their Type and have the special <strong>EVENT</strong> effect type, which describes a condition. This mean that the Rule Card can be activated (Quick Effect) from your Extra Deck into the Rule Zone at any point as long as that condition is true. If the condition is no longer valid, the Rule Card returns to the Extra Deck.</p>
+<blockquote>
+<p>→ <strong>Setup Rule Cards</strong></p>
+</blockquote>
+<p>These are cards that can only be activated during the Setup Phase before the start of the duel. They may have one of the following card types:</p>
+<ul>
+<li>
+<p><strong>Duelist</strong>: Cards that represent a Duelist from the anime you are playing as. They have a <strong>STRATEGY</strong> special effect type which has a list of cards that ignore the Restricted List during Deckbuilding and allow you to manipulate your hand during the Setup Phase: after drawing your starting hand you may choose to replace up to 2 of those cards with any card listed within the <strong>STRATEGY</strong>, revealing it. You can only activate one <strong>STRATEGY</strong> effect per duel.</p>
+</li>
+<li>
+<p><strong>Field</strong>: Cards that represent the scenario of the duel. They define the 5 starting Terrains for each player with the <strong>TERRAINS</strong> special effect type, marking their positions from left to right on the players&rsquo; field. They may indicate if they are for the Red or Blue side of the field. You can only activate one <strong>TERRAINS</strong> effect per duel.</p>
+</li>
+<li>
+<p><strong>Challenge</strong>: Cards that change the entire game in a big way or create additional restrictions on deckbuilding or when playing.</p>
+</li>
+</ul>
+<blockquote>
+<p>→ <strong>Symbol Rule Cards</strong></p>
+</blockquote>
+<p>They represent objects or powers from the anime that can interfere in the duel in weird ways. They have a light-yellow frame and are <strong>optional</strong> to the duel (all players must agree if they want to play with them or not, they can also agree to let observers of the duel use their Symbol cards to influence the duel).</p>
+<ul>
+<li>Symbol cards have individual effects (which are Quick Effects unless otherwise stated) that require consuming a certain amount of &ldquo;<strong>Charges</strong>&rdquo; from the card itself to activate them. The Charges of the card are represented in its Grade symbol and must be tracked when they are consumed.</li>
+<li>You can only have one Symbol in the Rule Zone at a time, and you have to play them there as a Slow Effect during your Main Phase. If your Symbol has 0 Charges you can return it to the Rule Zone.</li>
+<li>A player can only activate one of their Symbol effects <strong>per round</strong>.</li>
+</ul>
+<hr>
+<h2 id="-monster-cards">🐉 Monster Cards
+</h2><p><strong>Normal Monster</strong> cards (yellow frame) are placed in the Main Deck (and have effects despite being called &ldquo;normal&rdquo; monsters, unlike the original yugioh card game).</p>
+<p><strong>Extra Deck Monsters</strong> (rituals, fusions, alters, integrations and tokens) have special mechanics and summoning conditions that you must fulfill to play them from the Extra Deck onto your field.</p>
+<p>Cards used for an Extra Deck monster summon are considered &ldquo;<strong>Materials</strong>&rdquo; of that card type (for example Fusion Materials or Ritual Materials).</p>
+<div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/28.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/NFW/45.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/09.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+</div>
+<div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/50.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/NFW/16.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/22.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+</div>
+<h3 id="-fusion-monster-cards">🌀 Fusion Monster Cards
+</h3><p><strong>Fusion Monsters</strong> (purple frame) represent a combination of two or more specific monsters into one single being.</p>
+<ul>
+<li>
+<p>To summon a Fusion Monster you need to have a card named &ldquo;Fusion&rdquo; and the required monsters in your hand and/or field, and then attach the corresponding Fusion Materials to it. Fusion monsters are treated as having the same name as all their Fusion Materials for card effects.</p>
+</li>
+<li>
+<p>If a Fusion Material somehow enters the field as a monster while its corresponding Fusion Monster is still on the field then this new monster can&rsquo;t declare an attack on the first turn it&rsquo;s summoned.</p>
+</li>
+</ul>
+<h3 id="-ritual-monster-cards">🕯️ Ritual Monster Cards
+</h3><p><strong>Ritual Monsters</strong> (blue frame) represent sealed monsters being summoned to the battlefield by sacrificing cards in a ritual ceremony.</p>
+<ul>
+<li>
+<p>To summon a Ritual Monster you need to fulfill the requirements of a specific Spell Card listed in its summoning conditions, and then send the corresponding Ritual Materials to the graveyard.</p>
+</li>
+<li>
+<p>The spell card used to Ritual Summon usually remains on the field face-up until the ritual requirements are successfully fulfilled or the card is destroyed. The controller of that spell card can also send it to the Graveyard at will during its Main Phase.
+A monster equipped to another monster is still treated as a monster on the field and therefore can be used to fulfil a Ritual Summon. This is not the case with attached monsters (unless otherwise stated).</p>
+</li>
+</ul>
+<h3 id="-alter-monster-cards">🔃 Alter Monster Cards
+</h3><p><strong>Alter Monsters</strong> (red frame) represent monsters that went through a transformation of some kind without merging with other monsters.</p>
+<ul>
+<li>
+<p>To summon an Alter Monster you need to play a card that lets you Alter Summon the specific Type while controlling a specific monster on the field listed in the conditions of the Alter Monster, and then attach the corresponding Alter Materials to it.</p>
+</li>
+<li>
+<p>In some cases an Alter Summon may require a certain amount of &ldquo;Summoning Counters&rdquo; placed on top of the specific Alter Material as part of its summoning condition. These counters are usually placed due to card effects, and are removed once the Alter Summon is completed or the Material is removed from the field.</p>
+</li>
+<li>
+<p>An Alter Monster is summoned on the same zone its corresponding Alter Material was, and any Equip card active on that monster is re-equipped to the new card instead (if the new target is still valid). Any attack or effect targeting the material monster now targets the new monster (if valid).</p>
+</li>
+</ul>
+<h3 id="-integration-monster-cards">🧍 Integration Monster Cards
+</h3><p><strong>Integration Monsters</strong> (brown frame) represent cards that merge with the duelist that represents you as a player.</p>
+<ul>
+<li>
+<p>To summon an Integration Monster you need to have had played a specific Duelist Setup Rule card at the beginning of the game (marked in the summon condition with curly brackets) and Erode from your hand or field the other Material(s) listed on the card.</p>
+</li>
+<li>
+<p>If you want to summon in Hidden ATK or Hidden DEF Position an Integration Summon you are not forced to reveal the eroded material card right away, but when you erode it you must set it clearly apart from other cards, and once your monster is revealed or the duel ends you must reveal that the eroded card was the proper material, otherwise you lose the duel instead.</p>
+</li>
+</ul>
+<h3 id="-token-monster-cards">🀄 Token Monster Cards
+</h3><p><strong>Token Monsters</strong> (grey frame) represent constructs or monsters temporarily created through magic.</p>
+<ul>
+<li>
+<p>To summon a Token Monster you need a card in play that specifically lets you to do so.</p>
+</li>
+<li>
+<p>Tokens can only exist in the Field (except being attached) or in the Extra Deck. If they are to be sent to a different game area or Eroded they return to the Extra Deck instead. Since Tokens cannot be attached to other cards, they cannot be used for summoning methods that attach their materials.</p>
+</li>
+<li>
+<p>Even though they come from the Extra Deck, when they are in the field they are considered Normal Monsters and not Extra Deck Monsters unless otherwise stated.</p>
+</li>
+</ul>
+<hr>
+<h2 id="-spell-and-trap-cards">🔮 Spell and Trap Cards
+</h2><div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/28.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/25.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/21.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/23.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+</div>
+<p><strong>Spell Cards</strong> (green frame) and <strong>Trap Cards</strong> (pink frame) are placed in the Main Deck. They have Attributes like Monster Cards, and may be one of the following types: <strong>Normal</strong>, <strong>Equip</strong>, <strong>Continuous</strong>. They are all activated as Quick Effects unless they have the <strong>Slow</strong> type.</p>
+<p>Spell Cards can be activated from the hand or from the field (if they were Set face down) while Trap Cards must be Set face down in the backrow first for a turn before being able to be activated.</p>
+<p>Trap Cards have a &ldquo;<strong>Trigger</strong>&rdquo; condition which indicates that the card effect is automatically activated when that trigger is met (the player has no control over this activation). If the card says that the Trigger is &ldquo;None&rdquo; then you can activate the card at will as long as you are able to.</p>
+<p>If the player <strong>does not</strong> activate a trap card when its Trigger is met then the player gets an Idle Warning. If there are multiple of your traps on the field whose conditions are met at the same time: you can choose how many of them to activate (min. 1) without getting an Idle Warning.</p>
+<p><strong>Continuous</strong> Spell and Trap cards remain on the field until either another card or their own condition (if they have any) remove them from play. <strong>Continuous Trap Cards with &ldquo;Triggers&rdquo;</strong> can be flipped face-up at any time their effect speed allows it, but the effect only activates when the Trigger is met.</p>
+<hr>
+<h2 id="-other-card-types">🗃️ Other Card Types
+</h2><h3 id="-combination-cards">🌈 Combination Cards
+</h3><div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/26.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/52.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/31.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+</div>
+<p>There are a few Main Deck cards that have a <strong>combination of two colors</strong> in their frame. These cards are considered as having both their card types at the same time (and can be affected by cards targeting either of those types, for example).</p>
+<p>They are <strong>Spell Monsters</strong>, <strong>Trap Monsters</strong> and <strong>Spell Traps</strong>. You can usually choose to play them as one card type or the other. Each card specifies how to play them with a &ldquo;Play&rdquo; condition on its text.</p>
+<h3 id="-divine-cards">📿 Divine Cards
+</h3><div style="display: flex; justify-content: left; gap: 5px;">
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/30.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CGU/43.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+<div style="display: inline-block; margin: 0px;">
+    <div style="position: relative; text-align: center;">
+        
+        
+        <img src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/FTP/64.jpg" width="170" alt="">
+        
+        
+        
+        
+    </div>
+</div>
+</div>
+<p><strong>Divine</strong> is a special Type of cards. Each Divine card is color-coded individually, meaning that it can have the frame color of its card type (main deck monster, fusion monster, spell, etc.) or a different color entirely. Divine cards have a special mechanic unique to them called &ldquo;Hierarchy&rdquo;:</p>
+<p><strong>Hierarchy</strong> is a scale that goes from 1 to 7. It is represented visually on the card with a single digit in a different font on the rightmost part of the Type line. Cards may refer to this number as the Divine card&rsquo;s &ldquo;Hierarchy&rdquo; for card effects. Usually, cards of higher Hierarchy are deemed to be &ldquo;stronger&rdquo; than ones in a lower Hierarchy.</p>
+<hr>
+<h2 id="-terminology">📃 Terminology
+</h2><p><strong>Effect Speed</strong> is defined as <strong>Slow Speed</strong> and <strong>Quick Speed</strong> (analog to Spell Speed 1 and 2 respectively, there is no Spell Speed 3). Quick Speed can respond to Slow or Quick effects, but Slow Speed can&rsquo;t be used to respond to other effects.</p>
+<p><strong>Blue and Red</strong>: Every duel has two opposing sides: Blue and Red. Players must choose which color they belong to at the beginning of the duel in the Setup Phase. Some cards reference Blue/Red Side, in which case they refer to the side controlled by the player(s) of that color. This is applicable to multiplayer rules too.</p>
+<p><strong>Tilemap</strong>: Some cards can create a &ldquo;Tilemap&rdquo; which means that, using the artwork of that card as a reference, they create a grid of Tiles (squares) and Obstructions (black lines) for monsters and other cards to be played in. There can only be one Tilemap in the duel at a time.
+A monster must be on a specific Terrain to be inside the Tilemap. Monsters inside a Tilemap can only move and attack within Tiles of that Tilemap. If a monster inside a Tilemap were to move or be moved by a card effect to a different Terrain it now moves to a different Tile instead.</p>
+<ul>
+<li><strong>Tiles</strong>: Within a Tilemap, a Tile is a square in where a monster can be played in.
+<ul>
+<li>A monster can only occupy one Tile at a time.</li>
+<li>A monster can move or be moved to another adjacent Tile horizontally or vertically (not in diagonal) if an effect allows it and the path between those tiles is not obstructed.</li>
+<li>A monster can only attack other monsters that are within one unobstructed Tile from it.</li>
+<li>A Tilemap can have Tiles of different colors with different effects, but unless otherwise stated all Tiles are White Tiles.</li>
+<li>Red Tiles and Blue Tiles (also known as Player-colored Tiles) are controlled by the respective player(s) of that color.</li>
+</ul>
+</li>
+<li><strong>Obstructions</strong>: Within a Tilemap, an Obstruction is a line that separate one tile from another and prevents a monster to move through it or attack through it, unless otherwise stated. The outer limit of the Tilemap (the white space without tiles) is considered an obstruction that cannot be removed through any means.</li>
+</ul>
+<p><strong>Subduel</strong>: Some cards can declare or interact with a &ldquo;Subduel&rdquo; which acts as a completely separate time-gated game created by an effect. It&rsquo;s a game within the game. When a subduel is in place, the players must play and finish that subduel with different cards before returning to the main duel. The result of a Subduel has no meaning or effect on its own on the main duel, unless an effect says so.</p>
+<p><strong>Piercing Damage</strong>: If a monster attacks with an ATK that is higher than the DEF of a monster in DEF Position, the attacking player inflict the difference as Battle Damage.</p>
+<p><strong>Destruction Damage</strong>: If a monster is destroyed by a card effect that says &ldquo;apply Destruction Damage&rdquo;, then the controller of that monster receives damage equal to half of its ATK (this is called ‘Destruction Damage’ and is considered Effect Damage). You can&rsquo;t inflict more than 1000 LP of destruction damage per turn.</p>
+<p><strong>Erode</strong>: If a card is eroded it means that it is completely removed from play to a non-specified area (its not considered to be on the field, deck, graveyard, hand or zone).</p>
+<p><strong>Permanently</strong>: If a card says to do something permanently it means that that action is done for the remainder of the duel, regardless if the card leaves the field or not. Players must track permanent effects at all times.</p>
+<p><strong>Unstoppable</strong>: used in conjunction with Slow or Quick speed, if an effect is Unstoppable it means it cannot be responded by another card, and it cannot be negated.</p>
+<p><strong>Battle Swap</strong>: change the battle position of a monster.</p>
+<p><strong>Battle Lock</strong>: set the battle position of a monster for a number of turns (if no turn is specified then it&rsquo;s permanent as long as this effect is active). Its controller cannot change its battle position normally.</p>
+<h3 id="-effect-types">📝 Effect Types
+</h3><p><strong>EQUIP</strong>: An equip effect is active when this card is equipping another target (usually placed in the backrow unless otherwise stated).</p>
+<p><strong>ATTACH</strong>: An attach effects is active as long as the card is attached to another card (which means that is placed beneath it in the same zone of the field).</p>
+<p><strong>DETACH</strong>: This effect is activated if you manually detach (send to the graveyard) this card while attached to another card (this is a Quick Effect unless otherwise stated).</p>
+<p><strong>FLIP</strong>: The effect is activated when this card is flipped face-up (either by battle, by an effect or by manually flipping the card face-up).</p>
+<p><strong>COIN</strong>: Toss a coin and call it. [O] means you were right on your call while [X] means you were wrong. The card itself specifies if the effect activates when you were right or wrong.</p>
+<p><strong>DICE</strong>: Roll a six-sided die, if the result matches what is between brackets you must activate that part of the effect. For example [1] means the result is exactly 1, or [2|3] means the result is either 2 or 3.</p>
+<p><strong>STRIKE</strong>: A monster in ATK Position with STRIKE is able to attack a Terrain Marker instead of a monster. The card may add a specific restriction to what kind of Terrain you can activate STRIKE on. You can only activate a STRIKE once per turn during your Main Phase 1 and you skip the Battle Phase that turn. This is still treated as an &ldquo;attack&rdquo; in game mechanics but it doesn&rsquo;t actually battle or destroy any monster currently in the attacked terrain unless otherwise stated.</p>
+<p><strong>EVENT</strong>: <em>See the Normal Rule Card section of this rulebook.</em></p>
+<p><strong>STRATEGY</strong>: <em>See the Setup Rule Card section of this rulebook.</em></p>
+<p><strong>TERRAINS</strong>: <em>See the Setup Rule Card section of this rulebook.</em></p>
+<hr>
+<h2 id="-idleness-rule">💤 Idleness Rule
+</h2><p>During your End Phase, if all the following conditions are true then you get one <strong>&ldquo;Idle Warning&rdquo;</strong>:</p>
+<ul>
+<li>Your opponent has at least 1 monster on their side of the field.</li>
+<li>You didn&rsquo;t had at least 1 monster on your side of the field this entire turn.</li>
+<li>There wasn&rsquo;t an effect preventing or negating your summons this turn.</li>
+</ul>
+<p>If you already had an <strong>&ldquo;Idle Warning&rdquo;</strong> prior to this turn then you lose the Duel by game mechanics instead.</p>
+<hr>
+<h2 id="-clarifications">☕ Clarifications
+</h2><p>Some <strong>syntax</strong> clarifications (portraying text of the cards within brackets):</p>
+<ul>
+<li>{ only on a &ldquo;Rulebook&rdquo; monster } This means a monster that has the word Rulebook in its name.</li>
+<li>{ only on &ldquo;Rulebook&rdquo; } This means a monster exactly called Rulebook.</li>
+<li>{ only on a Rulebook monster } This would mean that Rulebook is a Monster Type.</li>
+</ul>
+<p>Effects <strong>cannot miss their timing</strong>. Every &ldquo;Once per Turn&rdquo; is a <strong>hard once per turn</strong>. Every optional effect that needs to be activated by the player is also a hard once per turn. Every &ldquo;Once per duel&rdquo; is a <strong>hard once per duel</strong>.</p>
+<p>To <strong>tribute</strong> a monster is to send it to the graveyard to fulfil a cost or effect, there are no Tribute Summons in this game.</p>
+<p><strong>Surrender Card</strong> is an informal term used for forfeiting. Placing your hand on top of the deck means you surrender the duel.</p>
+<p>Cards can be <strong>face-down</strong> on the field when they are <strong>Set</strong> (spells and traps) or <strong>Hidden</strong> (monsters). When you flip a monster face-up you can flip it in either ATK or DEF position. If it&rsquo;s flipped by your opponent it is flipped in the same position it was, unless otherwise stated.</p>
+<p>When a card is destroyed its effects are also negated as part of this destruction. Cards and Effects can still be negated normally without the need to destroy them.</p>
+<p>During regular combat if the attacked monster changed somehow (it went into hiding, changed control, moved, fused, etc.) a <strong>replay</strong> occurs (meaning the attacking player must choose an attack target again after that first attack was declared).</p>
+<p>If you <strong>take control</strong> of a card you must place it on your side of the field unless otherwise stated. If it was a monster you also take control of all the equipped cards to it but they remain on their current zones. To <strong>swap control</strong> refers that a specific player takes control of the card.</p>
+<p>If a monster card states that it can <strong>move</strong> or be moved to another Terrain it always refer to an unoccupied Terrain from the controller of the card unless otherwise stated.</p>
+<p>Any <strong>italic text</strong> in a card has no effect in gameplay and is only there as flavor text or for clarity reasons.</p>
+<p>There are certain cards that can <strong>equip</strong> things other than monsters like &ldquo;<strong>Equip the Deck</strong>&rdquo; or &ldquo;<strong>Equip the Graveyard</strong>&rdquo;. In this case the equipping card remains on its zone and is considered to be equipping/targeting that game zone in its entirety.</p>
+<p>Additional notes for <strong>Equipping</strong> and <strong>Attaching</strong>:</p>
+<ul>
+<li>Equipped cards must be placed on the Backrow, while Attached cards must be placed beneath their targeted card.</li>
+<li>To Equip a card you need an effect that allows you to do so or to have that card be of the Equip Type (Equip Spell or Equip Trap).</li>
+<li>To Attach a card you need an effect that allows you to do so.</li>
+<li>If a card leaves the field, all other cards equipped to it are destroyed (unless otherwise stated), and all cards attached to it are sent to the Graveyard (unless otherwise stated).</li>
+<li>If you attach a card, you also attach any card already attached to that card.</li>
+</ul>
+<p>Additional notes for <strong>Hidden</strong> monsters:</p>
+<ul>
+<li>Hidden monsters receive Field Power Bonus normally like face-up monsters.</li>
+<li>You can&rsquo;t equip or attach cards to a monster that is already Hidden. Cards that were already equipped or attached to a Hidden monster stay face-up on the field though.</li>
+<li>Hiding a face-up monster is not considered a summon but a game mechanic.</li>
+<li>Playing a Hidden monster from your hand is considered a summon unless otherwise stated.</li>
+</ul>
+<h2 id="-type-details">✨ Type Details
+</h2><blockquote>
+<p><strong>Main Card Types</strong></p>
+</blockquote>
+<p>Represents the four different groups of cards in this game. It is the first type listed on a card&rsquo;s type area, as every single card must have at least one of them:</p>
+<ul>
+<li><strong>Monster, Spell, Trap, Rule</strong>.</li>
+</ul>
+<blockquote>
+<p><strong>Advanced Card Types</strong></p>
+</blockquote>
+<p>They are used as a prefix to the Main types and fundamentally change the mechanics of how that card is played or interacts. They were detailed in different areas of this rulebook, and are:</p>
+<ul>
+<li><strong>Fusion, Ritual, Alter, Integration, Equip, Continuous, Slow, Setup, Symbol, Divine</strong>.</li>
+</ul>
+<blockquote>
+<p><strong>Secondary Card Types</strong></p>
+</blockquote>
+<p>These types don&rsquo;t have gameplay changes or special rulings on their own, but are used for other cards and rules to achieve differente effects or results. They are listed here:</p>
+<ul>
+<li>
+<p><strong>(Primary Monster Types)</strong>: Refer to what the monster actually is.</p>
+<ul>
+<li><strong>Angel</strong>: (Equivalent to &ldquo;Fairy&rdquo;) Sprites, angels, fairies, holy beings.</li>
+<li><strong>Aquatic</strong>: (Equivalent to &ldquo;Fish&rdquo;, &ldquo;Sea Serpent&rdquo; and partially to &ldquo;Aqua&rdquo;). All kinds of water monsters or creatures whose natural habitat is water, without being themselves some sort of embodiment of water itself.</li>
+<li><strong>Avian</strong>: (Equivalent to &ldquo;Winged Beast&rdquo;). Related in some ways to birds either by being a type of them or having some bird-like feature, specially wings.</li>
+<li><strong>Beast</strong>: Terrestrial beasts of all kinds.</li>
+<li><strong>Cosmic</strong>: Related to space and the unknown, including alien-like entities, space machines or otherworldly creatures.</li>
+<li><strong>Demon</strong>: (Equivalent to &ldquo;Fiend&rdquo;). All types of Demons and demon-like creatures.</li>
+<li><strong>Dinosaur</strong>: Big and smol dinos.</li>
+<li><strong>Dragon</strong>: (Equivalent to &ldquo;Dragon&rdquo; and &ldquo;Wyrm&rdquo;) A mix of Eastern and Western conceptions of dragons.</li>
+<li><strong>Elemental</strong>: (Equivalent to &ldquo;Rock&rdquo;, &ldquo;Pyro&rdquo;, &ldquo;Aqua&rdquo;, &ldquo;Thunder&rdquo;). Elementals are concepts made into living forms, be it generic like water, lightning, fire or earth or more specific ones or abstract ones. They are usually referenced with the Attribute.</li>
+<li><strong>Esper</strong>: (Equivalent partially to &ldquo;Psychic&rdquo;). Paranormal abilities for humanoid monsters sometimes mixed with electronics and some degree of technology, including cybernetic enhanced creatures.</li>
+<li><strong>Frost</strong>: Cold-based creatures of all types, related to ice and frost.</li>
+<li><strong>Illusion</strong>: Creatures related to mirages, dreams and apparitions.</li>
+<li><strong>Insect</strong>: Insects of all sizes. This categorization also includes arachnids, scorpions and other arthropods too.</li>
+<li><strong>Machine</strong>: Broad type that refers to mechanical constructs, machines and technology in general.</li>
+<li><strong>Plant</strong>: Nature based plant-like creatures, be it small ones or overgrown ones.</li>
+<li><strong>Reptillian</strong>: Reptiles in general or reptile-like creatures.</li>
+<li><strong>Spellcaster</strong>: Individuals who naturally wield the power of magic, for example magicians, sorcerers and wizards.</li>
+<li><strong>Support</strong>: Non-warrior-like and non-spellcaster-like humanoids. A more &ldquo;mentally&rdquo; type of humanoid monster or someone who assists allies in different ways.</li>
+<li><strong>Undead</strong>: (Equivalent to &ldquo;Zombie&rdquo;). Group of beings that includes mummies, zombies, skeleton, ghosts, apparitions, etc. This also includes certain supernatural beings like Vampires.</li>
+<li><strong>Warrior</strong>: Super broad type that refers to humanoid fighters and combatants in general.</li>
+</ul>
+</li>
+<li>
+<p><strong>(Secondary Monster Types)</strong>: Refer to what the monster can do (thematic-wise) or is affected by.</p>
+<ul>
+<li><strong>Absorption</strong>: Is able to absorb into itself other creatures or souls.</li>
+<li><strong>Blessed</strong>: Is being favored by a god-like entity.</li>
+<li><strong>Burrowing</strong>: Is able to dig and go beneath the ground with ease.</li>
+<li><strong>Dampened</strong>: Is currently soaked in water.</li>
+<li><strong>Fireblast</strong>: Is able to attack with a large display of fire.</li>
+<li><strong>Flying</strong>: Is able to properly fly (not only float or barely move in the air).</li>
+<li><strong>Hypnotized</strong>: Is under mind-control.</li>
+<li><strong>Music</strong>: Is a user of music powers or is related to music.</li>
+<li><strong>Petrified</strong>: Has been turned to stone.</li>
+<li><strong>Poisoned</strong>: Is affected by poison or venom.</li>
+<li><strong>Protector</strong>: Is able or dedicated to protect others.</li>
+<li><strong>Regeneration</strong>: Is able to regenerate wounds or even reverse its own death.</li>
+<li><strong>Sealed</strong>: Is sealed through magic or other means.</li>
+<li><strong>Slumbering</strong>: Is sleeping or in a deep slumber.</li>
+<li><strong>Thunderblast</strong>: Is able to attack with electricity or magic of the electric type.</li>
+</ul>
+</li>
+<li>
+<p><strong>(Alter Monster Types)</strong>: A specific group of types that is exclusive to Alter Monsters.</p>
+<ul>
+<li><strong>Ascended</strong>: A monster that embraces the holy power to its fullest and is transformed by it.</li>
+<li><strong>Eldritch</strong>: A monster transformed in a living horror through unnatural powers beyond human comprehension.</li>
+<li><strong>Fallen</strong>: A monster that has fallen to the allure of dark powers and is transformed by them.</li>
+<li><strong>Knighted</strong>: A non-warrior monster now turned into a knight.</li>
+<li><strong>Metalized</strong>: A monster covered in an alloy that turns a biological being into a metallic/technological version of itself.</li>
+<li><strong>Swarm</strong>: A group or copies/clones of a single monster, represented as multiple monsters on the very same card.</li>
+<li><strong>Timeshifted</strong>: An older or younger version of a particular monster, in a different point in time.</li>
+<li><strong>Toon</strong>: A &ldquo;cartoonified&rdquo; version of a regular monster.</li>
+<li><strong>Zombie</strong>: A non-undead monster that comes back to life as a zombie and is now reanimated after death.</li>
+</ul>
+</li>
+<li>
+<p><strong>(Non-Monster Card Types)</strong>:</p>
+<ul>
+<li><strong>Duelist</strong>: A reference to a Duelist, for example a character from the anime.</li>
+<li><strong>Field</strong>: A reference to a field where a duel take place, describing the terrains in scene.</li>
+</ul>
+</li>
+<li>
+<p><strong>(Divine Pantheons)</strong>: A categorization of Divine cards that are somehow related to each other:</p>
+<ul>
+<li><strong>Palace God</strong>, <strong>Storm Guardian</strong>, <strong>Wicked God</strong>, etc.</li>
+</ul>
+</li>
+<li>
+<p><strong>(Hierarchy Value)</strong>: A single number in a unique font at the end of the type line that represents the scale of divinity that card has.</p>
+</li>
+</ul>
+<hr>
+<h2 id="-multiplayer-rules">🤝 Multiplayer Rules
+</h2><p>A <strong>Team Duel</strong> is what happens when more than two opposing players take part in a duel. There are three types: Tag Duels, Boss Duels and Battle Royale Duels.</p>
+<p>The main difference between regular duels and Team Duels is that a <strong>Rotation</strong> of turn order must be defined during the Setup Phase, based on the type of team duel used and the number of players. As a general rule, the Rotation order always iterates between teams first, and then further than teams it iterates between each player of the team.</p>
+<p>Only the last player in the Rotation is allowed to declare an attack in the first round of a Team Duel.</p>
+<p>Unless otherwise stated the life points and gameplay zones (field, graveyard, hand, main deck, extra deck, rule zone) belong to each player and behave like in a regular duel.</p>
+<p><strong>Tag Duels</strong> are 2v2 duels of teams fighting each other:</p>
+<ul>
+<li>The Rotation is: TeamAPlayer1 → TeamBPlayer1 → TeamAPlayer2 → TeamBPlayer2.</li>
+<li>If one player is defeated the whole team is defeated.</li>
+<li>Players in a team have a shared field of 10 Frontrow and 10 Backrow.</li>
+<li>Even in the shared field each player controls their corresponding zones and cards.</li>
+<li>Teammates can reveal some secret information between them in the shared areas (face-down cards) but not in the private areas (like hand and extra deck cards).</li>
+<li>Your teammate can allow you to use their cards during your turn for summoning conditions, but not for attacks, battle position changes or movement.</li>
+</ul>
+<p><strong>Boss Duels</strong> are a &ldquo;one vs many&rdquo; duel, where the &ldquo;many&rdquo; join forces into a team:</p>
+<ul>
+<li>The Rotation is: SoloPlayer → TeamPlayer1 → SoloPlayer → TeamPlayer2&hellip;</li>
+<li>The team players share LP and the board (field, graveyard and rule zone) but each still has their own Deck and Extra Deck.</li>
+<li>The team players collectively control the zones and cards in that side of the field, except the cards in the Rule Zone that are still individually controlled.</li>
+<li>The team players must also agree to play a single TERRAINS effect, not one for each player.</li>
+</ul>
+<p><strong>Battle Royale Duels</strong> are free-for-all duels of 3+ participants without specific allies, everyone is technically considered an opponent here:</p>
+<ul>
+<li>The Rotation is: Player1 → Player2 → Player3&hellip;</li>
+<li>If a player is defeated: the rotation adjusts removing that player. Cards owned by that player that are controlled by other players stay in the field.</li>
+<li>Once per round, a player can redirect an attack that targets a monster controlled by another player to a monster they control (that is able to move), and if it does, the attacking monster cannot be destroyed by that battle and the controller of that attacking monster takes no damage from that battle.</li>
+<li>A player can allow you to use their cards during your turn for summoning conditions, but not for attacks, battle position changes or movement.</li>
+<li>A player can join a Battle Royale at any point by taking damage equal to half of its starting LP, and inserting themselves as next in the rotation.</li>
+<li>After at least one player is defeated, at any point the remaining players can unanimously declare that the duel is over (and they are considered the winners) if they dont want to keep dueling eachother.</li>
+</ul>
+<hr>
+<h2 id="-deckbuilding">🔧 Deckbuilding
+</h2><p>These are the general rules for building your deck to play:</p>
+<ul>
+<li>A <strong>Main Deck</strong> with exactly <strong>30</strong> cards (containing Spell cards, Trap cards and Normal Monster cards).</li>
+<li>An <strong>Extra Deck</strong> with up to <strong>20</strong> cards (containing Rule cards and Extra Deck Monster cards).</li>
+<li>Your Main Deck must be <strong>Singleton</strong>, meaning that you can only have 1 copy of each card in your Main Deck. But as an exception you can have <strong>up to 1 card with up to 3 copies</strong> and <strong>up to 1 other card with up to 2 copies</strong> in your Main Deck.</li>
+<li>You must follow the <strong><a class="link" href="/restricted-list/" >Restricted List</a></strong>, as there are certain cards that have additional restrictions to be included in a deck.</li>
+</ul>
+<p>As an additional note, take into account that the Duelist Setup Rule cards allow you to have in your decks any card listed in its &ldquo;STRATEGY&rdquo;, ignoring the Restricted List limitations in deckbuilding. And if you want, you can add one or more Challenge Setup Rule cards to spice up a bit your deckbuilding skills (this is entirely optional).</p>
+<p><em>Note: Additional deckbuilding limitations may be needed depending on the match-up or the players. Kingdom Duels is by nature an unbalance game so feel free to adjust the banlist/restrictions if you feel like it in the interest of a more fair gameplay experience.</em></p>
+<hr>
+<h2 id="tldr">TL;DR
+</h2><p>Regular Yugioh but&hellip;</p>
+<ul>
+<li>2000 LP. Starting hand of 5, draw 1 each turn (even in the first turn).</li>
+<li>The Board has 5 monster zones and 5 spell/trap zones. No link/pendulum/field zones.</li>
+<li>Rule Cards exist (which are Extra Deck cards that change how the game is played).</li>
+<li>Setup Rule cards must be played in the Setup Phase: Your Field Setup define your terrains. You can change up to 2 cards from your starting hand with cards from your Duelist Setup &ldquo;strategy&rdquo;.</li>
+<li>Terrain Markers exist (they go between the monster zones and the cards). They can give effects and &ldquo;Field Power Bonus&rdquo; to monsters on them.</li>
+<li>You can summon normal monsters of any Level without a tribute.</li>
+<li>You can play monsters in face-up DEF.</li>
+<li>You can&rsquo;t Set monsters (you &ldquo;Hide&rdquo; them instead, but you can only Hide monsters in face-down ATK or face-down DEF if an effect lets you).</li>
+<li>No direct attacks. Can only attack once per battle phase. Attacks can be redirected.</li>
+<li>Instead of banish there is &ldquo;erode&rdquo; which is a more permanent removal.</li>
+<li>If you are repeatedly idle by not playing monsters you&rsquo;ll lose.</li>
+<li>Normal Spells are usually quick speed (Equip and Continuous are usually slow speed).</li>
+<li>Traps are (mostly) triggered automatically.</li>
+<li>Extra Deck monsters include: Fusions, Rituals, Alters, Integrations, Tokens.</li>
+<li>There are Spell-Trap-Monster combinations and even Divine cards.</li>
+</ul>
+<hr>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2014 - 
+        
+        2025 Kingdom Duels
+    </section>
+    
+    <section class="powerby">
+        
+            This website is not endorsed by or affiliated with 4K Media or Konami Digital Entertainment. <br/>
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.29.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

@@ -11,19 +11,95 @@
 <body>
     <div class="container">
         <div class="cards-container">
-            <div class="filters">
-                <select id="setFilter">
-                    <option value="">Every Set</option>
-                </select>
-                <select id="frameFilter">
-                    <option value="">Every Card Frame</option>
-                </select>
-            </div>
-            <div class="filters">
-                <input type="text" id="nameFilter" placeholder="Filter by card name">
-                <input type="text" id="codeFilter" placeholder="Filter by card id">
-                <input type="text" id="duelistFilter" placeholder="Filter by duelist">
-                <input type="text" id="typeFilter" placeholder="Filter by types">
+            <div class="search-container">
+                <div class="search-main">
+                    <div class="search-logo-link" onclick="window.location.href='/'">
+                        <img src="https://kingdomduels.com/img/avatar.png" alt="Kingdom Duels" class="search-logo" title="Go to Kingdom Duels homepage">
+                    </div>
+                    <input type="text" id="advancedSearch" placeholder="Kingdom Duels card search..." spellcheck="false">
+                    <button class="filters-toggle" onclick="toggleFilters()">
+                        <span id="toggleIcon">▼</span> Filters
+                    </button>
+                </div>
+                <div class="filters-dropdown" id="filtersDropdown">
+                    <div class="filters-row-1">
+                        <select id="setFilter">
+                            <option value="">Every Set</option>
+                        </select>
+                        <select id="frameFilter">
+                            <option value="">Every Card Frame</option>
+                        </select>
+                    </div>
+                    <div class="filters-row-2">
+                    <input type="text" id="nameFilter" placeholder="Filter by card name">
+                    <input type="text" id="codeFilter" placeholder="Filter by card id">
+                    <input type="text" id="duelistFilter" placeholder="Filter by duelist">
+                    </div>
+                    <div class="filters-row-3">
+                    <select id="attributeFilter">
+                    <option value="">Every Attribute</option>
+                    </select>
+                    <select id="gradeFilter">
+                            <option value="">Every Grade</option>
+                    </select>
+                    <input type="text" id="gradevalFilter" placeholder="Filter by grade value">
+                </div>
+                <div class="filters-row-4">
+                    <input type="text" id="atkFilter" placeholder="Filter by ATK">
+                    <input type="text" id="defFilter" placeholder="Filter by DEF">
+                    <input type="text" id="bonusatkFilter" placeholder="Filter by Bonus ATK">
+                    <input type="text" id="bonusdefFilter" placeholder="Filter by Bonus DEF">
+                </div>
+                <div class="filters-row-5">
+                    <div class="type-filter-container">
+                        <input type="text" id="typeFilter" placeholder="Add type (press Enter)">
+                        <div class="type-tags" id="typeTags"></div>
+                    </div>
+                </div>
+                    <div class="filter-buttons">
+                        <button class="apply-filters-btn" onclick="applyTraditionalFilters()">Apply Filters</button>
+                        <button class="clear-filters-btn" onclick="clearFilters()">Clear Filters</button>
+                    </div>
+                    <div class="syntax-panel">
+                        <span class="syntax-toggle" onclick="toggleSyntaxPanel()"><em>Syntax</em></span>
+                        <div class="syntax-content" id="syntaxContent">
+                            <div class="syntax-section">
+                                <strong>Basic Fields:</strong>
+                                <div class="syntax-item"><code>name:"Blue-Eyes"</code> - Card name (use quotes for spaces)</div>
+                                <div class="syntax-item"><code>frame:monster</code> - Card frame type</div>
+                                <div class="syntax-item"><code>set:soe</code> - Card set code</div>
+                                <div class="syntax-item"><code>deck:a</code> - Deck type (a = Main Deck, b = Extra Deck)</div>
+                                <div class="syntax-item"><code>id:22</code> - Card ID</div>
+                                <div class="syntax-item"><code>types:dragon</code> or <code>type:dragon</code> - Card types</div>
+                                <div class="syntax-item"><code>duelist:yugi</code> - Duelist name</div>
+                                <div class="syntax-item"><code>attribute:light</code> or <code>attrib:light</code> - Attribute</div>
+                                <div class="syntax-item"><code>grade:lvl</code> or <code>grade:glyph</code> - Grade type</div>
+                            </div>
+                            <div class="syntax-section">
+                                <strong>Numeric Fields (support >, <, >=, <=, !=):</strong>
+                                <div class="syntax-item"><code>atk:3000</code> or <code>atk:>=2000</code> - Attack points</div>
+                                <div class="syntax-item"><code>def:2500</code> or <code>def:<=1000</code> - Defense points</div>
+                                <div class="syntax-item"><code>bonusatk:500</code> or <code>bonusatk:>0</code> - Field Power Bonus attack points</div>
+                                <div class="syntax-item"><code>bonusdef:250</code> or <code>bonusdef:!=0</code> - Field Power Bonus defense points</div>
+                                <div class="syntax-item"><code>gradeval:4</code> or <code>gradeval:>6</code> - Grade value</div>
+                                <div class="syntax-item"><code>level:4</code> or <code>level:>=8</code> - Level (grade:lvl + gradeval)</div>
+                            </div>
+                            <div class="syntax-section">
+                                <strong>Operators:</strong>
+                                <div class="syntax-item"><code>yugi OR kaiba</code> - Either condition</div>
+                                <div class="syntax-item"><code>-types:demon</code> - Exclude condition</div>
+                                <div class="syntax-item"><code>"exact phrase"</code> - Exact text match</div>
+                            </div>
+                            <div class="syntax-section">
+                                <strong>Examples:</strong>
+                                <div class="syntax-item"><code>frame:monster atk>=2500</code> - Strong monsters</div>
+                                <div class="syntax-item"><code>duelist:yugi OR duelist:kaiba</code> - Rival characters</div>
+                                <div class="syntax-item"><code>types:dragon -types:demon level>4</code> - High level dragons, no demons</div>
+                                <div class="syntax-item"><code>attribute:light bonusatk>0</code> - Light cards with field power bonus attack</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="card-grid" id="cardGrid"></div>
             <p id="limitMessage"></p>
@@ -83,19 +159,75 @@
     <script src="data/000_T.js"></script>
     <script src="data/001_1.js"></script>
     <script src="data/001_2.js"></script>
+    <script src="search.js"></script>
 
     <script>
         // Card and decks limits
-        const CARD_DISPLAY_LIMIT = 100;
+        const CARD_DISPLAY_LIMIT = 60;
+        const CARDS_PER_PAGE = 60;
         const DECK_LIMITS = {
             A: 30,
             B: 20,
             C: 20
+        }
+        
+        function changePage(newPage) {
+            currentPage = newPage;
+            renderCards();
         };
 
         let cardsData = [];
         let deck = [];
         let filteredCards = [...cardsData];
+        let currentPage = 1;
+        let totalFilteredCards = 0;
+        let searcher = null;
+        let selectedTypes = [];
+        
+        function initializeTypeFilter() {
+            const typeInput = document.getElementById('typeFilter');
+            
+            typeInput.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter') {
+                    e.preventDefault();
+                    addTypeTag(this.value.trim());
+                    this.value = '';
+                }
+            });
+        }
+        
+        function addTypeTag(type, isNegative = false) {
+            if (!type || selectedTypes.some(t => t.value === type && t.negative === isNegative)) {
+                return;
+            }
+            
+            selectedTypes.push({ value: type, negative: isNegative });
+            renderTypeTags();
+        }
+        
+        function removeTypeTag(index) {
+            selectedTypes.splice(index, 1);
+            renderTypeTags();
+        }
+        
+        function toggleTypeNegative(index) {
+            selectedTypes[index].negative = !selectedTypes[index].negative;
+            renderTypeTags();
+        }
+        
+        function renderTypeTags() {
+            const container = document.getElementById('typeTags');
+            
+            container.innerHTML = selectedTypes.map((type, index) => `
+                <div class="type-tag ${type.negative ? 'negative' : 'positive'}">
+                    <span onclick="toggleTypeNegative(${index})" class="type-prefix" title="Click to toggle include/exclude">
+                        ${type.negative ? '-' : '+'}
+                    </span>
+                    <span class="type-value">${type.value}</span>
+                    <span onclick="removeTypeTag(${index})" class="type-remove" title="Remove">×</span>
+                </div>
+            `).join('');
+        }
 
         const cardImagePath = "https://zudest.github.io/KingdomDuelsDeckbuilder/";
         const defaultCardBack = cardImagePath + "cards/Cardback.png";
@@ -121,8 +253,17 @@
             
             filteredCards = [...cardsData];
             initializeFilters();
+            
+            // Inicializar búsqueda avanzada
+            searcher = setupAdvancedSearch(cardsData);
+            addAdvancedSearchField();
+            initializeTypeFilter();
+            
             renderCards();
 
+            // Check for URL search parameter
+            checkUrlSearch();
+            
             // Check for URL filter after loading cards
             checkUrlFilter();
         }
@@ -180,10 +321,40 @@
             }
         }
 
+        // Generate simulator data for KDSim compatibility
+        function generateSimulatorData(deck) {
+            const simulatorData = {
+                mainDeck: [],
+                extraDeck: [],
+                otherCards: []
+            };
+            
+            deck.forEach(card => {
+                const simCard = {
+                    cardId: card.cardid,
+                    name: card.name,
+                    type: card.frame,
+                    description: "",
+                    image: card.image
+                };
+                
+                if (card.deck === 'A') {
+                    simulatorData.mainDeck.push(simCard);
+                } else if (card.deck === 'B') {
+                    simulatorData.extraDeck.push(simCard);
+                } else if (card.deck === 'C') {
+                    simulatorData.otherCards.push(simCard);
+                }
+            });
+            
+            return simulatorData;
+        }
+
         // Export deck as JSON to later import to edit
         function exportDeckJSON() {
             const deckData = {
-                cards: deck.map(card => card.cardid)
+                cards: deck.map(card => card.cardid),
+                simulator: generateSimulatorData(deck)
             };
 
             const blob = new Blob([JSON.stringify(deckData, null, 2)], { type: 'application/json' });
@@ -202,12 +373,18 @@
         function initializeFilters() {
             const sets = [...new Set(cardsData.map(card => card.fullSet))].sort();
             const frames = [...new Set(cardsData.map(card => card.frame))].sort();
+            const attributes = [...new Set(cardsData.filter(card => card.attribute).map(card => card.attribute))].sort();
+            const grades = [...new Set(cardsData.filter(card => card.grade).map(card => card.grade))].sort();
 
             const setFilter = document.getElementById('setFilter');
             const frameFilter = document.getElementById('frameFilter');
+            const attributeFilter = document.getElementById('attributeFilter');
+            const gradeFilter = document.getElementById('gradeFilter');
 
             setFilter.innerHTML = '<option value="">Every Set</option>';
             frameFilter.innerHTML = '<option value="">Every Card Frame</option>';
+            attributeFilter.innerHTML = '<option value="">Every Attribute</option>';
+            gradeFilter.innerHTML = '<option value="">Every Grade</option>';
 
             sets.forEach(set => {
                 const option = document.createElement('option');
@@ -222,26 +399,210 @@
                 option.textContent = frame;
                 frameFilter.appendChild(option);
             });
+
+            attributes.forEach(attribute => {
+                const option = document.createElement('option');
+                option.value = attribute;
+                option.textContent = attribute.toUpperCase();
+                attributeFilter.appendChild(option);
+            });
+
+            grades.forEach(grade => {
+                const option = document.createElement('option');
+                option.value = grade;
+                option.textContent = grade.toUpperCase();
+                gradeFilter.appendChild(option);
+            });
         }
 
         function applyFilters() {
-            const nameFilter = document.getElementById('nameFilter').value.toLowerCase();
-            const codeFilter = document.getElementById('codeFilter').value.toLowerCase();
-            const duelistFilter = document.getElementById('duelistFilter').value.toLowerCase();
-            const typeFilter = document.getElementById('typeFilter').value.toLowerCase();
-            const setFilter = document.getElementById('setFilter').value;
-            const frameFilter = document.getElementById('frameFilter').value;
-
-            filteredCards = cardsData.filter(card => {
-                return card.name.toLowerCase().includes(nameFilter) &&
-                    card.cardid.toLowerCase().includes(codeFilter) &&
-                    card.duelist.toLowerCase().includes(duelistFilter) &&
-                    card.types.toLowerCase().includes(typeFilter) &&
-                    (!setFilter || card.fullSet === setFilter) &&
-                    (!frameFilter || card.frame === frameFilter);
-            });
+            const advancedQuery = document.getElementById('advancedSearch');
+            
+            if (advancedQuery && advancedQuery.value.trim()) {
+                // Solo usar búsqueda avanzada
+                const results = searcher.search(advancedQuery.value);
+                filteredCards = results;
+                totalFilteredCards = results.length;
+                currentPage = 1;
+            } else {
+                // Sin filtros, mostrar todo
+                filteredCards = [...cardsData];
+                totalFilteredCards = filteredCards.length;
+                currentPage = 1;
+            }
 
             renderCards();
+        }
+        
+        function applyTraditionalFilters() {
+            const query = buildQueryFromFilters();
+            const advancedQuery = document.getElementById('advancedSearch');
+            
+            if (query) {
+                advancedQuery.value = query;
+                updateUrlSearch(query);
+                applyFilters();
+            }
+        }
+        
+        function clearFilters() {
+            // Limpiar todos los filtros tradicionales
+            document.getElementById('nameFilter').value = '';
+            document.getElementById('codeFilter').value = '';
+            document.getElementById('duelistFilter').value = '';
+            document.getElementById('typeFilter').value = '';
+            document.getElementById('setFilter').value = '';
+            document.getElementById('frameFilter').value = '';
+            document.getElementById('attributeFilter').value = '';
+            document.getElementById('gradeFilter').value = '';
+            document.getElementById('gradevalFilter').value = '';
+            document.getElementById('atkFilter').value = '';
+            document.getElementById('defFilter').value = '';
+            document.getElementById('bonusatkFilter').value = '';
+            document.getElementById('bonusdefFilter').value = '';
+            
+            // Limpiar types seleccionados
+            selectedTypes = [];
+            renderTypeTags();
+            
+            // Limpiar búsqueda avanzada
+            document.getElementById('advancedSearch').value = '';
+            
+            // Limpiar URL
+            updateUrlSearch('');
+            
+            // Aplicar cambios
+            applyFilters();
+        }
+        
+        function buildQueryFromFilters() {
+            const nameFilter = document.getElementById('nameFilter').value.trim();
+            const codeFilter = document.getElementById('codeFilter').value.trim();
+            const duelistFilter = document.getElementById('duelistFilter').value.trim();
+            const setFilter = document.getElementById('setFilter').value;
+            const frameFilter = document.getElementById('frameFilter').value;
+            const attributeFilter = document.getElementById('attributeFilter').value;
+            const gradeFilter = document.getElementById('gradeFilter').value;
+            const gradevalFilter = document.getElementById('gradevalFilter').value.trim();
+            const atkFilter = document.getElementById('atkFilter').value.trim();
+            const defFilter = document.getElementById('defFilter').value.trim();
+            const bonusatkFilter = document.getElementById('bonusatkFilter').value.trim();
+            const bonusdefFilter = document.getElementById('bonusdefFilter').value.trim();
+            
+            const queryParts = [];
+            
+            if (nameFilter) {
+                // Si el nombre tiene espacios, usar comillas
+                if (nameFilter.includes(' ')) {
+                    queryParts.push(`"${nameFilter}"`); 
+                } else {
+                    queryParts.push(nameFilter);
+                }
+            }
+            if (frameFilter) {
+                // Mapear valores del dropdown a términos de búsqueda
+                let frameSearchTerm = frameFilter;
+                if (frameFilter === 'Alter Monster') frameSearchTerm = 'Alter';
+                else if (frameFilter === 'Fusion Monster') frameSearchTerm = 'Fusion';
+                else if (frameFilter === 'Ritual Monster') frameSearchTerm = 'Ritual';
+                else if (frameFilter === 'Integration Monster') frameSearchTerm = 'Integration';
+                else if (frameFilter === 'Token Monster') frameSearchTerm = 'Token';
+                
+                // Si el frame tiene espacios, usar comillas
+                if (frameSearchTerm.includes(' ')) {
+                    queryParts.push(`frame:"${frameSearchTerm}"`);
+                } else {
+                    queryParts.push(`frame:${frameSearchTerm}`);
+                }
+            }
+            if (attributeFilter) {
+                queryParts.push(`attribute:${attributeFilter}`);
+            }
+            if (gradeFilter) {
+                queryParts.push(`grade:${gradeFilter}`);
+            }
+            if (gradevalFilter) {
+                queryParts.push(`gradeval:${gradevalFilter}`);
+            }
+            if (atkFilter) {
+                queryParts.push(`atk:${atkFilter}`);
+            }
+            if (defFilter) {
+                queryParts.push(`def:${defFilter}`);
+            }
+            if (bonusatkFilter) {
+                queryParts.push(`bonusatk:${bonusatkFilter}`);
+            }
+            if (bonusdefFilter) {
+                queryParts.push(`bonusdef:${bonusdefFilter}`);
+            }
+            
+            // Procesar types múltiples
+            if (selectedTypes.length > 0) {
+                selectedTypes.forEach(type => {
+                    if (type.value.includes(' ')) {
+                        queryParts.push(`${type.negative ? '-' : ''}types:"${type.value}"`);
+                    } else {
+                        queryParts.push(`${type.negative ? '-' : ''}types:${type.value}`);
+                    }
+                });
+            }
+            
+            if (setFilter) {
+                // Convertir nombre completo a código
+                const setCode = Object.keys(SET_MAPPING).find(key => SET_MAPPING[key] === setFilter);
+                if (setCode) {
+                    queryParts.push(`set:${setCode}`);
+                } else {
+                    queryParts.push(`set:${setFilter}`);
+                }
+            }
+            if (duelistFilter) {
+                // Si el duelist tiene espacios, usar comillas
+                if (duelistFilter.includes(' ')) {
+                    queryParts.push(`duelist:"${duelistFilter}"`);
+                } else {
+                    queryParts.push(`duelist:${duelistFilter}`);
+                }
+            }
+            if (codeFilter) {
+                queryParts.push(`id:${codeFilter}`);
+            }
+            
+            return queryParts.join(' ');
+        }
+        
+        // Check for URL search parameter
+        function checkUrlSearch() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const searchQuery = urlParams.get('search');
+            
+            if (searchQuery) {
+                const advancedSearchField = document.getElementById('advancedSearch');
+                if (advancedSearchField) {
+                    advancedSearchField.value = decodeURIComponent(searchQuery);
+                    applyFilters();
+                }
+            }
+        }
+        
+        // Update URL when search changes
+        function updateUrlSearch(query) {
+            const url = new URL(window.location);
+            if (query && query.trim()) {
+                url.searchParams.set('search', encodeURIComponent(query));
+            } else {
+                url.searchParams.delete('search');
+            }
+            
+            // Update URL without reloading page
+            window.history.replaceState({}, '', url);
+        }
+        
+        function onAdvancedSearchChange() {
+            const query = document.getElementById('advancedSearch').value;
+            updateUrlSearch(query);
+            applyFilters();
         }
 
         // Check and apply URL Set filter (filter by set directly on the url)
@@ -270,10 +631,20 @@
             const cardGrid = document.getElementById('cardGrid');
             cardGrid.innerHTML = '';
 
-            totalCards = filteredCards.length;
-            filteredCards = filteredCards.slice(0, CARD_DISPLAY_LIMIT);
+            // Si no se ha establecido totalFilteredCards, usar la longitud actual
+            if (totalFilteredCards === 0) {
+                totalFilteredCards = filteredCards.length;
+            }
+            
+            // Calcular páginas
+            const totalPages = Math.ceil(totalFilteredCards / CARDS_PER_PAGE);
+            const startIndex = (currentPage - 1) * CARDS_PER_PAGE;
+            const endIndex = Math.min(startIndex + CARDS_PER_PAGE, totalFilteredCards);
+            
+            // Mostrar solo las cartas de la página actual
+            const cardsToShow = filteredCards.slice(startIndex, endIndex);
 
-            filteredCards.forEach(card => {
+            cardsToShow.forEach(card => {
                 const cardElement = document.createElement('div');
                 cardElement.className = 'card';
                 cardElement.innerHTML = `
@@ -288,14 +659,58 @@
                 cardGrid.appendChild(cardElement);
             });
 
+            // Actualizar mensaje y controles de paginación
+            updatePaginationControls(totalPages);
+        }
+        
+        function updatePaginationControls(totalPages) {
             const messageElement = document.getElementById('limitMessage');
-
-            if (totalCards > CARD_DISPLAY_LIMIT) {
-                messageElement.style.display = 'block';
-                messageElement.textContent = `Showing ${filteredCards.length} of ${totalCards} cards, apply a filter to display more elements.`;
+            const startCard = (currentPage - 1) * CARDS_PER_PAGE + 1;
+            const endCard = Math.min(currentPage * CARDS_PER_PAGE, totalFilteredCards);
+            
+            let paginationHTML = '';
+            
+            if (totalPages > 1) {
+                paginationHTML = `
+                    <div class="pagination-controls" style="margin-top: 15px; text-align: center;">
+                        <button onclick="changePage(1)" ${currentPage === 1 ? 'disabled' : ''}>First</button>
+                        <button onclick="changePage(${currentPage - 1})" ${currentPage === 1 ? 'disabled' : ''}>Previous</button>
+                        <span style="margin: 0 15px;">Page ${currentPage} of ${totalPages}</span>
+                        <button onclick="changePage(${currentPage + 1})" ${currentPage === totalPages ? 'disabled' : ''}>Next</button>
+                        <button onclick="changePage(${totalPages})" ${currentPage === totalPages ? 'disabled' : ''}>Last</button>
+                    </div>
+                `;
+            }
+            
+            messageElement.style.display = 'block';
+            messageElement.innerHTML = `
+                Showing ${startCard}-${endCard} of ${totalFilteredCards} cards
+                ${paginationHTML}
+            `;
+        }
+        
+        // Función para toggle de filtros
+        function toggleFilters() {
+            const dropdown = document.getElementById('filtersDropdown');
+            const icon = document.getElementById('toggleIcon');
+            
+            if (dropdown.style.display === 'none' || !dropdown.style.display) {
+                dropdown.style.display = 'block';
+                icon.textContent = '▲';
             } else {
-                messageElement.style.display = 'block';
-                messageElement.textContent = `Showing ${filteredCards.length} of ${totalCards} cards`;
+                dropdown.style.display = 'none';
+                icon.textContent = '▼';
+            }
+        }
+
+        // Función para toggle del panel de sintaxis
+        function toggleSyntaxPanel() {
+            const content = document.getElementById('syntaxContent');
+            
+            if (content.style.display === 'none' || !content.style.display) {
+                content.style.display = 'block';
+            } else {
+                content.style.display = 'none';
             }
         }
 
@@ -407,23 +822,6 @@
         //#### BUTTONS ####
         //#################
         
-        //NOTE: Not used at the moment
-        function saveDeckTXT() {
-            const deckText = deck.map(card => {
-                const deckType = card.deck === 'A' ? "Main Deck"
-                    : card.deck === 'B' ? "Extra Deck"
-                        : "Tokens";
-                return `${card.cardid} (${card.name}) - ${deckType}`
-            }).join('\n');
-            const blob = new Blob([deckText], { type: 'text/plain' });
-            const url = window.URL.createObjectURL(blob);
-            const a = document.createElement('a');
-            a.href = url;
-            a.download = 'kingdomduels_deck.txt';
-            a.click();
-            window.URL.revokeObjectURL(url);
-        }
-
         function transformToTTS() {
             const customDeckMapping = {};
             let currentDeckKey = 1;
@@ -588,13 +986,8 @@
         //#### CORE LOOP ####
         //###################
 
-        // Filter listeners
-        document.getElementById('nameFilter').addEventListener('input', applyFilters);
-        document.getElementById('codeFilter').addEventListener('input', applyFilters);
-        document.getElementById('duelistFilter').addEventListener('input', applyFilters);
-        document.getElementById('typeFilter').addEventListener('input', applyFilters);
-        document.getElementById('setFilter').addEventListener('change', applyFilters);
-        document.getElementById('frameFilter').addEventListener('change', applyFilters);
+        // Filter listeners - Solo para búsqueda avanzada
+        // Los filtros tradicionales ahora usan botones
 
         // Run the application
         initializeFilters();
@@ -620,6 +1013,7 @@
             "BSN": "11 - Body Snatchers",
             "FTP": "12 - Facing the Past",
             "MLY": "13 - Millennium Legacy",
+            "SPZ": "14 - Spirit of the Puzzle",
         };
 
         const CARDS_DATABASE = {

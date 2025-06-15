@@ -23,7 +23,7 @@ A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while g
 
 ### 1️⃣ Limited 1
 
-> *You can include up to 1 card from this list in your decks.*
+> *You can include up to 1 card from this list in your deck.*
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/22.jpg" alt="" width="170" >}}
@@ -43,7 +43,7 @@ A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while g
 
 ### 4️⃣ Limited 4
 
-> *You can include up to 4 different cards from this list in your decks.*
+> *You can include up to 4 different cards from this list in your deck.*
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/27.jpg" alt="" width="170" >}}
@@ -76,8 +76,14 @@ A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while g
 
 ### ✅ Surplus
 
-> *You can have more than 1 copy of each of these cards in your deck.*
+> *You can have up to 3 copies of each of these cards in your deck.*
 
-*(You can have up to 3 copies of any card in your decks, unless that card is in the Restricted List.)*
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/31.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/42.jpg" alt="" width="170" >}}
+</div>
+
+- [TSC-31] → **Fusion**
+- [TSC-42] → **Harpie Lady**
 
 ---

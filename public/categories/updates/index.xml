@@ -6,7 +6,161 @@
         <description>Recent content in Updates on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 17 May 2025 14:40:00 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/categories/updates/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Jun 2025 14:22:00 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/categories/updates/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Some changes coming before Battle City</title>
+        <link>https://kingdomduels.com/post/adjustments-before-battle-city/</link>
+        <pubDate>Sun, 15 Jun 2025 14:22:00 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/adjustments-before-battle-city/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0030.jpg" alt="Featured image of post Some changes coming before Battle City" /&gt;&lt;p&gt;Hello Duelists, we have a large update today. After completing all the sets related to the Museum Arc it was clear that some things were working and some things were not. We are making some structural and quality-of-life changes to the game based on what we&amp;rsquo;ve learned. The goal with these changes is to keep improving the rulebook and new-player-onboarding, eliminating inconsistencies, and building a solid structure for future cards.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Note: If you&amp;rsquo;ve already printed cards, don&amp;rsquo;t worry! the large majority of these changes are related to Rule Cards and rulings in general that exist outside of the cards themselves. 90% of the cards won&amp;rsquo;t be impacted at all by this other than the id-number changing.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;size-and-frequency-of-set-releases&#34;&gt;Size and Frequency of Set Releases
+&lt;/h2&gt;&lt;p&gt;Before the Museum Arc we established a 70-card set limit to better accomodate Tabletop Simulator releases. This didn&amp;rsquo;t yield great results, so we&amp;rsquo;re reverting to a structure closer to what we had before. Releasing 7 sets per arc also came with its own problems, mainly in: properly slotting story duels and character cards, a feeling of too-much-filler per set, lack of impact and wasting too much time dealing with Tabletop Simulator instead of using that time to create more cards.&lt;/p&gt;
+&lt;p&gt;The reality is that card development needs to speed up: it took me about 7-months to release sets #8 to #14, which is way too slow. &lt;strong&gt;We are now aiming to have 2 sets per arc instead of 7, removing the card limit for each set.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Fewer releases per year gives both players and myself some breathing room. It also allows for larger-scale design projects without constantly needing to patch older sets due to new mechanics. The goal is of-course to reduce the 7-months-per-arc with this, because otherwise we are looking at almost 2 years to complete the Duel Monster adaptation, and that to me feels too much.&lt;/p&gt;
+&lt;p&gt;This approach is closer to traditional game releases, which feature much larger sets (eg. for draft formats). Each set here will probably contain roughly 150–250 cards, themed around the arc&amp;rsquo;s story, but not necessarily locked to exactly half of the arc&amp;rsquo;s chapters.&lt;/p&gt;
+&lt;p&gt;Main issue with this change would be the lack of the monthly card previews, but i hope to keep &amp;rsquo;em rolling ocassionally (even if their are more &amp;ldquo;work in progress&amp;rdquo; than nowadays) and introduce other ways for you guys to feel involved in the project as we go.&lt;/p&gt;
+&lt;p&gt;In conclusion: 2 sets per Arc instead of 7 (to be implemented with the first Battle City set, and applied retroactively).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;rulebook-changes&#34;&gt;Rulebook Changes
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hierarchy&lt;/strong&gt;: After some dicussion, the natural protection rule is being removed from divine cards to go in-line with the changes we made to types/traits last year. The Hierarchy only serves now as a value that can be referenced by card effects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &lt;strong&gt;Hierarchy Scale&lt;/strong&gt; is also being adjusted from a 1–10 range to a 1–7 range. Cards will be adjusted accordingly.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Tokens&lt;/strong&gt; now belong to the Extra Deck and should be considered during deckbuilding. Not a lot changes here other than them having a proper place.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;New terminology &amp;ldquo;&lt;strong&gt;Combination Cards&lt;/strong&gt;&amp;rdquo;: a rulebook term that unifies Spell Traps, Spell Monsters and Trap Monsters. This is only for clarity and has no effect on gameplay or card text.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emblem&lt;/strong&gt; cards were removed, as they served no purpose really.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Card Type Clarifications&lt;/strong&gt;: In the rulebook we are adjusting the card types to be more consistent and avoid confusion:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Main&lt;/strong&gt; Card Type (one of the four main types of cards in the game, each card has to have at least one of these: Rule, Spell, Trap, Monster).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Advanced&lt;/strong&gt; Card Type (used as a prefix with the main type, they introduce new mechanics and special interactions, they are: Fusion, Ritual, Equip, Continuous, Setup, Divine, etc.)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Secondary&lt;/strong&gt; Card Type (they do nothing on their own but can be used for other card effects, they include all the monster types (beast, spellcaster, poisoned, toon, etc.), hierarchy value, divine pantheon, rule types, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Text Effect Clarity&lt;/strong&gt;: Some quality of life changes like normalizing italics as flavor text for effect names, changing the charge cost of symbols or replacing the words with underscore with all caps words which are called &amp;ldquo;effect types&amp;rdquo;, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Spell &amp;amp; Trap Speed Changes&lt;/strong&gt;: While most Continuous and Equip cards are Slow Effects (like it says in the rules) this is not universal. Persist cards are usually Quick, and Normal spells are also sometimes Slow. This ends up being confusing. We are now introducing the &amp;ldquo;&lt;strong&gt;Slow&lt;/strong&gt;&amp;rdquo; card type, which directly states the speed of the card&amp;rsquo;s activation as Slow Speed. This change removes redundant text in the effect box and reduces confusion about which cards can be played quickly and which cannot. The new rule basically says: All Spell and Trap cards are Quick Speed unless they are marked as &amp;ldquo;Slow.&amp;rdquo;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Persist &amp;amp; Continuous&lt;/strong&gt;: With the addition of the Slow card type, card speed is now more clearly defined and therefore we are &lt;strong&gt;removing the &amp;ldquo;Persist&amp;rdquo; type&lt;/strong&gt;, integrating it into Continuous Spell/Trap cards. The &amp;ldquo;Continuous&amp;rdquo; condition will now be explicitly written in the textbox (&amp;ldquo;Persists until&amp;hellip;&amp;rdquo;). If nothing is stated, the card remains on the field indefinitely. This unification makes our card types more consistent and easier to explain to new players.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Singleton&lt;/strong&gt;: Now that we have more cards, we are finally fulfiling on this promise and are changing the deckbuilding rules to become &amp;ldquo;singleton&amp;rdquo;. This means a player can only have &lt;strong&gt;1 copy of each card in the Main Deck&lt;/strong&gt;. That said, the rules also allow players to have 1 card with up to 3 copies and 1 card with up to 2 copies. This, combined with the &amp;ldquo;Surplus&amp;rdquo; section of the Restricted List, should make deckbuilding more in line with the original vision of the game: losing deck consistency for variety, while keeping some strong core cards consistent.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;rule-card-changes&#34;&gt;Rule Card Changes
+&lt;/h2&gt;&lt;p&gt;One of the main culprits of the amount of set filler that we saw was the overabundance of Rule Cards. Specifically the amount of similar-looking Duelist Setup Rule cards that dilute the whole set with uninteresting cards that end up being skipped over when looking at a new set. For this reason we made some big changes to the whole structure of Rule Cards to present them in a better way for all players:&lt;/p&gt;
+&lt;h3 id=&#34;normal-rule-cards&#34;&gt;Normal Rule Cards
+&lt;/h3&gt;&lt;p&gt;For normal Rule Cards we replaced the two concepts of &amp;ldquo;KEYWORD&amp;rdquo; and &amp;ldquo;RELIANCE&amp;rdquo; with a single concept &amp;ldquo;&lt;strong&gt;EVENT&lt;/strong&gt;&amp;rdquo;. Now, Normal Rule Cards will all work the same way: &amp;ldquo;if the EVENT condition is true you can activate this card to the Rule Zone, if it stops being true then this card returns to the Extra Deck&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Some examples of Event conditions could now be: &amp;ldquo;there is a ??? monster on the field&amp;rdquo; (which replaces the KEYWORD mechanic), or &amp;ldquo;you control ??? card&amp;rdquo; (replacing the RELIANCE mechanic), or even &amp;ldquo;you played ??? card&amp;rdquo; (for the RELIANCE mechanic that works in activation only).&lt;/p&gt;
+&lt;p&gt;This will make the whole concept more clear and connected without having to re-check what the heck are the RELIANCE/KEYWORD or how they work.&lt;/p&gt;
+&lt;h3 id=&#34;setup-rule-cards&#34;&gt;Setup Rule Cards
+&lt;/h3&gt;&lt;p&gt;Setup Rule now all work the same way: &lt;strong&gt;they can only be activated in the Setup Phase&lt;/strong&gt;. That&amp;rsquo;s it, that&amp;rsquo;s the main thing they do. Further clasifications like Duelist, Field or Challenge have their own explanations below but are more tied to the card effect itself and not directly to the type. This way we avoid confusion and Setup specific sub-rules to keep track of during the game.&lt;/p&gt;
+&lt;h3 id=&#34;challenge-setup-rule-cards&#34;&gt;Challenge Setup Rule Cards
+&lt;/h3&gt;&lt;p&gt;Game Setup Rules have been combined into &lt;strong&gt;Challenge Setup Rules&lt;/strong&gt;. They no longer have a limitation of playing only one of them per game. They still change how the game is played in a big way, and many of them will have a requirement to be accepted by all players in order to be played, but it is not a mandatory clause in the card type anymore which was limiting design-space.&lt;/p&gt;
+&lt;h3 id=&#34;field-setup-rule-cards&#34;&gt;Field Setup Rule Cards
+&lt;/h3&gt;&lt;p&gt;For clarity-sake we are changing the underlined &amp;ldquo;Terrain:&amp;rdquo; word with &amp;ldquo;&lt;strong&gt;TERRAINS&lt;/strong&gt;:&amp;rdquo; to keep it consistent with other effect types. A player can only activate one &amp;ldquo;TERRAINS&amp;rdquo; effect in the Setup Phase.&lt;/p&gt;
+&lt;p&gt;We are also removing the Matched Field mechanic (and duplicate cards that used them), replacing it with specific Field cards that allow a player to choose either Red or Blue side. This way a player could still pick a Matched Field (like the duel arenas in the anime) and maybe have their opponent pick the other side, without requiring both players to have the same card.&lt;/p&gt;
+&lt;h3 id=&#34;duelist-setup-rule-cards&#34;&gt;Duelist Setup Rule Cards
+&lt;/h3&gt;&lt;p&gt;After extensive review we&amp;rsquo;ve concluded that Duelist Setups are &lt;strong&gt;flawed&lt;/strong&gt; as a concept. They feel irrelevant to the actual gameplay, despite attempts to add more functionality to them over time (which resulted in a different problem of them trying to do too many things at once):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1): They try to reference the anime duels, listing every card each character played. This leads to a large number of them per set. As the game expands, the main cast will accumulate more and more of these cards (most of which will end up being very similar). Visually, the artwork also becomes repetitive due to the recurring use of the same character image.&lt;/li&gt;
+&lt;li&gt;(2): They aim to ignore the Restricted List, but we don&amp;rsquo;t have a ton of control over which card is included because they are linked to the anime duel, making it impossible to edit or update later if needed unless we change the duel.&lt;/li&gt;
+&lt;li&gt;(3): They aim to manipulate the starting hand, but with so many Duelist Setups available per player, there&amp;rsquo;s no clear logic on which one to include in a deck. Some setups will always be better than others simply for listing more useful cards.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The main problem is that they lack a clear purpose. If you want to make a Yugi deck&amp;hellip; which Duelist Setup do you pick? Does it even matter? Do you have to check what he played in each duel and see if any of it is useful for your starting hand? If we feel like this with ~20 Yugi cards, what will happen when we have ~60 of them?&lt;/p&gt;
+&lt;p&gt;So, from now on, &lt;strong&gt;Duelist Setups will no longer reference individual anime duels&lt;/strong&gt;. Instead, they&amp;rsquo;ll focus solely on their two functional roles: Restricted List Protection and Starting Hand Manipulation.&lt;/p&gt;
+&lt;p&gt;The underlined &amp;ldquo;Cardlist&amp;rdquo; concept is replaced with &lt;strong&gt;STRATEGY&lt;/strong&gt;, which will still include a list of cards, but curated by us and centered around a specific strategy for each duelist. A player can only activate one &amp;ldquo;STRATEGY&amp;rdquo; effect in the Setup Phase.&lt;/p&gt;
+&lt;p&gt;Also, each Duelist Setup will now feature unique artwork to make them easier to identify, maintaining the visual idea of different outfits or themes we&amp;rsquo;ve used so far. Ideally, a new Duelist Setup should only be created when a duelist refines or adopts a different strategy, not for every single duel (since duelists don&amp;rsquo;t usually change their decks between duels). For example, for Pegasus, we could have something like &amp;ldquo;STRATEGY (&lt;em&gt;Toon Mayhem&lt;/em&gt;):&amp;hellip;&amp;rdquo; and another card with &amp;ldquo;STRATEGY (&lt;em&gt;Illusionism&lt;/em&gt;):&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;With these changes, we aim to reduce the number of Duelist Setups significantly, keeping only those that offer meaningful and interesting options for players.&lt;/p&gt;
+&lt;h3 id=&#34;symbol-rule-cards&#34;&gt;Symbol Rule Cards
+&lt;/h3&gt;&lt;p&gt;Previously we talked about removing Emblems from the game. In truth what we are doing is &lt;strong&gt;combining Emblems into Symbols&lt;/strong&gt;. They will remain as an entirely optional card sub-type to use, but they now will have the light-yellow frame of the Emblems so it will be easier to distinguish them from the regular Rule cards in the Extra Deck.&lt;/p&gt;
+&lt;p&gt;Their mechanics will remain the same, but we will be aiming to design them to be more experimental, with effects that go beyond the regular game. Expect some 4th-wall breaking and effects more similar to Un-sets from MTG with these type of cards.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;expansion-sets-community-cards&#34;&gt;Expansion Sets (Community Cards)
+&lt;/h2&gt;&lt;p&gt;We&amp;rsquo;ll soon be kicking off the process to create the &lt;strong&gt;first Expansion Set&lt;/strong&gt;: a chance for the community to design cards to be included in the game! I&amp;rsquo;ll be preparing the plan for this in the coming weeks.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;tldr&#34;&gt;TL;DR:
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;2 sets per story arc instead of 7, with no limit on amount of cards per set. Less frequent set releases but more impactful.&lt;/li&gt;
+&lt;li&gt;Hierarchy has no natural protection anymore, the scale is changed to 1-7.&lt;/li&gt;
+&lt;li&gt;Tokens go to the Extra Deck now.&lt;/li&gt;
+&lt;li&gt;Card types reorganized, some were removed and some were added. For example the &amp;ldquo;Slow&amp;rdquo; type was added for spell and traps to make it easier to see when a card is Slow Speed or not.&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Persist&amp;rdquo; cards are transformed into &amp;ldquo;Continuous&amp;rdquo; cards which can now have the Persist clarification in the textbox.&lt;/li&gt;
+&lt;li&gt;Singleton rule for deckbuilding (with some exceptions).&lt;/li&gt;
+&lt;li&gt;Normal Rule cards have EVENT replacing both KEYWORD and RELIANCE.&lt;/li&gt;
+&lt;li&gt;Setup Rules simplified. Game Setup are combined into Challenge Setup Rules. Matched Fields removed. TERRAINS as an effect can be picked by the other player (replacing Matched fields). Duelist Setups will be revamped, focusing on STRATEGY effects instead of anime duels tracking.&lt;/li&gt;
+&lt;li&gt;Symbol Rules are now light-yellow and have been combined with Emblems, focusing on weird and optional gameplay.&lt;/li&gt;
+&lt;li&gt;We will start working on community sets soon.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>Retrospective - Museum Arc</title>
+        <link>https://kingdomduels.com/post/retrospective-museum-arc/</link>
+        <pubDate>Sun, 15 Jun 2025 14:21:00 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/retrospective-museum-arc/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0029.jpg" alt="Featured image of post Retrospective - Museum Arc" /&gt;&lt;p&gt;Hello Duelists! I wanted to make a small blog post about the design of the Museum Arc. This is a look into choices made during the Yugioh Scrolls and Kingdom Duels development for those that want to check these things out.&lt;/p&gt;
+&lt;h2 id=&#34;the-storytelling&#34;&gt;The Storytelling
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ep 41&lt;/strong&gt;: I wanted to expand on some potential Duelist Kingdom duels that we missed. I think the idea of recapping/revisiting a previous arc was nice, and probably something to explore in the future.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 42&lt;/strong&gt;: To me it was important to flesh out Kaiba&amp;rsquo;s conflict with the Big Five, but didn&amp;rsquo;t wanted to have Yugi and the group here with the whole &amp;ldquo;Legendary Heroes&amp;rdquo; arc as it was going to feel a bit repetitive with the upcoming Virtual World, so I focused more on Kaiba and Mokuba to deal with this treat.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 43&lt;/strong&gt;: Not much changed here from the original show, but a few links to the Museum are established.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 44-45&lt;/strong&gt;: As the focus is on Kingdom Duels, i wanted to adapt Dungeon Dice Monsters to it while keeping the idea as close as possible. The duel itself ended up really similar, so that was great.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 46&lt;/strong&gt;: I needed the group to meet Shizuka early so this was a good chance for it, as they all visit the museum together for the Egyptian Exhibition and problems start to come up.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 47-52&lt;/strong&gt;: Now that we had Otogi and Shizuka in the group, it was time to introduce the Virtual World subplot. I kept it mostly the same but with some changes to the duels and contained to one duel per episode. The structure is roughly the same, but the power level was toned down. I took the opportunity to give side-characters a few more interesting game decisions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 53-57&lt;/strong&gt;: The second half of this subarc is a bit different, as it is more focused and involves a huge multi-duel that gives the side-character once again a time to shine. It was also more focused on Kaiba taking down both Noah and Gozaburo, so Yugi didn&amp;rsquo;t had the same pivotal role as he did in the anime, which i think was better because this was mostly Kaiba&amp;rsquo;s subplot.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 58-59&lt;/strong&gt;: I wanted to include Shadi&amp;rsquo;s action from the manga/toei series here, and it lined up pretty well with the rest of the plot. His actions against the curator, professor and yugi&amp;rsquo;s friend make him a more complex pseudo-antagonist that what he was in the show. We had a brief introduction of a character that will be important later on.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 60-61&lt;/strong&gt;: Now the plot starts to connect to the egyptian mythos and the upcoming Battle City arc thanks to the involvement of Ishizu and Marik in these two episodes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 62-63&lt;/strong&gt;: I wanted to keep Anzu&amp;rsquo;s date with the Other Yugi, but making the small chance of having her fight Johnny Steps which i think works a bit better. I then took the opportunity of have the Other Yugi have a longer encounter with Ishizu, even dueling a bit in their minds as a sort of test, which goes in line with every Millennium Item user we had.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ep 64-65&lt;/strong&gt;: Obelisk had to be kept a secret so i think not revealing his abilities works better when Kaiba duels the computer. The tournament is announced, which is the main link to the next arc, but then we follow Bakura go into the museum. While this was barely seen in the anime, in here i gave it a lot more of an importance as I feel an encounter with Ishizu, Bakura and Shadi could have been really interesting to see at this point. Revealing more of Shadi&amp;rsquo;s backstory while showcasing Bakura&amp;rsquo;s power was also the idea to make him a bit more threatening.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;game-design-thoughts-by-set-release&#34;&gt;Game Design Thoughts (by Set Release)
+&lt;/h2&gt;&lt;h3 id=&#34;loose-ends&#34;&gt;Loose Ends
+&lt;/h3&gt;&lt;p&gt;I started things off with this very first set. It was the first time of me designing cards like these, essentially leaving the comfort of keeping anime mechanics 1-to-1 and exploring new design spaces. I liked this set, even though it wasn&amp;rsquo;t as flashy as the others that we had later in this arc, it established a good foundation and gave support to things that could have happened in Duelist Kingdom.&lt;/p&gt;
+&lt;h3 id=&#34;dungeon-of-luck&#34;&gt;Dungeon of Luck
+&lt;/h3&gt;&lt;p&gt;This was an insane set to design. Rewriting the Dungeon Dice Monsters rules into this game was a monumental task, specially on the tracking aspect of the duel (every move, every combat, every effect, every positional change, how they shape their dice, etc.). Really fun though, and it gave me the chance to consolidate the Labyrinth mechanic from the original arc even further, creating the whole concept of &lt;strong&gt;Tilemaps&lt;/strong&gt; and Tiles using the artwork of the card, which i really liked.&lt;/p&gt;
+&lt;h3 id=&#34;virtual-nightmare-body-snatchers-and-facing-the-past&#34;&gt;Virtual Nightmare, Body Snatchers and Facing the Past
+&lt;/h3&gt;&lt;p&gt;I have to put these three sets together in this section because they share the narrative and the spotlight in a condensed way. The main focus here was obviously the &lt;strong&gt;Deckmaster&lt;/strong&gt; system. It was challenging to design because it was super weird and it really tested the basic rules.&lt;/p&gt;
+&lt;p&gt;I wanted to stay true to the idea that the mechanics &lt;em&gt;have&lt;/em&gt; to adapt to our game and not fundamentally change it. The easy route would have been to add a special &amp;ldquo;Deckmaster&amp;rdquo; slot and card type but i refused to change the original gameboard by adding a new zone. So i had to find a different way.&lt;/p&gt;
+&lt;p&gt;I thought about an Extra Deck Summoning mechanic for Deckmasters, but given that the whole idea was about using &amp;ldquo;any&amp;rdquo; monster as a Deckmaster, and the story already included Alters and Fusions as Deckmasters, the idea of a new summoning mechanic wouldn&amp;rsquo;t have been a true &amp;ldquo;unique&amp;rdquo; summoning mechanic. It would also end up confined to only these 3 sets because we never saw the Deckmaster concept ever again.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s why i used Rule Cards instead, which ended up working pretty well and have an inherent protection that is useful here. I had the opportunity to play a bit with the Erosion mechanic, which is meant to remain different to the Banish in Yugioh and i totally intend for it to stay that way. Luckily the whole thing ended up working pretty well.&lt;/p&gt;
+&lt;p&gt;That said, a different problem arose in this arc: As the Virtual World originally aired between the two Battle City halfs, it had a lot of cards that in the anime debuted during Battle City (like Dark Magician Girl or Gearfried). I felt that introducing those cards here would lessen the impact they had in their very first duels in the Battle City Arc, so I ended up making quite a lot of changes in the duels trying to keep the &amp;ldquo;new&amp;rdquo; cards like those to the minimum. It wasn&amp;rsquo;t always possible to do (like with Jinzo) but i think overall it worked out.&lt;/p&gt;
+&lt;p&gt;Speaking of, it was here in these three sets that we started seeing the importance of the Ritual Summoning mechanic going forward as the main replacement of the Tribute Summons. Given that we won&amp;rsquo;t have the Regular / Battle City Rules we had to pivot to the Ritual mechanic for the big and gamechanging monsters.&lt;/p&gt;
+&lt;p&gt;A final note is that this virtual sub-arc gave me the chance to play and design a lot with Terrains too, so it was a more natural progression between the heavy Terrain-focus of Duelist Kingdom and the more urban environment of dueling in Battle City.&lt;/p&gt;
+&lt;h3 id=&#34;millennium-legacy-and-spirit-of-the-puzzle&#34;&gt;Millennium Legacy and Spirit of the Puzzle
+&lt;/h3&gt;&lt;p&gt;These were super cool sets to work on because they have a ton of cards and mechanics completely new that i had to create mostly from scratch. Thematically we are really focusing now in the museum itself. Having Ishizu, Marik, Shadi and Bakura all linked together in these two sets was really important going forward, as focusing on the millennium item wielders was what i wanted the most for this arc.&lt;/p&gt;
+&lt;p&gt;Mechanically, the idea of &lt;strong&gt;Subduels&lt;/strong&gt; was really fitting for Shadi&amp;rsquo;s mind manipulations given that we never saw him duel in the original show. As someone who always loved the idea of those video game yugioh puzzles of &amp;ldquo;win in 1 turn&amp;rdquo; i was quite pleased with bringing that idea into the game itself.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;Diaha&lt;/strong&gt; rule mechanic was also a tricky one to design because it requires to plan ahead and to leave a lot of design space open, as it will be relevant in 3 arcs from here and that&amp;rsquo;s a long time. I&amp;rsquo;m not sure what&amp;rsquo;s the game and the story is going to look at that point, but i hope this works well.&lt;/p&gt;
+&lt;p&gt;I wanted to respect the idea of the cards coming from egyptian stone tablets, while also tying it a bit more to the Ritual Mechanic, which i think feels natural as the replacement for the Tribute Mechanic in this game. Having Rituals take the spotlight like this is, in my mind, also fitting for this DM era as the core Extra Deck mechanic of the time (just as Fusions for GX, Synchros for 5Ds, etc.)&lt;/p&gt;
+&lt;h2 id=&#34;shortcomings&#34;&gt;Shortcomings
+&lt;/h2&gt;&lt;p&gt;There were few specific areas that I didn&amp;rsquo;t like during design. One of them is that I felt that we had a lot of filler cards in the form of an ever expanding list of Duelist Setup cards. I feel that having so many of them dilutes (a bit) the cool factor of the Rule cards themselves.&lt;/p&gt;
+&lt;p&gt;The decision of how we release the Duelist Setup cards is what causes this, as they themselves are a list of what cards each duelist played in each duel, so its a design choice to have them be like this, and they will grow a lot in the future. Personally i dont like that it ends up resulting in so many similar cards that see little play at all. They are a bit confusing too, for example if one would want to make a Yugi deck, which duelist setup should he choose? there are 20 of them to pick, and they are mostly similar. Does it matter? Should you pick any of them?&lt;/p&gt;
+&lt;p&gt;Another problem i saw was&amp;hellip; dividing the sets into 7 ended up making the whole process too slow in my opinion. It took around 7 months to release sets #8 to #14, and at that pace we are looking to complete Duel Monsters at a total of 35 sets in around 2 years, which to me feels too far-away. This is on me, I need to do better.&lt;/p&gt;
+&lt;h2 id=&#34;final-words&#34;&gt;Final Words
+&lt;/h2&gt;&lt;p&gt;In the end, i really enjoyed working on the Museum Arc. It gave me the opportunity of adapting interesting mechanics and fleshing out what the Kingdom Duels rulebook is capable of. There were a lot of challenging decisions and interactions that i had to figure it out, while also trying to not go overboard with the changes to both the story and the duels.&lt;/p&gt;
+&lt;p&gt;The storyline of the arc itself could have been a bit more related to the &amp;ldquo;Museum&amp;rdquo; itself but that was going to be difficult because its trying to do a bit too many things and stretching over a bunch of different plot points. It&amp;rsquo;s a bit weird to call it &amp;ldquo;Museum Arc&amp;rdquo; when so many different things happen, but i&amp;rsquo;m okay with that and i tried to relate the major stuff to the Museum whenever i had the chance (including the virtual sub-arc).&lt;/p&gt;
+&lt;p&gt;While i took the time for experimenting and adapting weird ideas, i look ahead and see in Battle City the opportunity to return to the core of the project and expand the main mechanics, focusing more on the base experience which will be good for everyone i hope.&lt;/p&gt;
+&lt;p&gt;So, that&amp;rsquo;s it for me! Thank you for reading this far, and into Battle City we go!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Terrain Changes</title>
         <link>https://kingdomduels.com/post/terrain-changes/</link>
         <pubDate>Sat, 17 May 2025 14:40:00 -0300</pubDate>
