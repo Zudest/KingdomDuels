@@ -33,5 +33,6 @@ const EXTRA_TERRAINS = {
         ,{"name": "Different Dimension","frame": "Terrain","types": "Terrain","set": "T","id": "31","deck": "A","duelist": "","attribute": "dark","grade": "glyph","gradeval": "Eldritch"}
         ,{"name": "Tundra","frame": "Terrain","types": "Terrain","set": "T","id": "32","deck": "A","duelist": "","attribute": "earth","grade": "glyph","gradeval": "Burrowing - Frost"}
         ,{"name": "Temple","frame": "Terrain","types": "Terrain","set": "T","id": "33","deck": "A","duelist": "","attribute": "light","grade": "glyph","gradeval": "Divine - Blessed"}
+        ,{"name": "River","frame": "Terrain","types": "Terrain","set": "T","id": "34","deck": "A","duelist": "","attribute": "water","grade": "glyph","gradeval": "WATER"}
     ]
 };

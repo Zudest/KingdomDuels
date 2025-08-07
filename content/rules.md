@@ -441,6 +441,7 @@ These types don't have gameplay changes or special rulings on their own, but are
     - **Fireblast**: Is able to attack with a large display of fire.
     - **Flying**: Is able to properly fly (not only float or barely move in the air).
     - **Hypnotized**: Is under mind-control.
+    - **Infested**: Is affected by something harmful like a parasite.
     - **Music**: Is a user of music powers or is related to music.
     - **Petrified**: Has been turned to stone.
     - **Poisoned**: Is affected by poison or venom.
@@ -449,6 +450,7 @@ These types don't have gameplay changes or special rulings on their own, but are
     - **Sealed**: Is sealed through magic or other means.
     - **Slumbering**: Is sleeping or in a deep slumber.
     - **Thunderblast**: Is able to attack with electricity or magic of the electric type.
+    - **Union**: Is made of unions or able to naturally merge with other creatures of the same type.
 
 - **(Alter Monster Types)**: A specific group of types that is exclusive to Alter Monsters.
     - **Ascended**: A monster that embraces the holy power to its fullest and is transformed by it.

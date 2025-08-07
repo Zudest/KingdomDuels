@@ -156,9 +156,11 @@
     <input type="file" id="fileInput" accept=".json" style="display: none;">
 
     <!--DATA-->
+    <script src="data/000_A.js"></script>
     <script src="data/000_T.js"></script>
     <script src="data/001_1.js"></script>
     <script src="data/001_2.js"></script>
+    <script src="data/001_3.js"></script>
     <script src="search.js"></script>
 
     <script>
@@ -1000,16 +1002,20 @@
 
         const SET_MAPPING = {
             "T": "Terrains",
+            "A": "Alternatives",
             "SOE": "01 - Seal of Exodia",
             "KOD": "02 - King of Duelists",
             "LEN": "03 - Loose Ends",
             "MLY": "04 - Millennium Legacy",
+            "TEG": "05 - The Egyptian Gods",
         };
 
         const CARDS_DATABASE = {
             "cards": [
                 ...CHAPTER1_ARC1_DUELISTKINGDOM.cards,
                 ...CHAPTER1_ARC2_MUSEUM.cards,
+                ...CHAPTER1_ARC3_BATTLECITY.cards,
+                ...EXTRA_ALTERNATIVES.cards,
                 ...EXTRA_TERRAINS.cards
             ]
         };

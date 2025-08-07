@@ -4,7 +4,7 @@ toc = false
 readingTime = false
 +++
 
-| [← Duels from the Previous Arc](/scrolls/duels-duelist-kingdom-arc) | [Duels Homepage](/scrolls/duels) | [Duels from the Next Arc →](#) |
+| [← Duels from the Previous Arc](/scrolls/duels-duelist-kingdom-arc) | [Duels Homepage](/scrolls/duels) | [Duels from the Next Arc →](/scrolls/duels-battle-city-arc) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Duels

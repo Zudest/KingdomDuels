@@ -11,6 +11,7 @@ toc = false
 
 - [🏰 Duels from the Duelist Kingdom Arc](/scrolls/duels-duelist-kingdom-arc/)
 - [🏛️ Duels from the Museum Arc](/scrolls/duels-museum-arc/)
+- [🏙️ Duels from the Battle City Arc](/scrolls/duels-battle-city-arc/)
 
 
 ## Other Links
