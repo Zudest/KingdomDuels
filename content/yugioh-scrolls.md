@@ -22,14 +22,14 @@ The story is divided into **Chapters** which are argumental arcs with a differen
 
 ![The Millennium Chapter](/img/storyimg/Chapter01.jpg)
 
-- **Status**: Ongoing. **90/140** episodes.
+- **Status**: Ongoing. **115/140** episodes.
 - **Protagonists**: Yūgi Muto & Pharaoh Atem
 
 <div style="display: flex; justify-content: center; gap: 5px;">
 {{< imagetext src="/img/storyimg/1-01.jpg" link="/story/duelist-kingdom-arc/" alt="Duelist Kingdom Arc" caption="Duelist Kingdom Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/1-02.jpg" link="/story/museum-arc/" alt="Museum Arc" caption="Museum Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/1-03.jpg" link="/story/battle-city-arc/" alt="Battle City Arc" caption="Battle City Arc" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/1-04.jpg" link="/story/wicked-arc/" alt="Wicked Arc" caption="Wicked Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
 </div>
 

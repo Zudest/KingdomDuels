@@ -27,49 +27,49 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 
 ---
 
-| [← Previous Arc](/story/museum-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](#) |
+| [← Previous Arc](/story/museum-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/wicked-arc/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0066.jpg" caption="66" alt="Episode 66" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0067.jpg" caption="67" alt="Episode 67" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0068.jpg" caption="68" alt="Episode 68" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0069.jpg" caption="69" alt="Episode 69" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0070.jpg" caption="70" alt="Episode 70" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0066.jpg" link="#episode-66---stalked-by-the-ghouls" caption="66" alt="Episode 66" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0067.jpg" link="#episode-67---fierce-fight-battle-city-begins" caption="67" alt="Episode 67" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0068.jpg" link="#episode-68---esper-roba---danger-of-the-psychic-deck" caption="68" alt="Episode 68" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0069.jpg" link="#episode-69---black-magic-of-the-soul" caption="69" alt="Episode 69" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0070.jpg" link="#episode-70---the-trap-of-revenge---rampage-parasite" caption="70" alt="Episode 70" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0071.jpg" caption="71" alt="Episode 71" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0072.jpg" caption="72" alt="Episode 72" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0073.jpg" caption="73" alt="Episode 73" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0074.jpg" caption="74" alt="Episode 74" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0075.jpg" caption="75" alt="Episode 75" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0071.jpg" link="#episode-71---sky-dragon-of-osiris" caption="71" alt="Episode 71" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0072.jpg" link="#episode-72---the-giant-divine-soldier-of-obelisk" caption="72" alt="Episode 72" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0073.jpg" link="#episode-73---the-legendary-fisherman" caption="73" alt="Episode 73" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0074.jpg" link="#episode-74---the-masks-curse---high-rise-duel" caption="74" alt="Episode 74" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0075.jpg" link="#episode-75---heartless-duel---yugi-vs-jonouchi" caption="75" alt="Episode 75" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0076.jpg" caption="76" alt="Episode 76" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0077.jpg" caption="77" alt="Episode 77" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0078.jpg" caption="78" alt="Episode 78" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0079.jpg" caption="79" alt="Episode 79" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0080.jpg" caption="80" alt="Episode 80" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0076.jpg" link="#episode-76---shadow-of-a-duel" caption="76" alt="Episode 76" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0077.jpg" link="#episode-77---battle-ship-takes-off" caption="77" alt="Episode 77" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0078.jpg" link="#episode-78---first-duel-in-the-sky---yugi-vs-bakura" caption="78" alt="Episode 78" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0079.jpg" link="#episode-79---hidden-power---mystery-of-the-god-cards" caption="79" alt="Episode 79" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0080.jpg" link="#episode-80---the-winged-divine-dragon-of-ra" caption="80" alt="Episode 80" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0081.jpg" caption="81" alt="Episode 81" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0082.jpg" caption="82" alt="Episode 82" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0083.jpg" caption="83" alt="Episode 83" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0084.jpg" caption="84" alt="Episode 84" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0085.jpg" caption="85" alt="Episode 85" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0081.jpg" link="#episode-81---awakening-of-evil" caption="81" alt="Episode 81" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0082.jpg" link="#episode-82---a-duel-with-destiny" caption="82" alt="Episode 82" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0083.jpg" link="#episode-83---the-tomb-keepers-secret" caption="83" alt="Episode 83" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0084.jpg" link="#episode-84---showdown-in-the-shadows" caption="84" alt="Episode 84" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0085.jpg" link="#episode-85---the-land-of-the-decisive-battle-alcatraz" caption="85" alt="Episode 85" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0086.jpg" caption="86" alt="Episode 86" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0087.jpg" caption="87" alt="Episode 87" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0088.jpg" caption="88" alt="Episode 88" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0089.jpg" caption="89" alt="Episode 89" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0090.jpg" caption="90" alt="Episode 90" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0086.jpg" link="#episode-86---the-darkness-returns" caption="86" alt="Episode 86" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0087.jpg" link="#episode-87---clash-in-the-coliseum" caption="87" alt="Episode 87" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0088.jpg" link="#episode-88---the-path-towards-a-true-duelist" caption="88" alt="Episode 88" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0089.jpg" link="#episode-89---the-final-face-off" caption="89" alt="Episode 89" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0090.jpg" link="#episode-90---one-for-the-road" caption="90" alt="Episode 90" width="140" >}}
 </div>
 
 ---
@@ -120,7 +120,8 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 - Mokuba finds out about the cheating, dashes in and tackles the wicked accomplices up on the roof. He threatens to expel Roba from Battle City, but the brothers talk him out of it after telling him their story: they are orphans and have no one but Roba to protect and care for them. Mokuba, having been in a similar situation, is convinced to let the Duel continue as long as they stop cheating. His decision is also influenced from seeing Yugi watching the duel from a different roof during his conversation and thinking that Yugi would give them a second chance as well. He stands by to be sure they don't start doing it again.
 - Meanwhile Anzu, who can't find Yugi or Jonouchi, is sitting in a bench in the park and ponders about the past of the other Yugi.
 - Back in the hospital, Honda lies to Shizuka about the Duel, saying that Jonouchi is winning when in fact, he is not. When a nurse comes in to examine Shizuka, Honda leaves the room and decides to call Anzu, who is now with with Sugoroku at the park. Honda asks Anzu to send a message to Jonouchi. He then returns to Shizuka's room, who now knows the real status of the duel: she asked the nurse to look at the laptop and tell her what was going on while Honda was out. Honda apologizes for lying to Shizuka and the two start cheering for Jonouchi.
-- The duel is reaching its conclusion. Jonouchi doesn't look too good, but Anzu and Sugoroku arrive and tell him that Honda called from the hospital to say that he and Shizuka are watching the duel online. Anzu says they all believe in him, encouraging Jonouchi to fight on, which gives him enough motivation to win the duel. Esper Roba is acting like a sore loser, worried about his brothers, but just then the Roba brothers arrive and they tell him how proud they are of him for doing his best and almost winning, even without cheating. Esper stands up and gives his brothers a hug, then he hands over his "Psycho Shocker" and Puzzle Card to Jonouchi and promises he will not cheat again. Jonouchi accepts it and walks off with Anzu and Sugoroku.
+- The duel is reaching its conclusion. Jonouchi doesn't look too good, but Anzu and Sugoroku arrive and tell him that Honda called from the hospital to say that he and Shizuka are watching the duel online. Anzu says they all believe in him, encouraging Jonouchi to fight on, which gives him enough motivation to win the duel. 
+- Esper Roba is acting like a sore loser, worried about his brothers, but just then the Roba brothers arrive and they tell him how proud they are of him for doing his best and almost winning, even without cheating. Esper stands up and gives his brothers a hug, then he hands over his "Psycho Shocker" and Puzzle Card to Jonouchi and promises he will not cheat again. Jonouchi accepts it and walks off with Anzu and Sugoroku.
 
 ---
 
@@ -152,7 +153,8 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 - Once everyone is gone, the kid smirks and sneaks off to an alley. Haga is waiting there, and the kid reports that he did everything as planned.
 - Meanwhile, a kid helps Shizuka watch the duel in the hospital by narrating everything that happens from the laptop.
 - In a different place, Ryuzaki is bitter that he lost too quickly and would try to requalify by beating some duelist by betting cards, but would then find out it was useless as the system already rejected him, making him drop entirely from the tournament.
-- Still searching, Jonouchi catches sight of Haga and challenges him to a **[duel](/scrolls/duels-battle-city-arc/#ep-70---haga-vs-jonouchi)**. Both of them have two puzzle cards, and they wager both of them on the Duel. It becomes clear right away that Haga hasn't lost his taste for Insect-swarming strategies, but Jonouchi puts up a good fight. At one point Haga manages to summon "Parasite Paracide" from Jonouchi's Deck, and this is met with disgust and consternation from Jonouchi and the others, as Jonouchi doesn't keep any Insect-Type monsters in his deck. They quickly realize that the kid from earlier put the parasite card in Jonouchi's Deck under Haga's orders when he briefly took Jonouchi's Duel Disk.
+- Still searching, Jonouchi catches sight of Haga and challenges him to a **[duel](/scrolls/duels-battle-city-arc/#ep-70---haga-vs-jonouchi)**. Both of them have two puzzle cards, and they wager both of them on the Duel. It becomes clear right away that Haga hasn't lost his taste for Insect-swarming strategies, but Jonouchi puts up a good fight. 
+- At one point Haga manages to summon "Parasite Paracide" from Jonouchi's Deck, and this is met with disgust and consternation from Jonouchi and the others, as Jonouchi doesn't keep any Insect-Type monsters in his deck. They quickly realize that the kid from earlier put the parasite card in Jonouchi's Deck under Haga's orders when he briefly took Jonouchi's Duel Disk.
 - The situation gets worse when Haga makes it clear that he is planning to Summon an ace monster to surpass the "Great Moth" he Summoned in Duelist Kingdom. In the end, Jonouchi manages to find a way out of the insect's trap using his "Gearfried" card and wins the duel, giving another step towards his goal of becoming a "True Duelist".
 
 ---
@@ -277,7 +279,8 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 - Yugi and his friends ask Kaiba to land the airship so they can take Bakura to a hospital. Kaiba refuses, but he calls a medical team to take care of Bakura on the ship. Honda leaves to look for the missing Millennium Ring on the dueling platform, dragging Otogi along. Up there they get into a bit of a fight over Shizuka, and they trip and almost fall over but are saved by Shadi.
 - Moments later, in Yugi's room, while adjusting his Deck, he notices Shadi's reflection in the window. Shadi apologizes for their last encounter, saying that he had to be sure that Yugi had the strength to face what will be coming next. Yugi tells Shadi that he knows the spirit of the Millennium Puzzle is really the spirit of the Pharaoh. Shadi confirms this, and tells Yugi that all seven of the Millennium Items are onboard the ship along with all three Egyptian God cards and that the conditions are right to unlock the Pharaoh's memory. But warns him that the items and the god cards can only be used by those chosen to wield them.
 - He then tells him about Pegasus' journey to Egypt. Pegasus was trying to find a way to bring back his lover to life, and ended up discovering carvings of monsters, including the Egyptian Gods thanks to Shadi's help, which later became the inspiration for the game Duel Monsters. However, following his discovery and launching card production, Pegasus learned that nearly everyone involved with the production of the God Cards had begun to die under mysterious circumstances. Among them was a photographer who fell from the window of his hotel's room after seeing an apparition of Obelisk, having incurred the wrath of the Gods themselves. 
-- The rest of his team was too afraid to continue working on the project. Pegasus refused to stop making the cards, deciding to take onto the task himself as a challenge to the Gods. On the night after he finished painting the cards' design, his Millennium Eye showed him a vision of ancient Egypt in his sleep, where the world was being destroyed by the Gods he had painted. At this point, Shadi appeared to Pegasus. He told him the monsters were real and that Pegasus could not control both the darkness and the Gods at the same time; the solution was to seal the God Cards back in Egypt for they were too powerful. Pegasus, having experienced the Gods' power himself, took the completed cards and gave them to Ishizu Ishtar to be sealed.
+- The rest of his team was too afraid to continue working on the project. Pegasus refused to stop making the cards, deciding to take onto the task himself as a challenge to the Gods. On the night after he finished painting the cards' design, his Millennium Eye showed him a vision of ancient Egypt in his sleep, where the world was being destroyed by the Gods he had painted. 
+- At this point, Shadi appeared to Pegasus. He told him the monsters were real and that Pegasus could not control both the darkness and the Gods at the same time; the solution was to seal the God Cards back in Egypt for they were too powerful. Pegasus, having experienced the Gods' power himself, took the completed cards and gave them to Ishizu Ishtar to be sealed.
 - Back in the present, the Other Yugi shows up and Shadi drops to one knee in a sign of respect, telling him that all he needs to do to awaken his memory is to win the tournament. He then vanish as the participants are being called for the second match of the finals.
 - Shadi then briefly goes to Ishizu's room. She was thinking about his brother being a happy young boy, and tells Shadi that a horrible fate is awaiting Marik and that she joined the tournament to stop it. He tells her that the duty of the Tomb Keepers is coming to an end, one way or another. She asks him if he would relinquish his items to the Pharaoh, as he will need them to fulfil his fate, but he doesn't answer and just vanish again.
 - Finally, Shadi appears invisible behind Anzu in Bakura's room and sees her with the Millennium Ring in her hands. He stares with anger towards the unconscious Bakura and then vanish one last time, leaving the airship.
@@ -291,8 +294,10 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 ---
 
 - Through random selection, the next duel will have Jonouchi (number 2) face off against Rishid (number 7) whom everybody still believes is Marik. Before the duel begins, Rishid shows off his Millennium Rod to help keep up his disguise (but it is actually just a replica of the original).
-- As the **duel** progress, Rishid displays excellent dueling and controls the pace with ease. At one point, Jonouchi almost forfeits but a talk from Mai and Shizuka boost his confidence. Later, Rishid draws the egyptian god card to his own shock and confusion. Marik had slipped it in his deck to help him pretend that he is actually himself. Marik instructs Rishid to play the card but he fears that the card is too powerful and that he is not worthy enough of it. He tells him that is actually just one of many fake copies made by the Rare Hunters. The Rare Hunters could not use them because they had no connection to the ancient scriptures, but Marik believes Rishid will be able to. Rishid decides he doesn't need to use the card to win.
-- During a flashback we learn about Rishid being abandoned as an infant in Egypt and taken in by a woman. As a child, Rishid found out from his adoptive father, Mr. Ishtar, that the family needed an heir to carry on the legacy of the Tomb Keepers. Mrs. Ishtar suggested Rishid, but Mr. Ishtar insisted it could only be their biological child; however, he reluctantly agreed when Mrs. Ishtar stated that it was fate that brought Rishid to them. When Ishizu was born, Mr. Ishtar was disappointed she was a girl and he wanted to try again for a boy. Mrs. Ishtar suggested to Rishid that he become the Tomb Keeper. Rishid was pleased about this because he would then truly be part of the Ishtar family. Later on, Marik was born and he replaced Rishid as the heir. Mrs. Ishtar died shortly after giving birth.
+- As the **duel** progress, Rishid displays excellent dueling and controls the pace with ease. At one point, Jonouchi almost forfeits but a talk from Mai and Shizuka boost his confidence. Later, Rishid draws the egyptian god card to his own shock and confusion. Marik had slipped it in his deck to help him pretend that he is actually himself. 
+- Marik instructs Rishid to play the card but he fears that the card is too powerful and that he is not worthy enough of it. He tells him that is actually just one of many fake copies made by the Rare Hunters. The Rare Hunters could not use them because they had no connection to the ancient scriptures, but Marik believes Rishid will be able to. Rishid decides he doesn't need to use the card to win.
+- During a flashback we learn about Rishid being abandoned as an infant in Egypt and taken in by a woman. As a child, Rishid found out from his adoptive father, Mr. Ishtar, that the family needed an heir to carry on the legacy of the Tomb Keepers. Mrs. Ishtar suggested Rishid, but Mr. Ishtar insisted it could only be their biological child; however, he reluctantly agreed when Mrs. Ishtar stated that it was fate that brought Rishid to them. 
+- When Ishizu was born, Mr. Ishtar was disappointed she was a girl and he wanted to try again for a boy. Mrs. Ishtar suggested to Rishid that he become the Tomb Keeper. Rishid was pleased about this because he would then truly be part of the Ishtar family. Later on, Marik was born and he replaced Rishid as the heir. Mrs. Ishtar died shortly after giving birth.
 - When Marik was a child, he became ill after he was bitten by a cobra. Mr. Ishtar was furious and blamed Rishid, but Marik still loved Rishid as his brother. Shortly before his Tomb Keeper's initiation, Marik was upset that he would have to live underground his whole life. Rishid offered to take Marik's place but Mr. Ishtar refused. After Marik's initiation, where he was marked with the scriptures, Rishid marked his own face to prove his loyalty. Rishid also noticed a change in Marik's behaviour after that date.
 - Back in the duel, Jonouchi announces that he believes Rishid isn't really Marik since Rishid is dueling fairly while Marik has always been sneaky and manipulative. Yugi agrees and starts being suspicious of the other participants: it could be Namu, or it could be the 8th duelist. Kaiba is surprised by this declaration but doesn't believe it, he must be Marik. Although Rishid is about to win, Marik tells him to instead use The God Card, as it is his last chance to convince everyone he is the real Marik. He convinces him by saying that by playing it he will truly be a part of the Ishtar family.
 - Rishid summons the counterfeit god card, but the real god becomes enraged and creates a thunderstorm. Rishid feels like a failure and is struck by lightning. His fake Millennium Rod shatters, confirming to Yugi he isn't really Marik. Jonouchi is also struck by lightning. Since both duelists are unconscious with the same amount of Life Points, Kaiba declares that the winner will be the first one to get back on his feet. 

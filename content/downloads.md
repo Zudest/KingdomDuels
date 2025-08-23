@@ -12,19 +12,15 @@ readingTime = false
 
 - 🏰 Duelist Kingdom Arc
     - **[SOE]** → Seal of Exodia
-    - **[TSC]** → The Star Chasers
-    - **[CHT]** → Changing Tides
-    - **[NFW]** → Nightfall Warriors
-    - **[CGU]** → Castle Guardians
-    - **[SHH]** → Shattered Hope
     - **[KOD]** → King of Duelists
 
 - 🏛️ Museum Arc
     - **[LEN]** → Loose Ends
-    - **[DOL]** → Dungeon of Luck
-    - **[VIN]** → Virtual Nightmare
-    - **[BSN]** → Body Snatchers
-    - **[FTP]** → Facing the Past
+    - **[MLY]** → Millennium Legacy
+
+- 🏙️ Battle City Arc
+    - **[TEG]** → The Egyptian Gods
+    - **[?]** → ?
 
 - 🏞️ Terrains
 

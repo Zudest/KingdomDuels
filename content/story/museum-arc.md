@@ -33,43 +33,43 @@ _"As normal life returns, the Domino Museum becomes a point of interest for Yugi
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0041.jpg" caption="41" alt="Episode 41" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0042.jpg" caption="42" alt="Episode 42" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0043.jpg" caption="43" alt="Episode 43" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0044.jpg" caption="44" alt="Episode 44" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0045.jpg" caption="45" alt="Episode 45" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0041.jpg" link="#episode-41---memories-of-the-kingdom" caption="41" alt="Episode 41" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0042.jpg" link="#episode-42---the-big-five" caption="42" alt="Episode 42" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0043.jpg" link="#episode-43---the-girl-from-america" caption="43" alt="Episode 43" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0044.jpg" link="#episode-44---the-mysterious-transfer-student--ryuji-otogi" caption="44" alt="Episode 44" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0045.jpg" link="#episode-45---showdown-the-dungeon-dice-field" caption="45" alt="Episode 45" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0046.jpg" caption="46" alt="Episode 46" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0047.jpg" caption="47" alt="Episode 47" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0048.jpg" caption="48" alt="Episode 48" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0049.jpg" caption="49" alt="Episode 49" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0050.jpg" caption="50" alt="Episode 50" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0046.jpg" link="#episode-46---jonouchis-sister" caption="46" alt="Episode 46" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0047.jpg" link="#episode-47---a-virtual-nightmare" caption="47" alt="Episode 47" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0048.jpg" link="#episode-48---deck-master---deepsea-warrior" caption="48" alt="Episode 48" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0049.jpg" link="#episode-49---duel-on-ice---anzu-is-targeted" caption="49" alt="Episode 49" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0050.jpg" link="#episode-50---gamble-to-victory" caption="50" alt="Episode 50" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0051.jpg" caption="51" alt="Episode 51" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0052.jpg" caption="52" alt="Episode 52" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0053.jpg" caption="53" alt="Episode 53" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0054.jpg" caption="54" alt="Episode 54" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0055.jpg" caption="55" alt="Episode 55" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0051.jpg" link="#episode-51---a-mans-path" caption="51" alt="Episode 51" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0052.jpg" link="#episode-52---settling-the-score" caption="52" alt="Episode 52" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0053.jpg" link="#episode-53---a-deepening-mystery---noahs-true-identity" caption="53" alt="Episode 53" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0054.jpg" link="#episode-54---big-5s-counterattack" caption="54" alt="Episode 54" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0055.jpg" link="#episode-55---defeat-it-five-god-dragon" caption="55" alt="Episode 55" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0056.jpg" caption="56" alt="Episode 56" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0057.jpg" caption="57" alt="Episode 57" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0058.jpg" caption="58" alt="Episode 58" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0059.jpg" caption="59" alt="Episode 59" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0060.jpg" caption="60" alt="Episode 60" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0056.jpg" link="#episode-56---noah-vs-seto---the-duel-of-heaven-and-earths-creation" caption="56" alt="Episode 56" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0057.jpg" link="#episode-57---darkness-of-the-kaiba-family" caption="57" alt="Episode 57" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0058.jpg" link="#episode-58---the-man-from-egypt" caption="58" alt="Episode 58" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0059.jpg" link="#episode-59---desperate-situation" caption="59" alt="Episode 59" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0060.jpg" link="#episode-60---the-pharaohs-lost-memories" caption="60" alt="Episode 60" width="140" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0061.jpg" caption="61" alt="Episode 61" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0062.jpg" caption="62" alt="Episode 62" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0063.jpg" caption="63" alt="Episode 63" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0064.jpg" caption="64" alt="Episode 64" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0065.jpg" caption="65" alt="Episode 65" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0061.jpg" link="#episode-61---the-shattered-millennium-puzzle" caption="61" alt="Episode 61" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0062.jpg" link="#episode-62---the-fiery-dance-battle" caption="62" alt="Episode 62" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0063.jpg" link="#episode-63---the-tablet-of-lost-memories" caption="63" alt="Episode 63" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0064.jpg" link="#episode-64---this-city-will-become-battle-city" caption="64" alt="Episode 64" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0065.jpg" link="#episode-65---clash-of-the-millennium-items" caption="65" alt="Episode 65" width="140" >}}
 </div>
 
 ---

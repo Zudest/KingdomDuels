@@ -11,17 +11,32 @@ toc = false
 
 - Pegasus
     - Lost it to Yugi & The Other Yugi ([ep. 39](/scrolls/duels-duelist-kingdom-arc/#ep-35-39---pegasus-vs-yugi))
-    - Title defenses: 0
 - Yugi
     - Lost it by forfeit to Rebecca ([ep. 43](/scrolls/duels-museum-arc/#ep-43---rebecca-vs-yugi-arthur-vs-sugoroku))
     - Title defenses: 0
+- The Other Yugi
+    - Lost it to Rafael (ep. 107)
+    - Title defenses: 25
+- Rebecca
+    - Lost it to Valon (ep. 109)
+    - Title defenses: 0
+- Valon
+    - Lost it to Jonouchi (ep. 110)
+    - Title defenses: 0
+- Jonouchi
+    - Lost it to Mai (ep. 111)
+    - Title defenses: 0
+- Mai
+    - Lost it to Rafael (ep. 112)
+    - Title defenses: 0
+- Rafael
+    - Lost it to The Other Yugi (ep. 113)
+    - Title defenses: 1
 
 ### Current King of Duelists
 
 - **The Other Yugi**
-    - Title defenses: 17 (until ep. 89)
-- **Rebecca**
-    - Title defenses: 0 (until ep. 90)
+    - Title defenses: 1 (until ep. 115)
 
 ---
 
