@@ -59,7 +59,10 @@ toc = false
         * "The Art of Egypt" exhibition takes place in the Domino City Museum. Shadi's spirit tests Yugi in a duel. Ishizu meets Kaiba, gives him an Egyptian God card, and a few days later she also meets Yugi. She gives both of them knowledge about the past using the old stone tablets and her Millennium Item.
         * Bakura, Ishizu and Shadi clash at the Domino City Museum.
         * The Battle City tournament happens (duration 3 days). Marik defeats Bakura and takes his Millennium Items (Ring and Eye). Ishizu gives Yugi her Millennium Tauk. Yugi later defeats Marik and takes his Millennium Items (Rod, Ring and Eye). He also now has the Egyptian God cards and the knowledge of the Pharaoh passed down through generation of Gravekeepers. Yugi now has all the Millennium Items minus the Scales and the Key. 
-        * ?
+        * Yako Tenma and his card professors kidnap Anzu and storm Kaiba Corporation building, luring Yugi to duel them in order to heal Pegasus from a comatose state by using Anzu's body as a conduit. They fail, but Pegasus manages to come back after all.
+        * Dartz, leader of the Doma organization, attacks Duelist Kingdom, defeats the Tenma brothers and creates "Seal of Orichalcos" cards. He then dispatch his duelists to capture souls all over the world using those cards.
+        * Pegasus invites Yugi and his friends to San Francisco, USA, asking for their help. However his soul is captured by Mai before they arrive, who is working under Dartz orders. Yugi and his friends clash with the members of the Doma organization. During those battles, Yugi, Jonouchi and Kaiba enter for the first time to the Duel Monsters Spirit World in order to free the Legendary Dragons in the Domain of the Beasts.
+        * The confrontations between the two groups lead to a final battle between Yugi and Kaiba versus Dartz that they manage to win, foiling his plans.
 * **October 1998 - March 1999**
     * The events of **The King's Chapter** take place.
 * **April 2004 - March 2007**

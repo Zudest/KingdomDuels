@@ -18,31 +18,22 @@ toc = true
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="The Other Yugi" width="140" >}}
 </div>
 
-##### Main Cast
+##### Main & Recurring Cast
 
 <div style="display: flex; justify-content: center; gap: 5px;">
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Kaiba" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Jonouchi" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Anzu" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Honda" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Bakura" width="140" >}}
 </div>
 
-##### Recurring
-
 <div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" link="#" caption="Bakura" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Mai" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Mokuba" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Otogi" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Shizuka" width="140" >}}
-</div>
-
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" link="#" caption="The Other Bakura" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Sugoroku" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
 </div>
 
 ##### Duelist Kingdom Arc
@@ -99,7 +90,23 @@ toc = true
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="Jean-Claude Magnum" width="140" >}}
 </div>
 
+##### Wicked Arc
 
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Yako Tenma" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Gekko Tenma" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Richie Merced" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Scott Depre" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Card Professors" width="140" >}}
+</div>
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Dartz" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Rafael" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Valon" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Amelda" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Gurimo" width="140" >}}
+</div>
 
 ## Characters from the King's Chapter
 

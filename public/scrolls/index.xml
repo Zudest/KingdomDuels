@@ -80,7 +80,7 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h5 id=&#34;main-cast&#34;&gt;Main Cast
+&lt;h5 id=&#34;main--recurring-cast&#34;&gt;Main &amp;amp; Recurring Cast
 &lt;/h5&gt;&lt;div style=&#34;display: flex; justify-content: center; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
@@ -202,9 +202,6 @@
         
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;h5 id=&#34;recurring&#34;&gt;Recurring
-&lt;/h5&gt;&lt;div style=&#34;display: flex; justify-content: center; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
@@ -235,6 +232,8 @@
         
     &lt;/div&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; justify-content: center; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
@@ -355,38 +354,6 @@
         
     &lt;/div&gt;
 &lt;/div&gt;
-&lt;/div&gt;
-&lt;div style=&#34;display: flex; justify-content: center; gap: 5px;&#34;&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
-        
-        
-        &lt;div style=&#34;
-            position: absolute; 
-            bottom: 10px; 
-            left: 0; 
-            right: 0; 
-            background-color: rgba(0,0,0,0.3); 
-            color: white; 
-            padding: 3px; 
-            font-size: 12px;
-            backdrop-filter: blur(4px);
-            -webkit-backdrop-filter: blur(4px);
-        &#34;&gt;
-            The Other Bakura
-        &lt;/div&gt;
-        
-        
-        
-            &lt;/a&gt;
-        
-    &lt;/div&gt;
-&lt;/div&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
@@ -409,96 +376,6 @@
             -webkit-backdrop-filter: blur(4px);
         &#34;&gt;
             Sugoroku
-        &lt;/div&gt;
-        
-        
-        
-            &lt;/a&gt;
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
-        
-        
-        &lt;div style=&#34;
-            position: absolute; 
-            bottom: 10px; 
-            left: 0; 
-            right: 0; 
-            background-color: rgba(0,0,0,0.3); 
-            color: white; 
-            padding: 3px; 
-            font-size: 12px;
-            backdrop-filter: blur(4px);
-            -webkit-backdrop-filter: blur(4px);
-        &#34;&gt;
-            ?
-        &lt;/div&gt;
-        
-        
-        
-            &lt;/a&gt;
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
-        
-        
-        &lt;div style=&#34;
-            position: absolute; 
-            bottom: 10px; 
-            left: 0; 
-            right: 0; 
-            background-color: rgba(0,0,0,0.3); 
-            color: white; 
-            padding: 3px; 
-            font-size: 12px;
-            backdrop-filter: blur(4px);
-            -webkit-backdrop-filter: blur(4px);
-        &#34;&gt;
-            ?
-        &lt;/div&gt;
-        
-        
-        
-            &lt;/a&gt;
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
-        
-        
-        &lt;div style=&#34;
-            position: absolute; 
-            bottom: 10px; 
-            left: 0; 
-            right: 0; 
-            background-color: rgba(0,0,0,0.3); 
-            color: white; 
-            padding: 3px; 
-            font-size: 12px;
-            backdrop-filter: blur(4px);
-            -webkit-backdrop-filter: blur(4px);
-        &#34;&gt;
-            ?
         &lt;/div&gt;
         
         
@@ -1414,6 +1291,311 @@
             -webkit-backdrop-filter: blur(4px);
         &#34;&gt;
             Jean-Claude Magnum
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h5 id=&#34;wicked-arc&#34;&gt;Wicked Arc
+&lt;/h5&gt;&lt;div style=&#34;display: flex; justify-content: center; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Yako Tenma
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Gekko Tenma
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Richie Merced
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Scott Depre
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Card Professors
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; justify-content: center; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Dartz
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Rafael
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Valon
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Amelda
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;#&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;140&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Gurimo
         &lt;/div&gt;
         
         
@@ -12881,7 +13063,7 @@
             backdrop-filter: blur(4px);
             -webkit-backdrop-filter: blur(4px);
         &#34;&gt;
-            ?
+            Graveyard of Souls
         &lt;/div&gt;
         
         
@@ -12911,7 +13093,7 @@
             backdrop-filter: blur(4px);
             -webkit-backdrop-filter: blur(4px);
         &#34;&gt;
-            ?
+            Dominion of the Beasts
         &lt;/div&gt;
         
         
@@ -13267,7 +13449,10 @@
 &lt;li&gt;&amp;ldquo;The Art of Egypt&amp;rdquo; exhibition takes place in the Domino City Museum. Shadi&amp;rsquo;s spirit tests Yugi in a duel. Ishizu meets Kaiba, gives him an Egyptian God card, and a few days later she also meets Yugi. She gives both of them knowledge about the past using the old stone tablets and her Millennium Item.&lt;/li&gt;
 &lt;li&gt;Bakura, Ishizu and Shadi clash at the Domino City Museum.&lt;/li&gt;
 &lt;li&gt;The Battle City tournament happens (duration 3 days). Marik defeats Bakura and takes his Millennium Items (Ring and Eye). Ishizu gives Yugi her Millennium Tauk. Yugi later defeats Marik and takes his Millennium Items (Rod, Ring and Eye). He also now has the Egyptian God cards and the knowledge of the Pharaoh passed down through generation of Gravekeepers. Yugi now has all the Millennium Items minus the Scales and the Key.&lt;/li&gt;
-&lt;li&gt;?&lt;/li&gt;
+&lt;li&gt;Yako Tenma and his card professors kidnap Anzu and storm Kaiba Corporation building, luring Yugi to duel them in order to heal Pegasus from a comatose state by using Anzu&amp;rsquo;s body as a conduit. They fail, but Pegasus manages to come back after all.&lt;/li&gt;
+&lt;li&gt;Dartz, leader of the Doma organization, attacks Duelist Kingdom, defeats the Tenma brothers and creates &amp;ldquo;Seal of Orichalcos&amp;rdquo; cards. He then dispatch his duelists to capture souls all over the world using those cards.&lt;/li&gt;
+&lt;li&gt;Pegasus invites Yugi and his friends to San Francisco, USA, asking for their help. However his soul is captured by Mai before they arrive, who is working under Dartz orders. Yugi and his friends clash with the members of the Doma organization. During those battles, Yugi, Jonouchi and Kaiba enter for the first time to the Duel Monsters Spirit World in order to free the Legendary Dragons in the Domain of the Beasts.&lt;/li&gt;
+&lt;li&gt;The confrontations between the two groups lead to a final battle between Yugi and Kaiba versus Dartz that they manage to win, foiling his plans.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;

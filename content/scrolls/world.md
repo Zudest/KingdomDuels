@@ -32,8 +32,8 @@ toc = true
 ## Locations in the Spirit World
 
 <div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Graveyard of Souls" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" link="#" caption="Dominion of the Beasts" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}
 {{< imagetext src="/img/storyimg/00.png" link="#" caption="?" width="140" >}}

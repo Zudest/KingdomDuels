@@ -122,10 +122,10 @@ Each Terrain Marker states which type and/or attribute (if any) gains the Field 
 Broadly speaking there are four main types of cards in this game you have to be mindful of, which are: **Rules**, **Monsters**, **Spells**, **Traps**.
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/30.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/28.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/28.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/21.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/071.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/023.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/107.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg" alt="" width="170" >}}
 </div>
 
 ---
@@ -139,9 +139,9 @@ Rule Cards have effects or mechanics that are added on to the current game **rul
 Rule Cards may be one of the following types: **Normal**, **Setup** or **Symbol**.
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/30.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/11.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/01.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/071.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/109.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/156.jpg" alt="" width="170" >}}
 </div>
 
 > → **Normal Rule Cards**
@@ -177,15 +177,15 @@ They represent objects or powers from the anime that can interfere in the duel i
 Cards used for an Extra Deck monster summon are considered "**Materials**" of that card type (for example Fusion Materials or Ritual Materials).
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/28.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/NFW/45.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/09.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/023.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/105.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/071.jpg" alt="" width="170" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/50.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/NFW/16.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/22.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/087.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/129.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/101.jpg" alt="" width="170" >}}
 </div>
 
 ### 🌀 Fusion Monster Cards
@@ -239,10 +239,10 @@ A monster equipped to another monster is still treated as a monster on the field
 ## 🔮 Spell and Trap Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/28.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/25.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/21.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CHT/23.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/107.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/020.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/102.jpg" alt="" width="170" >}}
 </div>
 
 **Spell Cards** (green frame) and **Trap Cards** (pink frame) are placed in the Main Deck. They have Attributes like Monster Cards, and may be one of the following types: **Normal**, **Equip**, **Continuous**. They are all activated as Quick Effects unless they have the **Slow** type.
@@ -262,9 +262,9 @@ If the player **does not** activate a trap card when its Trigger is met then the
 ### 🌈 Combination Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TSC/26.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/52.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/31.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/086.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/066.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/125.jpg" alt="" width="170" >}}
 </div>
 
 There are a few Main Deck cards that have a **combination of two colors** in their frame. These cards are considered as having both their card types at the same time (and can be affected by cards targeting either of those types, for example). 
@@ -275,9 +275,9 @@ They are **Spell Monsters**, **Trap Monsters** and **Spell Traps**. You can usua
 ### 📿 Divine Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/30.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/CGU/43.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/FTP/64.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/001.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/002.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/003.jpg" alt="" width="170" >}}
 </div>
 
 **Divine** is a special Type of cards. Each Divine card is color-coded individually, meaning that it can have the frame color of its card type (main deck monster, fusion monster, spell, etc.) or a different color entirely. Divine cards have a special mechanic unique to them called "Hierarchy":
