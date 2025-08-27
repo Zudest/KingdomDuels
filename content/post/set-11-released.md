@@ -1,6 +1,6 @@
 +++
 date = '2025-03-29T21:18:26-03:00'
-title = "Set 11 [Body Snatchers] is here!"
+title = "Set [Body Snatchers] is here!"
 categories = ['Set Release']
 image = "/img/post/post0023.jpg"
 toc = false

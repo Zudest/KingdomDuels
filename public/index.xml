@@ -136,37 +136,32 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
     &gt;Tabletop Simulator in Steam&lt;/a&gt; to play it this way). You can use our &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;&lt;strong&gt;Deckbuilder&lt;/strong&gt;&lt;/a&gt; to plan your decks and import it into Tabletop Simulator later.&lt;/p&gt;
 &lt;p&gt;Otherwise you can always try the game with a &lt;strong&gt;print-and-play&lt;/strong&gt; approach, just &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/downloads/&#34; &gt;download the cards&lt;/a&gt; and print them to play with friends!&lt;/p&gt;
 &lt;h2 id=&#34;card-releases&#34;&gt;Card Releases
-&lt;/h2&gt;&lt;p&gt;In this game, cards are released to the public in sets/packs which contains roughly 40 to 70 cards. Furthermore, these Sets are also sub-divided in these categories depending on what approach they have:&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;In this game, cards are released to the public in sets/packs which contains between 150 and 250 cards. Furthermore, these Sets are also sub-divided depending on what approach they have:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Core Sets&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The original cards that showed up in the Duelist Kingdom arc of the anime (from episode 1 to 40). These are as accurate as possible to the japanese version of the anime, and let you recreate duels from that season faithfully.&lt;/li&gt;
-&lt;li&gt;They have a three-letter code, for example [SOE] or [KOD].&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Story Sets&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;These sets are based on &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/&#34; &gt;Yugioh Scrolls&lt;/a&gt; and are a representation of &lt;em&gt;&amp;ldquo;what would have happened if the anime kept going with these rules instead of the true rules?&amp;rdquo;&lt;/em&gt;. They follow duels from that story (from episode 40 onwards). It is a fan-fiction retelling that changes and adapts the story (and the cards and rules) but tries to keep the main points the same.&lt;/li&gt;
-&lt;li&gt;They also have a three-letter code, for example [LEN] or [BSN].&lt;/li&gt;
+&lt;li&gt;These sets are based on &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/&#34; &gt;Yugioh Scrolls&lt;/a&gt;, which is a fan-fiction retelling of the anime that uses Kingdom Duels rules instead of the true rules.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Expansion Sets (wip)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;These sets expand on existing mechanics and provide further support for strategies introduced in Core and Story sets. They don&amp;rsquo;t follow plot, duels or specific characters and are more flexible, being usually focused around support for specific mechanics on each set.&lt;/li&gt;
-&lt;li&gt;They have a four-digit code.&lt;/li&gt;
-&lt;li&gt;They are developed with the community, and are a way for fans to design cards for the main distribution of the game.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;They are currently in pre-planning stage.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Currently in pre-planning stage.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;These sets provide further support for existing mechanics. They don&amp;rsquo;t follow plot, duels or specific characters and are developed with the community. They are a way for fans to design cards for the main distribution of the game.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Illusory Sets (wip)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Currently in pre-planning stage.&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;These sets represent self-contained duels between characters from different yugioh series and/or even different franchises. A sort of &lt;em&gt;&amp;ldquo;What-If?&amp;rdquo;&lt;/em&gt; concept for weird and unique cards, mechanics and character interactions.&lt;/li&gt;
-&lt;li&gt;They have a four-digit code.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;They are currently in pre-planning stage.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -331,14 +326,14 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
 &lt;li&gt;If a Terrain Marker is &lt;strong&gt;replaced&lt;/strong&gt; by a new one then the old one must be set aside of the game board in no specified zone.&lt;/li&gt;
 &lt;li&gt;If a monster is somehow summoned in the backrow, it is considered to be in the same Terrain as the corresponding frontrow Monster Zone in the same column.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The &lt;strong&gt;TERRAINS&lt;/strong&gt; effect type within &lt;strong&gt;Field Setup Rule&lt;/strong&gt; cards cards define the starting Terrains that will be placed on each side of the field. If you don&amp;rsquo;t activate a TERRAINS effect during the setup of the game you are playing on the default rules and you must fill your Frontrow with 5 &amp;ldquo;Land&amp;rdquo; Terrains.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;TERRAINS&lt;/strong&gt; effect type within &lt;strong&gt;Field Setup Rule&lt;/strong&gt; cards define the starting Terrains that will be placed on each side of the field. If you don&amp;rsquo;t activate a TERRAINS effect during the setup of the game you are playing on the default rules and you must fill your Frontrow with 5 &amp;ldquo;Land&amp;rdquo; Terrains.&lt;/p&gt;
 &lt;h3 id=&#34;-field-power-bonus&#34;&gt;🏞️ Field Power Bonus
 &lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://kingdomduels.com/img/promotion/RulesFPB.jpg&#34; width=&#34;500&#34; alt=&#34;?&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/T/03.jpg&#34; width=&#34;500&#34; alt=&#34;?&#34;&gt;
         
         
         &lt;div style=&#34;
@@ -361,8 +356,8 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Field Power Bonus&amp;rdquo;&lt;/strong&gt; is a term that is used when a monster is receiving an additional ATK and DEF increase thanks to the Terrain it&amp;rsquo;s located on. The ATK/DEF gain through this effect corresponds to 30% of each monster&amp;rsquo;s original ATK/DEF and is printed on every monster card.&lt;/p&gt;
-&lt;p&gt;Each Terrain Marker states which type and/or attribute (if any) gains the Field Power Bonus and this is represented in a specific section between the Name and Effect box.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Field Power Bonus&amp;rdquo;&lt;/strong&gt; is a term that is used when a monster is receiving an additional ATK and DEF increase thanks to the Terrain it&amp;rsquo;s located on. The ATK and DEF gained through this effect corresponds to 30% of each monster&amp;rsquo;s original ATK/DEF and is printed on every monster card.&lt;/p&gt;
+&lt;p&gt;Each Terrain Marker states which type and/or attribute gains the Field Power Bonus, represented at the right side of the Attribute symbol.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-the-cards&#34;&gt;🎴 The Cards
 &lt;/h2&gt;&lt;p&gt;Broadly speaking there are four main types of cards in this game you have to be mindful of, which are: &lt;strong&gt;Rules&lt;/strong&gt;, &lt;strong&gt;Monsters&lt;/strong&gt;, &lt;strong&gt;Spells&lt;/strong&gt;, &lt;strong&gt;Traps&lt;/strong&gt;.&lt;/p&gt;
@@ -482,15 +477,12 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-monster-cards&#34;&gt;🐉 Monster Cards
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Normal Monster&lt;/strong&gt; cards (yellow frame) are placed in the Main Deck (and have effects despite being called &amp;ldquo;normal&amp;rdquo; monsters, unlike the original yugioh card game).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Extra Deck Monsters&lt;/strong&gt; (rituals, fusions, alters, integrations and tokens) have special mechanics and summoning conditions that you must fulfill to play them from the Extra Deck onto your field.&lt;/p&gt;
-&lt;p&gt;Cards used for an Extra Deck monster summon are considered &amp;ldquo;&lt;strong&gt;Materials&lt;/strong&gt;&amp;rdquo; of that card type (for example Fusion Materials or Ritual Materials).&lt;/p&gt;
-&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;/h2&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/023.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/017.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -501,7 +493,36 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/105.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/048.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/079.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Normal Monster&lt;/strong&gt; cards (yellow frame) are placed in the Main Deck (and have effects despite being called &amp;ldquo;normal&amp;rdquo; monsters, unlike the original yugioh card game).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Extra Deck Monsters&lt;/strong&gt; (rituals, fusions, alters, integrations and tokens) have special mechanics and summoning conditions that you must fulfill to play them from the Extra Deck onto your field.&lt;/p&gt;
+&lt;p&gt;Cards used for an Extra Deck monster summon are considered &amp;ldquo;&lt;strong&gt;Materials&lt;/strong&gt;&amp;rdquo; of that card type (for example Fusion Materials or Ritual Materials).&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-fusion-monster-cards&#34;&gt;🌀 Fusion Monster Cards
+&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/057.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -519,13 +540,136 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
         
     &lt;/div&gt;
 &lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/106.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
 &lt;/div&gt;
-&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Fusion Monsters&lt;/strong&gt; (purple frame) represent a combination of two or more specific monsters into one single being.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To summon a Fusion Monster you need to have the required monsters in your hand and/or field and then use a card named &amp;ldquo;Fusion&amp;rdquo;. After the Fusion Monster is summoned, you attach the corresponding Fusion Materials to it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fusion monsters are treated as having the same name as all their Fusion Materials for card effects.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;If a Fusion Material somehow enters the field as a monster while its corresponding Fusion Monster is still on the field then this new monster can&amp;rsquo;t declare an attack on the first turn it&amp;rsquo;s summoned.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-ritual-monster-cards&#34;&gt;🕯️ Ritual Monster Cards
+&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/105.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/LEN/187.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/093.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Ritual Monsters&lt;/strong&gt; (blue frame) represent sealed monsters being summoned to the battlefield by sacrificing cards in a ritual ceremony.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To summon a Ritual Monster you need to fulfil the requirements of a specific &amp;ldquo;Ritual&amp;rdquo; Spell Card listed in its summoning conditions, which usually involves tributing the corresponding Ritual Material(s) to the graveyard.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The &amp;ldquo;Ritual&amp;rdquo; Spell Card remains on the field face-up until the requirements are fulfiled or the card is destroyed. It&amp;rsquo;s controller can also send the spell card to the Graveyard at will during its Main Phase. If you fulfil a &amp;ldquo;Ritual&amp;rdquo; Spell Card that you control but not own, you must Ritual Summon the corresponding monster from the Extra Deck of the proper owner of that spell card instead of yours.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;A monster equipped to another monster is still treated as a monster on the field and therefore can be used to fulfil a Ritual Summon. This is not the case with attached monsters (unless otherwise stated).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-alter-monster-cards&#34;&gt;🧬 Alter Monster Cards
+&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
         &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/087.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/136.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/MLY/010.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Alter Monsters&lt;/strong&gt; (red frame) represent monsters that went through a transformation of some kind without merging with other monsters.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;To summon an Alter Monster you need to play a card that lets you Alter Summon a specific Type of monsters (a Type unique to Alter cards) while controlling a specific monster on the field listed in the conditions of the Alter Monster. After the Alter Monster is summoned, you attach the corresponding Alter Material to it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;In some cases an Alter Summon may require a certain amount of &amp;ldquo;Summoning Counters&amp;rdquo; placed on top of the specific Alter Material as part of its summoning condition. These counters are usually placed due to card effects, and are removed once the Alter Summon is completed or the Material is removed from the field.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;An Alter Monster is summoned on the same zone its corresponding Alter Material was, and any Equip card active on that monster is re-equipped to the new card instead (if the new target is still valid). Any attack or effect targeting the material monster now targets the new monster (if valid).&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;-integration-monster-cards&#34;&gt;🤝🏻 Integration Monster Cards
+&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/125.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -547,7 +691,7 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/101.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/133.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -555,52 +699,56 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;h3 id=&#34;-fusion-monster-cards&#34;&gt;🌀 Fusion Monster Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Fusion Monsters&lt;/strong&gt; (purple frame) represent a combination of two or more specific monsters into one single being.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Integration Monsters&lt;/strong&gt; (brown frame) represent cards that merge with the soul of the duelist that represents you as a player.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;To summon a Fusion Monster you need to have a card named &amp;ldquo;Fusion&amp;rdquo; and the required monsters in your hand and/or field, and then attach the corresponding Fusion Materials to it. Fusion monsters are treated as having the same name as all their Fusion Materials for card effects.&lt;/p&gt;
+&lt;p&gt;To summon an Integration Monster you need to have played a specific Duelist Setup Rule card at the beginning of the game (marked in the summoning condition with curly brackets) and Erode from your hand or field the other Material(s) listed on the card.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;If a Fusion Material somehow enters the field as a monster while its corresponding Fusion Monster is still on the field then this new monster can&amp;rsquo;t declare an attack on the first turn it&amp;rsquo;s summoned.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-ritual-monster-cards&#34;&gt;🕯️ Ritual Monster Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Ritual Monsters&lt;/strong&gt; (blue frame) represent sealed monsters being summoned to the battlefield by sacrificing cards in a ritual ceremony.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To summon a Ritual Monster you need to fulfill the requirements of a specific Spell Card listed in its summoning conditions, and then send the corresponding Ritual Materials to the graveyard.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The spell card used to Ritual Summon usually remains on the field face-up until the ritual requirements are successfully fulfilled or the card is destroyed. The controller of that spell card can also send it to the Graveyard at will during its Main Phase.
-A monster equipped to another monster is still treated as a monster on the field and therefore can be used to fulfil a Ritual Summon. This is not the case with attached monsters (unless otherwise stated).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-alter-monster-cards&#34;&gt;🔃 Alter Monster Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Alter Monsters&lt;/strong&gt; (red frame) represent monsters that went through a transformation of some kind without merging with other monsters.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To summon an Alter Monster you need to play a card that lets you Alter Summon the specific Type while controlling a specific monster on the field listed in the conditions of the Alter Monster, and then attach the corresponding Alter Materials to it.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;In some cases an Alter Summon may require a certain amount of &amp;ldquo;Summoning Counters&amp;rdquo; placed on top of the specific Alter Material as part of its summoning condition. These counters are usually placed due to card effects, and are removed once the Alter Summon is completed or the Material is removed from the field.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;An Alter Monster is summoned on the same zone its corresponding Alter Material was, and any Equip card active on that monster is re-equipped to the new card instead (if the new target is still valid). Any attack or effect targeting the material monster now targets the new monster (if valid).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-integration-monster-cards&#34;&gt;🧍 Integration Monster Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Integration Monsters&lt;/strong&gt; (brown frame) represent cards that merge with the duelist that represents you as a player.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To summon an Integration Monster you need to have had played a specific Duelist Setup Rule card at the beginning of the game (marked in the summon condition with curly brackets) and Erode from your hand or field the other Material(s) listed on the card.&lt;/p&gt;
+&lt;p&gt;Integration monsters are treated as having the same name as their Integration Materials for card effects.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;If you want to summon in Hidden ATK or Hidden DEF Position an Integration Summon you are not forced to reveal the eroded material card right away, but when you erode it you must set it clearly apart from other cards, and once your monster is revealed or the duel ends you must reveal that the eroded card was the proper material, otherwise you lose the duel instead.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
+&lt;hr&gt;
 &lt;h3 id=&#34;-token-monster-cards&#34;&gt;🀄 Token Monster Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Token Monsters&lt;/strong&gt; (grey frame) represent constructs or monsters temporarily created through magic.&lt;/p&gt;
+&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/101.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/011.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/149.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Token Monsters&lt;/strong&gt; (grey frame) represent artificial constructs or ephemeral monsters that are being maintained on the battlefield through magic.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;To summon a Token Monster you need a card in play that specifically lets you to do so.&lt;/p&gt;
@@ -703,7 +851,7 @@ A monster equipped to another monster is still treated as a monster on the field
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;There are a few Main Deck cards that have a &lt;strong&gt;combination of two colors&lt;/strong&gt; in their frame. These cards are considered as having both their card types at the same time (and can be affected by cards targeting either of those types, for example).&lt;/p&gt;
+&lt;p&gt;There are a few Main Deck cards that have a &lt;strong&gt;combination of two colors&lt;/strong&gt; in their frame. These cards are considered as having both their card types at the same time (and can be affected by cards targeting either of those types).&lt;/p&gt;
 &lt;p&gt;They are &lt;strong&gt;Spell Monsters&lt;/strong&gt;, &lt;strong&gt;Trap Monsters&lt;/strong&gt; and &lt;strong&gt;Spell Traps&lt;/strong&gt;. You can usually choose to play them as one card type or the other. Each card specifies how to play them with a &amp;ldquo;Play&amp;rdquo; condition on its text.&lt;/p&gt;
 &lt;h3 id=&#34;-divine-cards&#34;&gt;📿 Divine Cards
 &lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
@@ -4083,12 +4231,12 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Set 14 [Spirit of the Puzzle] is here!</title>
+        <title>Set [Spirit of the Puzzle] is here!</title>
         <link>https://kingdomduels.com/post/set-14-released/</link>
         <pubDate>Sun, 15 Jun 2025 14:20:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/set-14-released/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0028.jpg" alt="Featured image of post Set 14 [Spirit of the Puzzle] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Spirit of the Puzzle&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-06-15.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0028.jpg" alt="Featured image of post Set [Spirit of the Puzzle] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Spirit of the Puzzle&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-06-15.&lt;/p&gt;
 &lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Codename: [SPZ]&lt;/li&gt;
@@ -4114,12 +4262,12 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Set 13 [Millennium Legacy] is here!</title>
+        <title>Set [Millennium Legacy] is here!</title>
         <link>https://kingdomduels.com/post/set-13-released/</link>
         <pubDate>Sun, 18 May 2025 13:50:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/set-13-released/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0027.jpg" alt="Featured image of post Set 13 [Millennium Legacy] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Millennium Legacy&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-05-18.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0027.jpg" alt="Featured image of post Set [Millennium Legacy] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Millennium Legacy&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-05-18.&lt;/p&gt;
 &lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Codename: [MLY]&lt;/li&gt;
@@ -5767,12 +5915,12 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Set 12 [Facing the Past] is here!</title>
+        <title>Set [Facing the Past] is here!</title>
         <link>https://kingdomduels.com/post/set-12-released/</link>
         <pubDate>Thu, 01 May 2025 17:08:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/set-12-released/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0024.jpg" alt="Featured image of post Set 12 [Facing the Past] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Facing the Past&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-05-01.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0024.jpg" alt="Featured image of post Set [Facing the Past] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Facing the Past&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-05-01.&lt;/p&gt;
 &lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Codename: [FTP]&lt;/li&gt;
@@ -5810,12 +5958,12 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Set 11 [Body Snatchers] is here!</title>
+        <title>Set [Body Snatchers] is here!</title>
         <link>https://kingdomduels.com/post/set-11-released/</link>
         <pubDate>Sat, 29 Mar 2025 21:18:26 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/set-11-released/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0023.jpg" alt="Featured image of post Set 11 [Body Snatchers] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Body Snatchers&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-03-29.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0023.jpg" alt="Featured image of post Set [Body Snatchers] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Body Snatchers&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-03-29.&lt;/p&gt;
 &lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Codename: [BSN]&lt;/li&gt;
@@ -5827,12 +5975,12 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Set 10 [Virtual Nightmare] is here!</title>
+        <title>Set [Virtual Nightmare] is here!</title>
         <link>https://kingdomduels.com/post/set-10-released/</link>
         <pubDate>Sat, 04 Jan 2025 21:09:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/set-10-released/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0022.jpg" alt="Featured image of post Set 10 [Virtual Nightmare] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Virtual Nightmare&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-01-04.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0022.jpg" alt="Featured image of post Set [Virtual Nightmare] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Virtual Nightmare&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2025-01-04.&lt;/p&gt;
 &lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Codename: [VIN]&lt;/li&gt;
@@ -5860,12 +6008,12 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Set 9 [Dungeon of Luck] is here!</title>
+        <title>Set [Dungeon of Luck] is here!</title>
         <link>https://kingdomduels.com/post/set-09-released/</link>
         <pubDate>Wed, 11 Dec 2024 20:14:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/set-09-released/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0003.jpg" alt="Featured image of post Set 9 [Dungeon of Luck] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Dungeon of Luck&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-11.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0003.jpg" alt="Featured image of post Set [Dungeon of Luck] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Dungeon of Luck&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-11.&lt;/p&gt;
 &lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Codename: [DOL]&lt;/li&gt;
@@ -5878,12 +6026,12 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Set 8 [Loose Ends] is here!</title>
+        <title>Set [Loose Ends] is here!</title>
         <link>https://kingdomduels.com/post/set-08-released/</link>
         <pubDate>Sun, 01 Dec 2024 15:43:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/set-08-released/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0004.jpg" alt="Featured image of post Set 8 [Loose Ends] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Loose Ends&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-01.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0004.jpg" alt="Featured image of post Set [Loose Ends] is here!" /&gt;&lt;p&gt;&lt;strong&gt;Loose Ends&lt;/strong&gt; is the new set that has been released in Kingdom Duels on 2024-12-01.&lt;/p&gt;
 &lt;h4 id=&#34;breakdown&#34;&gt;Breakdown
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Codename: [LEN]&lt;/li&gt;
@@ -22825,482 +22973,6 @@ Kingdom Duels Fanmade Artwork:
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-</description>
-        </item>
-        <item>
-        <title>Rules Old</title>
-        <link>https://kingdomduels.com/rules-old/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://kingdomduels.com/rules-old/</guid>
-        <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the Yugioh anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;-getting-started&#34;&gt;📄 Getting Started
-&lt;/h2&gt;&lt;h3 id=&#34;-about&#34;&gt;📝 About
-&lt;/h3&gt;&lt;p&gt;Kingdom Duels is a turn-based competitive card game that is normally played by 2 players. The main way to win at this game is to reduce your opponent&amp;rsquo;s Life Points (LP) to 0.&lt;/p&gt;
-&lt;h3 id=&#34;-the-game-board&#34;&gt;🗺️ The Game Board
-&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-            &lt;a href=&#34;https://kingdomduels.com/img/promotion/RulesField.jpg&#34; style=&#34;text-decoration: none;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://kingdomduels.com/img/promotion/RulesField.jpg&#34; width=&#34;720&#34; alt=&#34;?&#34;&gt;
-        
-        
-        
-        
-            &lt;/a&gt;
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;This game is played on a board that is divided into several card zones. It has a &lt;strong&gt;Frontrow&lt;/strong&gt; (five card zones where you play your monsters) and a &lt;strong&gt;Backrow&lt;/strong&gt; (five card zones where you play spell and traps). These two concepts (Frontrow and Backrow) together establish &lt;em&gt;&amp;ldquo;your Field&amp;rdquo;&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;The other four zones of the board are outside of &lt;em&gt;your Field&lt;/em&gt; and serve different purposes: the &lt;strong&gt;Rule Zone&lt;/strong&gt; is where you play rule cards; the &lt;strong&gt;Graveyard&lt;/strong&gt; is where you discard cards after use; the &lt;strong&gt;Main Deck Zone&lt;/strong&gt; is where you have your deck of cards; and the &lt;strong&gt;Extra Deck Zone&lt;/strong&gt; is where you may have a secondary deck of cards.&lt;/p&gt;
-&lt;p&gt;Your opponent has the exact same board setup as you, with their own Frontrow, Backrow, etc.&lt;/p&gt;
-&lt;h3 id=&#34;-setup&#34;&gt;🧭 Setup
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Each player begins the Duel with &lt;strong&gt;2000 Life Points&lt;/strong&gt; (LP).&lt;/li&gt;
-&lt;li&gt;Each player needs a &lt;strong&gt;Main Deck&lt;/strong&gt; with exactly 30 cards and an &lt;strong&gt;Extra Deck&lt;/strong&gt; with up to 20 cards.&lt;/li&gt;
-&lt;li&gt;Before the duel starts a &lt;strong&gt;Setup Phase&lt;/strong&gt; occurs:
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;(1)&lt;/strong&gt;: Each player place their shuffled Main Deck and Extra Deck in their corresponding zones.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;(2)&lt;/strong&gt;: Each player can activate &lt;strong&gt;Setup Rule&lt;/strong&gt; card(s) that they may have in their Extra Deck.
-&lt;ul&gt;
-&lt;li&gt;To activate them the player moves the Setup Rule from their Extra Deck into their Rule Zone (for example a Duelist Setup may enable some specific cards to add to their hand, or a Field Setup may define specific Terrains that benefit their strategy).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;(3)&lt;/strong&gt;: The starting Terrains are placed in each side of the field.
-&lt;ul&gt;
-&lt;li&gt;If a player didn&amp;rsquo;t play a Field Setup card, they must use 5 &amp;ldquo;Land&amp;rdquo; Terrains.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;(4)&lt;/strong&gt;: Players then decide who goes first (by coin toss, rock-paper-scissors, etc.)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;(5)&lt;/strong&gt;: They draw their initial &lt;strong&gt;5 cards&lt;/strong&gt;.
-&lt;ul&gt;
-&lt;li&gt;At this point, if a player played a &amp;ldquo;Duelist Setup&amp;rdquo; Rule card, they may swap up to 2 cards from their starting hand with card(s) in the &amp;ldquo;Cardlist&amp;rdquo; of that Duelist Setup, and then shuffle their deck.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;(6)&lt;/strong&gt;: The duel begins.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-turn-structure&#34;&gt;⚙️ Turn Structure
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://kingdomduels.com/img/promotion/RulesPhases.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Draw Phase → Standby Phase → Main Phase 1 → Battle Phase → Main Phase 2 → End Phase&lt;/em&gt;&lt;/p&gt;
-&lt;h4 id=&#34;-draw-clarifications&#34;&gt;✋ Draw Clarifications
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;During its Draw Phase, a player draws 1 card from their deck (even in the first turn).&lt;/li&gt;
-&lt;li&gt;There is no hand size limit, a player can have any number of cards in their hand.&lt;/li&gt;
-&lt;li&gt;If you add cards from (or to) your Deck (outside of drawing them from the top) you must shuffle the Deck afterwards unless otherwise stated.&lt;/li&gt;
-&lt;li&gt;If a player can&amp;rsquo;t draw cards from its Deck then that player loses the duel by deckout.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;-main-phase-clarifications&#34;&gt;📌 Main Phase Clarifications
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;Monsters in this game must be &amp;ldquo;summoned&amp;rdquo; to the field in a &amp;ldquo;Monster Zone&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;During your turn you can perform &lt;strong&gt;one&lt;/strong&gt; Normal Summon and any number of Special Summons (which are enabled through card effects).&lt;/li&gt;
-&lt;li&gt;You can Normal Summon in &lt;strong&gt;face-up ATK&lt;/strong&gt; or &lt;strong&gt;face-up DEF&lt;/strong&gt; Position Normal monsters from your Main Deck of &lt;strong&gt;any&lt;/strong&gt; Level without tributing.&lt;/li&gt;
-&lt;li&gt;Monsters can be in ATK Position (upright) or in DEF Position (sideways). The other card types (Spell, Traps and Rules) are always in upright position.&lt;/li&gt;
-&lt;li&gt;You &lt;strong&gt;can&amp;rsquo;t Set monsters face-down&lt;/strong&gt; in this game. Instead you can &lt;strong&gt;Hide&lt;/strong&gt; a monster (or &lt;strong&gt;Summon in Hidden position&lt;/strong&gt;) in face-down ATK or face-down DEF position but only if there is an effect that allows you to do so. Monsters with the &lt;strong&gt;FLIP&lt;/strong&gt; keyword can be summoned in Hidden DEF position in any terrain that they can be summoned on.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Monsters Hidden in DEF&lt;/strong&gt; Position work exactly like face-down DEF position in the official rules. &lt;strong&gt;Monsters Hidden in ATK&lt;/strong&gt; Position are revealed during combat, but can be hidden once again after battle calculations if they are still on the field.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;-battle-clarifications&#34;&gt;⚔️ Battle Clarifications
-&lt;/h4&gt;&lt;ul&gt;
-&lt;li&gt;You &lt;strong&gt;can&amp;rsquo;t&lt;/strong&gt; attack your opponent&amp;rsquo;s LP directly.&lt;/li&gt;
-&lt;li&gt;Only &lt;strong&gt;one monster&lt;/strong&gt; can declare an attack on each Battle Phase.&lt;/li&gt;
-&lt;li&gt;Only ATK Position monsters can attack. The difference between ATK values is inflicted to the LP of the monster with the lowest amount of ATK as &amp;ldquo;&lt;strong&gt;Battle Damage&lt;/strong&gt;&amp;rdquo;. DEF Position monsters protect your LP from attacks.&lt;/li&gt;
-&lt;li&gt;Attacks can be &lt;strong&gt;redirected&lt;/strong&gt; from one target to another. If an attack is redirected then it is now treated as an opponent attack, even during your own Battle Phase, but its source is still considered to be the original monster.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-components-of-a-card&#34;&gt;🗒️ Components of a Card
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://kingdomduels.com/img/promotion/RulesCardComponents.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Grade Symbol&lt;/strong&gt;: The grade or &amp;ldquo;main icon&amp;rdquo; of a card in the top right corner provides specific information about how that card is played. It varies from card type and card subtype:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Levels&lt;/strong&gt;: Numbers from 1 to 12 on top of an orange and yellow star-pattern icon.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Glyphs&lt;/strong&gt;: Brown and white icons with unique symbols for Normal, Equip, Continuous and Setup.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Charges&lt;/strong&gt;: Numbers on top of a dark purple icon, exclusive to Symbol Rule Cards.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Types&lt;/strong&gt;: Is a categorization of specific words that a card may have, separated by a vertical bar. They don&amp;rsquo;t provide effects on their own but are used for multiple cards and effects.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Attribute Symbol&lt;/strong&gt;: Can be one of the six attributes (DARK, LIGHT, FIRE, WATER, EARTH, WIND) from the original game (minus DIVINE). All cards have an attribute including spell and traps.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Effect Box&lt;/strong&gt;: The effect box details what the card actually does. Some cards have a dark arrow icon (►) which is used to split the condition required to activate it and the actual effect. An empty square icon (□) is used to make a list of options that a player may choose for the effect.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ATK/DEF&lt;/strong&gt;: Monsters have these values on top of each other marked with small icons of a sword (for ATK) and a shield (for DEF).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Field Power Bonus&lt;/strong&gt;: This is a numeric value with the plus sign near the ATK/DEF that indicates how much ATK/DEF the monster gets when is receiving a field power bonus.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-terrain-markers&#34;&gt;⛰️ Terrain Markers
-&lt;/h2&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-            &lt;a href=&#34;https://kingdomduels.com/img/promotion/RulesFieldTerrain.jpg&#34; style=&#34;text-decoration: none;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://kingdomduels.com/img/promotion/RulesFieldTerrain.jpg&#34; width=&#34;720&#34; alt=&#34;?&#34;&gt;
-        
-        
-        &lt;div style=&#34;
-            position: absolute; 
-            bottom: 10px; 
-            left: 0; 
-            right: 0; 
-            background-color: rgba(0,0,0,0.3); 
-            color: white; 
-            padding: 3px; 
-            font-size: 12px;
-            backdrop-filter: blur(4px);
-            -webkit-backdrop-filter: blur(4px);
-        &#34;&gt;
-            Example of a field with 5 Forest Terrains and two monsters Hidden (face-down), one in ATK and one in DEF.
-        &lt;/div&gt;
-        
-        
-        
-            &lt;/a&gt;
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;On top of each Monster Zone in the Frontrow there will be a &lt;strong&gt;&amp;ldquo;Terrain Marker&amp;rdquo;&lt;/strong&gt; (also called &lt;strong&gt;Terrains&lt;/strong&gt;) that may give different effects to the monster card placed on top of it. They are components that recreate the diverse terrain effects of the anime, are not considered cards and are associated to the Monster Zone directly beneath them.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;If a Terrain Marker is &lt;strong&gt;replaced&lt;/strong&gt; by a new one then the old one must be set aside of the game board in no specified zone.&lt;/li&gt;
-&lt;li&gt;If a monster is somehow summoned in the backrow, it is considered to be in the same Terrain as the corresponding frontrow Monster Zone in the same column.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Field Setup Rule&lt;/strong&gt; cards define the starting Terrains that will be placed on each side of the field. If you don&amp;rsquo;t play a Field Setup Rule card during the setup of the game you are playing on the default rules and you must fill your Frontrow with &amp;ldquo;Land&amp;rdquo; Terrains.&lt;/p&gt;
-&lt;h3 id=&#34;-field-power-bonus&#34;&gt;🏞️ Field Power Bonus
-&lt;/h3&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://kingdomduels.com/img/promotion/RulesFPB.jpg&#34; width=&#34;500&#34; alt=&#34;?&#34;&gt;
-        
-        
-        &lt;div style=&#34;
-            position: absolute; 
-            bottom: 10px; 
-            left: 0; 
-            right: 0; 
-            background-color: rgba(0,0,0,0.3); 
-            color: white; 
-            padding: 3px; 
-            font-size: 12px;
-            backdrop-filter: blur(4px);
-            -webkit-backdrop-filter: blur(4px);
-        &#34;&gt;
-            In this example: &amp;#39;Beast&amp;#39;, &amp;#39;Insect&amp;#39; and &amp;#39;Plant monster types gain the Field Power Bonus.
-        &lt;/div&gt;
-        
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Field Power Bonus&amp;rdquo;&lt;/strong&gt; is a term that is used when a monster is receiving an additional ATK and DEF increase thanks to the Terrain it&amp;rsquo;s located on. The ATK/DEF gain through this effect corresponds to 30% of each monster&amp;rsquo;s original ATK/DEF and is printed on every monster card.&lt;/p&gt;
-&lt;p&gt;Each Terrain Marker states which type and/or attribute (if any) gains the Field Power Bonus and this is represented in a specific section between the Name and Effect box.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-the-cards&#34;&gt;🎴 The Cards
-&lt;/h2&gt;&lt;h3 id=&#34;-rule-cards&#34;&gt;📜 Rule Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Rule Cards&lt;/strong&gt; (light green frame) are placed in the Extra Deck and can only be played into the Rule Zone. If they leave the Rule Zone they go back to the Extra Deck.&lt;/p&gt;
-&lt;p&gt;Rule Cards have effects or mechanics that are added on to the current game &lt;strong&gt;ruleset&lt;/strong&gt; for as long as that Rule Card is active on the Rule Zone. These effects cannot be negated and there is no limit to the amount of cards that can be played in your Rule Zone. They may have one of the following types: &lt;strong&gt;Normal&lt;/strong&gt;, &lt;strong&gt;Setup&lt;/strong&gt; (Game, Field, Duelist, Challenge), &lt;strong&gt;Symbol&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Normal Rule Cards&lt;/strong&gt; (they simply say &amp;ldquo;Rule&amp;rdquo; in their Type) have two different ways they can be activated:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;If they have a &amp;ldquo;&lt;strong&gt;KEYWORD&lt;/strong&gt;:&amp;rdquo; condition, they can be activated from your Extra Deck into the Rule Zone whenever you have a face-up card in the field that has a Keyword (a Type or Attribute either in the card or mentioned in the card effect) that matches its activation condition (this is a Quick Effect unless otherwise stated).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If they have a &amp;ldquo;&lt;strong&gt;RELIANCE&lt;/strong&gt;:&amp;rdquo; condition, it means that they can only be activated by the effect of a specific card listed there. If the card that activated it leaves the field then this card also leaves the field (unless it specifies that the Reliance is on activation only).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Setup Rule Cards&lt;/strong&gt; are a subset of Rule cards that can only be played during the Setup Phase before the start of a duel, and each have a different treatment depending on its type:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;→ &lt;strong&gt;Game Setup Rule Cards&lt;/strong&gt; are large changes that modify the entire game in a big way. They must be unanimously agreed by all duelist to be activated during the Setup Phase. Only one Game Setup Rule may be active at once between all players.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;→ &lt;strong&gt;Field Setup Rule Cards&lt;/strong&gt; are used to declare the 5 starting Terrain Markers you control. They are specified in a &amp;ldquo;Terrains&amp;rdquo; list, marking their positions from left to right in your side of the field.
-If both players agree they can play &amp;ldquo;Matched&amp;rdquo; Field Setup Rule cards, that have the same name but different setup (for example blue side and red side). You may only play one Field Setup per duel.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;→ &lt;strong&gt;Duelist Setup Rule Cards&lt;/strong&gt; are a representation of a Duelist from the anime you are playing as. Duelist Setup cards have a &amp;ldquo;Cardlist&amp;rdquo; which contains card(s) that can ignore the Restricted List during Deckbuilding. They also allow you to manipulate your hand during the Setup Phase. You may only play one Duelist Setup per duel.
-In the Setup Phase, after drawing their starting hand, a player may choose to replace up to 2 of those starting cards with any card listed in the Cardlist (the card must be revealed when being added to the hand, and a player can only add one individual copy of a different card this way).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;→ &lt;strong&gt;Challenge Setup Rule Cards&lt;/strong&gt; are completely optional and are a way to set some self-limits for yourself during deckbuilding by having to follow the specific restrictions that the card itself defines.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Symbol Rule Cards&lt;/strong&gt; represent objects or powers from the anime that can interfere in the duel (like the Millennium Items). They are optional to the duel, meaning that all players must unanimously agree if they want to play with them or not before the duel starts (they can also agree to let observers of the duel activate their symbol cards to influence the duel). You may only play one Symbol Rule Card per duel.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;They work with a &amp;ldquo;charge&amp;rdquo; system which means that activating their effects (that are Quick Effects unless otherwise stated) consume a certain amount of charges that the card must have or they cannot be activated.&lt;/li&gt;
-&lt;li&gt;Symbol Effects have a flavor name for each effect which has no impact on the gameplay.&lt;/li&gt;
-&lt;li&gt;A player can only activate one of their Symbol effects per round.&lt;/li&gt;
-&lt;li&gt;Symbol Rule Cards must be played to the Rule Zone during your Main Phase first (as a Slow Effect unless otherwise stated), before being able to activate the effects.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-monster-cards&#34;&gt;🐉 Monster Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Normal Monster&lt;/strong&gt; cards (yellow frame) are placed in the Main Deck (and have effects despite being called &amp;ldquo;normal&amp;rdquo; monsters, unlike the original yugioh card game).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Extra Deck Monsters&lt;/strong&gt; (rituals, fusions, alters and integrations) have special mechanics and summoning conditions that you must fulfill to play them from the Extra Deck onto your field.&lt;/p&gt;
-&lt;p&gt;Cards used for an Extra Deck monster summon are considered &amp;ldquo;&lt;strong&gt;Materials&lt;/strong&gt;&amp;rdquo; of that card type (for example Fusion Materials or Ritual Materials).&lt;/p&gt;
-&lt;h4 id=&#34;-fusion-monster-cards&#34;&gt;🌀 Fusion Monster Cards
-&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Fusion Monsters&lt;/strong&gt; (purple frame) represent a combination of two or more specific monsters into one single being.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To summon a Fusion Monster you need to have a card named &amp;ldquo;Fusion&amp;rdquo; and the required monsters in your hand and/or field, and then attach the corresponding Fusion Materials to it.
-Fusion monsters are treated as having the same name as all their Fusion Materials for card effects.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If a Fusion Material somehow enters the field as a monster while its corresponding Fusion Monster is still on the field then this new monster can&amp;rsquo;t declare an attack on the first turn it&amp;rsquo;s summoned.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;-ritual-monster-cards&#34;&gt;🕯️ Ritual Monster Cards
-&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Ritual Monsters&lt;/strong&gt; (blue frame) represent sealed monsters being summoned to the battlefield by sacrificing cards in a ritual ceremony.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To summon a Ritual Monster you need to fulfill the requirements of a specific Spell Card listed in its summoning conditions, and then send the corresponding Ritual Materials to the graveyard.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;The spell card used to Ritual Summon usually remains on the field face-up until the ritual requirements are successfully fulfilled or the card is destroyed. The controller of that spell card can also send it to the Graveyard at will during its Main Phase.
-A monster equipped to another monster is still treated as a monster on the field and therefore can be used to fulfil a Ritual Summon. This is not the case with attached monsters (unless otherwise stated).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;-alter-monster-cards&#34;&gt;🔃 Alter Monster Cards
-&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Alter Monsters&lt;/strong&gt; (red frame) represent monsters that went through a transformation of some kind without merging with other monsters.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To summon an Alter Monster you need to play a card that lets you Alter Summon the specific Type while controlling a specific monster on the field listed in the conditions of the Alter Monster, and then attach the corresponding Alter Materials to it.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;In some cases an Alter Summon may require a certain amount of &amp;ldquo;Summoning Counters&amp;rdquo; placed on top of the specific Alter Material as part of its summoning condition. These counters are usually placed due to card effects, and are removed once the Alter Summon is completed or the Material is removed from the field.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;An Alter Monster is summoned on the same zone its corresponding Alter Material was, and any Equip card active on that monster is re-equipped to the new card instead (if the new target is still valid). Any attack or effect targeting the material monster now targets the new monster (if valid).&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&#34;-integration-monster-cards&#34;&gt;🧍 Integration Monster Cards
-&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Integration Monsters&lt;/strong&gt; (brown frame) represent cards that merge with the duelist that represents you as a player.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;To summon an Integration Monster you need to have had played a specific Duelist Setup Rule card at the beginning of the game (marked in the summon condition with curly brackets) and Erode from your hand or field the other Material(s) listed on the card.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;If you want to summon in Hidden ATK or Hidden DEF Position an Integration Summon you are not forced to reveal the eroded material card right away, but when you erode it you must set it clearly apart from other cards, and once your monster is revealed or the duel ends you must reveal that the eroded card was the proper material, otherwise you lose the duel instead.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;-spell-and-trap-cards&#34;&gt;🔮 Spell and Trap Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Spell Cards&lt;/strong&gt; (green frame) and &lt;strong&gt;Trap Cards&lt;/strong&gt; (pink frame) are placed in the Main Deck. They have Attributes like Monster Cards, and may be one of the following types: &lt;strong&gt;Normal&lt;/strong&gt;, &lt;strong&gt;Equip&lt;/strong&gt;, &lt;strong&gt;Continuous&lt;/strong&gt;. They are all Quick Effects except Equip Spells and Continuous Spells which are Slow Effects.&lt;/p&gt;
-&lt;p&gt;Spell Cards can be activated from the hand or from the field (if they were Set face down) while Trap Cards must be Set face down in the backrow first for a turn before being able to be activated.&lt;/p&gt;
-&lt;p&gt;Trap Cards have a &amp;ldquo;&lt;strong&gt;Trigger&lt;/strong&gt;&amp;rdquo; condition which indicates that the card effect is automatically activated when that trigger is met (the player has no control over this activation). If the card says that the Trigger is &amp;ldquo;None&amp;rdquo; then you can activate the card at will as long as you are able to.&lt;/p&gt;
-&lt;p&gt;If the player &lt;strong&gt;does not&lt;/strong&gt; activate a trap card when its Trigger is met then the player gets an Idle Warning. If there are multiple of your traps on the field whose conditions are met at the same time: you can choose how many of them to activate (min. 1) without getting an Idle Warning.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Continuous Trap Cards&lt;/strong&gt; with &amp;ldquo;Triggers&amp;rdquo; can be flipped face-up at any time their effect speed allows it, but the effect only activates when the Trigger is met.&lt;/p&gt;
-&lt;p&gt;Spell and Trap cards can have the auxiliary &amp;ldquo;&lt;strong&gt;Persist&lt;/strong&gt;&amp;rdquo; type that indicates that the card remains a certain amount of time in the field after its activation (how long it stays on the field is specified in parentheses alongside the Persist type).&lt;/p&gt;
-&lt;h3 id=&#34;-other-cards&#34;&gt;🌈 Other Cards
-&lt;/h3&gt;&lt;p&gt;There are a few Main Deck cards that have a &lt;strong&gt;combination of two colors&lt;/strong&gt; in their frame. These cards are considered as having both their card types at the same time. They are &lt;strong&gt;Spell Monsters&lt;/strong&gt;, &lt;strong&gt;Trap Monsters&lt;/strong&gt; and &lt;strong&gt;Spell Traps&lt;/strong&gt;. You can usually choose to play them as one card type or the other. Each card specifies how to play them with a &amp;ldquo;Play&amp;rdquo; condition on its text.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Token&lt;/strong&gt; cards (gray frame) must be kept aside from the game and only brought up to the board when played by an effect. Tokens are considered Normal Monsters unless otherwise stated. Tokens can&amp;rsquo;t be attached to other cards and thus cannot be used for summoning methods that attach their materials. When Tokens leave the field they are removed from the game.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Emblem&lt;/strong&gt; cards (light yellow frame) are non-playable cards that are just symbolic.&lt;/p&gt;
-&lt;h3 id=&#34;-divine-cards&#34;&gt;📿 Divine Cards
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Divine&lt;/strong&gt; is a special Type of cards that is usually found in monster cards. Each divine card is color-coded individually, meaning that it can have the frame color of its card type (main deck monster, fusion monster, spell, etc.) or a different color entirely. They have a special mechanic called &amp;ldquo;Hierarchy&amp;rdquo;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Hierarchy&lt;/strong&gt; is a scale that goes from 1 to 10. Divine cards of higher Hierarchy are unaffected by divine card effects of lower hierarchy. All non-Divine cards are treated as having a Hierarchy of 0. Hierarchy is represented on a card as a single digit with a different font on the rightmost part of the Type line.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-terminology&#34;&gt;📃 Terminology
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Effect Speed&lt;/strong&gt; is defined as &lt;strong&gt;Slow Speed&lt;/strong&gt; and &lt;strong&gt;Quick Speed&lt;/strong&gt; (analog to Spell Speed 1 and 2 respectively, there is no Spell Speed 3). Quick Speed can respond to Slow or Quick effects, but Slow Speed can&amp;rsquo;t be used to respond to other effects.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Blue and Red&lt;/strong&gt;: Every duel has two opposing sides: Blue and Red. Players must choose which color they belong to at the beginning of the duel in the Setup Phase. Some cards reference Blue/Red Side, in which case they refer to the side controlled by the player(s) of that color. This is applicable to multiplayer rules too.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tilemap&lt;/strong&gt;: Some cards can create a &amp;ldquo;Tilemap&amp;rdquo; which means that, using the artwork of that card as a reference, they create a grid of Tiles (squares) and Obstructions (black lines) for monsters and other cards to be played in. There can only be one Tilemap in the duel at a time.
-A monster must be on a specific Terrain to be inside the Tilemap. Monsters inside a Tilemap can only move and attack within Tiles of that Tilemap. If a monster inside a Tilemap were to move or be moved by a card effect to a different Terrain it now moves to a different Tile instead.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Tiles&lt;/strong&gt;: Within a Tilemap, a Tile is a square in where a monster can be played in.
-&lt;ul&gt;
-&lt;li&gt;A monster can only occupy one Tile at a time.&lt;/li&gt;
-&lt;li&gt;A monster can move or be moved to another adjacent Tile horizontally or vertically (not in diagonal) if an effect allows it and the path between those tiles is not obstructed.&lt;/li&gt;
-&lt;li&gt;A monster can only attack other monsters that are within one unobstructed Tile from it.&lt;/li&gt;
-&lt;li&gt;A Tilemap can have Tiles of different colors with different effects, but unless otherwise stated all Tiles are White Tiles.&lt;/li&gt;
-&lt;li&gt;Red Tiles and Blue Tiles (also known as Player-colored Tiles) are controlled by the respective player(s) of that color.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Obstructions&lt;/strong&gt;: Within a Tilemap, an Obstruction is a line that separate one tile from another and prevents a monster to move through it or attack through it, unless otherwise stated. The outer limit of the Tilemap (the white space without tiles) is considered an obstruction that cannot be removed through any means.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Subduel&lt;/strong&gt;: Some cards can declare or interact with a &amp;ldquo;Subduel&amp;rdquo; which acts as a completely separate time-gated game created by an effect. It&amp;rsquo;s a game within the game. When a subduel is in place, the players must play and finish that subduel with different cards before returning to the main duel. The result of a Subduel has no meaning or effect on its own on the main duel, unless an effect says so.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Piercing Damage&lt;/strong&gt;: If a monster attacks with an ATK that is higher than the DEF of a monster in DEF Position, the attacking player inflict the difference as Battle Damage.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Destruction Damage&lt;/strong&gt;: If a monster is destroyed by a card effect that says &amp;ldquo;apply Destruction Damage&amp;rdquo;, then the controller of that monster receives damage equal to half of its ATK (this is called ‘Destruction Damage’ and is considered Effect Damage). You can&amp;rsquo;t inflict more than 1000 LP of destruction damage per turn.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Erode&lt;/strong&gt;: If a card is eroded it means that it is completely removed from play to a non-specified area (its not considered to be on the field, deck, graveyard, hand or zone).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Permanently&lt;/strong&gt;: If a card says to do something permanently it means that that action is done for the remainder of the duel, regardless if the card leaves the field or not. Players must track permanent effects at all times.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Unstoppable&lt;/strong&gt;: used in conjunction with Slow or Quick speed, if an effect is Unstoppable it means it cannot be responded by another card, and it cannot be negated.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Battle Swap&lt;/strong&gt;: change the battle position of a monster.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Battle Lock&lt;/strong&gt;: set the battle position of a monster for a number of turns (if no turn is specified then it&amp;rsquo;s permanent as long as this effect is active). Its controller cannot change its battle position normally.&lt;/p&gt;
-&lt;h3 id=&#34;-effect-types&#34;&gt;📝 Effect Types
-&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;EQUIP&lt;/strong&gt;: An equip effect is active when this card is equipping another target (usually placed in the backrow unless otherwise stated).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;ATTACH&lt;/strong&gt;: An attach effects is active as long as the card is attached to another card (which means that is placed beneath it in the same zone of the field).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;DETACH&lt;/strong&gt;: This effect is activated if you manually detach (send to the graveyard) this card while attached to another card (this is a Quick Effect unless otherwise stated).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;FLIP&lt;/strong&gt;: The effect is activated when this card is flipped face-up (either by battle, by an effect or by manually flipping the card face-up).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;COIN&lt;/strong&gt;: Toss a coin and call it. [O] means you were right on your call while [X] means you were wrong. The card itself specifies if the effect activates when you were right or wrong.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;DICE&lt;/strong&gt;: Roll a six-sided die, if the result matches what is between brackets you must activate that part of the effect. For example [1] means the result is exactly 1, or [2|3] means the result is either 2 or 3.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;STRIKE&lt;/strong&gt;: A monster in ATK Position with STRIKE is able to attack a Terrain Marker instead of a monster. The card may add a specific restriction to what kind of Terrain you can activate STRIKE on. You can only activate a STRIKE once per turn during your Main Phase 1 and you skip the Battle Phase that turn. This is still treated as an &amp;ldquo;attack&amp;rdquo; in game mechanics but it doesn&amp;rsquo;t actually battle or destroy any monster currently in the attacked terrain unless otherwise stated.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-idleness-rule&#34;&gt;💤 Idleness Rule
-&lt;/h2&gt;&lt;p&gt;During your End Phase, if all the following conditions are true then you get one &lt;strong&gt;&amp;ldquo;Idle Warning&amp;rdquo;&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Your opponent has at least 1 monster on their side of the field.&lt;/li&gt;
-&lt;li&gt;You didn&amp;rsquo;t had at least 1 monster on your side of the field this entire turn.&lt;/li&gt;
-&lt;li&gt;There wasn&amp;rsquo;t an effect preventing or negating your summons this turn.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;If you already had an &lt;strong&gt;&amp;ldquo;Idle Warning&amp;rdquo;&lt;/strong&gt; prior to this turn then you lose the Duel by game mechanics instead.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-clarifications&#34;&gt;☕ Clarifications
-&lt;/h2&gt;&lt;p&gt;Some &lt;strong&gt;syntax&lt;/strong&gt; clarifications (portraying text of the cards within brackets):&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;{ only on a &amp;ldquo;Rulebook&amp;rdquo; monster } This means a monster that has the word Rulebook in its name.&lt;/li&gt;
-&lt;li&gt;{ only on &amp;ldquo;Rulebook&amp;rdquo; } This means a monster exactly called Rulebook.&lt;/li&gt;
-&lt;li&gt;{ only on a Rulebook monster } This would mean that Rulebook is a Monster Type.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Effects &lt;strong&gt;cannot miss their timing&lt;/strong&gt;. Every &amp;ldquo;Once per Turn&amp;rdquo; is a &lt;strong&gt;hard once per turn&lt;/strong&gt;. Every optional effect that needs to be activated by the player is also a hard once per turn. Every &amp;ldquo;Once per duel&amp;rdquo; is a &lt;strong&gt;hard once per duel&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;To &lt;strong&gt;tribute&lt;/strong&gt; a monster is to send it to the graveyard to fulfil a cost or effect, there are no Tribute Summons in this game.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Surrender Card&lt;/strong&gt; is an informal term used for forfeiting. Placing your hand on top of the deck means you surrender the duel.&lt;/p&gt;
-&lt;p&gt;Cards can be &lt;strong&gt;face-down&lt;/strong&gt; on the field when they are &lt;strong&gt;Set&lt;/strong&gt; (spells and traps) or &lt;strong&gt;Hidden&lt;/strong&gt; (monsters). When you flip a monster face-up you can flip it in either ATK or DEF position. If it&amp;rsquo;s flipped by your opponent it is flipped in the same position it was, unless otherwise stated.&lt;/p&gt;
-&lt;p&gt;During regular combat if the attacked monster changed somehow (it went into hiding, changed control, moved, fused, etc.) a &lt;strong&gt;replay&lt;/strong&gt; occurs (meaning the attacking player must choose an attack target again after that first attack was declared).&lt;/p&gt;
-&lt;p&gt;If you &lt;strong&gt;take control&lt;/strong&gt; of a card you must place it on your side of the field unless otherwise stated. If it was a monster you also take control of all the equipped cards to it but they remain on their current zones. To &lt;strong&gt;swap control&lt;/strong&gt; refers that a specific player takes control of the card.&lt;/p&gt;
-&lt;p&gt;If a monster card states that it can &lt;strong&gt;move&lt;/strong&gt; or be moved to another Terrain it always refer to an unoccupied Terrain from the controller of the card unless otherwise stated.&lt;/p&gt;
-&lt;p&gt;There are certain cards that can &lt;strong&gt;equip&lt;/strong&gt; things other than monsters like &amp;ldquo;&lt;strong&gt;Equip the Deck&lt;/strong&gt;&amp;rdquo; or &amp;ldquo;&lt;strong&gt;Equip the Graveyard&lt;/strong&gt;&amp;rdquo;. In this case the equipping card remains on its zone and is considered to be equipping/targeting that game zone in its entirety.&lt;/p&gt;
-&lt;p&gt;Additional notes for &lt;strong&gt;Equipping&lt;/strong&gt; and &lt;strong&gt;Attaching&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Equipped cards must be placed on the Backrow, while Attached cards must be placed beneath their targeted card.&lt;/li&gt;
-&lt;li&gt;To Equip a card you need an effect that allows you to do so or to have that card be of the Equip Type (Equip Spell or Equip Trap).&lt;/li&gt;
-&lt;li&gt;To Attach a card you need an effect that allows you to do so.&lt;/li&gt;
-&lt;li&gt;If a card leaves the field, all other cards equipped to it are destroyed (unless otherwise stated), and all cards attached to it are sent to the Graveyard (unless otherwise stated).&lt;/li&gt;
-&lt;li&gt;If you attach a card, you also attach any card already attached to that card.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Additional notes for &lt;strong&gt;Hidden&lt;/strong&gt; monsters:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Hidden monsters receive Field Power Bonus normally like face-up monsters.&lt;/li&gt;
-&lt;li&gt;You can&amp;rsquo;t equip or attach cards to a monster that is already Hidden. Cards that were already equipped or attached to a Hidden monster stay face-up on the field though.&lt;/li&gt;
-&lt;li&gt;Hiding a face-up monster is not considered a summon but a game mechanic.&lt;/li&gt;
-&lt;li&gt;Playing a Hidden monster from your hand is considered a summon unless otherwise stated.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;-details-on-card-types&#34;&gt;✨ Details on Card Types
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Main Card types&lt;/strong&gt;: Represent the different groups of cards in this game, a card must have at least one of these: &lt;strong&gt;Monster, Trap, Spell, Rule, Token, Emblem&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Secondary Card types&lt;/strong&gt;: Are used in conjunction to the Main types to offer different gameplay options from a mechanical standpoint on how that card is played or interacts: &lt;strong&gt;Fusion, Ritual, Alter, Integration, Divine, Hierarchy, Equip, Continuous, Persist, Setup, Field Setup, Duelist Setup, Challenge Setup, Symbol.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Divine types&lt;/strong&gt; (also known as &amp;ldquo;Pantheons&amp;rdquo;): Are a way to group Divine cards that are related to each other and may have built-in synergy: &lt;strong&gt;Palace God, Storm Guardian, Wicked God, etc.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Primary Monster Types&lt;/strong&gt;: Refer to what the monster actually is.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Angel&lt;/strong&gt;: (Equivalent to &amp;ldquo;Fairy&amp;rdquo;) Sprites, angels, fairies, holy beings.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Aquatic&lt;/strong&gt;: (Equivalent to &amp;ldquo;Fish&amp;rdquo;, &amp;ldquo;Sea Serpent&amp;rdquo; and partially to &amp;ldquo;Aqua&amp;rdquo;). All kinds of water monsters or creatures whose natural habitat is water, without being themselves some sort of embodiment of water itself.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Avian&lt;/strong&gt;: (Equivalent to &amp;ldquo;Winged Beast&amp;rdquo;). Related in some ways to birds either by being a type of them or having some bird-like feature, specially wings.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Beast&lt;/strong&gt;: Terrestrial beasts of all kinds.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cosmic&lt;/strong&gt;: Related to space and the unknown, including alien-like entities, space machines or otherworldly creatures.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Demon&lt;/strong&gt;: (Equivalent to &amp;ldquo;Fiend&amp;rdquo;). All types of Demons and demon-like creatures.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dinosaur&lt;/strong&gt;: Big and smol dinos.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dragon&lt;/strong&gt;: (Equivalent to &amp;ldquo;Dragon&amp;rdquo; and &amp;ldquo;Wyrm&amp;rdquo;) A mix of Eastern and Western conceptions of dragons.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Elemental&lt;/strong&gt;: (Equivalent to &amp;ldquo;Rock&amp;rdquo;, &amp;ldquo;Pyro&amp;rdquo;, &amp;ldquo;Aqua&amp;rdquo;, &amp;ldquo;Thunder&amp;rdquo;). Elementals are concepts made into living forms, be it generic like water, lightning, fire or earth or more specific ones or abstract ones. They are usually referenced with the Attribute.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Esper&lt;/strong&gt;: (Equivalent partially to &amp;ldquo;Psychic&amp;rdquo;). Paranormal abilities for humanoid monsters sometimes mixed with electronics and some degree of technology, including cybernetic enhanced creatures.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Frost&lt;/strong&gt;: Cold-based creatures of all types, related to ice and frost.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Illusion&lt;/strong&gt;: Creatures related to mirages, dreams and apparitions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Insect&lt;/strong&gt;: Insects of all sizes. This categorization also includes arachnids, scorpions and other arthropods too.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Machine&lt;/strong&gt;: Broad type that refers to mechanical constructs, machines and technology in general.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Plant&lt;/strong&gt;: Nature based plant-like creatures, be it small ones or overgrown ones.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reptillian&lt;/strong&gt;: Reptiles in general or reptile-like creatures.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Spellcaster&lt;/strong&gt;: Individuals who naturally wield the power of magic, for example magicians, sorcerers and wizards.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Support&lt;/strong&gt;: Non-warrior-like and non-spellcaster-like humanoids. A more &amp;ldquo;mentally&amp;rdquo; type of humanoid monster or someone who assists allies in different ways.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Undead&lt;/strong&gt;: (Equivalent to &amp;ldquo;Zombie&amp;rdquo;). Group of beings that includes mummies, zombies, skeleton, ghosts, apparitions, etc. This also includes certain supernatural beings like Vampires.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Warrior&lt;/strong&gt;: Super broad type that refers to humanoid fighters and combatants in general.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Secondary Monster Types&lt;/strong&gt;: Refer to what the monster can do (thematic-wise) or is affected by.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Absorption&lt;/strong&gt;: Is able to absorb into itself other creatures or souls.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Blessed&lt;/strong&gt;: Is being favored by a god-like entity.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Burrowing&lt;/strong&gt;: Is able to dig and go beneath the ground with ease.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Dampened&lt;/strong&gt;: Is currently soaked in water.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fireblast&lt;/strong&gt;: Is able to attack with a large display of fire.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Flying&lt;/strong&gt;: Is able to properly fly (not only float or barely move in the air).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hypnotized&lt;/strong&gt;: Is under mind-control.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Petrified&lt;/strong&gt;: Has been turned to stone.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Poisoned&lt;/strong&gt;: Is affected by poison or venom.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Protector&lt;/strong&gt;: Is able or dedicated to protect others.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Regeneration&lt;/strong&gt;: Is able to regenerate wounds or even reverse its own death.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Sealed&lt;/strong&gt;: Is sealed through magic or other means.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Slumbering&lt;/strong&gt;: Is sleeping or in a deep slumber.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Thunderblast&lt;/strong&gt;: Is able to attack with electricity or magic of the electric type.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Alter Monster Types&lt;/strong&gt;: A specific group of types that is exclusive to Alter Monsters.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ascended&lt;/strong&gt;: A monster that embraces the holy power to its fullest and is transformed by it.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Eldritch&lt;/strong&gt;: A monster transformed in a living horror through unnatural powers beyond human comprehension.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Fallen&lt;/strong&gt;: A monster that has fallen to the allure of dark powers and is transformed by them.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Knighted&lt;/strong&gt;: A non-warrior monster now turned into a knight.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Metalized&lt;/strong&gt;: A monster covered in an alloy that turns a biological being into a metallic/technological version of itself.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Swarm&lt;/strong&gt;: A group or copies/clones of a single monster, represented as multiple monsters on the very same card.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Timeshifted&lt;/strong&gt;: An older or younger version of a particular monster, in a different point in time.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Toon&lt;/strong&gt;: A &amp;ldquo;cartoonified&amp;rdquo; version of a regular monster.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Zombie&lt;/strong&gt;: A non-undead monster that comes back to life as a zombie and is now reanimated after death.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-multiplayer-rules&#34;&gt;🤝 Multiplayer Rules
-&lt;/h2&gt;&lt;p&gt;A &lt;strong&gt;Team Duel&lt;/strong&gt; is what happens when more than two opposing players take part in a duel. There are three types: Tag Duels, Boss Duels and Battle Royale Duels.&lt;/p&gt;
-&lt;p&gt;The main difference between regular duels and Team Duels is that a &lt;strong&gt;Rotation&lt;/strong&gt; of turn order must be defined during the Setup Phase, based on the type of team duel used and the number of players. As a general rule, the Rotation order always iterates between teams first, and then further than teams it iterates between each player of the team.&lt;/p&gt;
-&lt;p&gt;Only the last player in the Rotation is allowed to declare an attack in the first round of a Team Duel.&lt;/p&gt;
-&lt;p&gt;Unless otherwise stated the life points and gameplay zones (field, graveyard, hand, main deck, extra deck, rule zone) belong to each player and behave like in a regular duel.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Tag Duels&lt;/strong&gt; are 2v2 duels of teams fighting each other:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The Rotation is: TeamAPlayer1 → TeamBPlayer1 → TeamAPlayer2 → TeamBPlayer2.&lt;/li&gt;
-&lt;li&gt;If one player is defeated the whole team is defeated.&lt;/li&gt;
-&lt;li&gt;Players in a team have a shared field of 10 Frontrow and 10 Backrow.&lt;/li&gt;
-&lt;li&gt;Even in the shared field each player controls their corresponding zones and cards.&lt;/li&gt;
-&lt;li&gt;Teammates can reveal some secret information between them in the shared areas (face-down cards) but not in the private areas (like hand and extra deck cards).&lt;/li&gt;
-&lt;li&gt;Your teammate can allow you to use their cards during your turn for summoning conditions, but not for attacks, battle position changes or movement.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Boss Duels&lt;/strong&gt; are a &amp;ldquo;one vs many&amp;rdquo; duel, where the &amp;ldquo;many&amp;rdquo; join forces into a team:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The Rotation is: SoloPlayer → TeamPlayer1 → SoloPlayer → TeamPlayer2&amp;hellip;&lt;/li&gt;
-&lt;li&gt;The team players share LP and the board (field, graveyard and rule zone) but each still has their own Deck and Extra Deck.&lt;/li&gt;
-&lt;li&gt;The team players collectively control the zones and cards in that side of the field, except the cards in the Rule Zone that are still individually controlled.&lt;/li&gt;
-&lt;li&gt;The team players must also agree to play a single Field Setup card, not one for each.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Battle Royale Duels&lt;/strong&gt; are free-for-all duels of 3+ participants without specific allies, everyone is technically considered an opponent here:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;The Rotation is: Player1 → Player2 → Player3&amp;hellip;&lt;/li&gt;
-&lt;li&gt;If a player is defeated: the rotation adjusts removing that player. Cards owned by that player that are controlled by other players stay in the field.&lt;/li&gt;
-&lt;li&gt;Once per round, a player can redirect an attack that targets a monster controlled by another player to a monster they control (that is able to move), and if it does, the attacking monster cannot be destroyed by that battle and the controller of that attacking monster takes no damage from that battle.&lt;/li&gt;
-&lt;li&gt;A player can allow you to use their cards during your turn for summoning conditions, but not for attacks, battle position changes or movement.&lt;/li&gt;
-&lt;li&gt;A player can join a Battle Royale at any point by taking damage equal to half of its starting LP, and inserting themselves as next in the rotation.&lt;/li&gt;
-&lt;li&gt;After at least one player is defeated, at any point the remaining players can unanimously declare that the duel is over (and they are considered the winners) if they dont want to keep dueling eachother.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-deckbuilding&#34;&gt;🔧 Deckbuilding
-&lt;/h2&gt;&lt;p&gt;Each player needs a &lt;strong&gt;Main Deck&lt;/strong&gt; with exactly 30 cards and an &lt;strong&gt;Extra Deck&lt;/strong&gt; with up to 20 cards. Your Main Deck can have Spell Cards, Trap Cards and Normal Monster Cards. Your Extra Deck can have Extra Deck Monster Cards and Rule Cards.&lt;/p&gt;
-&lt;p&gt;There are certain cards that have restrictions on  how many of them you are allowed to include in your deck, check the &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/restricted-list/&#34; &gt;Restricted List&lt;/a&gt;&lt;/strong&gt; for more information about this.&lt;/p&gt;
-&lt;p&gt;Duelist Setup Rule cards allow you to have in your decks any card listed in its &amp;ldquo;Cardlist&amp;rdquo; (in the quantity it specifies if its more than one) ignoring the Restricted List limitations in deckbuilding.&lt;/p&gt;
-&lt;p&gt;(Optional) If you want, you can add one or more Challenge Setup Rule cards to your deck to spice up a bit your deckbuilding skills, but this is entirely optional.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Note: Additional deckbuilding limitations may be needed depending on the match-up or the players. Kingdom Duels is by nature an unbalance game so feel free to adjust the banlist/restrictions if you feel like it in the interest of a more fair gameplay experience.&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;tldr&#34;&gt;TL;DR
-&lt;/h2&gt;&lt;p&gt;Regular Yugioh but&amp;hellip;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;2000 LP. Starting hand of 5, draw 1 each turn (even in the first turn).&lt;/li&gt;
-&lt;li&gt;The Board has 5 monster zones and 5 spell/trap zones. No link/pendulum/field zones.&lt;/li&gt;
-&lt;li&gt;Rule Cards exist (which are Extra Deck cards that change how the game is played).&lt;/li&gt;
-&lt;li&gt;Setup Rule cards must be played in the Setup Phase: Your Field Setup define your terrains. You can change up to 2 cards from your starting hand with cards from your Duelist Setup &amp;ldquo;cardlist&amp;rdquo;.&lt;/li&gt;
-&lt;li&gt;Terrain Markers exist (they go between the monster zones and the cards). They can give effects and &amp;ldquo;Field Power Bonus&amp;rdquo; to monsters on them.&lt;/li&gt;
-&lt;li&gt;You can summon normal monsters of any Level without a tribute.&lt;/li&gt;
-&lt;li&gt;You can play monsters in face-up DEF.&lt;/li&gt;
-&lt;li&gt;You can&amp;rsquo;t Set monsters (you &amp;ldquo;Hide&amp;rdquo; them instead, but you can only Hide monsters in face-down ATK or face-down DEF if an effect lets you).&lt;/li&gt;
-&lt;li&gt;No direct attacks. Can only attack once per battle phase. Attacks can be redirected.&lt;/li&gt;
-&lt;li&gt;Instead of banish there is &amp;ldquo;erode&amp;rdquo; which is a more permanent removal.&lt;/li&gt;
-&lt;li&gt;If you are repeatedly idle by not playing monsters you&amp;rsquo;ll lose.&lt;/li&gt;
-&lt;li&gt;Normal Spells are usually quick speed (Equip and Continuous are slow speed).&lt;/li&gt;
-&lt;li&gt;Traps are (mostly) triggered automatically.&lt;/li&gt;
-&lt;li&gt;Extra Deck monsters include: Fusions, Rituals, Alters, Integrations.&lt;/li&gt;
-&lt;li&gt;There are Spell-Trap-Monster combinations and even Divine cards.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
 </description>
         </item>
         <item>

@@ -1,6 +1,6 @@
 +++
 date = '2025-06-15T14:20:00-03:00'
-title = "Set 14 [Spirit of the Puzzle] is here!"
+title = "Set [Spirit of the Puzzle] is here!"
 categories = ['Set Release']
 image = "/img/post/post0028.jpg"
 toc = false

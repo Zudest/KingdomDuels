@@ -1,6 +1,6 @@
 +++
 date = '2025-05-18T13:50:00-03:00'
-title = "Set 13 [Millennium Legacy] is here!"
+title = "Set [Millennium Legacy] is here!"
 categories = ['Set Release']
 image = "/img/post/post0027.jpg"
 toc = false

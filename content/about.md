@@ -42,26 +42,21 @@ Otherwise you can always try the game with a **print-and-play** approach, just [
 
 ## Card Releases
 
-In this game, cards are released to the public in sets/packs which contains roughly 40 to 70 cards. Furthermore, these Sets are also sub-divided in these categories depending on what approach they have:
+In this game, cards are released to the public in sets/packs which contains between 150 and 250 cards. Furthermore, these Sets are also sub-divided depending on what approach they have:
 
 - **Core Sets**
     - The original cards that showed up in the Duelist Kingdom arc of the anime (from episode 1 to 40). These are as accurate as possible to the japanese version of the anime, and let you recreate duels from that season faithfully.
-    - They have a three-letter code, for example [SOE] or [KOD].
 
 - **Story Sets**
-    - These sets are based on [Yugioh Scrolls](/yugioh-scrolls/) and are a representation of *"what would have happened if the anime kept going with these rules instead of the true rules?"*. They follow duels from that story (from episode 40 onwards). It is a fan-fiction retelling that changes and adapts the story (and the cards and rules) but tries to keep the main points the same.
-    - They also have a three-letter code, for example [LEN] or [BSN].
+    - These sets are based on [Yugioh Scrolls](/yugioh-scrolls/), which is a fan-fiction retelling of the anime that uses Kingdom Duels rules instead of the true rules.
 
 - ***Expansion Sets (wip)***
-    - These sets expand on existing mechanics and provide further support for strategies introduced in Core and Story sets. They don't follow plot, duels or specific characters and are more flexible, being usually focused around support for specific mechanics on each set.
-    - They have a four-digit code.
-    - They are developed with the community, and are a way for fans to design cards for the main distribution of the game.
-    - *They are currently in pre-planning stage.*
+    - *Currently in pre-planning stage.*
+    - These sets provide further support for existing mechanics. They don't follow plot, duels or specific characters and are developed with the community. They are a way for fans to design cards for the main distribution of the game.
 
 - ***Illusory Sets (wip)***
+    - *Currently in pre-planning stage.*
     - These sets represent self-contained duels between characters from different yugioh series and/or even different franchises. A sort of *"What-If?"* concept for weird and unique cards, mechanics and character interactions.
-    - They have a four-digit code.
-    - *They are currently in pre-planning stage.*
 
 
 ## Read More
