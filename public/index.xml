@@ -134,7 +134,7 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
 &lt;p&gt;You can play &lt;strong&gt;online&lt;/strong&gt; with &lt;a class=&#34;link&#34; href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=2884430004&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;our mod in Tabletop Simulator&lt;/strong&gt;&lt;/a&gt; (you need to have &lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/286160/Tabletop_Simulator/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Tabletop Simulator in Steam&lt;/a&gt; to play it this way). You can use our &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;&lt;strong&gt;Deckbuilder&lt;/strong&gt;&lt;/a&gt; to plan your decks and import it into Tabletop Simulator later.&lt;/p&gt;
-&lt;p&gt;Otherwise you can always try the game with a &lt;strong&gt;print-and-play&lt;/strong&gt; approach, just &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/downloads/&#34; &gt;download the cards&lt;/a&gt; and print them to play with friends!&lt;/p&gt;
+&lt;p&gt;Otherwise you can always try the game with a &lt;strong&gt;print-and-play&lt;/strong&gt; approach, just &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/releases/&#34; &gt;download the cards&lt;/a&gt; and print them to play with friends!&lt;/p&gt;
 &lt;h2 id=&#34;card-releases&#34;&gt;Card Releases
 &lt;/h2&gt;&lt;p&gt;In this game, cards are released to the public in sets/packs which contains between 150 and 250 cards. Furthermore, these Sets are also sub-divided depending on what approach they have:&lt;/p&gt;
 &lt;ul&gt;
@@ -169,8 +169,10 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/rules/&#34; &gt;Rules&lt;/a&gt;&lt;/strong&gt;: Everything you need to know to learn how to play.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/credits/&#34; &gt;Credits&lt;/a&gt;&lt;/strong&gt;: Proper credits for the game, rules and card art.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;Deckbuilder&lt;/a&gt;&lt;/strong&gt;: See all the cards and plan your decks.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt;: The reimaginated story behind this game.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/restricted-list/&#34; &gt;Restricted List&lt;/a&gt;&lt;/strong&gt;: Certain restrictions for deckbuilding.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/releases/&#34; &gt;Releases&lt;/a&gt;&lt;/strong&gt;: A list of all our card Sets, including downloads.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -2327,42 +2329,369 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </description>
         </item>
         <item>
-        <title>Downloads</title>
-        <link>https://kingdomduels.com/downloads/</link>
+        <title>Releases</title>
+        <link>https://kingdomduels.com/releases/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://kingdomduels.com/downloads/</guid>
-        <description>&lt;h2 id=&#34;download-cards-by-set&#34;&gt;Download cards by set
-&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1DjpOGiYT_VjMQnTEr3nBwLHyYe8wF4A8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;(Google Drive Download Link)&lt;/a&gt;&lt;/p&gt;
+        <guid>https://kingdomduels.com/releases/</guid>
+        <description>&lt;h2 id=&#34;core-sets&#34;&gt;Core Sets
+&lt;/h2&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ASOE&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0003.jpg&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🏰 [SOE] → Seal of Exodia
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AKOD&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0037.jpg&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🏰 [KOD] → King of Duelists
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;story-sets&#34;&gt;Story Sets
+&lt;/h2&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ALEN&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0052.jpg&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🏛️ [LEN] → Loose Ends
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AMLY&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0065.jpg&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🏛️ [MLY] → Millennium Legacy
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/post/set-teg-released/&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0071.jpg&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🏙️ [TEG] → The Egyptian Gods
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;200&#34; alt=&#34;85&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🏙️ [?] → ?
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;200&#34; alt=&#34;100&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🎇 [?] → ?
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;200&#34; alt=&#34;106&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🎇 [?] → ?
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🗝️ [?] → ?
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/00.png&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🗝️ [?] → ?
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;expansion-sets&#34;&gt;Expansion Sets
+&lt;/h2&gt;&lt;h2 id=&#34;illusory-sets&#34;&gt;Illusory Sets
+&lt;/h2&gt;&lt;h2 id=&#34;others&#34;&gt;Others
+&lt;/h2&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AT&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0041.jpg&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🏞️ Terrains
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AA&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0069.jpg&#34; width=&#34;200&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            🖼️ Alternatives
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;download-the-cards&#34;&gt;Download the Cards
+&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Download any card in higher resolution for printing.&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;🏰 Duelist Kingdom Arc&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[SOE]&lt;/strong&gt; → Seal of Exodia&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[KOD]&lt;/strong&gt; → King of Duelists&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🏛️ Museum Arc&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[LEN]&lt;/strong&gt; → Loose Ends&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[MLY]&lt;/strong&gt; → Millennium Legacy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🏙️ Battle City Arc&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[TEG]&lt;/strong&gt; → The Egyptian Gods&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[?]&lt;/strong&gt; → ?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🏞️ Terrains&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;🖼️ Alternative Artwork Cards&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1DjpOGiYT_VjMQnTEr3nBwLHyYe8wF4A8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Google Drive Downloads&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;create-your-own-cards&#34;&gt;Create your own cards
 &lt;/h2&gt;&lt;p&gt;&lt;em&gt;Design your own cards to play with, using our Magic Set Editor (MSE) template.&lt;/em&gt;&lt;/p&gt;
@@ -2377,7 +2706,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1-ZT--E50W_yzyyNtEywZUje33fIS_zoM&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Kingdom Duels (2022 Version)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://drive.google.com/drive/folders/1CYapJYlAR-obHRjBixno5oEMXigOTMF7&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;KCG (2016 Version)&lt;/a&gt;&lt;/li&gt;
+    &gt;KCG Kingdom Card Game (2016 Version)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -5953,7 +6282,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt;: The story rewrite have its own dedicated page now, with sub-sections and episode navigation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;Deckbuilder&lt;/a&gt;&lt;/strong&gt;: The deckbuilder has been integrated to the website itself.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/restricted-list/&#34; &gt;Restricted List&lt;/a&gt;&lt;/strong&gt;: Useful quick link to check the current restricted list.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/downloads/&#34; &gt;Downloads&lt;/a&gt;&lt;/strong&gt;: All the downloads available for the game, including cards, templates and old versions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/releases/&#34; &gt;Downloads&lt;/a&gt;&lt;/strong&gt;: All the downloads available for the game, including cards, templates and old versions.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>

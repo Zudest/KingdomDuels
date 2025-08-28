@@ -38,7 +38,7 @@ Kingdom Duels cards have some clear differences to regular Yu-Gi-Oh! cards. Thes
 
 You can play **online** with [**our mod in Tabletop Simulator**](https://steamcommunity.com/sharedfiles/filedetails/?id=2884430004) (you need to have [Tabletop Simulator in Steam](https://store.steampowered.com/app/286160/Tabletop_Simulator/) to play it this way). You can use our [**Deckbuilder**](/deckbuilder/) to plan your decks and import it into Tabletop Simulator later.
 
-Otherwise you can always try the game with a **print-and-play** approach, just [download the cards](/downloads/) and print them to play with friends!
+Otherwise you can always try the game with a **print-and-play** approach, just [download the cards](/releases/) and print them to play with friends!
 
 ## Card Releases
 
@@ -63,6 +63,9 @@ In this game, cards are released to the public in sets/packs which contains betw
 
 - **[Rules](/rules/)**: Everything you need to know to learn how to play.
 - **[Credits](/credits/)**: Proper credits for the game, rules and card art.
+- **[Deckbuilder](/deckbuilder/)**: See all the cards and plan your decks.
 - **[Yugioh Scrolls](/yugioh-scrolls/)**: The reimaginated story behind this game.
 - **[Restricted List](/restricted-list/)**: Certain restrictions for deckbuilding.
+- **[Releases](/releases/)**: A list of all our card Sets, including downloads.
+
 

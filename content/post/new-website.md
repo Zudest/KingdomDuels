@@ -13,4 +13,4 @@ We have just launched this new website! The goal with it is to consolidate every
 - **[Yugioh Scrolls](/yugioh-scrolls/)**: The story rewrite have its own dedicated page now, with sub-sections and episode navigation.
 - **[Deckbuilder](/deckbuilder/)**: The deckbuilder has been integrated to the website itself.
 - **[Restricted List](/restricted-list/)**: Useful quick link to check the current restricted list.
-- **[Downloads](/downloads/)**: All the downloads available for the game, including cards, templates and old versions.
+- **[Downloads](/releases/)**: All the downloads available for the game, including cards, templates and old versions.
