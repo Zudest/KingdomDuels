@@ -7,7 +7,7 @@ readingTime = false
 
     Kingdom Duels Creation and Design: Rolvak/Zudest.
     Kingdom Duels Design Collaborators: Ceres Golden Cross, Breki Br.
-    Kingdom Duels Design Collaborators: Special thanks to the entirety of the Kingdom Duels Discord community.
+    Kingdom Duels Community: Special thanks to the entirety of the Kingdom Duels Discord community.
 
     Yugioh Scrolls: Rolvak.
     Yugioh Scrolls Duel Scripting: Rolvak.
@@ -17,29 +17,26 @@ readingTime = false
     - Kazuki Takahashi & NAS & Studio Gallop & Toei & Studio Bridge & Bandai & Duel Links & Konami Animation & Konami.
 
     Kingdom Duels Fanmade Artwork:
-    - (Unknown Artists): VIN-04, VIN-22, VIN-50, BSN-04, BSN-39
-    - Alanmac95: SOE-50, KOD-47, KOD-61
-    - Apricot: SOE-37
-    - Dogerror: CHT-11
-    - Emily: NFW-13
-    - jtx1213: CHT-22
-    - Maruchi: SOE-02
-    - Mikami: BSN-02
-    - Mirpuzzle: CGU-02
-    - Kaminari Jin: SOE-01
-    - Koma Yoichi: NFW-24
-    - Ochi Marco: NFW-02
-    - Rokuro: SOE-42, NFW-08
-    - SaharaSaika: BSN-38
-    - Scar Nova: CHT-29
-    - Shuffledyandere: NFW-16
-    - Strange Argument: NFW-12
-    - Yugiohoricabr: KOD-62, LEN-01
-    - かじゃ: NFW-01
-    - 山根木: SOE-10
-    - 太郎: SOE-49
-    
+    - (Unknown Artists): SOE-125, SOE-129, SOE-130, SOE-133, SOE-141, SOE-143, LEN-220, LEN-221, LEN-222, LEN-223, LEN-224, LEN-225, MLY-174, MLY-175, MLY-178, MLY-181, MLY-182, MLY-187, MLY-193
+    - Alanmac95: SOE-164, SOE-165, SOE-166, MLY-163, MLY-164, MLY-165, MLY-166, TEG-015
+    - Apricot: SOE-146
+    - Bethany Bronwyn Curtis: KOD-082
+    - Dogerror: SOE-155
+    - jtx1213: SOE-101
+    - Kaminari Jin: SOE-142
+    - Maruchi: SOE-145
+    - Mikami: LEN-218
+    - Mirpuzzle: KOD-151
+    - Nemo: MLY-090
+    - Ochi Marco: SOE-144
+    - Rokuro: SOE-151
+    - SaharaSaika: LEN-219
+    - Scar Nova: SOE-163
+    - Yugiohoricabr: KOD-157, LEN-225
+    - かじゃ: SOE-150
+    - 山根木: SOE-148
+    - 太郎: KOD-154
 
-*(Updated on 2025-03-29, last set checked: BSN)*
+*(Updated on 2025-09-01, last set checked: TEG)*
 
 

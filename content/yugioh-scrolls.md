@@ -151,6 +151,28 @@ The story is divided into **Chapters** which are argumental arcs with a differen
 
 ---
 
+## Duel Anecdotes
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+</div>
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+</div>
+
+> **Author Notes**: Short self-contained stories that don't make the cut for the main storyline of the Yugioh Scrolls project but are opportunities to revisit characters or events within the timeline. 
+
+---
+
 ## Notes
 
 - A small disclaimer is that this is my own take on the yugioh story so take it as that, nothing more, nothing less. It’s essentially a fanfiction that takes advantage of a card variant that we created based on the very first rules of this anime we fans saw as kids.

@@ -19,6 +19,8 @@ toc = false
 * **~1000 B.C.**
     * Egypt is under threat. The events leading to the massacre of Kul Elna and the creation of the Millennium Items take place.
     * The events involving Atem's war against Bakura and Zorc Necrophades takes place. Atem is sealed in the Millennium Puzzle.
+* **~400 B.C.**
+    * The events involving Atlantis creation, rise and downfall take place.
 * **~1960s**
     * Sugoroku Muto goes on an expedition to the Valley of the Kings and finds the Millennium Puzzle.
 * **~1970s**
