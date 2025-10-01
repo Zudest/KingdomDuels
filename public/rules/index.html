@@ -1074,6 +1074,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 <p><strong>Unstoppable</strong>: used in conjunction with Slow or Quick speed, if an effect is Unstoppable it means it cannot be responded by another card, and it cannot be negated.</p>
 <p><strong>Battle Swap</strong>: change the battle position of a monster.</p>
 <p><strong>Battle Lock</strong>: set the battle position of a monster for a number of turns (if no turn is specified then it&rsquo;s permanent as long as this effect is active). Its controller cannot change its battle position normally.</p>
+<p><strong>Upkeep</strong>: its a maintenance cost to keep the card on the field. Is something that the controller of the card must do or pay in their own Standby Phase, otherwise they must move the card to the graveyard.</p>
 <h3 id="-effect-types">📝 Effect Types
 </h3><p><strong>EQUIP</strong>: An equip effect is active when this card is equipping another target (usually placed in the backrow unless otherwise stated).</p>
 <p><strong>ATTACH</strong>: An attach effects is active as long as the card is attached to another card (which means that is placed beneath it in the same zone of the field).</p>
@@ -1085,6 +1086,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 <p><strong>EVENT</strong>: <em>See the Normal Rule Card section of this rulebook.</em></p>
 <p><strong>STRATEGY</strong>: <em>See the Setup Rule Card section of this rulebook.</em></p>
 <p><strong>TERRAINS</strong>: <em>See the Setup Rule Card section of this rulebook.</em></p>
+<p><strong>CHANT</strong>: An effect that is activated when you declare that you are about to summon a certain card, and happens before you summon it. If you want more immersion you are allowed (and encouraged) to actually say out loud the &ldquo;summoning chant&rdquo; specified in the artwork of the card, although it&rsquo;s not mandatory.</p>
 <hr>
 <h2 id="-idleness-rule">💤 Idleness Rule
 </h2><p>During your End Phase, if all the following conditions are true then you get one <strong>&ldquo;Idle Warning&rdquo;</strong>:</p>
@@ -1131,49 +1133,49 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 </h2><blockquote>
 <p><strong>Main Card Types</strong></p>
 </blockquote>
-<p>Represents the four different groups of cards in this game. It is the first type listed on a card&rsquo;s type area, as every single card must have at least one of them:</p>
+<p>Represents the four different groups of cards in this game. Every card must have at least one:</p>
 <ul>
 <li><strong>Monster, Spell, Trap, Rule</strong>.</li>
 </ul>
 <blockquote>
 <p><strong>Advanced Card Types</strong></p>
 </blockquote>
-<p>They are used as a prefix to the Main types and fundamentally change the mechanics of how that card is played or interacts. They were detailed in different areas of this rulebook, and are:</p>
+<p>They are used as a prefix to the Main Card Types and fundamentally change the mechanics of how that card is played or interacts. They are detailed in different areas of this rulebook, and are:</p>
 <ul>
 <li><strong>Fusion, Ritual, Alter, Integration, Equip, Continuous, Slow, Setup, Symbol, Divine</strong>.</li>
 </ul>
 <blockquote>
 <p><strong>Secondary Card Types</strong></p>
 </blockquote>
-<p>These types don&rsquo;t have gameplay changes or special rulings on their own, but are used for other cards and rules to achieve differente effects or results. They are listed here:</p>
+<p>These types don&rsquo;t have gameplay changes or special rulings on their own, but are used for other cards and rules to achieve different effects or results. They are listed here:</p>
 <ul>
 <li>
 <p><strong>(Primary Monster Types)</strong>: Refer to what the monster actually is.</p>
 <ul>
-<li><strong>Angel</strong>: (Equivalent to &ldquo;Fairy&rdquo;) Sprites, angels, fairies, holy beings.</li>
+<li><strong>Angel</strong>: (Equivalent to &ldquo;Fairy&rdquo;) Angels, fairies, sprites, holy beings.</li>
 <li><strong>Aquatic</strong>: (Equivalent to &ldquo;Fish&rdquo;, &ldquo;Sea Serpent&rdquo; and partially to &ldquo;Aqua&rdquo;). All kinds of water monsters or creatures whose natural habitat is water, without being themselves some sort of embodiment of water itself.</li>
-<li><strong>Avian</strong>: (Equivalent to &ldquo;Winged Beast&rdquo;). Related in some ways to birds either by being a type of them or having some bird-like feature, specially wings.</li>
+<li><strong>Avian</strong>: (Equivalent to &ldquo;Winged Beast&rdquo;). Related in some ways to birds either by being a sub-type of birds or having some bird-like feature, specially wings.</li>
 <li><strong>Beast</strong>: Terrestrial beasts of all kinds.</li>
-<li><strong>Cosmic</strong>: Related to space and the unknown, including alien-like entities, space machines or otherworldly creatures.</li>
-<li><strong>Demon</strong>: (Equivalent to &ldquo;Fiend&rdquo;). All types of Demons and demon-like creatures.</li>
+<li><strong>Cosmic</strong>: Related to space and the unknown, including alien-like entities, machines designed for space or otherworldly creatures.</li>
+<li><strong>Demon</strong>: (Equivalent to &ldquo;Fiend&rdquo;). All types of demons and demon-like creatures.</li>
 <li><strong>Dinosaur</strong>: Big and smol dinos.</li>
 <li><strong>Dragon</strong>: (Equivalent to &ldquo;Dragon&rdquo; and &ldquo;Wyrm&rdquo;) A mix of Eastern and Western conceptions of dragons.</li>
 <li><strong>Elemental</strong>: (Equivalent to &ldquo;Rock&rdquo;, &ldquo;Pyro&rdquo;, &ldquo;Aqua&rdquo;, &ldquo;Thunder&rdquo;). Elementals are concepts made into living forms, be it generic like water, lightning, fire or earth or more specific ones or abstract ones. They are usually referenced with the Attribute.</li>
 <li><strong>Esper</strong>: (Equivalent partially to &ldquo;Psychic&rdquo;). Paranormal abilities for humanoid monsters sometimes mixed with electronics and some degree of technology, including cybernetic enhanced creatures.</li>
 <li><strong>Frost</strong>: Cold-based creatures of all types, related to ice and frost.</li>
 <li><strong>Illusion</strong>: Creatures related to mirages, dreams and apparitions.</li>
-<li><strong>Insect</strong>: Insects of all sizes. This categorization also includes arachnids, scorpions and other arthropods too.</li>
+<li><strong>Insect</strong>: Insects of all sizes. This categorization also includes arachnids, scorpions and other arthropods.</li>
 <li><strong>Machine</strong>: Broad type that refers to mechanical constructs, machines and technology in general.</li>
 <li><strong>Plant</strong>: Nature based plant-like creatures, be it small ones or overgrown ones.</li>
-<li><strong>Reptillian</strong>: Reptiles in general or reptile-like creatures.</li>
+<li><strong>Reptillian</strong>: Reptiles or reptile-like creatures.</li>
 <li><strong>Spellcaster</strong>: Individuals who naturally wield the power of magic, for example magicians, sorcerers and wizards.</li>
-<li><strong>Support</strong>: Non-warrior-like and non-spellcaster-like humanoids. A more &ldquo;mentally&rdquo; type of humanoid monster or someone who assists allies in different ways.</li>
-<li><strong>Undead</strong>: (Equivalent to &ldquo;Zombie&rdquo;). Group of beings that includes mummies, zombies, skeleton, ghosts, apparitions, etc. This also includes certain supernatural beings like Vampires.</li>
+<li><strong>Support</strong>: Individuals that aren&rsquo;t tailored for direct combat but assist allies in different ways. Also living weapons, contraptions or objects like that.</li>
+<li><strong>Undead</strong>: (Equivalent to &ldquo;Zombie&rdquo;). Group of beings that includes mummies, zombies, skeletons, ghosts, vampires, apparitions, etc.</li>
 <li><strong>Warrior</strong>: Super broad type that refers to humanoid fighters and combatants in general.</li>
 </ul>
 </li>
 <li>
-<p><strong>(Secondary Monster Types)</strong>: Refer to what the monster can do (thematic-wise) or is affected by.</p>
+<p><strong>(Secondary Monster Types)</strong>: Refer to what the monster can do (theme-wise) or is affected by.</p>
 <ul>
 <li><strong>Absorption</strong>: Is able to absorb into itself other creatures or souls.</li>
 <li><strong>Blessed</strong>: Is being favored by a god-like entity.</li>
@@ -1190,8 +1192,8 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 <li><strong>Regeneration</strong>: Is able to regenerate wounds or even reverse its own death.</li>
 <li><strong>Sealed</strong>: Is sealed through magic or other means.</li>
 <li><strong>Slumbering</strong>: Is sleeping or in a deep slumber.</li>
-<li><strong>Thunderblast</strong>: Is able to attack with electricity or magic of the electric type.</li>
-<li><strong>Union</strong>: Is made of unions or able to naturally merge with other creatures of the same type.</li>
+<li><strong>Thunderblast</strong>: Is able to attack with powerful electricity.</li>
+<li><strong>Union</strong>: Is made of combined monsters or able to naturally merge with other creatures of the same type.</li>
 </ul>
 </li>
 <li>
@@ -1201,16 +1203,17 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 <li><strong>Eldritch</strong>: A monster transformed in a living horror through unnatural powers beyond human comprehension.</li>
 <li><strong>Fallen</strong>: A monster that has fallen to the allure of dark powers and is transformed by them.</li>
 <li><strong>Knighted</strong>: A non-warrior monster now turned into a knight.</li>
-<li><strong>Metalized</strong>: A monster covered in an alloy that turns a biological being into a metallic/technological version of itself.</li>
+<li><strong>Metalized</strong>: A monster covered in an alloy that turns them into a metallic/technological version of itself.</li>
 <li><strong>Swarm</strong>: A group or copies/clones of a single monster, represented as multiple monsters on the very same card.</li>
 <li><strong>Timeshifted</strong>: An older or younger version of a particular monster, in a different point in time.</li>
 <li><strong>Toon</strong>: A &ldquo;cartoonified&rdquo; version of a regular monster.</li>
-<li><strong>Zombie</strong>: A non-undead monster that comes back to life as a zombie and is now reanimated after death.</li>
+<li><strong>Zombie</strong>: A reanimated non-undead monster that comes back to life as a zombie.</li>
 </ul>
 </li>
 <li>
 <p><strong>(Non-Monster Card Types)</strong>:</p>
 <ul>
+<li><strong>Challenge</strong>: An additional restriction to the game imposed by the duelist themselves.</li>
 <li><strong>Duelist</strong>: A reference to a Duelist, for example a character from the anime.</li>
 <li><strong>Field</strong>: A reference to a field where a duel take place, describing the terrains in scene.</li>
 </ul>
@@ -1218,7 +1221,13 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 <li>
 <p><strong>(Divine Pantheons)</strong>: A categorization of Divine cards that are somehow related to each other:</p>
 <ul>
-<li><strong>Palace God</strong>, <strong>Storm Guardian</strong>, <strong>Wicked God</strong>, etc.</li>
+<li><strong>Palace God</strong>, <strong>Storm Guardian</strong>, <strong>Wicked God</strong>, <strong>Egyptian God</strong>, etc.</li>
+</ul>
+</li>
+<li>
+<p><strong>(Symbol Types)</strong>: A categorization of Symbol Rule cards that are grouped together:</p>
+<ul>
+<li><strong>Millennium Items</strong>, etc.</li>
 </ul>
 </li>
 <li>

@@ -74,12 +74,21 @@
     }
     
     .preview-container {
-      overflow-x: auto;
+      height: 400px;
+      overflow-y: auto;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 10px;
     }
     
     .preview-table {
       border-collapse: collapse;
       width: 100%;
+      margin-bottom: 30px;
+    }
+    
+    .preview-table:last-child {
+      margin-bottom: 0;
     }
     
     .preview-table th {
@@ -134,32 +143,17 @@
       margin-top: 5px;
     }
     
-    .column-widths-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 15px;
-      margin: 15px 0;
-    }
-    
-    .column-width-input {
-      display: flex;
-      flex-direction: column;
-      flex: 1;
-      min-width: 100px;
-    }
-    
-    .column-width-input input {
-      padding: 8px;
-      border-radius: 4px;
-      border: 1px solid #ddd;
-    }
-    
-    .prefix-preview {
-      background-color: #eef5e9;
-      border-left: 4px solid #4CAF50;
+    .duel-header {
+      background-color: #2c3e50;
+      color: white;
       padding: 10px 15px;
-      margin-bottom: 15px;
-      font-family: monospace;
+      margin: 20px 0 10px 0;
+      border-radius: 4px;
+      font-weight: bold;
+    }
+    
+    .duel-header:first-child {
+      margin-top: 0;
     }
   </style>
 </head>
@@ -176,22 +170,9 @@
       </div>
     </div>
     
-    <!-- Column Width Section -->
-    <div class="panel" id="width-panel" style="display: none;">
-      <h3>Headers</h3>
-      <p>Adjust the header text for each column</p>
-      <div class="column-widths-container" id="column-headers">
-        <!-- Will be populated dynamically -->
-      </div>
-      <button id="apply-headers-btn">Apply Headers</button>
-    </div>
-    
     <!-- Preview Section -->
     <div class="panel">
       <h3>Preview</h3>
-      <div id="prefix-preview" class="prefix-preview" style="display: none;">
-        <!-- Prefix preview will be shown here -->
-      </div>
       <div class="preview-container">
         <div id="table-preview">
           <p>Upload a CSV file to see the preview</p>
@@ -216,19 +197,13 @@
     // DOM elements
     const csvFileInput = document.getElementById('csv-file');
     const fileInfoDiv = document.getElementById('file-info');
-    const prefixPreview = document.getElementById('prefix-preview');
     const tablePreview = document.getElementById('table-preview');
     const shortcodeOutput = document.getElementById('shortcode-output');
     const copyShortcodeBtn = document.getElementById('copy-shortcode-btn');
-    const columnHeadersContainer = document.getElementById('column-headers');
-    const applyHeadersBtn = document.getElementById('apply-headers-btn');
-    const widthPanel = document.getElementById('width-panel');
     
     // Store parsed data
-    let parsedData = null;
+    let duels = [];
     let fileName = "";
-    let headerValues = ["", "", "", ""];
-    let dataRows = [];
     
     // Default column headers
     const DEFAULT_COLUMN_HEADERS = ["Player", "Action", "LP", "Notes"];
@@ -242,7 +217,6 @@
     // Event listeners
     csvFileInput.addEventListener('change', handleFileUpload);
     copyShortcodeBtn.addEventListener('click', () => copyToClipboard(shortcodeOutput.textContent));
-    applyHeadersBtn.addEventListener('click', applyHeaderChanges);
     
     // Handle file upload
     function handleFileUpload(event) {
@@ -255,7 +229,6 @@
       fileName = file.name.replace('.csv', '');
       fileInfoDiv.textContent = `File: ${file.name} (${formatFileSize(file.size)})`;
       
-      // First read the file content to analyze it properly
       const reader = new FileReader();
       reader.onload = function(e) {
         const csvContent = e.target.result;
@@ -264,15 +237,14 @@
       reader.readAsText(file);
     }
     
-    // Process CSV with proper handling of all columns
+    // Process CSV with multiple duels support
     function processCSV(csvContent) {
       try {
-        // First parse without headers to get the actual data structure
         const rawParse = Papa.parse(csvContent, {
           header: false,
           skipEmptyLines: true,
-          delimiter: '',  // Auto-detect delimiter
-          delimitersToGuess: [',', ';', '\t', '|']  // Try these delimiters
+          delimiter: '',
+          delimitersToGuess: [',', ';', '\t', '|']
         });
         
         if (rawParse.errors.length > 0 && rawParse.errors[0].code !== "UndetectableDelimiter") {
@@ -286,75 +258,57 @@
           return;
         }
         
-        // Extract the header row (first row)
-        const firstRow = rawData[0];
+        // Parse multiple duels
+        duels = parseMultipleDuels(rawData);
         
-        // Set up header values
-        headerValues = [];
-        for (let i = 0; i < 4; i++) {
-          if (i < firstRow.length && firstRow[i]) {
-            headerValues.push(firstRow[i]);
-          } else {
-            headerValues.push("");
-          }
+        if (duels.length === 0) {
+          fileInfoDiv.innerHTML = `<span class="error">No duels found in CSV file</span>`;
+          return;
         }
         
-        // Data rows are all rows EXCEPT the first row (header)
-        dataRows = rawData.slice(1);
-        
-        // Show header input fields
-        showHeaderControls();
-        
-        // Process the data and generate the table
+        // Generate outputs
         generateOutputs();
         copyShortcodeBtn.disabled = false;
         
-        fileInfoDiv.innerHTML = fileInfoDiv.textContent + ' <span class="success">✓ Successfully parsed</span>';
+        fileInfoDiv.innerHTML = fileInfoDiv.textContent + ` <span class="success">✓ Successfully parsed (${duels.length} duel${duels.length > 1 ? 's' : ''})</span>`;
       } catch (error) {
         console.error("CSV Processing Error:", error);
         fileInfoDiv.innerHTML = `<span class="error">Error processing CSV: ${error.message}</span>`;
       }
     }
     
-    // Show header input controls
-    function showHeaderControls() {
-      // Clear existing controls
-      columnHeadersContainer.innerHTML = '';
+    // Parse multiple duels from raw data
+    function parseMultipleDuels(rawData) {
+      const parsedDuels = [];
+      let currentDuel = null;
       
-      // Create input fields for each header
-      for (let i = 0; i < 4; i++) {
-        const div = document.createElement('div');
-        div.className = 'column-width-input';
+      for (let i = 0; i < rawData.length; i++) {
+        const row = rawData[i];
         
-        const label = document.createElement('label');
-        label.setAttribute('for', `header-${i+1}`);
-        label.textContent = `Header ${i+1}${i === 0 ? ' (Player)' : i === 1 ? ' (Action)' : i === 2 ? ' (LP)' : ' (Notes)'}`;
-        
-        const input = document.createElement('input');
-        input.type = 'text';
-        input.id = `header-${i+1}`;
-        input.value = headerValues[i];
-        input.placeholder = DEFAULT_COLUMN_HEADERS[i];
-        
-        div.appendChild(label);
-        div.appendChild(input);
-        columnHeadersContainer.appendChild(div);
+        // Check if this row starts a new duel (begins with "EP ")
+        if (row[0] && row[0].toString().trim().toUpperCase().startsWith('EP ')) {
+          // Save previous duel if it exists
+          if (currentDuel) {
+            parsedDuels.push(currentDuel);
+          }
+          
+          // Start new duel
+          currentDuel = {
+            header: row,
+            data: []
+          };
+        } else if (currentDuel && row.length > 0) {
+          // Add data row to current duel
+          currentDuel.data.push(row);
+        }
       }
       
-      // Show the panel
-      widthPanel.style.display = 'block';
-    }
-    
-    // Apply header changes from inputs
-    function applyHeaderChanges() {
-      // Get all values
-      for (let i = 0; i < 4; i++) {
-        const input = document.getElementById(`header-${i+1}`);
-        headerValues[i] = input.value;
+      // Don't forget the last duel
+      if (currentDuel) {
+        parsedDuels.push(currentDuel);
       }
       
-      // Regenerate outputs
-      generateOutputs();
+      return parsedDuels;
     }
     
     // Format file size
@@ -383,12 +337,9 @@
     
     // Generate all outputs
     function generateOutputs() {
-      if (!dataRows || dataRows.length === 0) {
+      if (!duels || duels.length === 0) {
         return;
       }
-      
-      // Generate the prefix content
-      generatePrefixPreview();
       
       // Build the HTML table for preview
       generateTablePreview();
@@ -398,114 +349,100 @@
       shortcodeOutput.textContent = shortcode;
     }
     
-    // Generate the prefix preview based on header values
-    function generatePrefixPreview() {
-      if (!headerValues[0] || !headerValues[1]) {
-        prefixPreview.style.display = 'none';
-        return;
-      }
-      
-      // Get the episode number and participants from the header values
-      const episodeInfo = headerValues[0] || '';
-      const participants = headerValues[1] || '';
-      
-      // Generate the prefix text
-      const prefixText = `---\n## ${episodeInfo} - ${participants}`;
-      
-      // Update the preview
-      prefixPreview.textContent = prefixText;
-      prefixPreview.style.display = 'block';
-    }
-    
-    // Generate Hugo shortcode with prefix
+    // Generate Hugo shortcode with multiple duels
     function generateFullShortcode() {
       let output = '';
       
-      // Add the prefix if we have header info
-      if (headerValues[0] && headerValues[1]) {
-        output += `---\n## ${headerValues[0]} - ${headerValues[1]}\n\n`;
-      }
-      
-      // Create the shortcode with header parameters
-      output += `{{< dueltable`;
-      
-      // Add each non-empty header as a parameter
-      for (let i = 0; i < 4; i++) {
-        if (headerValues[i] !== "") {
-          output += ` header${i+1}="${headerValues[i]}"`;
+      duels.forEach((duel, index) => {
+        if (index > 0) {
+          output += '\n\n';
         }
-      }
-      
-      // FIX: Remove the newline after the closing bracket
-      if (dataRows.length > 0) {
-        // Combine the opening tag with the first row without a newline
-        let firstRow = [...dataRows[0]];
-        while (firstRow.length < 4) {
-          firstRow.push("");
-        }
-        output += ` >}}${firstRow.join('|')}`;
         
-        // Add remaining rows
-        for (let i = 1; i < dataRows.length; i++) {
-          let paddedRow = [...dataRows[i]];
-          while (paddedRow.length < 4) {
-            paddedRow.push("");
-          }
-          output += `\n${paddedRow.join('|')}`;
+        // Add the prefix for each duel
+        if (duel.header && duel.header[0] && duel.header[1]) {
+          output += `---\n## ${duel.header[0]} - ${duel.header[1]}\n\n`;
         }
-      } else {
-        // If no data rows, just close the tag
-        output += ` >}}`;
-      }
-      
-      // Close the shortcode
-      output += `\n{{< /dueltable >}}`;
+        
+        // Create the shortcode with fixed headers
+        output += `{{< dueltable header1="Player" header2="Action" header3="LP" header4="Notes"`;
+        
+        // Add data rows
+        if (duel.data.length > 0) {
+          let firstRow = [...duel.data[0]];
+          while (firstRow.length < 4) {
+            firstRow.push("");
+          }
+          output += ` >}}${firstRow.join('|')}`;
+          
+          // Add remaining rows
+          for (let i = 1; i < duel.data.length; i++) {
+            let paddedRow = [...duel.data[i]];
+            while (paddedRow.length < 4) {
+              paddedRow.push("");
+            }
+            output += `\n${paddedRow.join('|')}`;
+          }
+        } else {
+          output += ` >}}`;
+        }
+        
+        // Close the shortcode
+        output += `\n{{< /dueltable >}}`;
+      });
       
       return output;
     }
     
-    // Generate HTML table preview
+    // Generate HTML table preview for all duels
     function generateTablePreview() {
-      let tableHTML = '<table class="preview-table">';
+      let previewHTML = '';
       
-      // Generate header row with display headers
-      tableHTML += '<thead><tr>';
-      for (let i = 0; i < 4; i++) {
-        const displayHeader = headerValues[i] || DEFAULT_COLUMN_HEADERS[i];
-        tableHTML += `<th style="width: ${COLUMN_WIDTHS[i]}%">${displayHeader}</th>`;
-      }
-      tableHTML += '</tr></thead>';
-      
-      // Generate data rows
-      tableHTML += '<tbody>';
-      dataRows.forEach(row => {
-        tableHTML += '<tr>';
-        
-        // Ensure we always display all 4 columns, even if data is missing
-        for (let colIndex = 0; colIndex < 4; colIndex++) {
-          const cellValue = colIndex < row.length ? row[colIndex] : '';
-          
-          // Apply player-specific styling for the Player column
-          if (colIndex === 0) { // First column (Player)
-            const playerType = getPlayerType(cellValue);
-            tableHTML += `<td class="${playerType}" style="text-align: ${COLUMN_ALIGNS[colIndex]}">${cellValue}</td>`;
-          } else {
-            tableHTML += `<td style="text-align: ${COLUMN_ALIGNS[colIndex]}">${cellValue}</td>`;
-          }
+      duels.forEach((duel, duelIndex) => {
+        // Add duel header
+        if (duel.header && duel.header[0] && duel.header[1]) {
+          previewHTML += `<div class="duel-header">${duel.header[0]} - ${duel.header[1]}</div>`;
         }
         
-        tableHTML += '</tr>';
+        // Generate table for this duel
+        let tableHTML = '<table class="preview-table">';
+        
+        // Generate header row
+        tableHTML += '<thead><tr>';
+        for (let i = 0; i < 4; i++) {
+          tableHTML += `<th style="width: ${COLUMN_WIDTHS[i]}%">${DEFAULT_COLUMN_HEADERS[i]}</th>`;
+        }
+        tableHTML += '</tr></thead>';
+        
+        // Generate data rows
+        tableHTML += '<tbody>';
+        duel.data.forEach(row => {
+          tableHTML += '<tr>';
+          
+          for (let colIndex = 0; colIndex < 4; colIndex++) {
+            const cellValue = colIndex < row.length ? row[colIndex] : '';
+            
+            if (colIndex === 0) { // Player column
+              const playerType = getPlayerType(cellValue);
+              tableHTML += `<td class="${playerType}" style="text-align: ${COLUMN_ALIGNS[colIndex]}">${cellValue}</td>`;
+            } else {
+              tableHTML += `<td style="text-align: ${COLUMN_ALIGNS[colIndex]}">${cellValue}</td>`;
+            }
+          }
+          
+          tableHTML += '</tr>';
+        });
+        
+        tableHTML += '</tbody></table>';
+        previewHTML += tableHTML;
       });
       
-      tableHTML += '</tbody></table>';
-      tablePreview.innerHTML = tableHTML;
+      tablePreview.innerHTML = previewHTML;
     }
     
     // Copy to clipboard function
     function copyToClipboard(text) {
       navigator.clipboard.writeText(text).then(
         function() {
-          // Success!
           const originalText = copyShortcodeBtn.textContent;
           copyShortcodeBtn.textContent = 'Copied!';
           setTimeout(() => {

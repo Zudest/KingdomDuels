@@ -34,5 +34,9 @@ const EXTRA_TERRAINS = {
         ,{"name": "Tundra","frame": "Terrain","types": "Terrain","set": "T","id": "32","deck": "A","duelist": "","attribute": "earth","grade": "glyph","gradeval": "Burrowing - Frost"}
         ,{"name": "Temple","frame": "Terrain","types": "Terrain","set": "T","id": "33","deck": "A","duelist": "","attribute": "light","grade": "glyph","gradeval": "Divine - Blessed"}
         ,{"name": "River","frame": "Terrain","types": "Terrain","set": "T","id": "34","deck": "A","duelist": "","attribute": "water","grade": "glyph","gradeval": "WATER"}
+        ,{"name": "Sky","frame": "Terrain","types": "Terrain","set": "T","id": "35","deck": "A","duelist": "","attribute": "wind","grade": "glyph","gradeval": "Angel - Avian - Flying"}
+        ,{"name": "Underworld","frame": "Terrain","types": "Terrain","set": "T","id": "36","deck": "A","duelist": "","attribute": "dark","grade": "glyph","gradeval": "Demon - Fallen - DARK Elemental"}
+        ,{"name": "Scrapyard","frame": "Terrain","types": "Terrain","set": "T","id": "37","deck": "A","duelist": "","attribute": "earth","grade": "glyph","gradeval": "Union - Metalized"}
+        ,{"name": "Colosseum","frame": "Terrain","types": "Terrain","set": "T","id": "38","deck": "A","duelist": "","attribute": "light","grade": "glyph","gradeval": "Knighted - Warrior"}
     ]
 };

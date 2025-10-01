@@ -51,12 +51,7 @@ In this game, cards are released to the public in sets/packs which contains betw
     - These sets are based on [Yugioh Scrolls](/yugioh-scrolls/), which is a fan-fiction retelling of the anime that uses Kingdom Duels rules instead of the true rules.
 
 - ***Expansion Sets (wip)***
-    - *Currently in pre-planning stage.*
-    - These sets provide further support for existing mechanics. They don't follow plot, duels or specific characters and are developed with the community. They are a way for fans to design cards for the main distribution of the game.
-
-- ***Illusory Sets (wip)***
-    - *Currently in pre-planning stage.*
-    - These sets represent self-contained duels between characters from different yugioh series and/or even different franchises. A sort of *"What-If?"* concept for weird and unique cards, mechanics and character interactions.
+    - These sets provide further support for existing cards and mechanics, expanding on them by narrating self-contained events from the lore (*"Duel Anecdotes"*) or maybe even from different franchises (*"Duel Visions"*). They may be developed with the community so they can be a way for fans to contribute cards for the main distribution of the game.
 
 
 ## Read More

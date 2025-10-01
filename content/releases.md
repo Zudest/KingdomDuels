@@ -18,8 +18,8 @@ readingTime = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/storyimg/ep0052.jpg" link="/deckbuilder/?search=set%253ALEN" caption="🏛️ [LEN] → Loose Ends" alt="" width="200" >}}
 {{< imagetext src="/img/storyimg/ep0065.jpg" link="/deckbuilder/?search=set%253AMLY" caption="🏛️ [MLY] → Millennium Legacy" alt="" width="200" >}}
-{{< imagetext src="/img/storyimg/ep0071.jpg" link="/post/set-teg-released/" caption="🏙️ [TEG] → The Egyptian Gods" alt="" width="200" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="🏙️ [?] → ?" alt="85" width="200" >}}
+{{< imagetext src="/img/storyimg/ep0071.jpg" link="/deckbuilder/?search=set%253ATEG" caption="🏙️ [TEG] → The Egyptian Gods" alt="" width="200" >}}
+{{< imagetext src="/img/storyimg/ep0085.jpg" link="/deckbuilder/?search=set%253ANPH" caption="🏙️ [NPH] → Nameless Pharaoh" alt="85" width="200" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
@@ -31,15 +31,17 @@ readingTime = false
 
 ## Expansion Sets
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" caption="?" alt="100" width="200" >}}
+</div>
 
-## Illusory Sets
 
-
-## Others
+## Additional Content
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0041.jpg" link="/deckbuilder/?search=set%253AT" caption="🏞️ Terrains" alt="" width="200" >}}
-{{< imagetext src="/img/storyimg/ep0069.jpg" link="/deckbuilder/?search=set%253AA" caption="🖼️ Alternatives" alt="" width="200" >}}
+{{< imagetext src="/img/storyimg/ep0041.jpg" link="/deckbuilder/?search=set%253AT" caption="🏞️ Terrain Markers" alt="" width="200" >}}
+{{< imagetext src="/img/storyimg/ep0069.jpg" link="/deckbuilder/?search=set%253AA" caption="🖼️ Alternative Cards" alt="" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" caption="Starter Decks (WIP)" alt="100" width="200" >}}
 </div>
 
 ## Download the Cards

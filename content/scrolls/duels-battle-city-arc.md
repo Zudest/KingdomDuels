@@ -406,4 +406,445 @@ Player 2|Mai draws. She then activates her set Harpie's Feather Duster to destro
 Player 2|Mai wins.||Mai decides not to get any card nor puzzle card from the defeated Magnum. Mai still has 6 Puzzle Cards. Magnum still has 5 Puzzle Cards.
 {{< /dueltable >}}
 
+---
+## EP 78 - Bakura vs Yugi
 
+{{< dueltable header1="EP 78" header2="Bakura vs Yugi" >}}Setup|First Quarterfinal (Finalists #6 vs #3). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|The duel is on top of the "Battle Ship", with powerful freezing winds and at 1000 meters above sea level.
+Setup|Ante Rule Setup. Yugi bets Ritual of the God of Osiris. Bakura bets Necrofear Ritual.||
+Player 1|Bakura draws. He plays The One Lurking in the Painting in ATK (1200).||
+Player 2|Yugi draws. He summons Magnet Warrior Gamma in ATK (1500). Gamma attacks and destroys The One Lurking in the Painting. 300 LP damage. Yugi then sets a card.|1700 - 2000|
+Player 1|Bakura draws. He summons Incubus Ghost in ATK (1300)||
+Player 2|Yugi draws. Gamma attacks and destroys Incubus Ghost. 200 LP damage.|1500 - 2000|
+Player 1|Bakura draws. He summons Headless Knight in ATK (1450).||
+Player 2|Yugi draws. Gamma attacks and destroys Headless Knight. 50 LP damage.|1450 - 2000|
+Player 1|Bakura draws. He activates Necrofear Ritual to Ritual Summon Dark Necrofear (2200) by eroding the three monsters in its graveyard.||
+Player 1|Bakura then sets two cards and pass his turn, choosing not to attack.||
+Player 2|Yugi draws. He summons Dark Magician Girl (2000). He then activates his set Magic Formula and equips it to Dark Magician Girl (2000 → 2500).||
+Player 2|Dark Magician Girl (2500) attacks and destroys Dark Necrofear (2200). 300 LP damage. Due to Dark Necrofear's effect of being sent to the Graveyard, Bakura is now able to play Dark Sanctuary so he searches for it as part of that effect.|1150 - 2000|
+Player 1|Bakura draws. He activates Dark Sanctuary changing all Terrains to "Demonic Realm" and Ritual Summoning 1 "Onryou, Hateful Ghost" and 4 "Tormented Ghost"s, all face-down attached to Dark Sanctuary||
+Player 2|Yugi draws. At the beginning of each phase Bakura can re-attach one "Ghost" to another monster face-down. In the beginning of the Battle Phase he attaches 1 Tormented Ghost to Dark Magician Girl and the Onryou to Gamma.||
+Player 2|Gamma attacks directly, but the Onryou within him is revealed, negating the attack, inflicting damage to Yugi (200 LP) and healing Bakura (200 LP).|1350 - 1800|
+Player 1|Bakura draws. He plays Ouija Board to set in motion his strategy to win the duel. He then activates The Dark Door, and sets a card. Current word: (D...)||
+Player 1|He summons Earthbound Spirit and tributes it on his End Phase to keep Dark Sanctuary on the field.||
+Player 2|Yugi draws. He summons Kuriboh in face-up DEF, and enters his Battle Phase so Bakura reattaches his ghosts.||
+Player 2|Dark Magician Girl (2500) attacks directly, but since she was equipped with the Onryou the attack is negated, Yugi loses LP (300 LP) and Bakura heals (300 LP).|1650 - 1500|
+Player 2|On his End Phase, Bakura activates a Spirit Message card to write another letter with the Ouija Board. Current word: (DE...). At this point Yugi claims is impossible for Bakura to win through this effect as he doesn't have enough spell/trap zones to play all of his remaining Spirit Messages, but Bakura claims that the effect of Dark Sanctuary allows him to play Spell/Trap cards in his Frontrow.||
+Player 1|Bakura draws. He summons Critter in ATK. In the end phase he tributes it to keep Dark Sanctuary on the field, and this in turn activates the effect of Critter, adding a monster to Bakura's hand.||
+Player 2|Yugi draws. He summons Big Shield Gardna and enters his Battle Phase, so Bakura reattaches his ghosts and places the Onryou once again in Dark Magician Girl.||
+Player 2|Yugi attacks with Gamma, but Bakura activates his Dark Spirit of Silence trap, attaching it to Magnet Warrior Gamma and negating its attack, forcing Yugi to attack with Dark Magician Girl who was possessed by the Onryou. Yugi loses 300 LP and Bakura gains 300 LP.|1950 - 1200|
+Player 2|Yugi sets two cards. On his End Phase, Bakura activates a Spirit Message card to write another letter with the Ouija Board. Current word: (DEA...).||
+Player 1|Bakura draws Grudge Aggregate and summons it in face-up DEF. On his End Phase he tributes it to keep Dark Sanctuary on the field.||
+Player 2|Yugi draws. He activates his set Collected Power to attach every attached card and equip every equipped card to Kuriboh, including the Onryou and Magic Formula. Yugi then activates his Exorcism to destroy his own Kuriboh, destroying the attached cards.||
+Player 2|He then activates Resurrection of the Dead to revive Dark Necrofear in ATK, and since it is on the field, Dark Sanctuary is destroyed, and the Terrain returns to what it was.||
+Player 2|On his End Phase, Bakura activates a Spirit Message card to write another letter with the Ouija Board. Current word: (DEAT...). But without Dark Sanctuary he cannot use his frontrow to play the final letter and complete the word.||
+Player 1|Bakura draws. He summons Jogen the Spirit Purifier and uses its effect, discarding a card and destroying Dark Necrofear, which in turn reactivates Dark Sanctuary from his Graveyard, changing the Terrain once again.||
+Player 1|Bakura sets another copy of Dark Spirit of Silence and tributes Jogen in the End Phase to keep Dark Sanctuary on the field. He is going to be able to complete the combo at the end of Yugi's turn and win the duel.||
+Player 2|Yugi has to draw the out or he loses the duel.||
+Player 2|Yugi draws Ritual of the God of Osiris and activates it, tributing Dark Magician Girl, Magnet Warrior Gamma and Big Shield Gardna to Ritual Summon Osiris (X000 → 3000).||
+Player 2|Bakura tries to choose Osiris as the target for Onryou but it is destroyed by it, as it cannot possess the God.||
+Player 2|Yugi prepares to attack, but Rishid disguised as Marik appears and uses his fake Millennium Rod to "turn" Bakura back into regular Bakura, who is injured (in reality, the real Marik persuaded the evil spirit within Bakura to release the real Bakura). Doing this, Bakura would use his host as a shield to prevent Yugi from attacking and winning, but eventually the evil spirit takes over and decides to take the hit himself instead of putting his host's life at risk.||
+Player 2|Osiris attacks directly. 3000 LP damage.|0 - 1200|
+Player 2|Yugi wins.||Yugi decides to get Bakura's Change of Heart instead of Necrofear Ritual.
+{{< /dueltable >}}
+
+---
+## EP 80 - Rishid vs Jonouchi
+
+{{< dueltable header1="EP 80" header2="Rishid vs Jonouchi" >}}Setup|Second Quarterfinal (Finalists #7 vs #2). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|Rishid is playing the role of "Marik" and presents himself as him.
+Setup|Ante Rule Setup. Rishid bets Ritual Seal of Serket. Jonouchi bets Time Wizard.||
+Player 2|Jonouchi draws. He summons Gearfried the Iron Knight in ATK (1800).||
+Player 1|Rishid draws. He activates Temple of the Royal Family. He then sets two cards.||
+Player 2|Jonouchi draws. He summons Little-Winguard in ATK (1400) and passes.||
+Player 1|Rishid draws, he sets two cards.||
+Player 2|Jonouchi draws. He summons Falcon Knight (1000) in ATK. He then activates "Hurricane" but Rishid activates his set Judgment of Anubis in response to negate it. Jonouchi's monsters are destroyed due to this effect. 600 LP Damage.|2000 - 1400|
+Player 1|Rishid draws, he sets one card.||
+Player 2|Jonouchi draws. He summons Wyvern Warrior in ATK (1500), sets a card and passes.||
+Player 1|Rishid draws, he passes.||
+Player 2|Jonouchi draws, he passes.||
+Player 1|Rishid draws, he passes.||
+Player 2|Jonouchi draws and loses his temper. He summons Rocket Warrior in ATK (1500). Rocket Warrior attacks the Sarcophagus Token but Rishid activates his set Eye of Ujat to redirect the attack to Wyvern Warrior. But Jonouchi activates Monster Box in response, dodging the attack.||
+Player 2|Rishid then activates his three Embodiments of Apophis, special summoning them as monsters in ATK (1600 each). He sets a card on the column of one of them.||
+Player 2|Monster Box disappears. Jonouchi sets a card and changes Wyvern Warrior to DEF.||
+Player 1|Rishid draws. Embodiment of Apophis (1600) attacks Rocket Warrior (1500). Jonouchi tries to activate his set Scapegoat in response but Rishid uses his set Magic Jammer to negate it and destroy it. Rocket Warrior is destroyed. 100 LP damage.|2000 - 1300|
+Player 1|Jonouchi at this point feels overwhelmed by the trap tactics of "Marik" and tries to surrender, but Mai and Shizuka encourage him to continue.||
+Player 2|Jonouchi draws. He uses Foolish Burial to send "Swordsman of Landstar" from his deck to Rishid's graveyard. Then he activates Graverobber, targeting Swordsman of Landstar and Special Summoning it in DEF (1200 DEF, he does not gain 500 LP due to it being Special Summoned). He then activates his Psychic Ritual to tribute the Swordsman and Ritual Summon Psycho Shocker (2400). He says that with his ability he can negate any trap that Rishid tries to activate now.|2000 - 1300|
+Player 2|Psycho Shocker (2400) attacks and destroys one Embodiment of Apophis (1600). 800 LP damage.|1200 - 1300|
+Player 1|Rishid draws. He changes his two Embodiment of Apophis to DEF and passes.||
+Player 2|Jonouchi draws. He summons the Legendary Fisherman in ATK (1850), and it attacks and destroys one Embodiment of Apophis (1800 DEF).||
+Player 1|Rishid draws (a fake copy of) Ritual of the Sun of God Dragon to his own surprise. He hides it in the Temple to protect it and passes.||
+Player 2|Jonouchi draws. He uses Resurrection of the Dead to resurrect Wyvern Warrior, he then summons Stone Armadiller and activates his Insectorum Ritual to Ritual Summon his Insect Queen in DEF.||
+Player 2|Psycho Shocker (2400) attacks and destroys the last Embodiment of Apophis (1800 DEF).||
+Player 1|Rishid draws and Ritual Seal of Serket to Ritual Summon Holy Beast Serket in ATK (2500) by eroding the three Embodiment of Apophis from his graveyard.||
+Player 1|Serket (2500) attacks and destroys Psycho Shocker (2400). 100 LP damage. The effect of Serket activates, attaching Psycho Shocker to itself and gaining ATK (2500 → 3100)|1200 - 1200|
+Player 2|Jonouchi draws, he changes his Legendary Fisherman to DEF and passes.||
+Player 1|Rishid draws. Serket (3100) attacks and destroys Insect Queen (2400 DEF). The effect of Serket activates, attaching Insect Queen to itself and gaining ATK (3100 → 3800)||
+Player 2|Jonouchi draws, he fails to find answers to the situation in his deck. He passes his turn.||
+Player 1|Rishid draws. Serket (3800) attacks and destroys The Legendary Fisherman (1600 DEF). The effect of Serket activates, attaching The Legendary Fisherman to itself and gaining ATK (3800 → 4300)||
+Player 2|Jonouchi draws. He passes. First Idle Warning.||
+Player 2|At this point, Jonouchi tells Rishid that he isn't the real Marik as Rishid has been playing fairly while Marik himself plays dirty in order to get what he wants.||
+Player 1|Rishid draws, he is in full control of the game and sets Defense Seal in order to end this even if Jonouchi summon a monster on his next turn, but Marik mentally orders him to summon Ra to protect his own identity from being exposed, and win with it this turn.||
+Player 1|Rishid uses the effect of the Temple to retrieve the card sealed in there and activates it to Ritual Summon The Winged Divine Dragon of Ra by tributing Serket and the monsters absorbed by it. However the ritual card was fake, and the real Ra (from inside Marik's Deck) react by summoning bolts of lightning that knock out both duelists.||
+Player 1|They have the same LP. Neither of them can continue and they are about to be disqualified but Kaiba says that they will wait five minutes and the one that stands up in that time will win. Jonouchi has an encouraging dream while unconscious and manages to stand up before Rishid, so he is declared the winner because his opponent can't continue.|0 - 1200|
+Player 1|Jonouchi wins.||Jonouchi gets Ritual Seal of Serket.
+{{< /dueltable >}}
+
+---
+## EP 81 - Marik vs Mai
+
+{{< dueltable header1="EP 81" header2="Marik vs Mai" >}}Setup|Third Quarterfinal (Finalists #5 vs #4). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|
+Setup|Ante Rule Setup. Marik bets Ritual of the Sun of God Dragon. Mai bets Harpie's Feather Duster.||
+Player 2|Mai draws Dunamis Valkyria and summons it in ATK (1800 → 2340).||
+Player 1|Marik draws. He summons Revival Slime in DEF (500 DEF). He then activates Slime Breeder Reactor.||
+Player 2|Mai draws. Dunamis Valkyria attacks and destroys Revival Slime, but he regenerates.||
+Player 1|Marik draws. His reactor creates a Token. He activates Pot of Greed to draw 2 cards, and he sets a card.||
+Player 2|Mai draws. She summons Harpie Lady (1300 → 1690) in the Sky terrain and then activates Harpie's Feather Duster.||
+Player 2|Dunamis attacks and destroys a Slime Token. Mai sets a card.||
+Player 1|Marik draws. He activates his "Masked Selection Ritual" to Ritual Summon Masked Beast Death Gardius (3300).||
+Player 1|Death Gardius (3300) attacks Dunamis, who lose attack due to its own effect because its fighting a Ritual (2340 → 1800) but Mai activates her set Silver-Screen Mirror Wall to negate the attack and halve its ATK (3300 → 1650).||
+Player 2|Mai draws. Dunamis (1800) attacks and destroys Death Gardius (1650). 150 LP damage.|1850 - 2000|
+Player 2|The effect of Des Gardius activates, activating The Mask of Testament from his deck and equiping it to Dunamis Valkyrie, taking control of her. Dunamis lose the power bonus due to its own effect.||
+Player 1|Marik draws. He activates Remove Trap to destroy the Mirror Wall. Dunamis (1800) attacks and destroys the Harpie Lady (1690). 110 LP damage.|1850 - 1890|
+Player 1|At this point a Yami no Game begins.||They will lose memories of their friends and allies when a monster is destroyed in battle.
+Player 2|Mai draws. She sets a card and summons Ally-Killing Lady Knight in ATK (2000). Lady Knight attacks and destroys Dunamis Valkyrie (1800). 200 LP damage.|1650 - 1890|Due to the Yami no Game, as Dunamis was her monster, Mai forgets Anzu.
+Player 1|Marik draws. He sets a card and summons Executioner Makyura in ATK (1600). He equips Black Pendant to it (1600 → 2100).||
+Player 1|Makyura (2100) attacks Lady Knight (2000), but Mai activates her set Amazoness Archery Squad, decreasing the ATK of Makyura (2100 → 1600). Makyura is destroyed, 400 LP selfdamage.|1250 - 1890|Due to the Yami no Game, as Makyura was his monster, Marik forgets the Quiet One.
+Player 1|Since Black Pendant was sent from the field to the graveyard, its effect activates, inflicting 250 LP of damage. Also the effect of Makyura activates, and Marik can activate a trap from his hand, he activates Rope of Life to resurrect Makyura.|1250 - 1640|
+Player 1|Makyura comes back to the field with increased ATK (1600 → 2400), and it attacks and destroys Lady Knight (2000). 400 LP damage.|1250 - 1240|Due to the Yami no Game, as Lady Knight was her monster, Mai forgets Jonouchi.
+Player 1|At this point Yugi uses his Millennium Puzzle to interfere with the Shadow Game, telling Mai to not be confused by Marik's illusions and encouraging her to win and take back the memories she lost.||
+Player 2|Mai draws. She summons Amazoness Chain Master in ATK (1500) and sets a card.||
+Player 1|Marik draws and summons Holding Arms in ATK (500). He uses his Strike effect to capture Amazoness Chain Master.||
+Player 1|Mai then activates her set Burial Arm to destroy her own Amazoness Chain Master, which activates its effect, letting her name a card from Marik's deck and add it to her hand. She names "Ritual of the Sun God Dragon". As the Amazoness has left the field, the effect of Holding Arms is no longer in effect and it is moved to face-up DEF.||
+Player 2|Mai draws. She sets two cards and summons Amazoness Fighting Warrior in ATK (1500).||
+Player 2|Amazoness Fighting Warrior attacks and destroys Revival Slime, as it loses its regeneration effect.||
+Player 1|Marik draws. Makyura (2400) attacks Amazoness Fighting Warrior (1500), but Mai activates her set Amazoness Curse Master to switch the ATK of the two monsters. Since a monster's ATK was decreased, Marik activates his set Card of Last Will to draw until he has five cards in hand. Makyura is destroyed. 900 LP selfdamage.|350 - 1240|Due to the Yami no Game, as Makyura was his monster, Marik forgets Pandora.
+Player 1|The effect of Makyura activates again. Marik activates from his hand Torture Wheel, targeting Amazoness Fighting Warrior.||
+Player 1|Mai then activates her set Rescue Operation to return Amazoness Fighting Warrior to her hand and special summon Harpie Lady in ATK (1300 → 1690).||
+Player 2|Mai draws. She activates Angel's Charity to draw 3 (Kaleidoscope Elegant Doppelgangers, Harpie Lady, Cyber Bondage) and discard 2 (Triangle Ecstasy Spark, Electro Whip)||
+Player 2|She uses Kaleidoscope - Elegant Doppelgangers to special summon 2 other Harpie Ladies, she cannot attack this turn.||
+Player 2|She activates her Ritual of the Sun of God Dragon by tributing all three monsters and Ritual Summoning The Winged Divine Dragon of Ra. However, given that she didnt play it with the chant then Ra is summoned in the Sphere mode. She cannot unlock it because she doesn't know the ancient chant.||
+Player 2|Mai sets a card and passes.||
+Player 1|Marik draws. He summons Holding Legs.||
+Player 1|As he has Holding Legs and Holding Arms in the field, he activates his Sacred Stone of Ujat from his Deck, targeting Mai and trapping her and inflicting 100 LP of damage. She cannot activate her set card now.|350 - 1140|
+Player 1|Marik then activates the Hieratic Text to gain control of Ra and unlock its battle mode (5070 ATK).||
+Player 1|Ra attacks Mai directly. 5070 LP of damage.|350 - 0|
+Player 1|Marik wins||Marik decides not to take any card from her. The penalty game for the Shadow Game puts Mai into a coma, trapping her in her own mind.
+{{< /dueltable >}}
+
+---
+## EP 82 - Ishizu vs Kaiba
+
+{{< dueltable header1="EP 82" header2="Ishizu vs Kaiba" >}}Setup|Fourth Quarterfinal (Finalists #8 vs #1). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|
+Setup|Ante Rule Setup. They bet the true ownership of Ritual of the God of Obelisk.||
+Player 2|Kaiba draws Blood Vorse and summons it in ATK (1900). He then sets a card.||Deck/graveyard: 24/0 (Kaiba) 25/0 (Ishizu)
+Player 1|Ishizu draws Keldo and summons it (without even looking at it) in DEF (1600 DEF).||Deck/graveyard: 24/0 (Kaiba) 24/0 (Ishizu)
+Player 1|Ishizu plays her Millennium Necklace to the Rule Zone.||
+Player 1|She uses her Mind Prediction effect (Charges 7 → 6) to see Kaiba's hand and top 3 cards of the decks.||
+Player 1|She then activates Dragged Down into the Grave. Kaiba discard Fusion and Kaiser Glider, while Ishizu discards Revival Magic and Resurrection of the Dead. Both players now draw 2 cards.||Deck/graveyard: 22/2 (Kaiba) 22/3 (Ishizu)
+Player 2|Kaiba draws. Blood Vorse (1900) attacks and destroys Keldo (1600 DEF). Kaiba sets a card.||Deck/graveyard: 21/2 (Kaiba) 22/4 (Ishizu)
+Player 1|Ishizu draws. She summons Mudora and activates Sword of Dagla, equipping it to Mudora and increasing its ATK (1500 → 2000).||Deck/graveyard: 21/2 (Kaiba) 21/4 (Ishizu)
+Player 1|Mudora (2000) attacks Blood Vorse (1900). 100 LP damage. She gains 100 LP due to Sword of Dagla.|2100 - 1900|Deck/graveyard: 21/3 (Kaiba) 21/4 (Ishizu)
+Player 2|Kaiba draws. He plays Magic Lamp in face-up DEF.||Deck/graveyard: 20/3 (Kaiba) 21/4 (Ishizu)
+Player 1|Ishizu draws. Mudora attacks Magic Lamp but Kaiba activates his set Deck Destruction Virus of Death, destroying Ishizu's deck in the process and forcing her to send monsters from hand and field to the graveyard. She discards 3 monsters. Mudora is destroyed too. She sets a card.||Deck/graveyard: 20/4 (Kaiba) 20/8 (Ishizu)
+Player 2|Kaiba draws. He summons Death Gremlin in ATK (1600) and sets a card.||Deck/graveyard: 19/4 (Kaiba) 20/8 (Ishizu)
+Player 1|Ishizu draws. She activates Treasure Card of the Heavens so both player draw until they have six cards in hand, from them due to the virus she discards 4 more monsters. She passes her turn. Idle Warning.||Deck/graveyard: 16/4 (Kaiba) 13/12 (Ishizu)
+Player 2|Kaiba draws, he passes.||Deck/graveyard: 15/4 (Kaiba) 13/12 (Ishizu)
+Player 1|Ishizu draws and summons Gravekeeper's Disciple in face-up DEF (1000 DEF)||Deck/graveyard: 15/4 (Kaiba) 12/12 (Ishizu)
+Player 2|Kaiba draws. Death Gremlin (1600) attacks and destroys Gravekeeper's Disciple.||Deck/graveyard: 14/4 (Kaiba) 12/13 (Ishizu)
+Player 2|He activates his set Magic Removal Virus Cannon to send Ishizu's spell cards from her deck to the graveyard. 5 Spells sent in total.||Deck/graveyard: 14/5 (Kaiba) 7/18 (Ishizu)
+Player 2|At this point Ishizu activates Reversal of the Present World and Underworld, pays 1000 LP and switch the graveyards and decks of both players, and chained to it she activates her set Remove Trap to destroy the deck destruction virus. This leaves Kaiba with just a couple of cards in his deck, while Ishizu gets back every card that Kaiba made her discard.|1100 - 1900|Deck/graveyard: 5/14 (Kaiba) 18/7 (Ishizu)
+Player 1|Ishizu draws and summons Kelbek in ATK (1500 ATK), she sets a card and passes.||
+Player 2|Kaiba draws Magic Removal Virus Cannon and activates it, but Ishizu activates her face-down "Invalid" to negate the effect and destroy it. He decides not to attack and passes.||
+Player 1|Ishizu draws and summons Zolga in ATK (1700), she sets a card. Zolga (1700) attacks and destroys Death Gremlin (1600). 100 LP damage.|1100 - 1800|
+Player 2|Kaiba draws Deck Destruction Virus of Death, but Ishizu activates another copy of "Invalid" and makes him discard it. Kaiba then sets a card and passes. Idle Warning.||
+Player 1|Ishizu draws. She sets a trap card (Bomb Held by a Sacrifice) in the same column as Zolga, so that when Kaiba uses his Cross Sacrifice the bomb will be activated by Obelisk.||
+Player 1|She summons Agido in ATK (1500) and passes, as she does not have valid targets to attack.||
+Player 2|Kaiba draws and activates his set Cross Sacrifice, tributing all three of Ishizu monsters to Ritual Summon Obelisk in ATK (4000).||
+Player 2|Due to the effect of Agido, Ishizu special summons it again in face-up ATK.||
+Player 2|He prepares to use Obelisk to attack and win but the Millennium Rod activates and gives Kaiba a vision of the past. He sees himself as an ancient priest carrying a woman while standing in front of a stone tablet showing the "Blue-Eyes White Dragon". This convinces him to change his strategy.||
+Player 2|Kaiba activates Silent Dead and tributes Obelisk to special summon Blue-Eyes White Dragon from his graveyard in ATK (3000 → 3900). (By doing this he negated the secret Bomb Held by a Sacrifice)||
+Player 2|Ishizu is shocked but also hopeful, seeing that the future can be changed. Blue-Eyes (3900) attacks Agido (1500). 2400 LP damage.|0 - 1800|
+Player 2|Kaiba wins.||Kaiba now is the true owner of the Ritual of the God of Obelisk without a doubt.
+{{< /dueltable >}}
+
+---
+## EP 83 - Pegasus vs Ishizu
+
+{{< dueltable header1="EP 83" header2="Pegasus vs Ishizu" header4="Partial Duel. Flashback" >}}Setup|Duel in progress. Tabletop (Land 100%)|300 - 400|
+Setup|Both of their Millennium Items have 0 charges after being used in the duel.||
+Setup|Ishizu has Gravekeeper Priestess on the field and Necrovalley.||
+Setup|Pegasus has Sacrifice equipped with Gravekeeper's Recruiter, and a set card.||
+Setup|Pegasus has just used Exchange, showing to Ishizu his hand which contained "Ritual of the God of Obelisk" among other cards, but she instead picked "Quick Attack", which made Pegasus smile.||
+Player 2|Ishizu draws. She summons Gravekeeper's Descendant in ATK (1500). It attacks Sacrifice and destroys Recruiter, but as it was her monster she loses 300 LP.|300 - 100|
+Player 2|She then activates Quick Attack to let her Gravekeeper's Priestess (1500) attack Sacrifice (0).||
+Player 2|Pegasus seems pleased. Before the attack resolves he activates his set Final War to force a draw. Both players lose 300 LP.|0 - 0|
+Player 2|The duel ends in a draw.||Pegasus was testing Ishizu's resolve and ability to keep the God Cards safe. After the duel he seemed convinced and gave her the god cards for safekeeping.
+{{< /dueltable >}}
+
+---
+## EP 83 - Pegasus vs Gravekeeper
+
+{{< dueltable header1="EP 83" header2="Pegasus vs Gravekeeper" header4="Partial Duel. Flashback" >}}Setup|Duel in progress. Underground Temple (Cave 40%, Temple 60%). Yami no Game.|2000 - 2000|
+Setup|"Diaha" Rule activated. Each player summons a Ba token, attaching all Normal monsters in their decks to them.||
+Player 1|Pegasus activates White Dragon Tablet Ritual, eroding Blue-Eyes White Dragon from his Ba to Ritual Summon White Dragon (3000) in ATK.||
+Player 2|Gravekeeper draws. He activates Crawling Poison Dragon Tablet Ritual, eroding Crawling Dragon from his Ba to Ritual Summon Crawling Poison Dragon (1600 ATK).||
+Player 1|Pegasus draws. His White Dragon (3000) attacks and destroys Crawling Poison Dragon, who loses 600 ATK due to it fighting a LIGHT (1600 → 1000). 2000 LP damage.|2000 - 0|
+Player 1|Pegasus wins.||As it was a Yami no Game, the loser bursts into green flames and dies.
+{{< /dueltable >}}
+
+---
+## EP 84 - Bakura vs Marik
+
+{{< dueltable header1="EP 84" header2="Bakura vs Marik" >}}Setup|Duel in Aerial Dueling Arena (Sky 100%). The normal side of Marik has joined forces with Bakura to reclaim his body. It's a Yami no Game from the start.|2000 - 2000|As the player's Life Points decrease, they lose a portion of their body.
+Player 1|Bakura draws. He activates Pot of Greed. He activates Summoning Spirit Technique, discarding Robbin Goblin and using it to summon Goblin Zombie in ATK (1100). He sets a card.||
+Player 2|Marik draws. He sets Remove Trap. He then summons Drillago in ATK (1600).||
+Player 2|Drillago attacks Goblin Zombie. Bakura activates his Horrible Earthbound that will inflict damage to Marik each time he attacks, but Marik activates his set Remove Trap to destroy Horrible Earthbound. 500 LP of damage due to the battle damage.|1500 - 2000|As he lost LP, a part of Bakura's left arm vanishes.
+Player 1|Bakura draws. He sets two cards and summons Gernia in face-up DEF (1200 DEF).||
+Player 2|Marik draws and activates Treasure Cards from Heaven, each of them draw until they have 6 cards in hand.||
+Player 2|Bakura activates his set "Dying Together" to force each of them to discard their entire hand and draw 5 new cards. Bakura loses 100 LP for each card discarded by this effect (600 LP lost). Marik then sets a card.|900 - 2000|As he lost LP, a part of Bakura's body vanishes.
+Player 2|Marik activates Vengeful Bog Spirit so monsters cannot attack the turn they are summoned.||
+Player 1|Bakura draws and plays Puppet Master in face-up DEF (0 DEF). He then tributes Gernia to activate Puppet Master effect and special summon Headless Knight, Goblin Zombie and Ghost Earl from his Graveyard. However, they cannot attack.||
+Player 1|Bakura plays Dark Designator and declares Ritual of the Sun of God Dragon to have Marik add that card to his hand from his deck. Bakura then activates his set Exchange and takes that card, while Marik takes Resurrection of the Dead from his hand.||
+Player 1|Bakura activates Ritual of the Sun of God Dragon, tributing his three monsters to Ritual Summon Ra in ATK (?), and thanks to Marik he can enact the chant and summon it properly. But Marik activates his set Joyful Death Agony so all the tributed monsters have their ATK become 0 when they are tributed. He also gains 400 LP for each, so he gains 1200 LP. By doing this, Ra's ATK is now 0. Due to the secondary effect of Joyful Death Agony, Bakura changes Ra to DEF position (1050 + 1700 + 700 = 3450 DEF)|900 - 3200|
+Player 2|Marik draws. Drillago (1600) attacks and destroys Puppet Master (0 DEF)||
+Player 1|Bakura draws. He activates Underworld-Style Puppet Technique to tribute Ra and summon "Hades, Demon King of the Underworld" in ATK (2450). He does this as he sees no use in Ra anymore.||
+Player 1|He also uses his Necroear Ritual by eroding Headless Knight, Ghost Earl and Earthbound Spirit to Ritual Summon Dark Necrofear in ATK (2200).||
+Player 1|His monsters cannot attack Drillago due to the Vengeful Bog Spirit so he passes.||
+Player 2|Marik draws. He activates Resurrection of the Dead to revive Ra in ATK (0). He then activates the Instant Attack and Point-to-Point Transfer effects of Ra, to allow it to attack this turn, pay all but 1 of his Life Points to increase its stats by that amount (0 → 3199). In doing this, he summons the Incarnation version of Ra, merging with it. The normal version of Marik had no idea about this special effects of Ra.|900 - 1|Almost the entire body of Marik's vanishes, leaving only his hand and eye, while the rest is merged with Ra
+Player 2|Marik-Ra (3199) attacks (is not affected by Vengeful Bog Spirit due to its own effect) and destroys Dark Necrofear (2200 ATK). 999 LP total damage|0 - 1|
+Player 2|Marik wins.||As it was a Yami no Game, Bakura's body disappears, but he smiles saying that he is the darkness and he will return.
+{{< /dueltable >}}
+
+---
+## EP 85 - Yugi vs Jonouchi vs Kaiba vs Marik
+
+{{< dueltable header1="EP 85" header2="Yugi vs Jonouchi vs Kaiba vs Marik" >}}Setup|Duel in Duel Tower (3 arena + 2 sea). Battle Royale Rules.|2000 - 2000 - 2000 - 2000|They will define the semifinals matchup here. As they lose LP they will rise on their platforms to the top of the tower. The two duelists who lose first will duel in the semifinal first against each other.
+Setup|The turn order is determined as follows: each player chooses 1 monster from his Deck and removes it from play for that duel; the owner of the monster with the highest ATK goes first and the lowest ATK goes last. The turn order is: Kaiba ("Judge Man" 2200 ATK) → Marik ("Lekunga" 1700 ATK) → Yugi ("Gremlin" 1300 ATK) → Jonouchi ("Swordsman of Landstar" 500 ATK).||
+Player 3|Kaiba draws. He sets a card and summons Blood Vorse in ATK (1900).||
+Player 4|Marik draws. He summons Newdoria in DEF (800 DEF).||
+Player 1|Yugi draws. He summons Big Shield Gardna in DEF (2600 DEF), sets two cards and passes.||
+Player 2|Jonouchi draws. He has a bad hand. He summons Wyvern Warrior (1500) in ATK and passes.||
+Player 3|Kaiba draws. Blood Vorse (1900) attacks Wyvern Warrior (1500), but Yugi activates his set The Regulation of Tribe so that Beast monsters cannot attack.||
+Player 4|Marik draws. He sets a card and summons Lord Poison in ATK (1500).||
+Player 4|He changes Newdoria to ATK (1200), and attacks Blood Vorse (1900). Due to Newdoria effect, both monsters are destroyed. It would be 700 LP selfdamage, but Marik activates Spell of Pain to redirect that damage to another source, in this case Jonouchi. After combat is resolved, the effect of Newdoria activates, inflicting 700 damage to Kaiba.|2000 - 1300 - 1300 - 2000|
+Player 1|Yugi draws. After talking with Jonouchi, he chooses not to pay the maintenance cost for The Regulation of Tribe so it is destroyed.||
+Player 1|He summons Demon's Summon in ATK (2500). It attacks Marik's Lord Poison (1500) and Marik activates his set Holy Barrier Mirror Force, but Yugi activates in response his set "Seven Tools of the Bandit" to negate the trap by paying 500 LP. The attack continues, Demon's Summon (2500) destroys Lord Poison (1500). 1000 LP damage to Marik.|1500 - 1300 - 1300 - 1000|
+Player 2|Jonouchi draws and summons Gearfried the Iron Knight in ATK (1800). He sets a card and passes.||
+Player 3|Kaiba draws. He sets three cards and summons Blade Knight in ATK (1600). Blade Knight attacks and destroys Wyvern Warrior. 100 LP of damage to Jonouchi|1500 - 1200 - 1300 - 1000|
+Player 4|Marik draws and sets a card. He summons Dark Jeroid in ATK (1200) and activates its effect to reduce the ATK of Gearfried by 800 (1800 → 1000). Dark Jeroid attacks Gearfried, but Jonouchi activates his set Demon's Dice. It rolls a 2 (1200 → 600). Kaiba then activates his set Shrink to halve Gearfried's ATK (1000 → 500). Dark Jeroid destroys Gearfried. 100 LP damage to Jonouchi.|1500 - 1100 - 1300 - 1000|
+Player 1|Yugi draws. Demon's Summon (2500) attacks Dark Jeroid (1200), but Marik activates his set Beckon to the Dark to destroy Demon's Summon.|1500 - 1100 - 1300 - 1000|
+Player 2|Jonouchi draws. He summons Axe Raider in ATK (1700).||
+Player 2|Axe Raider (1700) attacks Blade Knight (1600) but Kaiba activates his set Ring of Destruction to destroy Axe Raider and inflict damage to himself and Jonouchi. Kaiba then activates his Ring of Defense to protect itself from that damage. Jonouchi activates his Mimic Illusionist to copy Spell of Pain from Marik's graveyard and activate it to redirect the damage to Marik instead. 1000 LP of damage to Marik.|1500 - 1100 - 1300 - 0|
+Player 2|Marik loses.||
+Player 2|Jonouchi activates Arduous Decision and due to it he summons Flame Swordsman in ATK (1800).||
+Player 3|Kaiba draws. He summons Blue-Eyes White Dragon in ATK (3000) and it attacks Flame Swordsman (1800). 1200 LP of damage to Jonouchi.|1500 - 0 - 1300 - 0|
+Player 3|Jonouchi loses.||
+Player 3|Due to the rule effects of Seeding Process, Yugi and Kaiba win.||The semifinals will be Jonouchi vs Marik and Yugi vs Kaiba
+{{< /dueltable >}}
+
+---
+## EP 86 - Marik vs Jonouchi
+
+{{< dueltable header1="EP 86" header2="Marik vs Jonouchi" >}}Setup|First Semifinal. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|
+Setup|Ante Rule Setup. Marik bets Ritual of the Sun of God Dragon. Jonouchi bets Psychic Ritual.||
+Player 1|Marik draws. He summons Gil Garth in ATK (1800). He sets a card. He uses Tribute Burial, which makes him and Jonouchi discard 1 and draw 1.||
+Player 2|Jonouchi draws. He summons Wyvern Warrior in DEF (1200).||
+Player 2|At this point a Yami no Game begins.||They are tethered to their own monsters. As a monster is destroyed or weakened, a corresponding amount of "damage" is dealt to the monster's owner.
+Player 1|Marik draws. He summons Drillago in ATK (1600). Drillago attacks and destroys Wyvern Warrior.||
+Player 2|Jonouchi draws. He summons Panther Warrior in ATK (2000). He activates Scapegoat and summon 4 Sheep Tokens in DEF. Panther Warrior attacks by tributing a Token and destroys Gil Garth (1800). 200 LP damage.|1800 - 2000|
+Player 1|Marik draws. He summons Hell Poet Helpoemer in ATK (2000) and sets a card. Drillago destroys a Sheep Token.||
+Player 2|Jonouchi draws. He summons Rocket Warrior in ATK (1500). Rocket Warrior uses its strike effect in Helpoemer, reducing its ATK (2000 → 1500). In response, Marik uses his Card of Last Will to draw 2 cards.||
+Player 1|Marik draws, but passes without doing anything.||
+Player 2|Jonouchi draws. He tributes a Sheep Token to make Panther Warrior (2000) attack Helpoemer (1500). 500 LP damage.|1300 - 2000|
+Player 2|As Helpoemer was destroyed, Marik activates his trap Hidden Soldiers, allowing him to special summon Plasma Eel from his hand in ATK (500), activating its effect and equipping itself to Panther Warrior on Jonouchi's side of the field.||
+Player 2|Since Helpoemer was destroyed in battle while in ATK position, it is sent to the opponent's graveyard. Jonouchi has to discard a card from his hand on each Battle Phase. During the end of the Battle Phase, Helpoemer's effect forces Jonouchi to discard 1 card.||
+Player 2|At the End Phase, Plasma Eel effect activates decreasing the ATK of Panther Warrior (2000 → 1500).||
+Player 1|Marik draws. He doesn't attack, he is enjoying damaging Jonouchi's monsters to torture him. He sets two cards and passes.||
+Player 2|Jonouchi draws. He summons Baby Dragon in face-up DEF (700 DEF). Rocket Warrior uses its Strike effect to weaken Drillago (1600 → 1100).||
+Player 2|At the end of the Battle Phase, Helpoemer activates and Jonouchi discards a random card (Insectorum Ritual). At the end phase Plasma Eel effect activates, weakening Panther Warrior (1500 → 1000).||
+Player 1|Marik draws. He sets a card and then activates his Dark Ritual of Legend, eroding Gil Garth from his graveyard (due to Tribute Burial lingering effect) to summon Legend Devil in ATK (1500).||
+Player 2|Jonouchi draws. Marik activates his set Torture Wheel and targets Rocket Warrior.||
+Player 2|Jonouchi summons Little Winguard in face-up DEF and changes Panther Warrior to DEF too. At the end phase Plasma Eel activates and Panther Warrior's ATK decreases (1000 → 500).||
+Player 1|Marik draws. The effect of Torture Wheel activates, inflicting 250 of direct damage to Jonouchi. Then Legend Devil gains 600 ATK due to its own effect.|1300 - 1750|
+Player 1|Legend Devil (2100) attacks and destroys Little Winguard (1800 DEF). Marik activates his Coffin Seller, inflicting damage every time a monster is destroyed. Jonouchi loses 50 LP due to Coffin Seller. Marik then sets a card.|1300 - 1700|
+Player 2|Jonouchi draws. He activates Pot of Greed to draw 2 cards. He activates Quiz: Marik has to guess which card is the one at the bottom on the graveyard. He cannot guess correctly, and Jonouchi adds Psycho Shocker to his hand, which was discarded due to Tribute Burial.||
+Player 2|Jonouchi summons Tiger Axe (1300) and activates Psychic Ritual to Ritual summon Psycho Shocker (2400). Jonouchi loses 50 LP due to Coffin Seller when tributing Tiger Axe. On its summon, Marik activates his trap Wicked God's Catastrophe but Psycho Shocker negates it and destroys it.|1300 - 1650|
+Player 2|Psycho Shocker (2400) attacks and destroys Legend Devil (2100). It would be 300 LP of Damage, but Marik activates his set Protective Seal Wall of Darkness to prevent taking the damage and draws 1 card instead. He loses 50 LP due to Coffin Seller.|1250 - 1650|
+Player 2|At the end of the battle phase Helpoemer activates and forces him to discard a random card (Fusion). At the end phase Plasma Eel activates and Panther Warrior's ATK decreases (500 → 0).||
+Player 1|Marik draws. Torture Wheel activates but Psycho Shocker negates it and destroys it, freeing Rocket Warrior.||
+Player 1|He then uses Lava Devil Ritual to tribute Psycho Shocker and Baby Dragon to Ritual Summon Lava Golem in ATK (3000) in Jonouchi's side of the field. Jonouchi loses 100 LP by Coffin Seller due to their monsters being destroyed.|1250 - 1550|
+Player 1|Marik sets a card. He didn't play a monster to his side of the field so he gets an Idle Warning (Plasma Eel is on jonouchi's side of the field).||
+Player 2|Jonouchi draws. Marik has no monsters for him to attack so he passes.||
+Player 2|In the end of the battle phase Helpoemer makes Jonouchi discard a random card (Swordsman of Landstar). Plasma Eel can't reduce the ATK of Panther Warrior anymore. At the End Phase Lava Golem inflicts 400 LP of damage to Jonouchi.|1250 - 1150|
+Player 1|Marik draws. He activates his set Monster Relief to return Plasma Eel to his hand and then summons it on the field on face-up DEF, but he does not activate its equip effect.||
+Player 1|Instead, he activates Machine Duplication Technique targeting the Eel to special summon 2 Clone Tokens targeting Plasma Eel. Marik equips one Plasma Eel Token to Rocket Warrior, and another to Lava Golem. He then sets a card.||
+Player 2|Jonouchi draws. He activates Angel's Dice to roll a die and multiply the ATK of Plasma Eel by that result. He gets a four (500 → 2000). Since the ATK now exceeds 500, Machine Duplication and the two tokens are destroyed, allowing him to tribute his monsters once again. Coffin Seller does not trigger because the tokens are not sent to the graveyard.||
+Player 2|Jonouchi activates Lightning Sword Ritual and tributes all three of his monsters (Rocket Warrior, Lava Golem and Panther Warrior) to ritual summon Gilford the Lightning. He loses 150 LP due to Coffin Seller. By tributing three monsters, Gilford allows Jonouchi to battle lock Plasma Eel into ATK.|1250 - 1000|
+Player 2|Gilford (2800) attacks Plasma Eel (2000), but Marik activates his set Nightmare's Demon Mirror to negate the attack by discarding a card, he discards the Ritual to summon Ra.||
+Player 2|Helpoemer activates but Jonouchi has no more cards in hand.||
+Player 1|Marik draws. He erodes Ra's Ritual from his graveyard to send Ra to the graveyard from the Extra Deck. He then activates Resurrection of the Dead to revive Ra in ATK (0). He then transforms it into God Phoenix, it attacks and destroys Gilford the Lightning .||
+Player 1|Due to this being a Yami no Game, Jonouchi takes a lot of real damage, but somehow he is still standing due to tremendous willpower. Marik is surprised by this, as he was counting on Ra's attack to completely destroy his mind. Marik feels he is in actual danger of losing now, he has no more useful cards in hand or field, and only controls Plasma Eel (500) in ATK battle locked due to Gilford.||
+Player 1|At the End Phase Ra is destroyed due to being special summoned from the graveyard. Marik loses 50 LP due to Coffin Seller.|1200 - 1000|
+Player 2|Jonouchi, barely standing, draws Gearfried the Iron Knight. He summons it in ATK (1800, which would be enough to win as Plasma Eel has only 500 ATK) but at that moment and due to his condition, he collapses.||
+Player 2|As Jonouchi can't continue the duel, Marik wins.|1200 - 0|Marik decides not to take any card from him. The penalty game for the Shadow Game is death, and Jonouchi stops breathing for a moment but he fights and ends up in a coma.
+{{< /dueltable >}}
+
+---
+## EP 87 - Jonouchi vs Tournament Duelist
+
+{{< dueltable header1="EP 87" header2="Jonouchi vs Tournament Duelist" header4="Partial Duel. Flashback" >}}Setup|Kaiba Corporation Arena (100% Arena). Mental recreation of the District Duel Tournament from the past that Jonouchi participated in, his first tournament.|70 - 400|
+Setup|Duel in progress. Jonouchi's opponent has Holograh in ATK (1100). Jonouchi has no cards.||
+Player 1|Jonouchi draws. He summons Flame Swordsman in ATK (1800). It attacks and destroys Holograh. 700 LP damage.||
+Player 1|Jonouchi wins.||
+{{< /dueltable >}}
+
+---
+## EP 87 - Jonouchi vs Tournament Duelist
+
+{{< dueltable header1="EP 87" header2="Jonouchi vs Tournament Duelist" header4="Partial Duel. Flashback" >}}Setup|Kaiba Corporation Arena (100% Arena). Mental recreation of the District Duel Tournament from the past that Jonouchi participated in, his first tournament.|1000 - 600|
+Setup|Duel in progress. Jonouchi's opponent has Petit Dragon in ATK (600). Jonouchi has no cards.||
+Player 1|Jonouchi draws. He summons Axe Raider in ATK (1700). It attacks and destroys Petit Dragon. 1100 LP damage.|0 - 600|
+Player 1|Jonouchi wins.||
+{{< /dueltable >}}
+
+---
+## EP 87 - Jonouchi vs Tournament Duelist
+
+{{< dueltable header1="EP 87" header2="Jonouchi vs Tournament Duelist" header4="Flashback" >}}Setup|First match of the Quarter finals (Best of 8). Kaiba Corporation Arena (100% Arena). Mental recreation of the District Duel Tournament from the past that Jonouchi participated in, his first tournament.|2000 - 2000|
+Player 2|The Kid draws. He summons Cat's Fairy in ATK (1100).||
+Player 1|Jonouchi draws. He summons Magnets #1 in ATK (1000). He equips Legendary Sword to it, increasing its ATK by 300. Magnets #1 (1300) attacks and destroys Cat's Fairy (1100). 200 LP damage.|1800 - 2000|
+Player 2|The Kid draws. He sets a card and summon Lesser Dragon in ATK (1200).||
+Player 1|Jonouchi draws. Magnets #1 (1300) attacks Lesser Dragon, but the Kid activates his set Reinforcements to increase the ATK by 500 (1200 → 1700). Magnets #1 is destroyed. 400 LP selfdamage.|1800 - 1600|
+Player 1|He summons Tiger Axe in ATK (1300) and passes.||
+Player 2|The Kid draws. He summons Cavern Devil - Ogre Rock and activates Biometal Protocol to Alter Summon Giant Idol of Steel in ATK (1400). It attacks and destroys Tiger Axe. 100 LP damage.|1800 - 1500|
+Player 1|Jonouchi draws. He summons Hero of the East in face-up DEF (1000 DEF).||
+Player 2|The Kid activates Biometal Protocol once again to Alter Summon Metal Dragon as a metalized version of Lesser Dragon. He activates Seal Defense to change Hero of the East to ATK (1100 ATK). Metal Dragon (1850) attacks and destroys Hero of the East. 750 LP damage. He then sets a card. At the End Phase Biometal Protocol is sent to the graveyard.|1800 - 650|
+Player 1|Jonouchi draws. He summons Magnets #2 in DEF (1000 DEF) and passes.||
+Player 2|The Kid draws. Metal Dragon attacks and destroys Magnets #2. He sets a card.||
+Player 1|Jonouchi draws. He summons Flame Swordsman in ATK (1800). He then activates Gust Fan targeting Metal Dragon (1850/1700 → 2250/1500). He then uses Weapon Change, paying 300 LP and changing the stats of Metal Dragon (2250/1500 → 1500/2250). In response the Kid uses Mooyan Curry to remove that negative stat reduction (1500 DEF → 1700 DEF).|1800 - 350|
+Player 1|Jonouchi thinks that there is still enough of a difference to win that fight. Flame Swordsman (1800) attacks Metal Dragon (1700) but the Kid uses Castle Walls to increase its DEF (so its ATK this turn) by 500 (1700 → 2200). Flame Swordsman is destroyed. 400 LP self-damage.|1800 - 0|
+Player 1|The Kid wins.||
+{{< /dueltable >}}
+
+---
+## EP 87 - Kaiba vs Yugi
+
+{{< dueltable header1="EP 87" header2="Kaiba vs Yugi" >}}Setup|Second Semifinal. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|
+Setup|Ante Rule Setup. Kaiba bets Ritual of the God of Obelisk. Yugi bets Ritual of the God of Osiris.||
+Player 2|Yugi draws. He summons Queen's Knight in DEF (1600 DEF) and sets a card.||
+Player 1|Kaiba draws. He summons X-Head Cannon in ATK (1800). He activates Magic Sanctuary which transform the central 6 terrains into a Colosseum and allows both players to add a Spell Card from their deck to their hands: Yugi picks "Change of Heart" while Kaiba uses "Cross Sacrifice". He sets a card.||
+Player 2|Yugi draws. He summons Magnet Warrior Alpha in DEF (1700 DEF). And sets a card.||
+Player 1|Kaiba draws. He activates Shien's Spy to give Yugi control of his monster and draw an extra card. He then activates Cross Sacrifice to tribute Yugi's monsters, but Yugi activates his set Light Sword of Card Sealing and removes Ritual of the God of Obelisk from Kaiba's hand for three turns.||
+Player 2|Yugi draws. He uses Change of Heart to take control of X-Head Cannon but Kaiba uses his set Enemy Controller to take back his X-Head Cannon. He sets a card. First turn of the sword.|1700 - 2000|
+Player 1|Kaiba draws. He summons Y-Dragon Head and activates the "Stronger Together" Rule card to Fusion Summon XY-Dragon Cannon in ATK (2200). It attacks and destroys Magnet Warrior Alpha (1700 DEF).||
+Player 1|Kaiba then activates Obedience to the Heavenly Voice and takes Ritual of the God of Osiris from Yugi's Deck and adds it to his hand.|1400 - 2000|
+Player 1|Yugi now activates his set Exchange. He takes the Osiris ritual from Kaiba's hand, and Kaiba takes Life Shaver.||
+Player 2|Yugi draws. He summons Big Shield Gardna in DEF (2600 DEF) and sets a card. Second turn of the sword.||
+Player 1|Kaiba draws. He sets a card and summons Z-Metal Tank in ATK (1500). He then activates the Union effect to defuse XY-Dragon Cannon and then Fusion Summon XYZ-Dragon Cannon in ATK (2800).||
+Player 1|XYZ-Dragon Cannon attacks and destroys Big Shield Gardna. Since one of his monsters was destroyed Yugi activates his set Soul Rope to summon King's Knight in ATK (1600), and since Yugi had Queen's Knight he activates their effect to summon Jack's Knight in ATK (1900).||
+Player 2|Yugi draws. He then activates his Ritual of the God of Osiris, tributing all three of his monsters to Ritual Summon Osiris in ATK (X000 → 3000). Osiris attacks XYZ-Dragon Cannon but Kaiba activates his set Interdimensional Matter Transporter to erode XYZ-Dragon Cannon until the End Phase, dodging the attack.||
+Player 2|Yugi sets a card, Osiris (3000 → 2000). In the End Phase XYZ-Dragon Cannon returns to the field. Third turn of the sword.||
+Player 1|Kaiba draws. The persist effect of Light Sword of Card Sealing has ended, so he recovers his Ritual of the God of Obelisk. He then tributes XYZ-Dragon Cannon which counts as three tributes due to "Fusion Tributing" Rule to Ritual Summon Obelisk in ATK (4000). Then, Osiris effect activates and it attacks Obelisk, reducing its ATK (4000 → 2000).||
+Player 1|Kaiba sets 2 cards (one of them Life Shaver). On the end phase the effect of Osiris expires because its affecting an Egyptian God, so Obelisk ATK goes up (2000 → 4000).||
+Player 2|Yugi draws (Osiris 2000 → 3000). He activates his set Pot of Greed to draw 2 cards (Osiris 3000 → 5000). Osiris is about to attack Obelisk but Kaiba activates his set Command Silencer, ending the Battle Phase and drawing 1 card.||
+Player 2|Yugi then sets 2 cards (Osiris 5000 → 3000).||
+Player 1|Kaiba draws. Yugi activates his set Hand Obliteration, making them discard and replenish their hands. Yugi draws 3 cards and Kaiba draws 3 cards. Osiris (3000 → 0 → 3000). Yugi then activates his Fallen Angel's Charity, allowing both players to add all cards discarded this turn back to their hands. Osiris (3000 → 6000).||
+Player 1|Kaiba activates Compensation of Desire to special summon Blade Knight in DEF (1000 DEF) and Sword of Soul (1900 DEF) from his hand. Osiris effect activates, striking both, but Kaiba activates his Guard of Cards to prevent them from being destroyed this turn by discarding a card.||
+Player 1|Kaiba then activates Obelisk effect, tributing both monsters so it gains infinite attack. Obelisk (INFINITE) attacks Osiris, but Yugi discards Kuriboh Barrier from his hand to protect Osiris from being destroyed this turn. Osiris (6000 → 5000). Obelisk (4000) choose to not attack Osiris again on his normal attack. Kaiba sets a card.||
+Player 2|Yugi draws. Osiris (5000 → 6000). Osiris attacks Obelisk but Kaiba activates his set Power Balance to force Yugi to discard 3 cards and him to draw 3. Osiris (6000 → 3000).||
+Player 2|Yugi activates Necromancy (Osiris 3000 → 2000) to randomly special summon Blade Knight, Sword of Soul, Kaiser Sea Horse and X-Head Cannon from Kaiba's graveyard to Kaiba's field in DEF. Osiris strike effect activates, and destroys them all one by one. Due to Necromancy's effect, all of Kaiba's monsters lose 600 ATK for each monster destroyed this way. Obelisk (4000 → 1600). Osiris attacks Obelisk once again. Since Sword of Soul was destroyed in battle, its effect activates, allowing Kaiba to increase Obelisk's ATK by 1000 (1600 → 2600). Yugi then activates the effect of Electromagnetic Turtle he sent to his graveyard due to Power Balance to end the Battle Phase.||
+Player 2|Yugi sets a card, Osiris (2000 → 1000). In the end Phase, both Necromancy and Sword of Soul's effect end so Obelisk (2600 → 4000).||
+Player 1|Kaiba draws. Obelisk (4000) attacks Osiris (1000), but Yugi activates his set Spell Textbook to discard all cards in his hand (Osiris 1000 → 0) and draw a card, if that card is a spell Yugi can activate it. Yugi draws Treasure Cards from Heaven and activates it, allowing both to draw until they have 6 cards. Osiris (0 → 6000). Kaiba activates his set Life Shaver to force Yugi to discard 2 cards as it was hidden 2 turns (Osiris 6000 → 4000). Osiris and Obelisk have the same attack and are destroyed together.||
+Player 1|Both Yugi and Kaiba have a vision of the past. After that, Kaiba sets a card and passes.||
+Player 2|Yugi draws. He summons Phantom Beast King Gazelle in DEF (1200 DEF), sets a card and passes.||
+Player 1|Kaiba draws. He summons Blue-Eyes White Dragon in ATK (3000). It attacks and destroys Gazelle.||
+Player 2|Yugi draws. He activates Resurrection of the Dead to revive Dark Magician in ATK (2500), as it was discarded previously due to Kaiba's Life Shaver. Yugi then sets a card.||
+Player 1|Kaiba draws. He sets a card. He has 4 cards in hand when he activates Card of Demise, he draws 2 cards so he has 5 now. He summons Lord of Dragons in ATK (1200).||
+Player 2|Yugi draws. Dark Magician attacks Lord of Dragons, but Kaiba activates his set Mechanical Magic Mirror to copy Resurrection of the Dead in Yugi's Graveyard and special summon Obelisk in DEF (4000 DEF). The attack is redirected to Obelisk due to the Egyptian God Rule card. 1500 LP selfdamage.|1400 - 500|
+Player 2|Yugi sets a card. On his end phase, Obelisk returns to the graveyard due to its own effect.||
+Player 1|Kaiba draws. He activates The Flute of Summoning Dragon to special summon two more Blue-Eyes White Dragon from his hand in ATK. Yugi seems defeated after this, but a vision of jonouchi reminds him of the possibilities of the cards, and he uses this effect to special summon Red-Eyes Black Dragon from his hand in ATK.||
+Player 1|Blue-Eyes attacks Dark Magician, but Yugi uses his set Magician's Selection to negate the attack and destroy Lord of Dragons.||
+Player 1|Kaiba activates Quick Attack. His Blue-Eyes attacks Red-Eyes but Yugi uses his set Curse of the Hexagram to reduce the attack. Red-Eyes (2400) destroys Blue-Eyes (3000 → 2300). 100 LP selfdamage. He sets two cards.|1300 - 500|
+Player 2|Yugi draws. He sets a card and switches Red-Eyes to DEF. Kaiba activates his Final Attack Orders, and each picks three cards for their respective decks, discarding the rest.||
+Player 1|Kaiba draws. He activates Resurrection of the Dead to bring back Blue-Eyes in ATK. Kaiba then uses his set Fusion to Fusion Summon all three of his monsters into Blue-Eyes Ultimate Dragon in ATK (4500).||
+Player 1|Yugi activates his set Double Magic to activate any spell card that Kaiba activated this turn. He uses the effect of Resurrrection of the Dead to revive Buster Blader in ATK (2600). He then uses the effect of Fusion to Fusion Summon Dark Paladin in ATK (2900). Due to its own effect it gains ATK for every Dragon so he gains 1000 in total for Blue-Eyes Ultimate and Red-Eyes (2900 → 3900).||
+Player 2|Yugi draws. He sets a card.||
+Player 1|Kaiba draws. Blue-Eyes Ultimate Dragon attacks Red-Eyes but Yugi activates his set Magic Formula, equipping it to Dark Paladin and increasing its ATK by 500. Kaiba uses his Magic Absorption to give the buff of Magic Formula to Blue-Eyes (4500 → 5000).||
+Player 1|At this point Yugi uses his set De-Fusion to convert the Ultimate in its three materials. The attack is negated. Dark Paladin gains ATK for each of the four dragons in the field now (2900 → 4900).||
+Player 2|Yugi draws. He activates Diffusion Wave-Motion, paying half of his LP and allowing Dark Paladin to attack all of Kaiba's monsters once each. Dark Paladin attacks and destroys all three Blue-Eyes (4900 - 3000 = 1900 * 3 = 5700 LP damage).|0 - 250|
+Player 2|Yugi wins.||Yugi obtains Ritual of the God of Obelisk.
+{{< /dueltable >}}
+
+---
+## EP 88 - Kaiba vs Jonouchi
+
+{{< dueltable header1="EP 88" header2="Kaiba vs Jonouchi" >}}Setup|Third-Place duel. Duel in Island in Ruins (3 scrapyard + 2 sea).|2000 - 2000|
+Setup|Ante Rule Setup. Kaiba bets Blue-Eyes White Dragon. Jonouchi bets Psychic Ritual.||
+Player 1|Kaiba draws, he summons Giant Virus in DEF and sets two cards.||
+Player 2|Jonouchi draws. He summons Gearfried (1800) in ATK. Gearfried attacks Giant Virus but Kaiba activates Deck Destruction Virus of Death, destroying Jonouchi's deck in the process on each phase.||
+Player 1|Kaiba draws. He summons La Jinn in ATK (1800) and passes.||
+Player 2|Jonouchi draws. His deck is being destroyed. He summons Swordsman of Landstar in ATK (500), gaining 500 LP due to its effect. He activates Angel's Dice, rolling a 4 (500 → 2000). Swordsman attacks and destroys La Jinn. 200 LP damage.|1800 - 2500|
+Player 1|Kaiba draws. He summons Blade Knight in ATK (1600). It attacks and destroys Swordsman of Landstar (500). 1100 LP damage.|1800 - 1400|
+Player 2|Jonouchi draws. He summons Little-Winguard (1400) in ATK. He activates Legendary Sword, but Kaiba activates Magic Absorption, switching the target to Blade Knight (1600 → 1900). Jonouchi sets a card.||
+Player 1|Kaiba draws. Blade Knight (1900) attacks and destroys Little-Winguard (1400). 500 LP damage.|1800 - 900|
+Player 2|Jonouchi draws, he activates his set Scapegoat to summon 4 sheep tokens and passes.||
+Player 1|Kaiba draws, his Blade Knight attacks and destroys a Sheep Token.||
+Player 2|Jonouchi draws. He summons Tiger Axe and activates Psychic Ritual, tributing it to Ritual Summon Psycho Shocker. He then activates its effect when the virus activates, destroying the virus from the field. Psycho Shocker (2400) attacks and destroys Blade Knight (1900). 500 LP damage. He sets a card.|1300 - 900|
+Player 1|Kaiba draws. He summons Blue-Eyes White Dragon in ATK (3000). It attacks Psycho Shocker but Jonouchi activates his set Gamble trap card. He then activates it, choosing the Dice roll. He rolls a 6, reducing Blue-Eyes ATK by 600. Both monster destroy each other as they both have 2400.||
+Player 1|Kaiba then summons Kaiser Sea Horse in ATK in the Sea (1700 → 2210) and passes.||
+Player 2|Jonouchi draws and activates Resurrection of the Dead to revive Kaiba's Blue-Eyes to his side of the field. Blue-Eyes (3000) attacks Kaiser Sea Horse (2210). Kaiba uses his Defense Ring to prevent the 790 LP battle damage. Jonouchi sets a card.||
+Player 1|Kaiba draws. He summons a second Blue-Eyes and make it crash against Jonouchi's one, destroying both monsters as they had the same ATK. He then uses his own Resurrection of the Dead to revive his Blue-Eyes. He sets a card.||
+Player 2|Jonouchi draws and passes.||
+Player 1|Kaiba draws. He activates his set Defense Seal but as a trap given than Jonouchi has 3 Sheep Tokens in DEF. They are all switched to ATK. Kaiba's Blue-Eyes (3000) attacks a Sheep Token that is in ATK now (0), but Jonouchi activates Nutrient Z, changing his LP to 4000 before damage calculation.|1300 - 4000|
+Player 1|Blue-Eyes (3000) attacks the Sheep Token (0), the monster is not destroyed. 3000 LP damage.|1300 - 1000|
+Player 2|Jonouchi draws. He uses Magic Removal to destroy the Defense Seal. He switches his Sheep Tokens to DEF and passes.||
+Player 1|Kaiba draws. His Blue-Eyes destroys a Sheep Token. Only 2 remaining.||
+Player 2|Jonouchi draws. He summons Baby Dragon and activates his Time Wizard as a spell. It rolls ok, so he transforms Baby Dragon into Thousand Dragon. But in response, Kaiba uses his Interdimensional Matter Transporter to remove his Blue-Eyes for a turn (at the End Phase it returns). The Sheep Tokens are destroyed.||
+Player 1|Kaiba draws. His Blue-Eyes has returned. He plays his Curse of Darkness on Thousand Dragon, weakening it (2400 → 1700). Blue-Eyes (3000) attacks and destroys Thousand Dragon (1700). 1300 LP damage.|1300 - 0|
+Player 1|Kaiba wins.||Kaiba decides not to take any card from him.
+{{< /dueltable >}}
+
+---
+## EP 89 - Marik vs Yugi
+
+{{< dueltable header1="EP 89" header2="Marik vs Yugi" >}}Setup|Final. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|Before the duel starts Kaiba gives a card to Yugi.
+Setup|Ante Rule Setup. Marik bets Ritual of the Sun of God Dragon. Yugi bets Ritual of the God of Osiris. It's a Yami no Game from the start.||As the player's Life Points decrease, they lose a portion of their body.
+Player 1|Marik draws. He summons Swift-Attacking Bloodsucker Leech in DEF (1200). He erodes Ritual of the Sun God from his hand to send Ra to the graveyard. He passes.||
+Player 2|Yugi draws. He summons Queen's Knight in ATK (1500). Before it can attack, Marik activates Bloodsucker Leech effect, draining Queen's Knight DEF by 500 and gaining 400 LP. Due to its effect, Yugi gains 100 LP too.|2400 - 2100|
+Player 2|Queen's Knight attacks and destroys the Leech. Yugi sets two cards.||
+Player 1|Marik draws. He summons Juragedo in ATK (1700), who attacks and destroys Queen's Knight (1500). 200 LP damage. Marik then sets two cards.|2400 - 1900|
+Player 2|Yugi draws. Marik activates his set "Left Arm Offering" to discard his hand and add Resurrection of the Dead from his Deck to his hand. Yugi then activates his set Exchange: Yugi takes Resurrection of the Dead and Marik takes Fusion Cancel.||
+Player 2|Yugi activates Resurrection of the Dead to bring back Queen's Knight in ATK. He then summons King's Knight in ATK (1600) and due to its effect he summons Jack's Knight from his deck in ATK (1900).||
+Player 1|Marik draws. He sets a card and activates Treasure Cards from Heaven to make them both draw until they have 6 cards in hand. He then switches Juragedo to DEF.||
+Player 2|Yugi draws. He activates Ritual of the God of Osiris to summon Osiris in ATK (0 → 6000) by tributing his three knight monsters.||
+Player 2|Osiris attacks Juragedo but Marik activates his set Dark Magic Regeneration to activate Resurrection of the Dead from his graveyard, reviving Ra in DEF. He then transforms it into Egyptian God Phoenix (0). The attack is redirected to it but the Phoenix cannot be destroyed by battle.||
+Player 2|The effect of Osiris then activates, but it doesn't destroy Ra due to Hierarchy.||
+Player 2|Marik then activates Ra's Phoenix effect to make it attack and destroy Osiris. No LP damage inflicted. At the End Phase, Ra returns to the graveyard.||
+Player 2|Marik then activates his Zombie's Jewel to add Resurrection of the Dead from Yugi's graveyard to his hand, and allow Yugi to draw a card. Yugi draws and without looking at it he sets it to everyone's surprise. Ishizu stares at Seto in disbelief, and he asks to himself if Yugi just created a miracle. The judge of the duel tells Yugi to check the card he set, but Kaiba says that he can continue.||
+Player 1|Marik draws. He uses Resurrection of the Dead to revive Ra in ATK (0). He then pays all but 1 of his LP (2400 → 1) to activate its second effect, increasing its ATK/DEF by that amount (0 → 2399). This fuses Ra with Marik into a single integration monster. Marik tributes Juragedo to increase Ra's ATK/DEF by that card's values (1700/1300). Ra (2399 ATK → 4099 ATK).|ene-00|
+Player 1|Ra (2249) attacks directly but Yugi activates his set Devil's Sanctuary to special summon a Metal Devil Token in ATK. A replay happens. Marik activates his Fusion Cancel in response, stopping the attack, and gaining Ra's ATK as LP (1 → 4099 LP) due to its own quick effect. Ra is special summoned to the field from erosion but with 0 ATK. Marik sets a card. In the end phase Ra returns to the graveyard.|4099 - 1900|
+Player 2|Yugi draws. He pays 500 LP to keep his Metal Devil Token on the field.|4099 - 1400|
+Player 2|He activates Multiply to Special Summon two more Metal Devil Tokens in ATK, he then tributes all three to Ritual summon Obelisk in ATK (4000). Obelisk attacks directly. 4000 LP damage.|99 - 1400|
+Player 2|Marik activates his Metal Reflect Slime, special summoning itself as a God Slime with 3000 DEF. Yugi sets a card.||
+Player 1|Marik draws. He summons Revival Slime in DEF (500). He activates Fusion to fuse God Slime with Revival Slime to create Immortal God Slime in DEF (3000 DEF).||
+Player 2|Yugi draws. Obelisk attacks and destroys Immortal God Slime, but Marik activates its effect, special summoning it in DEF position.||
+Player 1|Marik draws. He sets a card and summons Bowganian in ATK (1000) and activates its Strike effect to inflict 100 LP of direct damage.|99 - 1300|
+Player 2|Yugi draws. He sets a card. He summons Dark Magician Girl in ATK (2000), and makes her attack Bowganian but Marik uses his Slime Defender to redirect the attack to Immortal God Slime. 1000 LP selfdamage.|99 - 300|
+Player 1|Marik draws. He uses his Magical Stone Excavation, discarding two cards to get Resurrection of the Dead to his hand, he cannot use it that turn though. Then he sets a card and summons Granadora in DEF (700).||
+Player 1|Bowganian inflicts 100 LP due to its Strike effect. At this point the normal Marik takes control of Anzu's body and tells Yugi to don't hold back as he is prepared to die, he tells him to forget about him and defeat his evil self.|99 - 200|
+Player 2|Yugi draws. He sets two cards.||
+Player 1|Marik draws. He gains 500 LP due to Granadora (99 → 599 LP). He then activates Resurrection of the Dead to revive The Winged Dragon of Ra in ATK (0).|599 - 200|
+Player 1|Marik then transforms Ra into Egyptian God Phoenix and uses its effect to attack all opponent monsters that existed at the beginning of the battle phase, but Yugi activates his own set Resurrection of the Dead to revive Osiris in DEF (2000 DEF) and redirect the attack to it due to the Egyptian God rule effect as it was special summoned in battle, protecting Obelisk.||
+Player 1|Marik activates Surprise Attack From the Darkness to allow himself to get a second Battle Phase. He then pays all but 1 of his LP (599 → 1) to activate the second effect of Ra (no longer in phoenix mode) and merge with it to play its integration form (0 → 598).|1 - 200|
+Player 1|Yugi activates his Soul Taker to tribute Egyptian God Slime, and it counts as two tributes due to Fusion Tribute Rule so he uses it to activate Obelisk ATK infinite and allowing him to attack during Marik's battle phase. Due to Soul Taker cost, Marik gains 3000 LP.|3001 - 200|
+Player 1|Marik in response tributes Bowganian (1300 ATK) and Granadora (1900 ATK) and pays all but 1 of his LP to increase Ra's ATK/DEF (598 + 1300 + 1900 + 3000 → 6798). He then activates his set Class System to prevent Ra's destruction in that battle between divine monsters.|1 - 200|
+Player 1|Ra (6798) attacks Obelisk (4000) but Yugi activates his set Magical Dimension to Tribute Obelisk and special summon Dark Magician in ATK (2500), attaching Dark Magician Girl to it. As part of Magical Dimension effect, the attack lost its target and the second Battle Phase ends.||
+Player 1|At this point Rishid arrives and helps the real Marik to partly regain control. Yugi activates Ragnarok, and since Marik was fused with Ra, a large part of him is also eroded (he cant transfer his ATK back to LP due to Ragnarok being an unstopable effect), allowing the real Marik to regain control of his body.||
+Player 1|Marik surrenders the duel (Surrender Card rule), banishing his evil self once and for all.|0 - 200|
+Player 1|Yugi wins and is crowned champion.||Yugi obtains Ritual of the Sun of God Dragon.
+{{< /dueltable >}}
+
+---
+## EP 90 - Jonouchi vs Yugi
+
+{{< dueltable header1="EP 90" header2="Jonouchi vs Yugi" >}}Setup|Duel not shown, open to interpretation. Jonouchi regains his Red-Eyes Black Dragon after this duel (he said at the start of the tournament that he would only take it back once he had become a True Duelist).||
+{{< /dueltable >}}

@@ -356,6 +356,8 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 
 **Battle Lock**: set the battle position of a monster for a number of turns (if no turn is specified then it's permanent as long as this effect is active). Its controller cannot change its battle position normally.
 
+**Upkeep**: its a maintenance cost to keep the card on the field. Is something that the controller of the card must do or pay in their own Standby Phase, otherwise they must move the card to the graveyard.
+
 
 ### 📝 Effect Types
 
@@ -378,6 +380,8 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 **STRATEGY**: _See the Setup Rule Card section of this rulebook._
 
 **TERRAINS**: _See the Setup Rule Card section of this rulebook._
+
+**CHANT**: An effect that is activated when you declare that you are about to summon a certain card, and happens before you summon it. If you want more immersion you are allowed (and encouraged) to actually say out loud the "summoning chant" specified in the artwork of the card, although it's not mandatory.
 
 ---
 
@@ -437,41 +441,41 @@ Additional notes for **Hidden** monsters:
 
 > **Main Card Types**
 
-Represents the four different groups of cards in this game. It is the first type listed on a card's type area, as every single card must have at least one of them: 
+Represents the four different groups of cards in this game. Every card must have at least one: 
 - **Monster, Spell, Trap, Rule**.
 
 > **Advanced Card Types**
 
-They are used as a prefix to the Main types and fundamentally change the mechanics of how that card is played or interacts. They were detailed in different areas of this rulebook, and are: 
+They are used as a prefix to the Main Card Types and fundamentally change the mechanics of how that card is played or interacts. They are detailed in different areas of this rulebook, and are: 
 - **Fusion, Ritual, Alter, Integration, Equip, Continuous, Slow, Setup, Symbol, Divine**.
 
 > **Secondary Card Types**
 
-These types don't have gameplay changes or special rulings on their own, but are used for other cards and rules to achieve differente effects or results. They are listed here:
+These types don't have gameplay changes or special rulings on their own, but are used for other cards and rules to achieve different effects or results. They are listed here:
 
 - **(Primary Monster Types)**: Refer to what the monster actually is.
-    - **Angel**: (Equivalent to "Fairy") Sprites, angels, fairies, holy beings.
+    - **Angel**: (Equivalent to "Fairy") Angels, fairies, sprites, holy beings.
     - **Aquatic**: (Equivalent to "Fish", "Sea Serpent" and partially to "Aqua"). All kinds of water monsters or creatures whose natural habitat is water, without being themselves some sort of embodiment of water itself.
-    - **Avian**: (Equivalent to "Winged Beast"). Related in some ways to birds either by being a type of them or having some bird-like feature, specially wings.
+    - **Avian**: (Equivalent to "Winged Beast"). Related in some ways to birds either by being a sub-type of birds or having some bird-like feature, specially wings.
     - **Beast**: Terrestrial beasts of all kinds.
-    - **Cosmic**: Related to space and the unknown, including alien-like entities, space machines or otherworldly creatures.
-    - **Demon**: (Equivalent to "Fiend"). All types of Demons and demon-like creatures. 
+    - **Cosmic**: Related to space and the unknown, including alien-like entities, machines designed for space or otherworldly creatures.
+    - **Demon**: (Equivalent to "Fiend"). All types of demons and demon-like creatures. 
     - **Dinosaur**: Big and smol dinos.
     - **Dragon**: (Equivalent to "Dragon" and "Wyrm") A mix of Eastern and Western conceptions of dragons.
     - **Elemental**: (Equivalent to "Rock", "Pyro", "Aqua", "Thunder"). Elementals are concepts made into living forms, be it generic like water, lightning, fire or earth or more specific ones or abstract ones. They are usually referenced with the Attribute.
     - **Esper**: (Equivalent partially to "Psychic"). Paranormal abilities for humanoid monsters sometimes mixed with electronics and some degree of technology, including cybernetic enhanced creatures.
     - **Frost**: Cold-based creatures of all types, related to ice and frost.
     - **Illusion**: Creatures related to mirages, dreams and apparitions.
-    - **Insect**: Insects of all sizes. This categorization also includes arachnids, scorpions and other arthropods too.
+    - **Insect**: Insects of all sizes. This categorization also includes arachnids, scorpions and other arthropods.
     - **Machine**: Broad type that refers to mechanical constructs, machines and technology in general.
     - **Plant**: Nature based plant-like creatures, be it small ones or overgrown ones.
-    - **Reptillian**: Reptiles in general or reptile-like creatures.
+    - **Reptillian**: Reptiles or reptile-like creatures.
     - **Spellcaster**: Individuals who naturally wield the power of magic, for example magicians, sorcerers and wizards. 
-    - **Support**: Non-warrior-like and non-spellcaster-like humanoids. A more "mentally" type of humanoid monster or someone who assists allies in different ways.
-    - **Undead**: (Equivalent to "Zombie"). Group of beings that includes mummies, zombies, skeleton, ghosts, apparitions, etc. This also includes certain supernatural beings like Vampires.
+    - **Support**: Individuals that aren't tailored for direct combat but assist allies in different ways. Also living weapons, contraptions or objects like that.
+    - **Undead**: (Equivalent to "Zombie"). Group of beings that includes mummies, zombies, skeletons, ghosts, vampires, apparitions, etc.
     - **Warrior**: Super broad type that refers to humanoid fighters and combatants in general.
 
-- **(Secondary Monster Types)**: Refer to what the monster can do (thematic-wise) or is affected by.
+- **(Secondary Monster Types)**: Refer to what the monster can do (theme-wise) or is affected by.
     - **Absorption**: Is able to absorb into itself other creatures or souls.
     - **Blessed**: Is being favored by a god-like entity.
     - **Burrowing**: Is able to dig and go beneath the ground with ease.
@@ -487,26 +491,30 @@ These types don't have gameplay changes or special rulings on their own, but are
     - **Regeneration**: Is able to regenerate wounds or even reverse its own death.
     - **Sealed**: Is sealed through magic or other means.
     - **Slumbering**: Is sleeping or in a deep slumber.
-    - **Thunderblast**: Is able to attack with electricity or magic of the electric type.
-    - **Union**: Is made of unions or able to naturally merge with other creatures of the same type.
+    - **Thunderblast**: Is able to attack with powerful electricity.
+    - **Union**: Is made of combined monsters or able to naturally merge with other creatures of the same type.
 
 - **(Alter Monster Types)**: A specific group of types that is exclusive to Alter Monsters.
     - **Ascended**: A monster that embraces the holy power to its fullest and is transformed by it.
     - **Eldritch**: A monster transformed in a living horror through unnatural powers beyond human comprehension.
     - **Fallen**: A monster that has fallen to the allure of dark powers and is transformed by them.
     - **Knighted**: A non-warrior monster now turned into a knight.
-    - **Metalized**: A monster covered in an alloy that turns a biological being into a metallic/technological version of itself.
+    - **Metalized**: A monster covered in an alloy that turns them into a metallic/technological version of itself.
     - **Swarm**: A group or copies/clones of a single monster, represented as multiple monsters on the very same card.
     - **Timeshifted**: An older or younger version of a particular monster, in a different point in time.
     - **Toon**: A "cartoonified" version of a regular monster.
-    - **Zombie**: A non-undead monster that comes back to life as a zombie and is now reanimated after death.
+    - **Zombie**: A reanimated non-undead monster that comes back to life as a zombie.
 
 - **(Non-Monster Card Types)**: 
+    - **Challenge**: An additional restriction to the game imposed by the duelist themselves.
     - **Duelist**: A reference to a Duelist, for example a character from the anime.
     - **Field**: A reference to a field where a duel take place, describing the terrains in scene.
 
 - **(Divine Pantheons)**: A categorization of Divine cards that are somehow related to each other: 
-    - **Palace God**, **Storm Guardian**, **Wicked God**, etc.
+    - **Palace God**, **Storm Guardian**, **Wicked God**, **Egyptian God**, etc.
+
+- **(Symbol Types)**: A categorization of Symbol Rule cards that are grouped together: 
+    - **Millennium Items**, etc.
 
 - **(Hierarchy Value)**: A single number in a unique font at the end of the type line that represents the scale of divinity that card has.
 
