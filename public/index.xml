@@ -2258,21 +2258,8 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;You are not able to include cards from this list in your decks. If a combo is listed it means that you cannot include ALL the combo-pieces together in your decks, but you might include the individual pieces of the combo.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
-&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
-    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
-        
-        
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/069.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
-        
-        
-        
-        
-    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;[KOD-069] → &lt;strong&gt;Deck Destruction Virus of Death&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;None&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;1-limited-1&#34;&gt;1️⃣ Limited 1
@@ -2284,7 +2271,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/017.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/017.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2295,7 +2282,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/058.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/069.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2306,7 +2293,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/024.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/053.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2317,7 +2304,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/058.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2328,7 +2315,77 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/099.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/024.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/MLY/049.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/004.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/005.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/006.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/099.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2338,9 +2395,15 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;[SOE-017] → &lt;strong&gt;Blue-Eyes White Dragon&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[KOD-069] → &lt;strong&gt;Deck Destruction Virus of Death&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[TEG-053] → &lt;strong&gt;Ectoplasmer&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-058] → &lt;strong&gt;Force&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[SOE-024] → &lt;strong&gt;Head of the Sealed One&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[SOE-062] → &lt;strong&gt;Holy Barrier - Mirror Force&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[MLY-049] → &lt;strong&gt;Painful Choice&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[TEG-004] → &lt;strong&gt;Ritual of the God of Osiris&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[TEG-005] → &lt;strong&gt;Ritual of the God of Obelisk&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[TEG-006] → &lt;strong&gt;Ritual of the Sun of God Dragon&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-099] → &lt;strong&gt;Silver-Screen Mirror Wall&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
@@ -2353,7 +2416,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/106.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/106.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2364,7 +2427,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/104.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/102.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2375,7 +2438,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/102.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/050.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2386,7 +2449,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/050.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/051.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2397,7 +2460,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/051.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/052.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2410,7 +2473,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/052.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/079.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2421,7 +2484,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/079.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/139.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2432,7 +2495,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/139.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/MLY/011.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2443,7 +2506,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/113.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/113.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2454,7 +2517,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/020.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/020.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2464,27 +2527,27 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;[SOE-106] → &lt;strong&gt;Attack Nullification&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[KOD-104] → &lt;strong&gt;Chaos Ritual&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[SOE-102] → &lt;strong&gt;Curse of the Hexagram&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-050] → &lt;strong&gt;Demonic Wind Deity - Hyuga&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-051] → &lt;strong&gt;Demonic Thunder Deity - Sanga&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-052] → &lt;strong&gt;Demonic Water Deity - Suga&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-079] → &lt;strong&gt;Emissaries of Reconciliation&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-139] → &lt;strong&gt;Illusion Ritual&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[MLY-011] → &lt;strong&gt;Gravity Bind&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[KOD-113] → &lt;strong&gt;Skewer Pitfall&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[SOE-020] → &lt;strong&gt;Swords of Revealing Light&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;-surplus&#34;&gt;✅ Surplus
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;You can have up to 3 copies of each of these cards in your deck.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can have up to 4 copies of each of these cards in your deck.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/072.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/072.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2495,7 +2558,18 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/079.jpg&#34; width=&#34;170&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/079.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://zudest.github.io/KingdomDuelsDeckbuilder/cards/NPH/010.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -2506,6 +2580,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;ul&gt;
 &lt;li&gt;[SOE-072] → &lt;strong&gt;Fusion&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;[SOE-079] → &lt;strong&gt;Harpie Lady&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[NPH-010] → &lt;strong&gt;Spirit Message&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 </description>
