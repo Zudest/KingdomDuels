@@ -33,7 +33,7 @@ toc = false
     - Lost it to The Other Yugi (ep. 113)
     - Title defenses: 1
 
-### Current King of Duelists
+### 👑 Current King of Duelists
 
 - **The Other Yugi**
     - Title defenses: 1 (until ep. 115)

@@ -3,23 +3,6 @@ title = 'Duels'
 toc = false
 +++
 
->_This is a list of duels from Yugioh Scrolls adapted in script format using the Kingdom Duels rules._
-
----
-
-## Millennium Chapter
-
-- [🏰 Duels from the Duelist Kingdom Arc](/scrolls/duels-duelist-kingdom-arc/)
-- [🏛️ Duels from the Museum Arc](/scrolls/duels-museum-arc/)
-- [🏙️ Duels from the Battle City Arc](/scrolls/duels-battle-city-arc/)
-
-
-## Other Links
-
-- [King of Duelists Title Tracker](/scrolls/king-of-duelists-tracker/)
-
----
-
 <div style="display: flex; justify-content: center; gap: 5px;">
 {{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
 {{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
@@ -27,4 +10,21 @@ toc = false
 {{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
 {{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
 </div>
+
+>_This is a list of duels from Yugioh Scrolls adapted in script format using the Kingdom Duels rules._
+
+## Millennium Chapter
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/ep0033.jpg" link="/scrolls/duels-duelist-kingdom-arc/" alt="Duels from the Duelist Kingdom Arc" caption="Duelist Kingdom Duels" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0065.jpg" link="/scrolls/duels-museum-arc/" alt="Duels from the Museum Arc" caption="Museum Duels" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0087.jpg" link="/scrolls/duels-battle-city-arc/" alt="Duels from the Battle City Arc" caption="Battle City Duels" width="180" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="180" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="180" >}}
+</div>
+
+
+## Other Links
+
+- [King of Duelists Title Tracker](/scrolls/king-of-duelists-tracker/)
 

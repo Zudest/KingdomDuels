@@ -16,6 +16,11 @@ readingTime = false
 ---
 ## EP 1 - Yugi vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/yugi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
+
 {{< dueltable header1="EP 1" header2="Yugi vs Jonouchi" header4="Partial duel" >}}Setup|Duel in progress, unknown LP. Tabletop terrain (100% Land)|? - (<=700)|
 Setup|Looks like Jonouchi has a spell card active, a set spell/trap, a face-down monster in def, a face-up monster in attack.||
 Setup|Jonouchi's hand contains Shadow Fighter, Sea King of Anger, Claw Reacher, Death Stalker.||
@@ -29,6 +34,10 @@ Player 1|Yugi wins||
 ---
 ## EP 1 - Kaiba vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 1" header2="Kaiba vs Yugi" >}}Setup|Duel in Kaiba Corporation Arena (Arena 100%)|2000 - 2000|
 Player 1|Kaiba summons Cyclops||
 Player 2|Yugi plays his Heart of the Cards rule symbol into his rule zone||
@@ -70,6 +79,10 @@ Player 2|Yugi wins||
 ---
 ## EP 2 - Jonouchi vs Anzu
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 2" header2="Jonouchi vs Anzu" header4="Partial duel" >}}Setup|Duel in progress, unknown LP. Tabletop terrain (100% Land)|(<= 400) - ?|
 Setup|Jonouchi has an empty field||
 Setup|Anzu has a face-down DEF monster||
@@ -82,6 +95,10 @@ Player 2|Anzu wins||
 ---
 ## EP 2 - Haga vs Ryuzaki
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/haga.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ryuzaki.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 2" header2="Haga vs Ryuzaki" header4="Partial duel" >}}Setup|Duel in progress, unknown LP. Duel in Kaiba Corporation Arena (Arena 100%)|(<= 400) - ?|
 Setup|Haga has one face down card in the backrow||
 Setup|Ryuzaki has one face down card in the backrow||
@@ -96,6 +113,10 @@ Player 1|Haga wins||
 ---
 ## EP 2 - Pegasus vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 2" header2="Pegasus vs Yugi" >}}Setup|Duel in Tabletop terrain (100% land). Yami no Game, 15 minute time limit, at the end of that the player with highest LP wins|2000 - 2000|
 Player 1|Pegasus plays his Millennium Eye into the Rule Zone||
 Player 1|Pegasus uses the first effect of Millennium Eye (7 -> 5 charges) to read yugi's hand||
@@ -126,6 +147,10 @@ Player 2|Pegasus wins due to LP difference.||
 ---
 ## EP 4-5 - Haga vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/haga.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 4-5" header2="Haga vs Yugi" >}}Setup|Forest Glade (Dueling Arena #15, 80% Forest, 20% Wasteland). Haga has 5 Forest. Yugi has 3 Forest + 2 Wasteland|2000 - 2000|
 Setup|Yugi bets 1 star chip (out of 1) and his deck. Haga bets 2 star chips (out of 2)||
 Player 1|Haga plays Killer Bee in the Forest Terrain (1200 → 1560)||
@@ -188,6 +213,10 @@ Player 2|Yugi wins.||Yugi has 3 star chips. Haga has 0 star chips (eliminated)
 ---
 ## EP 6 - Mai vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 6" header2="Mai vs Jonouchi" >}}Setup|Foot of the Mountain (Dueling Arena #10, 40% Mountain, 40% Forest, 20% Meadow). Mai has 4 Mountain 1 Forest, Jonouchi has 3 Forest 2 Meadow|2000 - 2000|
 Setup|Mai bets 1 star chip (out of 6). Jonouchi bet 1 star chip (out of 1)||
 Player 2|Jonouchi summons Masaki the Legendary Warrior on Meadow and it gets field power bonus (1100 → 1430)||
@@ -210,6 +239,10 @@ Player 2|Jonouchi wins||Jonouchi has 2 star chips. Mai has 5 star chips
 ---
 ## EP 7 - Kajiki vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kajiki.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 7" header2="Kajiki vs Yugi" >}}Setup|Ocean Cliff (Dueling Arena #16, 50% Sea, 50% Rugged Coast). Kajiki has 5 Sea, Yugi has 5 Rugged Coast|2000 - 2000|
 Setup|Kajiki bets 2 star chip (out of 3). Yugi bets 2 star chip (out of 3)||
 Player 1|Kajiki plays Devil Kraken hidden in ATK in the Sea Terrain||
@@ -235,6 +268,10 @@ Player 2|Yugi wins.||Yugi has 5 star chips. Kajiki has 1 star chips
 ---
 ## EP 8 - Mokuba vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/mokuba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 8" header2="Mokuba vs Yugi" >}}Setup|The Surrounding Forest (Dueling Arena #146, 60% Land, 40% Forest). Each player has 3 Land and 2 Forest|2000 - 2000|
 Setup|Mokuba bets 5 star chip (out of 5). Yugi bets 5 star chip (out of 5)||
 Player 1|Mokuba summons Flesh-Eating Plant in ATK||
@@ -247,6 +284,10 @@ Player 1|The duel is interrupted.|DNF|Yugi has 3 star chips at the end of the ep
 ---
 ## EP 9-10 - Impersonator of Death vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/impersonator.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 9-10" header2="Impersonator of Death vs Yugi" >}}Setup|The Surrounding Forest (Dueling Arena #146, 60% Land, 40% Forest). Each player has 3 Land and 2 Forest|2000 - 2000|
 Setup|Impersonator of Death bets 3 star chip (out of ?). Yugi bets 3 star chip (out of 3)||
 Player 1|Ghost Kaiba (Impersonator of Death) summons Cyclops in ATK and passes.||
@@ -285,6 +326,10 @@ Player 2|Yugi wins||Yugi has 6 star chips. Impersonator of Death has ? star chip
 ---
 ## EP 11 - Mai vs Unknown Opponent
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 11" header2="Mai vs Unknown Opponent" header4="Partial duel" >}}Setup|Duel in progress, unknown LP. The Forest Line (Dueling Arena #33, 60% Forest, 40% Meadow?)|? - 650|
 Setup|Unknown star chips bet (probably 2)||
 Player 1|Mai has her "Harpie Queens" declare an attack "Triangle Ecstasy Spark" on an Unknown Monster. LP Damage is 650 or more?|? - 0|
@@ -294,6 +339,10 @@ Player 1|Mai wins.||Mai has 8 star chips.
 ---
 ## EP 11-12 - Ryuzaki vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/ryuzaki.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 11-12" header2="Ryuzaki vs Jonouchi" >}}Setup|Grassland's End (Dueling Arena #45, 50% Meadow, 50% Wasteland). Ryuzaki has 5 Wasteland, Jonouchi has 5 Meadow|2000 - 2000|
 Setup|Ryuzaki bets 2 star chips (out of 5). Jonouchi bets 2 star chips (out of 2)||
 Player 2|Jonouchi starting hand contains Baby Dragon, Time Wizard, Leogun, Axe Raider and another monster. He summons Baby Dragon in face-up DEF.||
@@ -336,6 +385,10 @@ Player 2|Jonouchi wins and gets Red-Eyes Black Dragon||Jonouchi has 4 star chips
 ---
 ## EP 13 - Bakura vs The Other Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 13" header2="Bakura vs The Other Yugi" >}}Setup|Tabletop terrain (100% Land). Yami no Game|2000 - 2000|
 Setup|The Other Yugi includes in his deck some cards from Yugi, Honda, Jonouchi and Anzu.||
 Player 2|The Other Yugi erodes Commander and makes an Integration Summon of Honda the Commander in face-up DEF||
@@ -366,6 +419,10 @@ Player 2|The Other Yugi wins||
 ---
 ## EP 14 - Panik vs Mai
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/panik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 14" header2="Panik vs Mai" header4="Partial duel" >}}Setup|Duel in progress, LP unknown. Black Forest Lake (Dueling Arena #11, 40% Forest, 40% Land, 20% Lake). Each duelist has 2 Forest, 2 Land, 1 Lake|? - 800|
 Setup|Panik bets 8 star chips (out of ?). Mai bets 8 star chips (out of 8, forced to do it)||
 Player 1|Panik's side of the field has 5 Night Terrains.||
@@ -376,6 +433,10 @@ Player 1|Panik wins.||Panik has ? star chips. Mai has 0 star chips
 ---
 ## EP 14-15 - Panik vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/panik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 14-15" header2="Panik vs Yugi" >}}Setup|Black Forest Lake (Dueling Arena #11, 40% Forest, 40% Land, 20% Lake). Each duelist has 2 Forest, 2 Land, 1 Lake|2000 - 2000|
 Setup|Panik bets 8 star chips (out of ?). Yugi bets 6 star chips (out of 6) so as he is lacking 2 more Panik uses his intimidation techniques to aim firethrowers near Yugi and shackle his ankles.||
 Player 1|Panik summons Castle of Darkening face-up in DEF (1930), which searches a Flotation Ring and equips it to it, giving it flying. Also due to this effect Panik replaces all his terrains for Night Terrains. The Castle gets buffed due to field power bonus (1930 → 2509 DEF)||
@@ -406,6 +467,10 @@ Player 1|Yugi wins.||Yugi has 14 star chips, he returns 8 to Mai so he goes back
 ---
 ## EP 16 - Kaiba vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 16" header2="Kaiba vs Jonouchi" >}}Setup|Duel Disk System Rules Setup. 100% "Virtual Simulation Field" Terrains|2000 - 2000|
 Player 1|Kaiba doesn't draw (has 5 cards). He places 4 cards in the backrow and summons Minotaurus in the frontrow||
 Player 2|Jonouchi doesn't draw (has 5 cards). He places 4 cards in the backrow and summons Armored Lizard in the frontrow||
@@ -434,6 +499,11 @@ Player 1|Kaiba wins||
 ---
 ## EP 16 - Keith vs Pegasus/Tom
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/keith.jpg" width="160" >}}
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 16" header2="Keith vs Pegasus/Tom" header4="Flashback" >}}Setup|Tabletop terrain (100% Land). Before the duel start Pegasus writes a note of paper and calls a stand-in boy to duel for him, giving him the note.|2000 - 2000|
 Player 1|Keith draws and summons Garnecia Elefantis. He activates its effect to change the Terrain to Wasteland, and all players take 200 damage. Garnecia Elefantis ATK is temporarily halved (2400 → 1200).|1800 - 1800|
 Player 2|The kid (Tom) playing for Pegasus summons Flying Elephant and activates its effect, decreasing Garnecia Elefantis ATK by the difference in levels times 400 (400 * (7-4) = 1200, Garnecia Elefantis ATK: 1200 → 0).||
@@ -444,6 +514,10 @@ Player 2|Pegasus/Tom wins||
 ---
 ## EP 17-18 - Kotsuzuka vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kotsuzuka.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 17-18" header2="Kotsuzuka vs Jonouchi" >}}Setup|Secret Graveyard (Dueling Arena #13, 100% Graveyard). Each player has 5 Graveyard|2000 - 2000|
 Setup|Kotsuzuka bets 4 star chips (out of 4). Jonouchi bets 4 star chips (out of 4)||
 Player 1|Kotsuzuka is about to summon Medusa's Ghost but summons Demon Slayer the Armored Warrior in ATK due to Keith instruction.||
@@ -490,6 +564,12 @@ Player 2|Jonouchi wins||Jonouchi has 8 star chips. Kotsuzuka has 0 star chips (B
 ---
 ## EP 19-21 - Brother Kyu + Brother Mei vs Yugi + Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/brothersmeikyu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/brothersmeikyu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 19-21" header2="Brother Kyu + Brother Mei vs Yugi + Jonouchi" >}}Setup|Tag Duel Rules. Secret Underground Arena (Dueling Arena #?, 100% Arena). Each player has 5 Arena|2000 + 2000 vs 2000 + 2000|
 Setup|Mei and Kyu bet 3 star chips each (out of ?). Yugi bets 4 star chips (out of 6). Jonouchi bets 2 star chips (out of 8)||
 Player 1|Kyu summons Labyrinth Wall in DEF activating its effect. Field is now 100% Labyrinth Terrain and he plays First Labyrinth Layout Rule card.||Labyrinth coordinates: horizontal (left to right) A-G, vertical (top to bottom) 1-9.
@@ -551,6 +631,10 @@ Player 3|Yugi and Jonouchi win, and go through Kyu door out of the maze.||Yugi h
 ---
 ## EP 22-24 - Kaiba vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 22-24" header2="Kaiba vs Yugi" >}}Setup|Duel Disk System Rules Setup. 100% "Virtual Simulation Field" Terrains|2000 - 2000|
 Setup|Kaiba bets 5 star chips (out of 5, given to him by Pegasus). Yugi bets 5 star chips (out of 10)||
 Player 1|Kaiba doesn't draw (has 5 cards). He places 4 cards in the backrow and summons Gargoyle Powered in the frontrow. In his backrow/hand he has Minotaurus, Saggi, Blue-Eyes and Magic Lamp||
@@ -599,6 +683,10 @@ Player 1|Kaiba wins||Kaiba has 10 star chips. Yugi has 5 star chips
 ---
 ## EP 25 - Mai vs Anzu
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+{{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 25" header2="Mai vs Anzu" >}}Setup|Forest Glade (Dueling Arena #15, 80% Forest, 20% Wasteland). Mai has 5 Forest. Anzu has 3 Forest + 2 Wasteland|2000 - 2000|
 Setup|Mai bets 6 star chip (out of 16. Actually 8 of those were owed to yugi but she only could get 6 to spare). Anzu bets to never talk about friendship again||
 Player 2|Anzu summons Petit Angel in ATK in the Forest||
@@ -625,6 +713,10 @@ Player 2|Anzu wins.||Mai has 10 star chips. Anzu has 6 star chips, she gifts the
 ---
 ## EP 26-27 - Pegasus vs Kaiba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 26-27" header2="Pegasus vs Kaiba" >}}Setup|Duelist Kingdom Championship Arena (Dueling Arena #1, 100% Castle Grounds). Each player has 5 Castle Grounds.|2000 - 2000|
 Player 1|Pegasus plays his Millennium Eye into the Rule Zone||
 Player 1|Pegasus uses the first effect of Millennium Eye (7 -> 5 charges) to read Kaiba's hand.||
@@ -677,6 +769,10 @@ Player 2|Pegasus wins and seals Kaiba's soul.||
 ---
 ## EP 29-30 - Mai vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 29-30" header2="Mai vs Yugi" >}}Setup|Semifinal. Duelist Kingdom Championship Arena (Dueling Arena #1, 100% Castle Grounds). Each player has 5 Castle Grounds.|2000 - 2000|
 Setup|Mai shows up her Glory of the King's Right Hand, Yugi his Glory of the King's Left Hand.||
 Player 1|Mai draws, she summons Harpie Lady in ATK, she sets 1 card and passes||
@@ -725,6 +821,10 @@ Player 2|Yugi wins and moves to the final||
 ---
 ## EP 31-32 - Keith vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/keith.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 31-32" header2="Keith vs Jonouchi" >}}Setup|Semifinal. Duelist Kingdom Championship Arena (Dueling Arena #1, 100% Castle Grounds). Each player has 5 Castle Grounds.|2000 - 2000|
 Setup|Keith shows Glory of the King's Right Hand, Jonouchi shows Glory of the King's Right Hand.||
 Player 1|Keith plays a hidden monster in DEF||
@@ -772,6 +872,10 @@ Player 2|Jonouchi wins and moves to the final||
 ---
 ## EP 33-34 - Jonouchi vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 33-34" header2="Jonouchi vs Yugi" >}}Setup|Final. Duelist Kingdom Championship Arena (Dueling Arena #1, 100% Castle Grounds). Each player has 5 Castle Grounds.|2000 - 2000|
 Player 2|Yugi summons Elf Swordsman in ATK||
 Player 1|Jonouchi draws, he summons Magic Knight Giltia in ATK||
@@ -809,6 +913,10 @@ Player 2|Yugi wins and is declared the champion, he can now challenge Pegasus fo
 ---
 ## EP 35-39 - Pegasus vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 35-39" header2="Pegasus vs Yugi" >}}Setup|Duel King Title Challenge. Duelist Kingdom Championship Arena (Dueling Arena #1, 100% Castle Grounds). Each player has 5 Castle Grounds.|2000 - 2000|
 Setup|Yugi shows his Glory of the King's Left Hand. If Yugi wins, Pegasus will hand him 60% of Industrial Illusion's stocks (which will make him the new president), and restore Sugoroku, Mokuba and Kaiba's souls. If Pegasus wins he will seal Yugi's soul in a card||
 Player 2|Yugi sets a card, and summons a monster in hidden DEF.||

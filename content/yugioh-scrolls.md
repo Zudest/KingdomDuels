@@ -173,6 +173,20 @@ The story is divided into **Chapters** which are argumental arcs with a differen
 
 ---
 
+## Duel Visions
+
+<div style="display: flex; justify-content: center; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+</div>
+
+> **Author Notes**: Weird self-contained stories that are crossovers between the Yugioh Scrolls universe and different franchises.
+
+---
+
 ## Notes
 
 - A small disclaimer is that this is my own take on the yugioh story so take it as that, nothing more, nothing less. It’s essentially a fanfiction that takes advantage of a card variant that we created based on the very first rules of this anime we fans saw as kids.
