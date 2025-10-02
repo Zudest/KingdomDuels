@@ -90,7 +90,7 @@ A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while g
 
 ### ✅ Surplus
 
-> *You can have up to 4 copies of each of these cards in your deck.*
+> *You can have more than 1 of each of these cards in your deck.*
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/072.jpg" alt="" width="150" >}}
@@ -98,8 +98,8 @@ A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while g
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/NPH/010.jpg" alt="" width="150" >}}
 </div>
 
-- [SOE-072] → **Fusion**
-- [SOE-079] → **Harpie Lady**
-- [NPH-010] → **Spirit Message**
+- [SOE-072] → **Fusion** → _Up to 4 copies._
+- [SOE-079] → **Harpie Lady** → _Up to 4 copies._
+- [NPH-010] → **Spirit Message** → _Up to 7 copies._
 
 ---

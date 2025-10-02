@@ -2540,7 +2540,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;hr&gt;
 &lt;h3 id=&#34;-surplus&#34;&gt;✅ Surplus
 &lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;You can have up to 4 copies of each of these cards in your deck.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can have more than 1 of each of these cards in your deck.&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
@@ -2578,9 +2578,9 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;[SOE-072] → &lt;strong&gt;Fusion&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[SOE-079] → &lt;strong&gt;Harpie Lady&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;[NPH-010] → &lt;strong&gt;Spirit Message&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;[SOE-072] → &lt;strong&gt;Fusion&lt;/strong&gt; → &lt;em&gt;Up to 4 copies.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;[SOE-079] → &lt;strong&gt;Harpie Lady&lt;/strong&gt; → &lt;em&gt;Up to 4 copies.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;[NPH-010] → &lt;strong&gt;Spirit Message&lt;/strong&gt; → &lt;em&gt;Up to 7 copies.&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 </description>
@@ -11385,7 +11385,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://kingdomduels.com/img/chars/0.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/shizuka.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
         
         
         &lt;div style=&#34;
@@ -11650,6 +11650,32 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/tom.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Tom
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
         &lt;img src=&#34;https://kingdomduels.com/img/chars/0.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
         
         
@@ -11702,7 +11728,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://kingdomduels.com/img/chars/brothersmeikyu.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/brothermei.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
         
         
         &lt;div style=&#34;
@@ -11728,7 +11754,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://kingdomduels.com/img/chars/brothersmeikyu.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/brotherkyu.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
         
         
         &lt;div style=&#34;
@@ -11769,18 +11795,20 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
             backdrop-filter: blur(4px);
             -webkit-backdrop-filter: blur(4px);
         &#34;&gt;
-            Tom
+            Gravekeeper
         &lt;/div&gt;
         
         
         
     &lt;/div&gt;
 &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://kingdomduels.com/img/chars/0.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/cyndia.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
         
         
         &lt;div style=&#34;
@@ -11795,7 +11823,33 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
             backdrop-filter: blur(4px);
             -webkit-backdrop-filter: blur(4px);
         &#34;&gt;
-            Gravekeeper
+            Cyndia
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/crocketts.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Mr. Crocketts
         &lt;/div&gt;
         
         
@@ -12430,6 +12484,32 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
             -webkit-backdrop-filter: blur(4px);
         &#34;&gt;
             Jean-Claude Magnum
+        &lt;/div&gt;
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/isono.jpg&#34; width=&#34;160&#34; alt=&#34;&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            Isono
         &lt;/div&gt;
         
         

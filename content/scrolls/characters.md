@@ -51,7 +51,7 @@ toc = false
 {{< imagetext src="/img/chars/mai.jpg" caption="Mai" width="160" >}}
 {{< imagetext src="/img/chars/mokuba.jpg" caption="Mokuba" width="160" >}}
 {{< imagetext src="/img/chars/otogi.jpg" caption="Otogi" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Shizuka" width="160" >}}
+{{< imagetext src="/img/chars/shizuka.jpg" caption="Shizuka" width="160" >}}
 {{< imagetext src="/img/chars/sugoroku.jpg" caption="Sugoroku" width="160" >}}
 </div>
 
@@ -69,12 +69,17 @@ toc = false
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/keith.jpg" caption="Keith" width="160" >}}
+{{< imagetext src="/img/chars/tom.jpg" caption="Tom" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Takaido" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Satake" width="160" >}}
-{{< imagetext src="/img/chars/brothersmeikyu.jpg" caption="Brother Mei" width="160" >}}
-{{< imagetext src="/img/chars/brothersmeikyu.jpg" caption="Brother Kyu" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Tom" width="160" >}}
+{{< imagetext src="/img/chars/brothermei.jpg" caption="Brother Mei" width="160" >}}
+{{< imagetext src="/img/chars/brotherkyu.jpg" caption="Brother Kyu" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Gravekeeper" width="160" >}}
+</div>
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/cyndia.jpg" caption="Cyndia" width="160" >}}
+{{< imagetext src="/img/chars/crocketts.jpg" caption="Mr. Crocketts" width="160" >}}
 </div>
 
 ##### Museum Arc
@@ -115,6 +120,7 @@ toc = false
 {{< imagetext src="/img/chars/esperroba.jpg" caption="Esper Roba" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Koji Nagumo" width="160" >}}
 {{< imagetext src="/img/chars/magnum.jpg" caption="Jean-Claude Magnum" width="160" >}}
+{{< imagetext src="/img/chars/isono.jpg" caption="Isono" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Tournament Duelist" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Tournament Duelist" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Tournament Duelist" width="160" >}}
