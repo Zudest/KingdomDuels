@@ -14,6 +14,10 @@ readingTime = false
 ---
 ## EP 41 - Ryuzaki vs Kajiki
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/ryuzaki.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kajiki.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 41" header2="Ryuzaki vs Kajiki" header4="Partial duel. Flashback" >}}Setup|Duel in progress. The Surrounding Forest (Dueling Arena #146, 60% Land, 40% Forest). Each player has 3 Land and 2 Forest|550 - 500|
 Setup|Kajiki has Rainbow Fish in ATK and Ammoknight in DEF||
 Setup|Ryuzaki has Brachioraidus in DEF and Baby T-Rex in DEF||
@@ -29,6 +33,10 @@ Player 2|Kajiki wins||
 ---
 ## EP 41 - Kotsuzuka vs Mai
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kotsuzuka.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 41" header2="Kotsuzuka vs Mai" header4="Partial duel. Flashback" >}}Setup|Duel in progress, unknown LP. Secret Graveyard (Dueling Arena #13, 100% Graveyard). Each player has 5 Graveyard|2000 - 1100|
 Setup|Mai has 3 Harpie Lady equipped with Electro Whip and Gust Fan (2000 ATK), but also equipped with Arms of the Dead from Kotsuzuka which equips them all due to harpie's effect. The harpies are battle locked into DEF (they would be able to attack due to gust fan ignoring the attack restriction, but due to them being in DEF they cannot, as it is not a field restriction).||
 Setup|Kotsuzuka has Call of the Living Dead, Arms of the Dead, Gravedigger Ghoul in ATK, Corroding Shark in ATK, Dragon Zombie in ATK. In hand he has: Call from the Graveyard, Mammoth Graveyard||
@@ -42,6 +50,12 @@ Player 2|Mai wins||
 ---
 ## EP 41 - Brother Mei + Brother Kyu vs Mai + Kajiki
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/brothermei.jpg" width="160" >}}
+{{< imagetext src="/img/chars/brotherkyu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kajiki.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 41" header2="Brother Mei + Brother Kyu vs Mai + Kajiki" header4="Partial duel. Flashback" >}}Setup|Duel in progress. Tag Duel Rules. Secret Underground Arena (Dueling Arena #?, 100% Arena) Each player has 5 Arena|2000 + 1100 vs 1400 + 1000|Labyrinth Field
 Setup|Mai has one Harpie Lady and one Harpie Lady Token outside the labyrinth and because of the flying rule they cant go inside, she also has Alluring Mirror Split||
 Setup|Kajiki has Devil Kraken and Ammoknight in the labyrinth, one set card and no cards in hand||
@@ -66,6 +80,10 @@ Player 3|Mai and Kajiki win due to Tag Duel rules||
 ---
 ## EP 41 - Kajiki vs Mai
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kajiki.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 41" header2="Kajiki vs Mai" header4="Partial duel. Flashback" >}}Setup|Duel in progress. Low Tide Islet (Dueling Arena #12, 60% Land, 40% Sea) Each player has 3 Land and 2 Sea|300 - 300|Terrain (x2): Sea | Land | Land | Land | Sea
 Setup|Mai has Harpie Queens equipped with Electro Whip in ATK, and two Harpie Lady Tokens in DEF||
 Setup|Kajiki has Leviathan in ATK and Jellyfish in DEF, his field has 4 Sea terrains now||
@@ -77,6 +95,15 @@ Player 2|Mai wins||
 ---
 ## EP 42 - The Big Five vs Kaiba + Mokuba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mokuba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 42" header2="The Big Five vs Kaiba + Mokuba" >}}Setup|Duel in Draconic Virtual Realm (Dragon Valley x10) Non-Dragon monsters summoned in Dragon Valley will be destroyed some time after being summoned there.|2000 - 2000|
 Setup|Special Rules for 2v1 duelist duel: Boss duel.||
 Player 3|Mokuba draws. He summons Niwatori in DEF and sets Burglar, he passes||
@@ -98,6 +125,12 @@ Player 2|Kaiba and Mokuba win||
 ---
 ## EP 43 - Rebecca vs Yugi (Arthur vs Sugoroku)
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/rebecca.jpg" width="160" >}}
+{{< imagetext src="/img/chars/yugi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/arthur.jpg" width="160" >}}
+{{< imagetext src="/img/chars/sugoroku.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 43" header2="Rebecca vs Yugi (Arthur vs Sugoroku)" >}}Setup|Duel in Kaiba Corporation Arena|2000 - 2000|Arena x5, Arena x5
 Setup|Sugoroku and Arthur played the exact same duel in the past, card by card, but in "Tabletop" field setup||Their terrain would have been: 10x Land
 Player 1|Rebecca draws, she summons Witch of the Black Forest in ATK||
@@ -141,6 +174,10 @@ Player 2|Rebecca wins||
 ---
 ## EP 44 - Honda vs Anzu
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/honda.jpg" width="160" >}}
+{{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 44" header2="Honda vs Anzu" header4="Partial duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|600 - 700|
 Setup|Anzu has God's Blessing and Angel Witch in ATK in the field. She has Great Infiltrator Spy on her side of the field too in DEF, sent there through its effect by Honda.||
 Setup|Honda has Killer Machine in face-up ATK, Commander in face-up DEF.||
@@ -156,6 +193,10 @@ Player 2|Anzu wins||
 ---
 ## EP 44 - Otogi vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/otogi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 44" header2="Otogi vs Jonouchi" >}}Setup|Duel in Kaiba Corporation Arena. Both of them have the Challenge Setup: "Opening Packs Challenge"|2000 - 2000|Arena x5, Arena x5
 Player 1|Otogi draws, he summons Oni Tank T-34 in ATK||
 Player 2|Jonouchi draws Sword Hunter and summons it in ATK.||
@@ -177,6 +218,10 @@ Player 1|Otogi wins||
 ---
 ## EP 45 - Otogi vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/otogi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 45" header2="Otogi vs Yugi" >}}Setup|Duel in Kaiba Corporation Arena|2000 - 2000|Arena x5, Arena x5
 Setup|Otogi begins the duel with "D.D.M. Arena" in hand, revealing it.||
 Player 1|Otogi draws (6 cards in hand), he activates D.D.M. Arena (5 in hand), changing the terrains to "Labyrinth", activating "Dungeon Dice Monsters", "Dice Phase" and "Dice Crests" Rules card, and having each player summon 1 "Dungeon Master Token" in their field (Otogi in G1, Yugi in G19). No battle damage or Idle will be applied.||Labyrinth coordinates: horizontal (left to right) A-M, vertical (top to bottom) 1-19.
@@ -245,6 +290,10 @@ Player 2|Yugi wins the duel due to Otogi's Dungeon Master Token effect.||
 ---
 ## EP 46 - Honda vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/honda.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 46" header2="Honda vs Jonouchi" header4="Partial duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|1050 - 2000|
 Setup|Jonouchi has a set card and Barbarian #1 in the field.||
 Setup|Honda has Thunder Kid in DEF.||
@@ -260,6 +309,10 @@ Player 2|Jonouchi wins.||
 ---
 ## EP 48 - Oshita vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 48" header2="Oshita vs Yugi" >}}Setup|Duel in Remote Swamp|2000 - 2000|During this battle they get physically hurt when taking damage.
 Setup|"Deckmaster System" Rule activated. Oshita chooses "Deckmaster Deepsea Warrior". Yugi chooses "Deckmaster Kuriboh".||
 Player 1|Oshita draws and plays a monster in hidden DEF.||
@@ -284,6 +337,10 @@ Player 2|Yugi wins.||
 ---
 ## EP 49 - Otaki vs Anzu
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 49" header2="Otaki vs Anzu" >}}Setup|Duel in Frozen Ocean|2000 - 2000|During this duel they get entombed in ice when taking damage.
 Setup|"Deckmaster System" Rule activated. Otaki chooses "Deckmaster Nightmare Penguin". Anzu chooses "Deckmaster Fire Sorcerer".||
 Player 2|Anzu draws Holy Barrier Mirror Force and sets it. She then summons Ancient Elf in ATK and gains 300 LP.|2000 - 2300|
@@ -312,6 +369,10 @@ Player 2|Anzu wins.||
 ---
 ## EP 50 - Ooka vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 50" header2="Ooka vs Jonouchi" >}}Setup|Duel in Grand Court Room|2000 - 2000|
 Setup|"Deckmaster System" Rule activated. Ooka chooses "Deckmaster Judge Man". Jonouchi chooses "Deckmaster Flame Swordsman".||
 Player 1|Ooka draws and summons Hysteric Angel in ATK.||
@@ -345,6 +406,12 @@ Player 2|Jonouchi wins.||
 ---
 ## EP 51 - Shizuka + Honda + Otogi vs Ota
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/shizuka.jpg" width="160" >}}
+{{< imagetext src="/img/chars/honda.jpg" width="160" >}}
+{{< imagetext src="/img/chars/otogi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 51" header2="Shizuka + Honda + Otogi vs Ota" >}}Setup|Duel in War Factory|2000 - 2000 - 2000 - 2000|During this battle they get physically hurt when taking damage.
 Setup|"Deckmaster System" Rule activated. Ota chooses "Deckmaster Machine Sargeant". Honda chooses "Deckmaster Raremetal Knight". Shizuka chooses "Deckmaster Goddess of the Mind's Eye". Otogi chooses "Deckmaster Swift Black Ninja".||
 Setup|Special Rules for 4 participant duelist duel: Battle Royale duel.||
@@ -382,6 +449,10 @@ Player 1|Shizuka and Otogi agree on a shared victory.||
 ---
 ## EP 52 - Daimon vs Kaiba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 52" header2="Daimon vs Kaiba" >}}Setup|Duel in City Bridge|2000 - 2000|
 Setup|"Deckmaster System" Rule activated. Kaiba chooses "Deckmaster Lord of Dragon". Daimon chooses "Deckmaster Psycho Shocker".||
 Player 1|Daimon draws, hides a monster in DEF (due to City terrain effect) and sets two cards.||
@@ -417,6 +488,10 @@ Player 2|Kaiba wins.||
 ---
 ## EP 53 - Noah vs Mokuba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/noah.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mokuba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 53" header2="Noah vs Mokuba" header4="Partial duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land), no Deck Masters.|400 - 2000|
 Setup|Mokuba has Niwatori in ATK. He has in his hand Saigar, Basic Insect, Sea King of Anger, Key Mace.||
 Setup|Noah has Sacred God Ares in ATK.||
@@ -427,6 +502,14 @@ Player 1|Noah wins.||
 ---
 ## EP 54 - Honda vs Jonouchi + Anzu + Yugi + Shizuka + Otogi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/honda.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/shizuka.jpg" width="160" >}}
+{{< imagetext src="/img/chars/otogi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 54" header2="Honda vs Jonouchi + Anzu + Yugi + Shizuka + Otogi" >}}Setup|Duel in Distant Canyon|2000 - 2000|
 Setup|"Deckmaster System" Rule activated. Yugi chooses "Deckmaster Dark Magician". Jonouchi chooses "Deckmaster Flame Swordsman". Anzu chooses "Deckmaster Fire Sorcerer". Shizuka chooses "Deckmaster Goddess of the Mind's Eye". Otogi chooses "Deckmaster Swift Black Ninja". Honda instead of choosing one decides to activate "Deckmaster Swap" to rotate 5 Deckmasters in each turn.||
 Setup|Boss Duel rules. They all share LP, field and graveyard. Each has a deckmaster within these rules because they are five individual duelists.||
@@ -496,6 +579,15 @@ Player 4|The team wins.||
 ---
 ## EP 55 - The Big Five vs Yugi (+ Kaiba)
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 55" header2="The Big Five vs Yugi (+ Kaiba)" >}}Setup|Duel in Draconic Virtual Realm (Dragon Valley x10) Non-Dragon monsters summoned in Dragon Valley will be destroyed some time after being summoned there.|2000 - 2000|
 Setup|"Deckmaster System" Rule activated. Yugi chooses "Deckmaster Kuriboh". The Big Five chooses "Deckmaster Five God Dragon".||
 Player 2|Yugi draws. He activates Chaos Ritual, tributing from his hand Demon's Summon and Holy Elf to Ritual Summon Chaos Soldier in ATK Position, and sets a card.||
@@ -510,6 +602,10 @@ Player 3|Yugi and Kaiba agree on a shared victory.||
 ---
 ## EP 56 - Noah vs Kaiba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/noah.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 56" header2="Noah vs Kaiba" >}}Setup|Duel in Primordial Earth (Volcano x6, Wasteland x4)|2000 - 2000|
 Setup|"Deckmaster System" Rule activated. Noah chooses "Deckmaster Ark of Miracles". Kaiba chooses "Deckmaster Lord of Dragons".||
 Player 2|Kaiba draws. He summons Giant Virus in ATK. He sets a card (Deck Destruction Virus).||
@@ -556,6 +652,10 @@ Player 2|Kaiba wins.||
 ---
 ## EP 57 - Gozaburo vs Kaiba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/gozaburo.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 57" header2="Gozaburo vs Kaiba" >}}Setup|Duel in Kaiba Corporation Arena|2000 - 2000|Arena x5, Arena x5
 Player 2|Kaiba draws and summons Sword Stalker of Revenge in ATK.||
 Player 1|Gozaburo draws and activates Painful Choice to reveal the 5 pieces of Exodia and make Kaiba pick one to add to his hand. Kaiba chooses Right Arm, and he discards the rest. He then hides a monster in DEF due to Arena Terrain effect.||
@@ -577,6 +677,10 @@ Player 2|Kaiba wins.||
 ---
 ## EP 58 - Shadi vs Kanekura
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/shadi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 58" header2="Shadi vs Kanekura" header4="Partial Duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|2000 - 2000|
 Setup|Kanekura has Rock Turtler in face-up DEF and Bolt Escargot in face-up DEF.||
 Setup|Shadi has Millennium Golem in ATK.||
@@ -593,6 +697,10 @@ Player 1|Shadi wins.||
 ---
 ## EP 59 - Shadi vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/shadi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 59" header2="Shadi vs Yugi" >}}Setup|Duel in Tabletop terrain (100% Land)|2000 - 2000|Mind duel.
 Player 1|Shadi draws and plays his Millennium Key to the Rule Zone. He activates his effect to see Yugi's Extra Deck (Charges 7 → 4)||After seeing that Yugi doesn't play his own symbol he doesn't uses his Key anymore.
 Player 1|He plays the Eye of Truth to see what yugi has in his hand. He then plays his Millennium Shield in face-up DEF and ends his turn.||
@@ -634,6 +742,10 @@ Player 2|Yugi wins.||
 ---
 ## EP 59 - Shadi vs Yoshimori
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/shadi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 59" header2="Shadi vs Yoshimori" header4="Partial Duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|1900 - 800|
 Setup|Yoshimori has Guardian Sphinx in face-up DEF.||
 Setup|Shadi has Ammit in ATK.||
@@ -648,6 +760,10 @@ Player 1|Shadi wins.||
 ---
 ## EP 60 - Priest Seto vs Pharaoh Servant
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 60" header2="Priest Seto vs Pharaoh Servant" header4="Partial Duel. Flashback" >}}Setup|Duel in progress. Pharaoh's Court (Desert 40%, Temple 60%)|2000 - 2000|
 Setup|"Diaha" Rule activated. Each player summons a Ba token, attaching all Normal monsters in their decks to them.||
 Player 1|Priest Seto draws. He activates Zemia Tablet Ritual to Ritual Summon Zemia in ATK by eroding God of Zemia from his Ba.||
@@ -667,6 +783,10 @@ Player 1|Priest Seto wins.||
 ---
 ## EP 61 - Keith vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/keith.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 61" header2="Keith vs Yugi" >}}Setup|Abandoned Warehouse terrain (20% Factory, 80% City)|2000 - 2000|
 Player 2|Yugi draws, he summons Elf Swordsman in ATK.||
 Player 1|Keith draws, he hides a monster in City terrain.||
@@ -700,6 +820,10 @@ Player 2|At this point Bakura interferes and interrupts the duel, breaking Keith
 ---
 ## EP 62 - Otogi vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/otogi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 62" header2="Otogi vs Jonouchi" header4="Partial Duel" >}}Setup|Duel in progress. Tabletop terrain (100% Land)|700 - 1100|
 Setup|Otogi has Super-Dimensional Fighter Vic Viper in ATK.||
 Setup|Jonouchi has Giant Idol of Steel in ATK equipped with Magic-Reflection Armor Metal Force, and Goblin Attack Force in DEF.||
@@ -711,6 +835,10 @@ Player 2|Jonouchi wins.||
 ---
 ## EP 62 - Step Johnny vs Anzu
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/stepjohnny.jpg" width="160" >}}
+{{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 62" header2="Step Johnny vs Anzu" >}}Setup|Duel in Kaiba Corporation Arena (Arena 100%)|2000 - 2000|
 Player 1|Johnny draws and summons Sonic Maiden in ATK.||
 Player 2|Anzu draws and summons Fairy's Gift (1400), who attacks and destroys Sonic Maiden (1200). 200 LP damage.|1800 - 2000|
@@ -731,6 +859,10 @@ Player 2|Anzu wins.||
 ---
 ## EP 63 - Ishizu vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/ishizu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 63" header2="Ishizu vs Yugi" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|
 Player 1|Ishizu plays her Millennium Necklace to the Rule Zone.||During this entire duel Ishizu in her mind predicts the next card Yugi is going to draw and play, but he doesnt use his symbol.
 Player 1|She uses her Mind Prediction effect (Charges 7 → 6) to see Yugi's hand and top 3 cards of the decks.||
@@ -753,6 +885,10 @@ Player 2|Yugi wins.||
 ---
 ## EP 64 - Bakura vs Ishizu
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ishizu.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 64" header2="Bakura vs Ishizu" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|
 Player 1|Bakura plays his Millennium Ring into the Rule Zone.||
 Player 1|Bakura uses his Mind Compass effect (Charges 7 → 6) and declare Normal Monster to have ishizu reveal to him one of them. Ishizu is surprised at seeing him having a Millennium Item, but she hasn't activated her own yet so she reveals Mudora from her hand.||
@@ -771,6 +907,10 @@ Player 1|He declares an attack using the STRIKE effect, which Ishizu responds by
 ---
 ## EP 65 - Bakura vs Pegasus
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 65" header2="Bakura vs Pegasus" header4="Partial Duel. Flashback" >}}Setup|Duel in Progress. Tabletop terrain (100% Land)|200 - 1600|
 Setup|Bakura has Millennium Ring with 0 charges and Ghost Earl in ATK.||
 Setup|Pegasus has Millennium Eye with 0 charges, has Toon World with Toon Defense attached, Toon Gemini Elf and Toon Cannon Soldier in ATK||
@@ -782,6 +922,10 @@ Player 2|Pegasus wins. Bakura would then use his Millennium Item to erase Pegasu
 ---
 ## EP 65 - Bakura vs Pegasus
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 65" header2="Bakura vs Pegasus" header4="Partial Duel. Flashback" >}}Setup|Duel in Progress. Tabletop terrain (100% Land)|1200 - 400|
 Setup|Bakura has Happy Lover in ATK equipped with Mask of Darkness (1700 ATK). He has his Millennium Ring symbol with 4 charges.||
 Setup|Pegasus has Illusionist Faceless Mage in ATK. He has his Millennium Eye symbol without charges.||
@@ -794,6 +938,10 @@ Player 2|Bakura wins.||
 ---
 ## EP 65 - Bakura vs Shadi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/shadi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 65" header2="Bakura vs Shadi" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|
 Player 1|Bakura plays his Millennium Ring into the Rule Zone.||
 Player 1|He plays a monster in hidden DEF and sets a card.||

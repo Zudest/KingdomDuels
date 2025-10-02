@@ -14,6 +14,10 @@ readingTime = false
 ---
 ## EP 66 - Rare Hunter vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/rarehunter.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 66" header2="Rare Hunter vs Jonouchi" >}}Setup|Duel in Dark Alley (City 80%, Night 20%). Ante Rule Setup.|2000 - 2000|
 Player 2|Jonouchi draws, he summons Panther Warrior in ATK in the Night Terrain.||
 Player 1|The Rare Hunter draws, he hides a monster in the Night Terrain.||
@@ -33,6 +37,10 @@ Player 1|The Rare Hunter wins.|2000 - 0|He and his Ghoul allies then attack Jono
 ---
 ## EP 67 - Rare Hunter vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/rarehunter.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 67" header2="Rare Hunter vs Yugi" >}}Setup|Duel in City Streets (City 100%)|2000 - 2000|
 Setup|Ante Rule Setup. Yugi bets Dark Magician and 1 Puzzle Card (out of 1). Rare Hunter bets Red-Eyes Black Dragon and 1 Puzzle Card (out of 1).||The Rare Hunter uses fake cards and has them marked with special ink so that he can see them with special contact lenses.
 Player 2|Yugi draws. He summons Magnet Warrior Beta and sets 2 cards.||
@@ -56,6 +64,10 @@ Player 2|Yugi wins.||Yugi obtains Red-Eyes Black Dragon. Yugi has 2 Puzzle Cards
 ---
 ## EP 68 - Esper Roba vs Ryuzaki
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/esperroba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ryuzaki.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 68" header2="Esper Roba vs Ryuzaki" header4="Partial Duel" >}}Setup|Duel in City Streets (City 100%). Duel in Progress.|2000 - 50|
 Setup|Ante Rule Setup. Esper Roba bets Psychic Ritual and 1 Puzzle Card (out of 1). Ryuzaki bets Evil Night Dragon and 1 Puzzle Card (out of 1).||
 Setup|Esper Roba has Psycho Shocker in ATK in a Wasteland Terrain (2400). Ryuzaki has Evil Night Dragon in ATK, equipped with Claws of the Dark Dragon Tribe (2350 + 600 = 2950 ATK)||
@@ -66,6 +78,10 @@ Player 1|Esper Roba wins.||Esper Roba obtains Evil Night Dragon. Esper Roba has 
 ---
 ## EP 68 - Esper Roba vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/esperroba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 68" header2="Esper Roba vs Jonouchi" >}}Setup|Duel in City Streets (City 100%).|2000 - 2000|
 Setup|Ante Rule Setup. Esper Roba bets Psychic Ritual and 1 Puzzle Card (out of 2). Jonouchi bets Time Wizard and 1 Puzzle Card (out of 1).||
 Player 2|Jonouchi draws. He summons Magic Knight Giltia in ATK and passes.||
@@ -91,6 +107,10 @@ Player 2|Jonouchi wins.||Jonouchi obtains Psychic Ritual. Jonouchi has 2 Puzzle 
 ---
 ## EP 69 - Pandora vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/pandora.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 69" header2="Pandora vs Yugi" >}}Setup|Duel in Magic Show Arena (City 40%, Arena 60%).|2000 - 2000|Both Duelists have their ankles locked so they cannot escape. As they lose life points, a buzzsaw will approach them and slice off their legs if they lose. A box holding a key will open for the winner.
 Setup|Ante Rule Setup. Yugi bets his Dark Magician and 1 Puzzle Card (out of 2). Pandora bets his Dark Magician and 1 Puzzle Card (out of 1).||Pandora has made small cuts to specific cards to know where they are in the deck.
 Player 1|Pandora draws. His hand has the Dark Magician already. He summons Legion the Magical Jester in face-up DEF position and passes.||He cheated while shuffling and has his intended card in hand.
@@ -128,6 +148,10 @@ Player 1|Yugi wins.||Yugi obtains Black Magic Curtain (he chooses it instead of 
 ---
 ## EP 70 - Haga vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/haga.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 70" header2="Haga vs Jonouchi" >}}Setup|Duel in City Park (City 40%, Forest 60%).|2000 - 2000|
 Setup|Ante Rule Setup. Haga bets Insectorum Ritual and 2 Puzzle Card (out of 2). Jonouchi bets Time Wizard and 2 Puzzle Card (out of 2).||
 Setup|Before the duel starts, a kid sent by Haga added "Parasite Paracide" to Jonouchi's deck.||
@@ -180,6 +204,10 @@ Player 2|Jonouchi wins.||Jonouchi obtains Insectorum Ritual (instead of Great Mo
 ---
 ## EP 71 - The Quiet One vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/thequietone.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 71" header2="The Quiet One vs Yugi" >}}Setup|Duel in Riverbank (City 60%, River 40%).|2000 - 2000|
 Setup|Ante Rule Setup. Yugi bets his Dark Magician and 1 Puzzle Card (out of 3). The Quiet One bets his Ritual of the God of Osiris and 1 Puzzle Card (out of 1).||
 Player 1|Marik (in full control of The Quiet One) draws. He sets a card and summons Humanoid Slime in ATK (800).||Tracker of The Quiet One cards: 30 in deck, then 25, then 24. 0 in hand, then 5, then 6, then 5, then 4.
@@ -218,6 +246,12 @@ Player 2|Yugi wins.||Yugi obtains Ritual of the God of Osiris. Yugi has 4 Puzzle
 ---
 ## EP 72 - Rare Hunter + Rare Hunter vs Kaiba + Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 72" header2="Rare Hunter + Rare Hunter vs Kaiba + Yugi" >}}Setup|Duel in City Streets (City 100%). Tag Duel Rules.|2000 - 2000 - 2000 - 2000|
 Setup|Ante Rule Setup. Rare Hunter 2 bets ??? and 1 Puzzle Card (out of 1). Rare Hunter 3 bets "Holy Barrier - Mirror Force" and 1 Puzzle Card (out of 1). Yugi bets Ritual of the God of Osiris and 1 Puzzle Card (out of 4). Kaiba bets Ritual of the God of Obelisk and 1 Puzzle Card (out of 4).||
 Player 3|Kaiba draws, he plays Pot of Greed to draw 2 cards.||
@@ -234,6 +268,10 @@ Player 3|As per Tag Duel Rules, if one of the team is defeated the whole team is
 ---
 ## EP 73 - Kajiki vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kajiki.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 73" header2="Kajiki vs Jonouchi" >}}Setup|Duel in Aquarium (City 40%, Sea 40%, Rugged Coast 20%).|2000 - 2000|
 Setup|Ante Rule Setup. Kajiki bets his Ritual of the Fortress Whale and 2 Puzzle Card (out of 4). Jonouchi bets Time Wizard and 2 Puzzle Card (out of 4).||
 Player 2|Jonouchi draws "Parasite Paracide", forgetting he had it in his deck still. He has to summon it so he does in face-up DEF.||
@@ -268,6 +306,12 @@ Player 2|Jonouchi wins.||Jonouchi obtains Ritual of the Fortress Whale due to th
 ---
 ## EP 74 - Mask of Light + Mask of Darkness vs Yugi + Kaiba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/maskoflight.jpg" width="160" >}}
+{{< imagetext src="/img/chars/maskofdarkness.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 74" header2="Mask of Light + Mask of Darkness vs Yugi + Kaiba" >}}Setup|Duel in City Streets (City 100%). Tag Duel Rules.|2000 - 2000 - 2000 - 2000|They duel on top of a skyscraper, on top of glass connected to explosives. When a player's LP reach 0, the glass floor under them will break, making them fall to their death.
 Setup|Ante Rule Setup. Mask of Light bets Masked Selection Ritual and 1 Puzzle Card (out of 1). Mask of Darkness bets Ritual of the Masked Demon Beast and 1 Puzzle Card (out of 1). Yugi bets Ritual of the God of Osiris and 1 Puzzle Card (out of 5). Kaiba bets Ritual of the God of Obelisk and 1 Puzzle Card (out of 5).||
 Player 1|Mask of Light draws, he sets two cards.||
@@ -306,6 +350,10 @@ Player 4|As per Tag Duel Rules, if one of the team is defeated the whole team is
 ---
 ## EP 75 - Anzu vs Mokuba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mokuba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 75" header2="Anzu vs Mokuba" >}}Setup|Duel in Port (City 20%, Factory 20%, Sea 60%).|2000 - 2000|Anzu is being mind-controlled by Marik.
 Setup|Mokuba is forced to duel by Anzu after she found him hiding from Marik's ghouls. Her deck has been adapted with banned cards when Marik tasked her with finding and retrieving Mokuba who had escaped moments before.||
 Player 2|Mokuba draws. He summons Key Mace in ATK (400) and passes.||
@@ -327,6 +375,10 @@ Player 1|Anzu wins.||
 ---
 ## EP 75 - Jonouchi vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/yugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 75" header2="Jonouchi vs Yugi" >}}Setup|Duel in Port (City 20%, Factory 20%, Sea 60%).|2000 - 2000|Jonouchi is being mind-controlled by Marik.
 Setup|The duel is time-limited to 40 mins. If Yugi loses he will give up his Ritual of the God of Osiris. Jonouchi's deck has been changed by the Ghouls to include banned cards. Yugi includes Red-Eyes Black Dragon in his deck before the duel starts||
 Setup|The duelists are chained to an anchor. The loser will plummet to the bottom of the seas with it. The key to unlock the shackles is inside a box near the player that shows its opponent's LP and will only open when that gets to 0. If someone else tries to interrupt the duel Anzu will die.||
@@ -358,6 +410,12 @@ Player 1|Due to the effect of Death Meteor, in the End Phase both duelist are at
 ---
 ## EP 76 - Bakura vs Kotsuzuka + Takaido + Satake
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kotsuzuka.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 76" header2="Bakura vs Kotsuzuka + Takaido + Satake" >}}Setup|Duel in City Cemetery (City 40%, Graveyard 60%). Boss Duel Rules.|2000 - 2000|They duel on top of a skyscraper, on top of glass connected to explosives. When a player's LP reach 0, the glass floor under them will break, making them fall to their death.
 Setup|Ante Rule Setup. Bakura bets Change of Heart and 1 Puzzle Card (out of 1). Kotsuzuka, Takaido and Satake bet Call of the Living Dead, Firewing Pegasus and Two-Mouth Thunder Dragon respectively, and 5 Puzzle Card (out of 5).||Bakura stole the duel disk and the puzzle card from one duelist. Kotsuzuka and the others stole the puzzle cards from other duelists.
 Player 1|Bakura draws. He summons Headless Knight in ATK in the graveyard (1450 → 1885), he then sets a card.||
@@ -379,6 +437,10 @@ Player 1|Bakura wins.||Kotsuzuka, Takaido and Satake are absorbed by dark shadow
 ---
 ## EP 77 - Jean-Claude Magnum vs Mai
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/magnum.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 77" header2="Jean-Claude Magnum vs Mai" header4="Partial Duel. Flashback" >}}Setup|Duel in Tabletop (100% Land). Duel in progress.|1000 - 2000|
 Setup|Mai has 1 Harpie Lady in ATK and two other monsters.||
 Setup|Magnum has Shien's Body Double in ATK.||
@@ -389,6 +451,10 @@ Player 2|Mai wins.||
 ---
 ## EP 77 - Jean-Claude Magnum vs Mai
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/magnum.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 77" header2="Jean-Claude Magnum vs Mai" >}}Setup|Duel in City Streets (City 100%).|2000 - 2000|
 Setup|Ante Rule Setup. Mai bets Harpie's Feather Duster and 6 Puzzle Cards (out of 6). Magnum bets Ritual Scroll of Ninjitsu and 5 Puzzle Cards (out of 5).||He states that if he wins they will marry, and she states that if she wins he'll forget about her.
 Player 1|Magnum draws. He summons Ninja Commander Ikusa in ATK. It's effect activates, changing 1 terrain to night (700 → 910), and summoning 1 Ninja Token in ATK.||
@@ -409,6 +475,10 @@ Player 2|Mai wins.||Mai decides not to get any card nor puzzle card from the def
 ---
 ## EP 78 - Bakura vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 78" header2="Bakura vs Yugi" >}}Setup|First Quarterfinal (Finalists #6 vs #3). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|The duel is on top of the "Battle Ship", with powerful freezing winds and at 1000 meters above sea level.
 Setup|Ante Rule Setup. Yugi bets Ritual of the God of Osiris. Bakura bets Necrofear Ritual.||
 Player 1|Bakura draws. He plays The One Lurking in the Painting in ATK (1200).||
@@ -450,6 +520,10 @@ Player 2|Yugi wins.||Yugi decides to get Bakura's Change of Heart instead of Nec
 ---
 ## EP 80 - Rishid vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/rishid.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 80" header2="Rishid vs Jonouchi" >}}Setup|Second Quarterfinal (Finalists #7 vs #2). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|Rishid is playing the role of "Marik" and presents himself as him.
 Setup|Ante Rule Setup. Rishid bets Ritual Seal of Serket. Jonouchi bets Time Wizard.||
 Player 2|Jonouchi draws. He summons Gearfried the Iron Knight in ATK (1800).||
@@ -491,6 +565,10 @@ Player 1|Jonouchi wins.||Jonouchi gets Ritual Seal of Serket.
 ---
 ## EP 81 - Marik vs Mai
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 81" header2="Marik vs Mai" >}}Setup|Third Quarterfinal (Finalists #5 vs #4). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|
 Setup|Ante Rule Setup. Marik bets Ritual of the Sun of God Dragon. Mai bets Harpie's Feather Duster.||
 Player 2|Mai draws Dunamis Valkyria and summons it in ATK (1800 → 2340).||
@@ -533,6 +611,10 @@ Player 1|Marik wins||Marik decides not to take any card from her. The penalty ga
 ---
 ## EP 82 - Ishizu vs Kaiba
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/ishizu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 82" header2="Ishizu vs Kaiba" >}}Setup|Fourth Quarterfinal (Finalists #8 vs #1). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|
 Setup|Ante Rule Setup. They bet the true ownership of Ritual of the God of Obelisk.||
 Player 2|Kaiba draws Blood Vorse and summons it in ATK (1900). He then sets a card.||Deck/graveyard: 24/0 (Kaiba) 25/0 (Ishizu)
@@ -569,6 +651,10 @@ Player 2|Kaiba wins.||Kaiba now is the true owner of the Ritual of the God of Ob
 ---
 ## EP 83 - Pegasus vs Ishizu
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ishizu.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 83" header2="Pegasus vs Ishizu" header4="Partial Duel. Flashback" >}}Setup|Duel in progress. Tabletop (Land 100%)|300 - 400|
 Setup|Both of their Millennium Items have 0 charges after being used in the duel.||
 Setup|Ishizu has Gravekeeper Priestess on the field and Necrovalley.||
@@ -583,6 +669,10 @@ Player 2|The duel ends in a draw.||Pegasus was testing Ishizu's resolve and abil
 ---
 ## EP 83 - Pegasus vs Gravekeeper
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 83" header2="Pegasus vs Gravekeeper" header4="Partial Duel. Flashback" >}}Setup|Duel in progress. Underground Temple (Cave 40%, Temple 60%). Yami no Game.|2000 - 2000|
 Setup|"Diaha" Rule activated. Each player summons a Ba token, attaching all Normal monsters in their decks to them.||
 Player 1|Pegasus activates White Dragon Tablet Ritual, eroding Blue-Eyes White Dragon from his Ba to Ritual Summon White Dragon (3000) in ATK.||
@@ -594,6 +684,10 @@ Player 1|Pegasus wins.||As it was a Yami no Game, the loser bursts into green fl
 ---
 ## EP 84 - Bakura vs Marik
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 84" header2="Bakura vs Marik" >}}Setup|Duel in Aerial Dueling Arena (Sky 100%). The normal side of Marik has joined forces with Bakura to reclaim his body. It's a Yami no Game from the start.|2000 - 2000|As the player's Life Points decrease, they lose a portion of their body.
 Player 1|Bakura draws. He activates Pot of Greed. He activates Summoning Spirit Technique, discarding Robbin Goblin and using it to summon Goblin Zombie in ATK (1100). He sets a card.||
 Player 2|Marik draws. He sets Remove Trap. He then summons Drillago in ATK (1600).||
@@ -617,6 +711,12 @@ Player 2|Marik wins.||As it was a Yami no Game, Bakura's body disappears, but he
 ---
 ## EP 85 - Yugi vs Jonouchi vs Kaiba vs Marik
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 85" header2="Yugi vs Jonouchi vs Kaiba vs Marik" >}}Setup|Duel in Duel Tower (3 arena + 2 sea). Battle Royale Rules.|2000 - 2000 - 2000 - 2000|They will define the semifinals matchup here. As they lose LP they will rise on their platforms to the top of the tower. The two duelists who lose first will duel in the semifinal first against each other.
 Setup|The turn order is determined as follows: each player chooses 1 monster from his Deck and removes it from play for that duel; the owner of the monster with the highest ATK goes first and the lowest ATK goes last. The turn order is: Kaiba ("Judge Man" 2200 ATK) → Marik ("Lekunga" 1700 ATK) → Yugi ("Gremlin" 1300 ATK) → Jonouchi ("Swordsman of Landstar" 500 ATK).||
 Player 3|Kaiba draws. He sets a card and summons Blood Vorse in ATK (1900).||
@@ -644,6 +744,10 @@ Player 3|Due to the rule effects of Seeding Process, Yugi and Kaiba win.||The se
 ---
 ## EP 86 - Marik vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 86" header2="Marik vs Jonouchi" >}}Setup|First Semifinal. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|
 Setup|Ante Rule Setup. Marik bets Ritual of the Sun of God Dragon. Jonouchi bets Psychic Ritual.||
 Player 1|Marik draws. He summons Gil Garth in ATK (1800). He sets a card. He uses Tribute Burial, which makes him and Jonouchi discard 1 and draw 1.||
@@ -691,6 +795,10 @@ Player 2|As Jonouchi can't continue the duel, Marik wins.|1200 - 0|Marik decides
 ---
 ## EP 87 - Jonouchi vs Tournament Duelist
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 87" header2="Jonouchi vs Tournament Duelist" header4="Partial Duel. Flashback" >}}Setup|Kaiba Corporation Arena (100% Arena). Mental recreation of the District Duel Tournament from the past that Jonouchi participated in, his first tournament.|70 - 400|
 Setup|Duel in progress. Jonouchi's opponent has Holograh in ATK (1100). Jonouchi has no cards.||
 Player 1|Jonouchi draws. He summons Flame Swordsman in ATK (1800). It attacks and destroys Holograh. 700 LP damage.||
@@ -700,6 +808,10 @@ Player 1|Jonouchi wins.||
 ---
 ## EP 87 - Jonouchi vs Tournament Duelist
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 87" header2="Jonouchi vs Tournament Duelist" header4="Partial Duel. Flashback" >}}Setup|Kaiba Corporation Arena (100% Arena). Mental recreation of the District Duel Tournament from the past that Jonouchi participated in, his first tournament.|1000 - 600|
 Setup|Duel in progress. Jonouchi's opponent has Petit Dragon in ATK (600). Jonouchi has no cards.||
 Player 1|Jonouchi draws. He summons Axe Raider in ATK (1700). It attacks and destroys Petit Dragon. 1100 LP damage.|0 - 600|
@@ -709,6 +821,10 @@ Player 1|Jonouchi wins.||
 ---
 ## EP 87 - Jonouchi vs Tournament Duelist
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 87" header2="Jonouchi vs Tournament Duelist" header4="Flashback" >}}Setup|First match of the Quarter finals (Best of 8). Kaiba Corporation Arena (100% Arena). Mental recreation of the District Duel Tournament from the past that Jonouchi participated in, his first tournament.|2000 - 2000|
 Player 2|The Kid draws. He summons Cat's Fairy in ATK (1100).||
 Player 1|Jonouchi draws. He summons Magnets #1 in ATK (1000). He equips Legendary Sword to it, increasing its ATK by 300. Magnets #1 (1300) attacks and destroys Cat's Fairy (1100). 200 LP damage.|1800 - 2000|
@@ -728,6 +844,10 @@ Player 1|The Kid wins.||
 ---
 ## EP 87 - Kaiba vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 87" header2="Kaiba vs Yugi" >}}Setup|Second Semifinal. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|
 Setup|Ante Rule Setup. Kaiba bets Ritual of the God of Obelisk. Yugi bets Ritual of the God of Osiris.||
 Player 2|Yugi draws. He summons Queen's Knight in DEF (1600 DEF) and sets a card.||
@@ -777,6 +897,10 @@ Player 2|Yugi wins.||Yugi obtains Ritual of the God of Obelisk.
 ---
 ## EP 88 - Kaiba vs Jonouchi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 88" header2="Kaiba vs Jonouchi" >}}Setup|Third-Place duel. Duel in Island in Ruins (3 scrapyard + 2 sea).|2000 - 2000|
 Setup|Ante Rule Setup. Kaiba bets Blue-Eyes White Dragon. Jonouchi bets Psychic Ritual.||
 Player 1|Kaiba draws, he summons Giant Virus in DEF and sets two cards.||
@@ -806,6 +930,10 @@ Player 1|Kaiba wins.||Kaiba decides not to take any card from him.
 ---
 ## EP 89 - Marik vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 89" header2="Marik vs Yugi" >}}Setup|Final. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|Before the duel starts Kaiba gives a card to Yugi.
 Setup|Ante Rule Setup. Marik bets Ritual of the Sun of God Dragon. Yugi bets Ritual of the God of Osiris. It's a Yami no Game from the start.||As the player's Life Points decrease, they lose a portion of their body.
 Player 1|Marik draws. He summons Swift-Attacking Bloodsucker Leech in DEF (1200). He erodes Ritual of the Sun God from his hand to send Ra to the graveyard. He passes.||
@@ -846,5 +974,9 @@ Player 1|Yugi wins and is crowned champion.||Yugi obtains Ritual of the Sun of G
 ---
 ## EP 90 - Jonouchi vs Yugi
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+</div>
 {{< dueltable header1="EP 90" header2="Jonouchi vs Yugi" >}}Setup|Duel not shown, open to interpretation. Jonouchi regains his Red-Eyes Black Dragon after this duel (he said at the start of the tournament that he would only take it back once he had become a True Duelist).||
 {{< /dueltable >}}

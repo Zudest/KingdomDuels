@@ -386,7 +386,7 @@ Player 2|Jonouchi wins and gets Red-Eyes Black Dragon||Jonouchi has 4 star chips
 ## EP 13 - Bakura vs The Other Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 13" header2="Bakura vs The Other Yugi" >}}Setup|Tabletop terrain (100% Land). Yami no Game|2000 - 2000|
@@ -502,7 +502,7 @@ Player 1|Kaiba wins||
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/keith.jpg" width="160" >}}
 {{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/tom.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 16" header2="Keith vs Pegasus/Tom" header4="Flashback" >}}Setup|Tabletop terrain (100% Land). Before the duel start Pegasus writes a note of paper and calls a stand-in boy to duel for him, giving him the note.|2000 - 2000|
 Player 1|Keith draws and summons Garnecia Elefantis. He activates its effect to change the Terrain to Wasteland, and all players take 200 damage. Garnecia Elefantis ATK is temporarily halved (2400 → 1200).|1800 - 1800|
@@ -565,8 +565,8 @@ Player 2|Jonouchi wins||Jonouchi has 8 star chips. Kotsuzuka has 0 star chips (B
 ## EP 19-21 - Brother Kyu + Brother Mei vs Yugi + Jonouchi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/brothersmeikyu.jpg" width="160" >}}
-{{< imagetext src="/img/chars/brothersmeikyu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/brotherkyu.jpg" width="160" >}}
+{{< imagetext src="/img/chars/brothermei.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 {{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
 </div>
