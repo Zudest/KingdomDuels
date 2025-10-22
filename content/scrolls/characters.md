@@ -97,11 +97,11 @@ toc = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/noah.jpg" caption="Noah" width="160" >}}
 {{< imagetext src="/img/chars/gozaburo.jpg" caption="Gozaburo" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Oshita (The Big Five)" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Otaki (The Big Five)" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Ooka (The Big Five)" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Ota (The Big Five)" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Daimon (The Big Five)" width="160" >}}
+{{< imagetext src="/img/chars/oshita.jpg" caption="Oshita (The Big Five)" width="160" >}}
+{{< imagetext src="/img/chars/otaki.jpg" caption="Otaki (The Big Five)" width="160" >}}
+{{< imagetext src="/img/chars/ooka.jpg" caption="Ooka (The Big Five)" width="160" >}}
+{{< imagetext src="/img/chars/ota.jpg" caption="Ota (The Big Five)" width="160" >}}
+{{< imagetext src="/img/chars/daimon.jpg" caption="Daimon (The Big Five)" width="160" >}}
 </div>
 
 ##### Battle City Arc

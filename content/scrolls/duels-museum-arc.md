@@ -96,11 +96,11 @@ Player 2|Mai wins||
 ## EP 42 - The Big Five vs Kaiba + Mokuba
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/oshita.jpg" width="160" >}}
+{{< imagetext src="/img/chars/otaki.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ooka.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ota.jpg" width="160" >}}
+{{< imagetext src="/img/chars/daimon.jpg" width="160" >}}
 {{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
 {{< imagetext src="/img/chars/mokuba.jpg" width="160" >}}
 </div>
@@ -310,7 +310,7 @@ Player 2|Jonouchi wins.||
 ## EP 48 - Oshita vs Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/oshita.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 48" header2="Oshita vs Yugi" >}}Setup|Duel in Remote Swamp|2000 - 2000|During this battle they get physically hurt when taking damage.
@@ -338,7 +338,7 @@ Player 2|Yugi wins.||
 ## EP 49 - Otaki vs Anzu
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/otaki.jpg" width="160" >}}
 {{< imagetext src="/img/chars/anzu.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 49" header2="Otaki vs Anzu" >}}Setup|Duel in Frozen Ocean|2000 - 2000|During this duel they get entombed in ice when taking damage.
@@ -370,7 +370,7 @@ Player 2|Anzu wins.||
 ## EP 50 - Ooka vs Jonouchi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ooka.jpg" width="160" >}}
 {{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 50" header2="Ooka vs Jonouchi" >}}Setup|Duel in Grand Court Room|2000 - 2000|
@@ -410,7 +410,7 @@ Player 2|Jonouchi wins.||
 {{< imagetext src="/img/chars/shizuka.jpg" width="160" >}}
 {{< imagetext src="/img/chars/honda.jpg" width="160" >}}
 {{< imagetext src="/img/chars/otogi.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ota.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 51" header2="Shizuka + Honda + Otogi vs Ota" >}}Setup|Duel in War Factory|2000 - 2000 - 2000 - 2000|During this battle they get physically hurt when taking damage.
 Setup|"Deckmaster System" Rule activated. Ota chooses "Deckmaster Machine Sargeant". Honda chooses "Deckmaster Raremetal Knight". Shizuka chooses "Deckmaster Goddess of the Mind's Eye". Otogi chooses "Deckmaster Swift Black Ninja".||
@@ -450,7 +450,7 @@ Player 1|Shizuka and Otogi agree on a shared victory.||
 ## EP 52 - Daimon vs Kaiba
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/daimon.jpg" width="160" >}}
 {{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 52" header2="Daimon vs Kaiba" >}}Setup|Duel in City Bridge|2000 - 2000|
@@ -580,11 +580,11 @@ Player 4|The team wins.||
 ## EP 55 - The Big Five vs Yugi (+ Kaiba)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/oshita.jpg" width="160" >}}
+{{< imagetext src="/img/chars/otaki.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ooka.jpg" width="160" >}}
+{{< imagetext src="/img/chars/ota.jpg" width="160" >}}
+{{< imagetext src="/img/chars/daimon.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 {{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
 </div>
