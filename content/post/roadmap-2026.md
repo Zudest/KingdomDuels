@@ -12,7 +12,7 @@ Therefore, i wanted to make a tentative roadmap (subject to change) for the next
 
 - **Q4 2025**:
     - ~~Set #6: Battle City part 2.~~
-    - Set #7: Wicked Arc, part 1 (adaptation of Yugioh R).
+    - ~~Set #7: Wicked Arc, part 1 (adaptation of Yugioh R).~~
     
 - **Q1 2026**:
     - Set #8: Wicked Arc, part 2 (adaptation of Waking the Dragons).

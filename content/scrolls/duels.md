@@ -16,10 +16,10 @@ toc = false
 ## Millennium Chapter
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0033.jpg" link="/scrolls/duels-duelist-kingdom-arc/" alt="Duels from the Duelist Kingdom Arc" caption="Duelist Kingdom Duels" width="180" >}}
-{{< imagetext src="/img/storyimg/ep0065.jpg" link="/scrolls/duels-museum-arc/" alt="Duels from the Museum Arc" caption="Museum Duels" width="180" >}}
-{{< imagetext src="/img/storyimg/ep0087.jpg" link="/scrolls/duels-battle-city-arc/" alt="Duels from the Battle City Arc" caption="Battle City Duels" width="180" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0033.jpg" link="/scrolls/duels-duelist-kingdom-arc/" alt="Duels from the Duelist Kingdom Arc" caption="Duelist Kingdom Arc Duels" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0065.jpg" link="/scrolls/duels-museum-arc/" alt="Duels from the Museum Arc" caption="Museum Arc Duels" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0087.jpg" link="/scrolls/duels-battle-city-arc/" alt="Duels from the Battle City Arc" caption="Battle City Arc Duels" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0110.jpg" link="/scrolls/duels-wicked-arc/" alt="Duels from the Wicked Arc" caption="Wicked Arc Duels" width="180" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="180" >}}
 </div>
 

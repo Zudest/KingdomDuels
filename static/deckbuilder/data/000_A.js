@@ -9,11 +9,15 @@ const EXTRA_ALTERNATIVES = {
         ,{"name": "Soul Prison","frame": "-","types": "","set": "A","id": "KOD-155A","deck": "C","duelist": ""}
         ,{"name": "Soul Prison","frame": "-","types": "","set": "A","id": "KOD-155B","deck": "C","duelist": ""}
         ,{"name": "Soul Prison","frame": "-","types": "","set": "A","id": "KOD-155C","deck": "C","duelist": ""}
+        ,{"name": "Soul Prison","frame": "-","types": "","set": "A","id": "KOD-155D","deck": "C","duelist": ""}
         ,{"name": "Spirit Message","frame": "-","types": "","set": "A","id": "NPH-010A","deck": "C","duelist": ""}
         ,{"name": "Spirit Message","frame": "-","types": "","set": "A","id": "NPH-010B","deck": "C","duelist": ""}
         ,{"name": "Spirit Message","frame": "-","types": "","set": "A","id": "NPH-010C","deck": "C","duelist": ""}
         ,{"name": "Spirit Message","frame": "-","types": "","set": "A","id": "NPH-010D","deck": "C","duelist": ""}
         ,{"name": "Spirit Message","frame": "-","types": "","set": "A","id": "NPH-010E","deck": "C","duelist": ""}
         ,{"name": "Spirit Message","frame": "-","types": "","set": "A","id": "NPH-010F","deck": "C","duelist": ""}
+        ,{"name": "Silent Swordsman","frame": "-","types": "","set": "A","id": "ROA-090A","deck": "C","duelist": ""}
+        ,{"name": "Silent Swordsman","frame": "-","types": "","set": "A","id": "ROA-090B","deck": "C","duelist": ""}
+        ,{"name": "Silent Swordsman","frame": "-","types": "","set": "A","id": "ROA-090C","deck": "C","duelist": ""}
     ]
 };

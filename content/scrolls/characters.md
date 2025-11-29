@@ -131,18 +131,18 @@ toc = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/yako.jpg" caption="Yako Tenma" width="160" >}}
 {{< imagetext src="/img/chars/gekko.jpg" caption="Gekko Tenma" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Richie Merced" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Scott Depre" width="160" >}}
+{{< imagetext src="/img/chars/richiemerced.jpg" caption="Richie Merced" width="160" >}}
+{{< imagetext src="/img/chars/scottdepre.jpg" caption="Scott Depre" width="160" >}}
 {{< imagetext src="/img/chars/tillamook.jpg" caption="Tilla Mook" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Pete Coppermine" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Kirk Dixon" width="160" >}}
+{{< imagetext src="/img/chars/tedbanias.jpg" caption="Ted Banias" width="160" >}}
+{{< imagetext src="/img/chars/maicokato.jpg" caption="Maico Kato" width="160" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" caption="Maico Kato" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Reiko Kitamori" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Ted Banias" width="160" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Willa Mette" width="160" >}}
+{{< imagetext src="/img/chars/petecoppermine.jpg" caption="Pete Coppermine" width="160" >}}
+{{< imagetext src="/img/chars/willamette.jpg" caption="Willa Mette" width="160" >}}
+{{< imagetext src="/img/chars/kirkdixon.jpg" caption="Kirk Dixon" width="160" >}}
+{{< imagetext src="/img/chars/reikokitamori.jpg" caption="Reiko Kitamori" width="160" >}}
 {{< imagetext src="/img/chars/rafael.jpg" caption="Rafael" width="160" >}}
 {{< imagetext src="/img/chars/valon.jpg" caption="Valon" width="160" >}}
 {{< imagetext src="/img/chars/amelda.jpg" caption="Amelda" width="160" >}}

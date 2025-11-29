@@ -7,36 +7,57 @@ toc = false
 
 **The King of Duelists** is the title for the best duelist in the world, and it was originally given out by Pegasus to the champion of the Duelist Kingdom tournament but only if said winner also managed to defeat him.
 
-### Previous Kings of Duelists
-
-- Pegasus
-    - Lost it to Yugi & The Other Yugi ([ep. 39](/scrolls/duels-duelist-kingdom-arc/#ep-35-39---pegasus-vs-yugi))
-- Yugi
-    - Lost it by forfeit to Rebecca ([ep. 43](/scrolls/duels-museum-arc/#ep-43---rebecca-vs-yugi-arthur-vs-sugoroku))
-    - Title defenses: 0
-- The Other Yugi
-    - Lost it to Rafael (ep. 107)
-    - Title defenses: 25
-- Rebecca
-    - Lost it to Valon (ep. 109)
-    - Title defenses: 0
-- Valon
-    - Lost it to Jonouchi (ep. 110)
-    - Title defenses: 0
-- Jonouchi
-    - Lost it to Mai (ep. 111)
-    - Title defenses: 0
-- Mai
-    - Lost it to Rafael (ep. 112)
-    - Title defenses: 0
-- Rafael
-    - Lost it to The Other Yugi (ep. 113)
-    - Title defenses: 1
+---
 
 ### 👑 Current King of Duelists
 
-- **The Other Yugi**
-    - Title defenses: 1 (until ep. 115)
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
+</div>
+
+**The Other Yugi**<br/>
+*Title defenses: 1 (until ep. 115)*
+
+---
+
+### History
+
+<div style="overflow-x:auto; white-space:nowrap; padding:10px; border:1px solid #ccc; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
+{{< imagetext src="/img/chars/rafael.jpg" width="150" >}}
+{{< imagetext src="/img/chars/mai.jpg" width="150">}}
+{{< imagetext src="/img/chars/jonouchi.jpg" width="150" >}}
+{{< imagetext src="/img/chars/valon.jpg" width="150" >}}
+{{< imagetext src="/img/chars/1.jpg" width="150" >}}
+{{< imagetext src="/img/chars/rebecca.jpg" width="150" >}}
+{{< imagetext src="/img/chars/yugi.jpg" width="150" >}}
+{{< imagetext src="/img/chars/pegasus.jpg" width="150" >}}
+<br/>
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
+{{< imagetext src="/img/chars/1.jpg" width="150" >}}
+{{< imagetext src="/img/chars/1.jpg" width="150" >}}
+{{< imagetext src="/img/chars/1.jpg" width="150" >}}
+{{< imagetext src="/img/chars/1.jpg" width="150" >}}
+{{< imagetext src="/img/chars/rafael.jpg" width="150" >}}
+{{< imagetext src="/img/chars/1.jpg" width="150" >}}
+{{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
+{{< imagetext src="/img/chars/pegasus.jpg" width="150" >}}
+</div>
+
+---
+
+### Previous Kings of Duelists
+
+| Duelist | Title Defenses | Lost it to... | Episode |
+| -------- | ------- |  ------- |  ------- |
+| Pegasus | **0** | Yugi & The Other Yugi (title split in two) | [ep. 39](/scrolls/duels-duelist-kingdom-arc/#ep-35-39---pegasus-vs-yugi) |
+| Yugi | **0** | Rebecca (forfeit) | [ep. 43](/scrolls/duels-museum-arc/#ep-43---rebecca-vs-yugi-arthur-vs-sugoroku) |
+| The Other Yugi | **25** | Rafael | [ep. 107](/scrolls/duels-wicked-arc/#ep-107) |
+| Rebecca | **0** | Valon | [ep. 109](/scrolls/duels-wicked-arc/#ep-109) |
+| Valon | **0** | Jonouchi | [ep. 110](/scrolls/duels-wicked-arc/#ep-110) |
+| Jonouchi | **0** | Mai | [ep. 110](/scrolls/duels-wicked-arc/#ep-111) |
+| Mai | **0** | Rafael (combined title) | [ep. 112](/scrolls/duels-wicked-arc/#ep-112) |
+| Rafael | **1** | The Other Yugi | [ep. 113](/scrolls/duels-wicked-arc/#ep-113) |
 
 ---
 

@@ -38,5 +38,7 @@ const EXTRA_TERRAINS = {
         ,{"name": "Underworld","frame": "Terrain","types": "Terrain","set": "T","id": "36","deck": "A","duelist": "","attribute": "dark","grade": "glyph","gradeval": "Demon - Fallen - DARK Elemental"}
         ,{"name": "Scrapyard","frame": "Terrain","types": "Terrain","set": "T","id": "37","deck": "A","duelist": "","attribute": "earth","grade": "glyph","gradeval": "Union - Metalized"}
         ,{"name": "Colosseum","frame": "Terrain","types": "Terrain","set": "T","id": "38","deck": "A","duelist": "","attribute": "light","grade": "glyph","gradeval": "Knighted - Warrior"}
+        ,{"name": "Indoors","frame": "Terrain","types": "Terrain","set": "T","id": "39","deck": "A","duelist": "","attribute": "earth","grade": "glyph","gradeval": "Slumbering"}
+        ,{"name": "Darkness","frame": "Terrain","types": "Terrain","set": "T","id": "40","deck": "A","duelist": "","attribute": "dark","grade": "glyph","gradeval": "Eldritch"}
     ]
 };

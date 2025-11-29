@@ -23,7 +23,7 @@ readingTime = false
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" caption="🎇 [?] → ?" alt="100" width="200" >}}
+{{< imagetext src="/img/storyimg/ep0101.jpg" link="/deckbuilder/?search=set%253AROA" caption="🎇 [ROA] → Rebirth of Avatar" alt="100" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" caption="🎇 [?] → ?" alt="106" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" caption="🗝️ [?] → ?" alt="" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" caption="🗝️ [?] → ?" alt="" width="200" >}}

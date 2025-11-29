@@ -2,6 +2,7 @@
 menus = 'main'
 weight = 20
 title = 'Rules'
+readingTime = false
 +++
 
 > *Kingdom Duels aims to provide a similar experience to the Duelist Kingdom arc of the Yugioh anime. It follows the regular Yu-Gi-Oh! rules but with some differences. Players can agree to modify the rules (or even the cards) as much as they want (just like the writers did in the show!) Have fun!*
@@ -130,7 +131,7 @@ Broadly speaking there are four main types of cards in this game you have to be 
 
 ---
 
-## 📜 Rule Cards
+### 📜 Rule Cards
 
 **Rule Cards** (light green frame) are placed in the Extra Deck and can only be played into the Rule Zone. If they leave the Rule Zone they go back to the Extra Deck. 
 
@@ -144,11 +145,11 @@ Rule Cards may be one of the following types: **Normal**, **Setup** or **Symbol*
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/156.jpg" alt="" width="170" >}}
 </div>
 
-> → **Normal Rule Cards**
+> → **📜 Normal Rule Cards**
 
 They simply say "Rule" in their Type and have the special **EVENT** effect type, which describes a condition. This mean that the Rule Card can be activated (Quick Effect) from your Extra Deck into the Rule Zone at any point as long as that condition is true. If the condition is no longer valid, the Rule Card returns to the Extra Deck.
 
-> → **Setup Rule Cards**
+> → **🗺️ Setup Rule Cards**
 
 These are cards that can only be activated during the Setup Phase before the start of the duel. They may have one of the following card types:
 
@@ -158,9 +159,9 @@ These are cards that can only be activated during the Setup Phase before the sta
 
 - **Challenge**: Cards that change the entire game in a big way or create additional restrictions on deckbuilding or when playing.
 
-> → **Symbol Rule Cards**
+> → **🌠 Symbol Rule Cards**
 
-They represent objects or powers from the anime that can interfere in the duel in weird ways. They have a light-yellow frame and are **optional** to the duel (all players must agree if they want to play with them or not, they can also agree to let observers of the duel use their Symbol cards to influence the duel).
+They represent objects or powers from the anime that can interfere in the duel in weird ways, breaking the fourth wall. They have a light-yellow frame and are **optional** to the duel (all players must agree if they want to play with them or not, they can also agree to let observers of the duel use their Symbol cards to influence the duel).
 
 - Symbol cards have individual effects (which are Quick Effects unless otherwise stated) that require consuming a certain amount of "**Charges**" from the card itself to activate them. The Charges of the card are represented in its Grade symbol and must be tracked when they are consumed.
 - You can only have one Symbol in the Rule Zone at a time, and you have to play them there as a Slow Effect during your Main Phase. If your Symbol has 0 Charges you can return it to the Rule Zone. 
@@ -168,7 +169,7 @@ They represent objects or powers from the anime that can interfere in the duel i
 
 ---
 
-## 🐉 Monster Cards
+### 🐉 Monster Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/017.jpg" alt="" width="170" >}}
@@ -214,7 +215,7 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 
 - To summon a Ritual Monster you need to fulfil the requirements of a specific "Ritual" Spell Card listed in its summoning conditions, which usually involves tributing the corresponding Ritual Material(s) to the graveyard. 
 
-- The "Ritual" Spell Card remains on the field face-up until the requirements are fulfiled or the card is destroyed. It's controller can also send the spell card to the Graveyard at will during its Main Phase. If you fulfil a "Ritual" Spell Card that you control but not own, you must Ritual Summon the corresponding monster from the Extra Deck of the proper owner of that spell card instead of yours.
+- The "Ritual" Spell Card usually remains on the field face-up until the requirements are fulfiled or the card is destroyed. It's controller can also send the spell card to the Graveyard at will during its Main Phase. If you fulfil a "Ritual" Spell Card that you control but not own, you must Ritual Summon the corresponding monster from the Extra Deck of the proper owner of that spell card instead of yours (if possible).
 
 - A monster equipped to another monster is still treated as a monster on the field and therefore can be used to fulfil a Ritual Summon. This is not the case with attached monsters (unless otherwise stated).
 
@@ -274,7 +275,7 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 
 ---
 
-## 🔮 Spell and Trap Cards
+### 🔮 Spell and Trap Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/107.jpg" alt="" width="170" >}}
@@ -295,8 +296,6 @@ If the player **does not** activate a trap card when its Trigger is met then the
 
 ---
 
-## 🗃️ Other Card Types
-
 ### 🌈 Combination Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
@@ -309,6 +308,7 @@ There are a few Main Deck cards that have a **combination of two colors** in the
 
 They are **Spell Monsters**, **Trap Monsters** and **Spell Traps**. You can usually choose to play them as one card type or the other. Each card specifies how to play them with a "Play" condition on its text.
 
+---
 
 ### 📿 Divine Cards
 
@@ -324,7 +324,9 @@ They are **Spell Monsters**, **Trap Monsters** and **Spell Traps**. You can usua
 
 ---
 
-## 📃 Terminology
+## 🤺 The Duel
+
+### 📃 Terminology
 
 **Effect Speed** is defined as **Slow Speed** and **Quick Speed** (analog to Spell Speed 1 and 2 respectively, there is no Spell Speed 3). Quick Speed can respond to Slow or Quick effects, but Slow Speed can't be used to respond to other effects.
 
@@ -358,6 +360,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 
 **Upkeep**: its a maintenance cost to keep the card on the field. Is something that the controller of the card must do or pay in their own Standby Phase, otherwise they must move the card to the graveyard.
 
+---
 
 ### 📝 Effect Types
 
@@ -385,19 +388,7 @@ A monster must be on a specific Terrain to be inside the Tilemap. Monsters insid
 
 ---
 
-## 💤 Idleness Rule
-
-During your End Phase, if all the following conditions are true then you get one **"Idle Warning"**:
-
-- Your opponent has at least 1 monster on their side of the field.
-- You didn't had at least 1 monster on your side of the field this entire turn.
-- There wasn't an effect preventing or negating your summons this turn.
-
-If you already had an **"Idle Warning"** prior to this turn then you lose the Duel by game mechanics instead.
-
----
-
-## ☕ Clarifications
+### ☕ Clarifications
 
 Some **syntax** clarifications (portraying text of the cards within brackets):
 - { only on a "Rulebook" monster } This means a monster that has the word Rulebook in its name.
@@ -437,19 +428,21 @@ Additional notes for **Hidden** monsters:
 - Hiding a face-up monster is not considered a summon but a game mechanic.
 - Playing a Hidden monster from your hand is considered a summon unless otherwise stated.
 
-## ✨ Type Details
+---
 
-> **Main Card Types**
+### ✨ Type Details
+
+> ✨ **Main Card Types**
 
 Represents the four different groups of cards in this game. Every card must have at least one: 
 - **Monster, Spell, Trap, Rule**.
 
-> **Advanced Card Types**
+> ✨ **Advanced Card Types**
 
 They are used as a prefix to the Main Card Types and fundamentally change the mechanics of how that card is played or interacts. They are detailed in different areas of this rulebook, and are: 
 - **Fusion, Ritual, Alter, Integration, Equip, Continuous, Slow, Setup, Symbol, Divine**.
 
-> **Secondary Card Types**
+> ✨ **Secondary Card Types**
 
 These types don't have gameplay changes or special rulings on their own, but are used for other cards and rules to achieve different effects or results. They are listed here:
 
@@ -496,6 +489,7 @@ These types don't have gameplay changes or special rulings on their own, but are
 
 - **(Alter Monster Types)**: A specific group of types that is exclusive to Alter Monsters.
     - **Ascended**: A monster that embraces the holy power to its fullest and is transformed by it.
+    - **Bestial**: A monster that has been turned into a beast or beast-like creature.
     - **Eldritch**: A monster transformed in a living horror through unnatural powers beyond human comprehension.
     - **Fallen**: A monster that has fallen to the allure of dark powers and is transformed by them.
     - **Knighted**: A non-warrior monster now turned into a knight.
@@ -505,22 +499,34 @@ These types don't have gameplay changes or special rulings on their own, but are
     - **Toon**: A "cartoonified" version of a regular monster.
     - **Zombie**: A reanimated non-undead monster that comes back to life as a zombie.
 
-- **(Non-Monster Card Types)**: 
-    - **Challenge**: An additional restriction to the game imposed by the duelist themselves.
-    - **Duelist**: A reference to a Duelist, for example a character from the anime.
-    - **Field**: A reference to a field where a duel take place, describing the terrains in scene.
+- **(Divine Monster Types / Pantheons)**: A categorization of Divine Monster cards that are related to each other because they belong to the same pantheon of gods: 
+    - **Egyptian God**, **Greek God**, **Palace God**, **Storm Guardian**, **Wicked God**.
 
-- **(Divine Pantheons)**: A categorization of Divine cards that are somehow related to each other: 
-    - **Palace God**, **Storm Guardian**, **Wicked God**, **Egyptian God**, etc.
+- **(Hierarchy Value)**: A single number in a unique font at the end of the type line that represents the scale of divinity that Divine card have (from 1 to 7).
 
-- **(Symbol Types)**: A categorization of Symbol Rule cards that are grouped together: 
-    - **Millennium Items**, etc.
-
-- **(Hierarchy Value)**: A single number in a unique font at the end of the type line that represents the scale of divinity that card has.
+- **(Rule Card Types)**: 
+    - **Challenge**: A rule representing additional restrictions to the duel itself.
+    - **Duelist**: A rule representing the Duelist (player), for example a character from the anime.
+    - **Field**: A rule representing a portion or the totality of the field where a duel take place, describing the terrains in scene.
+    - **Millennium Items**: A Symbol Rule card featuring one of the seven millennium items.
 
 ---
 
-## 🤝 Multiplayer Rules
+## 🗃️ Other Rules
+
+### 💤 Idleness Rule
+
+During your End Phase, if all the following conditions are true then you get one **"Idle Warning"**:
+
+- Your opponent has at least 1 monster on their side of the field.
+- You didn't had at least 1 monster on your side of the field this entire turn.
+- There wasn't an effect preventing or negating your summons this turn.
+
+If you already had an **"Idle Warning"** prior to this turn then you lose the Duel by game mechanics instead.
+
+---
+
+### 🤝 Multiplayer Rules
 
 A **Team Duel** is what happens when more than two opposing players take part in a duel. There are three types: Tag Duels, Boss Duels and Battle Royale Duels.
 
@@ -530,7 +536,7 @@ Only the last player in the Rotation is allowed to declare an attack in the firs
 
 Unless otherwise stated the life points and gameplay zones (field, graveyard, hand, main deck, extra deck, rule zone) belong to each player and behave like in a regular duel.
 
-**Tag Duels** are 2v2 duels of teams fighting each other:
+**🤝🏾 Tag Duels** are 2v2 duels of teams fighting each other:
 - The Rotation is: TeamAPlayer1 → TeamBPlayer1 → TeamAPlayer2 → TeamBPlayer2.
 - If one player is defeated the whole team is defeated.
 - Players in a team have a shared field of 10 Frontrow and 10 Backrow.
@@ -538,13 +544,13 @@ Unless otherwise stated the life points and gameplay zones (field, graveyard, ha
 - Teammates can reveal some secret information between them in the shared areas (face-down cards) but not in the private areas (like hand and extra deck cards).
 - Your teammate can allow you to use their cards during your turn for summoning conditions, but not for attacks, battle position changes or movement.
 
-**Boss Duels** are a "one vs many" duel, where the "many" join forces into a team:
+**🐲 Boss Duels** are a "one vs many" duel, where the "many" join forces into a team:
 - The Rotation is: SoloPlayer → TeamPlayer1 → SoloPlayer → TeamPlayer2...
 - The team players share LP and the board (field, graveyard and rule zone) but each still has their own Deck and Extra Deck. 
 - The team players collectively control the zones and cards in that side of the field, except the cards in the Rule Zone that are still individually controlled.
 - The team players must also agree to play a single TERRAINS effect, not one for each player.
 
-**Battle Royale Duels** are free-for-all duels of 3+ participants without specific allies, everyone is technically considered an opponent here:
+**⚔️ Battle Royale Duels** are free-for-all duels of 3+ participants without specific allies, everyone is technically considered an opponent here:
 - The Rotation is: Player1 → Player2 → Player3...
 - If a player is defeated: the rotation adjusts removing that player. Cards owned by that player that are controlled by other players stay in the field.
 - Once per round, a player can redirect an attack that targets a monster controlled by another player to a monster they control (that is able to move), and if it does, the attacking monster cannot be destroyed by that battle and the controller of that attacking monster takes no damage from that battle.
@@ -554,7 +560,7 @@ Unless otherwise stated the life points and gameplay zones (field, graveyard, ha
 
 ---
 
-## 🔧 Deckbuilding
+### 🔧 Deckbuilding Rules
 
 These are the general rules for building your deck to play:
 - A **Main Deck** with exactly **30** cards (containing Spell cards, Trap cards and Normal Monster cards).
