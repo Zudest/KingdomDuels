@@ -26,16 +26,16 @@ toc = false
 ## Other Locations in the Human World
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" caption="Egypt" width="180" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="San Francisco, USA" width="180" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="Virtual World" width="180" >}}
+{{< imagetext src="/img/storyimg/loc006.jpg" caption="Egypt" width="180" >}}
+{{< imagetext src="/img/storyimg/loc007.jpg" caption="United States of America" width="180" >}}
+{{< imagetext src="/img/storyimg/loc008.jpg" caption="Virtual World" width="180" >}}
 </div>
 
 ## Locations in the Spirit World
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" caption="Graveyard of Souls" width="180" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="Dominion of the Beasts" width="180" >}}
+{{< imagetext src="/img/storyimg/loc004.jpg" caption="Graveyard of Souls" width="180" >}}
+{{< imagetext src="/img/storyimg/loc005.jpg" caption="Dominion of the Beasts" width="180" >}}
 </div>
 
 ---

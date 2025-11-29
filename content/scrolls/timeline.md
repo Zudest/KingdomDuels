@@ -19,8 +19,9 @@ toc = false
 
 ## Timeline
 
+* **The Beginning of Everything**
+    * Horakhty creates the concept of Light.
 * **???**
-    * Horakhty creates the Light.
     * The Human world and the Spirit world come into existence together.
     * Eventually, human civilization advances beyond prehistorian times.
     * Zorc Necrophades is created out of the darkness of people's hearts.
