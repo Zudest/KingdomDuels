@@ -16,11 +16,11 @@ Therefore, i wanted to make a tentative roadmap (subject to change) for the next
     
 - **Q1 2026**:
     - Set #8: Wicked Arc, part 2 (adaptation of Waking the Dragons).
-    - Story Release: Millennium Chapter fifth arc.
-    - Set #9: Final Arc, part 1.
+    - ~~Story Release: Millennium Chapter fifth arc.~~
+    - Set #9: World of Memories Arc, part 1 (original content and adaptation of Pyramid of Light).
     
 - **Q2 2026**:
-    - Set #10: Final Arc, part 2.
+    - Set #10: World of Memories Arc, part 2 (adaptation of Millennium World).
     - Story Release: King's Chapter first arc.
     - Set #11: King's Chapter, First Arc, part 1.
     - Set #12: King's Chapter, First Arc, part 2.

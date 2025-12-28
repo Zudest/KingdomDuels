@@ -26,5 +26,6 @@ toc = false
 
 ## Other Links
 
-- [King of Duelists Title Tracker](/scrolls/king-of-duelists-tracker/)
-
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/ep0129.jpg" link="/scrolls/king-of-duelists-tracker/" alt="King of Duelists Title Tracker" caption="King of Duelists Title Tracker" width="180" >}}
+</div>

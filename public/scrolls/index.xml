@@ -7620,9 +7620,38 @@
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;h2 id=&#34;other-links&#34;&gt;Other Links
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/scrolls/king-of-duelists-tracker/&#34; &gt;King of Duelists Title Tracker&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/h2&gt;&lt;div style=&#34;display: flex; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+            &lt;a href=&#34;https://kingdomduels.com/scrolls/king-of-duelists-tracker/&#34; style=&#34;text-decoration: none;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0129.jpg&#34; width=&#34;180&#34; alt=&#34;King of Duelists Title Tracker&#34;&gt;
+        
+        
+        &lt;div style=&#34;
+            position: absolute; 
+            bottom: 10px; 
+            left: 0; 
+            right: 0; 
+            background-color: rgba(0,0,0,0.3); 
+            color: white; 
+            padding: 3px; 
+            font-size: 12px;
+            backdrop-filter: blur(4px);
+            -webkit-backdrop-filter: blur(4px);
+        &#34;&gt;
+            King of Duelists Title Tracker
+        &lt;/div&gt;
+        
+        
+        
+            &lt;/a&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 </description>
         </item>
         <item>
@@ -27457,7 +27486,7 @@
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
         
-        &lt;img src=&#34;https://kingdomduels.com/img/chars/theotheryugi.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/yugi.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
         
         
         
@@ -27465,11 +27494,22 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;The Other Yugi&lt;/strong&gt;&lt;br/&gt;
-&lt;em&gt;Title defenses: 1 (until ep. 115)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Yugi&lt;/strong&gt;&lt;br/&gt;
+&lt;em&gt;Title defenses: 0 (until ep. 140)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;history&#34;&gt;History
 &lt;/h3&gt;&lt;div style=&#34;overflow-x:auto; white-space:nowrap; padding:10px; border:1px solid #ccc; justify-content: left; gap: 5px;&#34;&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/yugi.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
@@ -27570,6 +27610,17 @@
     &lt;/div&gt;
 &lt;/div&gt;
 &lt;br/&gt;
+&lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
+    &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
+        
+        
+        &lt;img src=&#34;https://kingdomduels.com/img/chars/yugi.jpg&#34; width=&#34;150&#34; alt=&#34;&#34;&gt;
+        
+        
+        
+        
+    &lt;/div&gt;
+&lt;/div&gt;
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
@@ -27696,7 +27747,7 @@
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;The Other Yugi&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;25&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;24&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;Rafael&lt;/td&gt;
           &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/scrolls/duels-wicked-arc/#ep-107&#34; &gt;ep. 107&lt;/a&gt;&lt;/td&gt;
       &lt;/tr&gt;
@@ -27729,6 +27780,12 @@
           &lt;td&gt;&lt;strong&gt;1&lt;/strong&gt;&lt;/td&gt;
           &lt;td&gt;The Other Yugi&lt;/td&gt;
           &lt;td&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/scrolls/duels-wicked-arc/#ep-113&#34; &gt;ep. 113&lt;/a&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;The Other Yugi&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;5&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Yugi&lt;/td&gt;
+          &lt;td&gt;ep. 140&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;

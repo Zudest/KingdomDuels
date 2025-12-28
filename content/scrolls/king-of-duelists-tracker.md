@@ -12,17 +12,18 @@ toc = false
 ### 👑 Current King of Duelists
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
+{{< imagetext src="/img/chars/yugi.jpg" width="150" >}}
 </div>
 
-**The Other Yugi**<br/>
-*Title defenses: 1 (until ep. 115)*
+**Yugi**<br/>
+*Title defenses: 0 (until ep. 140)*
 
 ---
 
 ### History
 
 <div style="overflow-x:auto; white-space:nowrap; padding:10px; border:1px solid #ccc; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/yugi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/rafael.jpg" width="150" >}}
 {{< imagetext src="/img/chars/mai.jpg" width="150">}}
@@ -33,6 +34,7 @@ toc = false
 {{< imagetext src="/img/chars/yugi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/pegasus.jpg" width="150" >}}
 <br/>
+{{< imagetext src="/img/chars/yugi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/1.jpg" width="150" >}}
 {{< imagetext src="/img/chars/1.jpg" width="150" >}}
@@ -52,12 +54,13 @@ toc = false
 | -------- | ------- |  ------- |  ------- |
 | Pegasus | **0** | Yugi & The Other Yugi (title split in two) | [ep. 39](/scrolls/duels-duelist-kingdom-arc/#ep-35-39---pegasus-vs-yugi) |
 | Yugi | **0** | Rebecca (forfeit) | [ep. 43](/scrolls/duels-legacy-arc/#ep-43---rebecca-vs-yugi-arthur-vs-sugoroku) |
-| The Other Yugi | **25** | Rafael | [ep. 107](/scrolls/duels-wicked-arc/#ep-107) |
+| The Other Yugi | **24** | Rafael | [ep. 107](/scrolls/duels-wicked-arc/#ep-107) |
 | Rebecca | **0** | Valon | [ep. 109](/scrolls/duels-wicked-arc/#ep-109) |
 | Valon | **0** | Jonouchi | [ep. 110](/scrolls/duels-wicked-arc/#ep-110) |
 | Jonouchi | **0** | Mai | [ep. 110](/scrolls/duels-wicked-arc/#ep-111) |
 | Mai | **0** | Rafael (combined title) | [ep. 112](/scrolls/duels-wicked-arc/#ep-112) |
 | Rafael | **1** | The Other Yugi | [ep. 113](/scrolls/duels-wicked-arc/#ep-113) |
+| The Other Yugi | **5** | Yugi | ep. 140 |
 
 ---
 
