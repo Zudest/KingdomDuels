@@ -5,7 +5,7 @@ title = 'Restricted List'
 readingTime = false
 +++
 
-A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding)** while getting ready to play. The **Restricted List** defines certain restrictions for deckbuilding regarding which unique cards you are allowed to include in your decks, and how many copies of them. A unique card is represented by the card code, not the card name.
+A player must follow the **[Deckbuilding rules](/rules/#-deckbuilding-rules)** while getting ready to play. The **Restricted List** defines certain restrictions for deckbuilding regarding which unique cards you are allowed to include in your decks, and how many copies of them. A unique card is represented by the card code, not the card name.
 
 ---
 

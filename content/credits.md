@@ -26,7 +26,7 @@ readingTime = false
     - Friizer: NPH-179
     - jtx1213: SOE-101
     - Kaminari Jin: SOE-142
-    - khanhquoc2502: ROA-019
+    - khanhquoc2502: ROA-019, ROA-045
     - Maruchi: SOE-145
     - Mikami: LEN-218
     - Mirpuzzle: KOD-151
@@ -43,6 +43,6 @@ readingTime = false
     - 山根木: SOE-148
     - 太郎: KOD-154
 
-*(Updated on 2025-11-19, last set checked: ROA)*
+*(Updated on 2025-11-29, last set checked: ROA)*
 
 
