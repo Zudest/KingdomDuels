@@ -22,15 +22,15 @@ The story is divided into **Chapters** which are argumental arcs with a differen
 
 ![The Millennium Chapter](/img/storyimg/Chapter01.jpg)
 
-- **Status**: Ongoing. **115/140** episodes.
+- **Status**: Complete (**140** episodes).
 - **Protagonists**: Yūgi Muto & Pharaoh Atem
 
 <div style="display: flex; justify-content: center; gap: 5px;">
 {{< imagetext src="/img/storyimg/1-01.jpg" link="/story/duelist-kingdom-arc/" alt="Duelist Kingdom Arc" caption="Duelist Kingdom Arc" width="140" >}}
-{{< imagetext src="/img/storyimg/1-02.jpg" link="/story/museum-arc/" alt="Museum Arc" caption="Museum Arc" width="140" >}}
+{{< imagetext src="/img/storyimg/1-02.jpg" link="/story/legacy-arc/" alt="Legacy Arc" caption="Legacy Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/1-03.jpg" link="/story/battle-city-arc/" alt="Battle City Arc" caption="Battle City Arc" width="140" >}}
 {{< imagetext src="/img/storyimg/1-04.jpg" link="/story/wicked-arc/" alt="Wicked Arc" caption="Wicked Arc" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/1-05.jpg" link="/story/world-of-memories-arc/" alt="World of Memories Arc" caption="World of Memories Arc" width="140" >}}
 </div>
 
 > **Author Notes**: This chapter follows the same events from the Duel Monster anime but condensed and re-arranged into five major story arcs. It has a bit of original, movie and manga content splashed into it, and some plot points were completely moved around. I attempted to tie in a few missed opportunities, give more relevance to side characters and bring to the limelight the Millennium Items, among other things, but always respecting the original vision and plan.
@@ -41,15 +41,15 @@ The story is divided into **Chapters** which are argumental arcs with a differen
 
 ![The King's Chapter](/img/storyimg/Chapter02.jpg)
 
-- **Status**: Pre-Planning Stage
+- **Status**: Coming Soon. **0/125** episodes.
 - **Protagonist**: Yūgi Muto
 
 <div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="Internship Arc" caption="Internship Arc" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="Throne Arc" caption="Throne Arc" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="Interschool Arc" caption="Interschool Arc" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="Kaibaland Arc" caption="Kaibaland Arc" width="140" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="Transcendence Arc" caption="Transcendence Arc" width="140" >}}
 </div>
 
 > **Author Notes**: This will be a story about Yugi’s path in those six months between Atem’s departure and the Darkside of Dimensions storyline, on how he encounters new challenges and grows as his own self. It will also reincorporate some things from the original Toei series and some nods to things we wanted to see like Duelist Kingdom v2.

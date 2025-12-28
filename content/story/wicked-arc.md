@@ -27,7 +27,7 @@ _"Battle City is history and Yugi is the undisputed Duel King in possession of t
 
 ---
 
-| [← Previous Arc](/story/battle-city-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](#) |
+| [← Previous Arc](/story/battle-city-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/world-of-memories-arc/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes

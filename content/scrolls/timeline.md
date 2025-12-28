@@ -27,7 +27,7 @@ toc = false
     * Zorc Necrophades is created out of the darkness of people's hearts.
 * **~1000 B.C.**
     * Egypt is under threat. The events leading to the massacre of Kul Elna and the creation of the Millennium Items take place.
-    * The events involving Atem's war against Bakura and Zorc Necrophades takes place. Atem is sealed in the Millennium Puzzle.
+    * The events involving Atem's war against Thief King Bakura and Zorc Necrophades takes place. Atem is sealed in the Millennium Puzzle.
 * **~400 B.C.**
     * The events involving Atlantis creation, rise and downfall take place: the orichalcos is discovered and the city develops at an incredible speed until eventually the island is destroyed by it.
 * **~1960s**
@@ -66,7 +66,7 @@ toc = false
             * The National Japanese tournament happens, Haga is declared champion.
             * Pegasus defeats Yugi, taking his grandfather's soul as hostage with his Millennium Eye.
             * The Duelist Kingdom tournament happens (duration 2 days). Yugi wins the tournament, defeats Pegasus and becomes Duelist King, saving his grandfather's soul. Bakura later uses this opportunity to challenge and defeat the weakened Pegasus, taking his Millennium Eye and putting him into a coma.
-        * 🏛️ The events of the **[Museum Arc](/story/museum-arc/)** take place.
+        * 🏛️ The events of the **[Legacy Arc](/story/legacy-arc/)** take place.
             * Simultaneously to the Duelist Kingdom tournament, Pegasus attempted and failed to take over Kaiba Corporation with the help of the other shareholders of that company: the group known as "the Big Five". Kaiba ends up firing The Big Five for this betrayal.
             * Start of a new school year (2nd year of school for Yugi and friends). Otogi joins the classroom.
             * Kaiba, Yugi and friends end up imprisoned in a virtual world, in a trap set up by the Big Five and Noah Kaiba (duration 1 day).
@@ -80,6 +80,11 @@ toc = false
             * Dartz, leader of the Doma organization, attacks Duelist Kingdom, defeats the Tenma brothers and creates "Seal of Orichalcos" cards. He then dispatch his duelists to capture souls all over the world using those cards.
             * Pegasus invites Yugi and his friends to San Francisco, USA, asking for their help. However his soul is captured by Mai before they arrive, who is working under Dartz orders. Yugi and his friends clash with the members of the Doma organization. During those battles, Yugi, Jonouchi and Kaiba enter for the first time to the Duel Monsters Spirit World in order to free the Legendary Dragons in the Domain of the Beasts.
             * Dartz wields the ultimate Wicked God card, and steals Yugi's Egyptian God cards but thanks to the Legendary Dragons of Atlantean mythos they can fight against them. The confrontations between the two groups lead to a final battle between Yugi and Kaiba versus Dartz with the surprising assistance of Anzu using the Wicked God cards. In the end Yugi manages to deliver the final blow to Dartz, foiling his plans and recovering his Egyptian God cards.
+        * 🗝️ The Events of the **[World of Memories Arc](/story/world-of-memories-arc)** take place.
+            * Yugi and his friends travel to Egypt to uncover the memories of the Pharaoh, meeting there with the Ishtars. Sugoroku and Fizdis also travel to Egypt but solely to find Shadi. The two of them would later become the true owners of the Ankh and Scales respectively. After defeating Shadi, Fizdis would unleash a spirit known as Anubis who holds the power of the Pyramid of Light and who judges the Pharaoh before his final trip. After proving himself and defeating him, the Pharaoh receives the last two Millennium Items (Scales and Ankh): he know has all seven items.
+            * The Pharaoh and Bakura enter the world of memories and get involved in an epic duel spawning multiple sub-duels that retell and reshape the events of the past. Yugi and his friends travel to the world of memories to help him. Eventually, Kaiba also travels there, thanks to Pegasus' help.
+            * The War of the Millennium Items take place. The Pharaoh and his High Priests clash against Thief King Bakura, as the secret of the massacre of Kul Elna comes to light. Bakura manages to fulfil all conditions to revive Zorc, which was his ultimate goal. The Great Wicked God Zorc's power is so great that even from the world of memories he's starting to affect the real world. In the end, thanks to the help of Yugi and the others, the Pharaoh recovers his true name: Atem. With it, he summons the primordial being: Horakhty, the creator of light, who destroys Zorc once and for all.
+            * After returning from the world of memories, one final task remains: the spirit of Atem has to return to the afterlife, and can only do that by being defeated in a duel. Yugi takes up that role, and in the most legendary duel of all time he manages to defeat his old partner, allowing him to rest and be free.
 * **October 1998 - March 1999**
     * 👑 The events of **The King's Chapter** take place.
 * **April 2004 - March 2007**
