@@ -11,7 +11,7 @@ toc = false
 #### Breakdown
 
 - Codename: [SPZ]
-- It has 64 cards from episodes [61 to 65](/story/museum-arc/) of the Yugioh Scrolls project, and it concludes the Museum Arc by bringing the Millennium Item wielders to the spotlight.
+- It has 64 cards from episodes [61 to 65](/story/legacy-arc/) of the Yugioh Scrolls project, and it concludes the ~~Museum Arc~~ Legacy Arc by bringing the Millennium Item wielders to the spotlight.
 - It provides support for the following duelists: Marik, Yugi, Keith, Jonouchi, Otogi, Anzu, Johnny Steps, Ishizu, Bakura, Pegasus, Shadi.
 - [**CARD GALLERY**](/deckbuilder/?search=set%253ASPZ)
 

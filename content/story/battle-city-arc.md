@@ -27,7 +27,7 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 
 ---
 
-| [← Previous Arc](/story/museum-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/wicked-arc/) |
+| [← Previous Arc](/story/legacy-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/wicked-arc/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes

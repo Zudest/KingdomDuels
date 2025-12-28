@@ -1,4 +1,4 @@
-const CHAPTER1_ARC2_MUSEUM = {
+const CHAPTER1_ARC2_LEGACY = {
     "cards": [
         {"name": "Brachioraidus","frame": "Monster","types": "Monster Dinosaur","set": "LEN","id": "001","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "6","atk": "1700","def": "2500","bonusatk": "510","bonusdef": "750"}
         ,{"name": "Baby T-Rex","frame": "Monster","types": "Monster Dinosaur","set": "LEN","id": "002","deck": "A","duelist": "Ryuzaki","attribute": "earth","grade": "lvl","gradeval": "3","atk": "1100","def": "700","bonusatk": "330","bonusdef": "210"}

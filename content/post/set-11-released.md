@@ -11,7 +11,7 @@ toc = false
 #### Breakdown
 
 - Codename: [BSN]
-- It has 66 cards from episodes [51 to 53](/story/museum-arc/) of the Yugioh Scrolls project, and continues the story of the Virtual Arc, which was moved ahead in the timeline for the rewrite to have it happen before Battle City.
+- It has 66 cards from episodes [51 to 53](/story/legacy-arc/) of the Yugioh Scrolls project, and continues the story of the Virtual Arc, which was moved ahead in the timeline for the rewrite to have it happen before Battle City.
 - It provides support for the following duelists: Shizuka, Honda, Otogi, Ota, Kaiba, Daimon, Mokuba, Noah.
 - Introduces new terrains: "Factory", "City" and "Space".
 

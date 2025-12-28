@@ -1,5 +1,5 @@
 +++
-title = 'Duels from the Museum Arc'
+title = 'Duels from the Legacy Arc'
 toc = false
 readingTime = false
 +++
@@ -785,7 +785,7 @@ Player 1|Priest Seto wins.||
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/keith.jpg" width="160" >}}
-{{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
+{{< imagetext src="/img/chars/yugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 61" header2="Keith vs Yugi" >}}Setup|Abandoned Warehouse terrain (20% Factory, 80% City)|2000 - 2000|
 Player 2|Yugi draws, he summons Elf Swordsman in ATK.||

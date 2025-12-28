@@ -51,7 +51,7 @@ toc = false
 | Duelist | Title Defenses | Lost it to... | Episode |
 | -------- | ------- |  ------- |  ------- |
 | Pegasus | **0** | Yugi & The Other Yugi (title split in two) | [ep. 39](/scrolls/duels-duelist-kingdom-arc/#ep-35-39---pegasus-vs-yugi) |
-| Yugi | **0** | Rebecca (forfeit) | [ep. 43](/scrolls/duels-museum-arc/#ep-43---rebecca-vs-yugi-arthur-vs-sugoroku) |
+| Yugi | **0** | Rebecca (forfeit) | [ep. 43](/scrolls/duels-legacy-arc/#ep-43---rebecca-vs-yugi-arthur-vs-sugoroku) |
 | The Other Yugi | **25** | Rafael | [ep. 107](/scrolls/duels-wicked-arc/#ep-107) |
 | Rebecca | **0** | Valon | [ep. 109](/scrolls/duels-wicked-arc/#ep-109) |
 | Valon | **0** | Jonouchi | [ep. 110](/scrolls/duels-wicked-arc/#ep-110) |

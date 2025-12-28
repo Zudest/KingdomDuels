@@ -11,7 +11,7 @@ toc = false
 #### Breakdown
 
 - Codename: [MLY]
-- It has 54 cards from episodes [58 to 60](/story/museum-arc/) of the Yugioh Scrolls project, and brings up Shadi to the limelight alongside some cool interesting mechanics like Subduels and the concept of "Diaha" for the final arc of the Millennium Chapter.
+- It has 54 cards from episodes [58 to 60](/story/legacy-arc/) of the Yugioh Scrolls project, and brings up Shadi to the limelight alongside some cool interesting mechanics like Subduels and the concept of "Diaha" for the final arc of the Millennium Chapter.
 - It provides support for the following duelists: Shadi, Kanekura, Yugi, Yoshimori, Priest Seto, Pharaoh Servant.
 - Introduces a new terrain: "Temple".
 - Introduces the very first "Subduel" mechanic interactions.

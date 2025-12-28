@@ -11,7 +11,7 @@ toc = false
 #### Breakdown
 
 - Codename: [FTP]
-- It has 68 cards from episodes [54 to 57](/story/museum-arc/) of the Yugioh Scrolls project, and concludes the story of the Virtual Arc, which was moved ahead in the timeline for the rewrite to have it happen before Battle City.
+- It has 68 cards from episodes [54 to 57](/story/legacy-arc/) of the Yugioh Scrolls project, and concludes the story of the Virtual Arc, which was moved ahead in the timeline for the rewrite to have it happen before Battle City.
 - It provides support for the following duelists: Yugi, Jonouchi, Anzu, Shizuka, Otogi, Honda, The Big Five, Kaiba, Noah, Gozaburo.
 - Introduces new terrains: "Canyon", "Fogfield", "Jungle", "Different Dimension" and "Tundra".
 - Introduces two new Alter monster subtypes: "Fallen" and "Knighted".

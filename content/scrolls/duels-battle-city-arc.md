@@ -4,7 +4,7 @@ toc = false
 readingTime = false
 +++
 
-| [← Duels from the Previous Arc](/scrolls/duels-museum-arc) | [Duels Homepage](/scrolls/duels) | [Duels from the Next Arc →](/scrolls/duels-wicked-arc) |
+| [← Duels from the Previous Arc](/scrolls/duels-legacy-arc) | [Duels Homepage](/scrolls/duels) | [Duels from the Next Arc →](/scrolls/duels-wicked-arc) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Duels

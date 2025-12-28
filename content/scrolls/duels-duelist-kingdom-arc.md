@@ -6,7 +6,7 @@ readingTime = false
 
 >_These are script recreations of the duels from the Duelist Kingdom Arc of the anime using Kingdom Duels rules to accurately represent every action._
 
-| [← Duels from the Previous Arc](#) | [Duels Homepage](/scrolls/duels) | [Duels from the Next Arc →](/scrolls/duels-museum-arc) |
+| [← Duels from the Previous Arc](#) | [Duels Homepage](/scrolls/duels) | [Duels from the Next Arc →](/scrolls/duels-legacy-arc) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Duels
