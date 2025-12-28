@@ -1,0 +1,43 @@
+{{/* Kingdom Duels Shortcode - /layouts/shortcodes/dueltabletournament.html */}}
+
+<style>
+  .kingdom-duels-table-tournament table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-bottom: 20px;
+  }
+  .kingdom-duels-table-tournament th {
+    background-color: #3a3a3a;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px 4px;
+  }
+  .kingdom-duels-table-tournament td {
+    border: 1px solid #ddd;
+    padding: 4px;
+  }
+  </style>
+
+<div class="kingdom-duels-table-tournament">
+  <table>
+    <thead>
+      <tr>
+        <th style="width: 60%">Tournament</th>
+        <th style="width: 40%">Placement</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{- $rows := split (trim .Inner "\n") "\n" -}}
+      {{- range $rows -}}
+        {{- if ne . "" -}}
+        <tr>
+          {{- $cells := split . "|" -}}
+          <td style="text-align: center">{{ index $cells 0 | default "" }}</td>
+          <td style="text-align: center">{{ index $cells 1 | default "" }}</td>
+        </tr>
+        {{- end -}}
+      {{- end -}}
+    </tbody>
+  </table>
+</div>
