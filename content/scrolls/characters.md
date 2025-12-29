@@ -17,7 +17,7 @@ toc = false
 ## Characters by Category
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/Chapter01.jpg" link="/scrolls/characters-millennium" caption="🗝️ Millennium Chapter" width="225" >}}
+{{< imagetext src="/img/storyimg/ep0138.jpg" link="/scrolls/characters-millennium" caption="🗝️ Millennium Chapter" width="225" >}}
 {{< imagetext src="/img/storyimg/Chapter02.jpg" link="/scrolls/characters-kings" caption="👑 King's Chapter" width="225" >}}
 {{< imagetext src="/img/storyimg/Chapter03.jpg" link="/scrolls/characters-academy" caption="📚 Academy Chapter" width="225" >}}
 {{< imagetext src="/img/storyimg/Chapter04.jpg" link="/scrolls/characters-signers" caption="🔮 Signer's Chapter" width="225" >}}

@@ -27,7 +27,7 @@ _"The time has finally come, and the group travels to Egypt to help the Pharaoh 
 
 ---
 
-| [← Previous Arc](/story/wicked-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | Next Arc → |
+| [← Previous Arc](/story/wicked-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | Next Arc → |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes

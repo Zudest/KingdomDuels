@@ -18,24 +18,24 @@ toc = false
 ## Locations in Japan
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/loc001.jpg" link="/scrolls/location/domino-city/" caption="Domino City" width="180" >}}
-{{< imagetext src="/img/storyimg/loc002.jpg" link="/scrolls/location/pegasus-island/" caption="Pegasus' Island" width="180" >}}
-{{< imagetext src="/img/storyimg/loc003.jpg" link="/scrolls/location/arukatorazu/" caption="Arukatorazu" width="180" >}}
+{{< imagetext src="/img/storyimg/loc001.jpg" link="/scrolls/location/domino-city/" caption="Domino City" width="230" >}}
+{{< imagetext src="/img/storyimg/loc002.jpg" link="/scrolls/location/pegasus-island/" caption="Pegasus' Island" width="230" >}}
+{{< imagetext src="/img/storyimg/loc003.jpg" link="/scrolls/location/arukatorazu/" caption="Arukatorazu" width="230" >}}
 </div>
 
 ## Other Locations in the Human World
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/loc006.jpg" caption="Egypt" width="180" >}}
-{{< imagetext src="/img/storyimg/loc007.jpg" caption="United States of America" width="180" >}}
-{{< imagetext src="/img/storyimg/loc008.jpg" caption="Virtual World" width="180" >}}
+{{< imagetext src="/img/storyimg/loc006.jpg" caption="Egypt (WIP)" width="230" >}}
+{{< imagetext src="/img/storyimg/loc007.jpg" caption="United States of America (WIP)" width="230" >}}
+{{< imagetext src="/img/storyimg/loc008.jpg" caption="Virtual World (WIP)" width="230" >}}
 </div>
 
 ## Locations in the Spirit World
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/loc004.jpg" caption="Graveyard of Souls" width="180" >}}
-{{< imagetext src="/img/storyimg/loc005.jpg" caption="Dominion of the Beasts" width="180" >}}
+{{< imagetext src="/img/storyimg/loc004.jpg" caption="Graveyard of Souls (WIP)" width="230" >}}
+{{< imagetext src="/img/storyimg/loc005.jpg" caption="Dominion of the Beasts (WIP)" width="230" >}}
 </div>
 
 ---

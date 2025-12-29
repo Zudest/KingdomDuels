@@ -27,7 +27,7 @@ _"As normal life returns, grudges and events from the past resurface to challeng
 
 ---
 
-| [← Previous Arc](/story/duelist-kingdom-arc/) | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/battle-city-arc/) |
+| [← Previous Arc](/story/duelist-kingdom-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Arc →](/story/battle-city-arc/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes

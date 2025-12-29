@@ -25,7 +25,7 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ---
 
-| ← Previous Arc | [The Millennium Chapter](/yugioh-scrolls/#the-millennium-chapter) | [Next Arc →](/story/legacy-arc/) |
+| ← Previous Arc | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Arc →](/story/legacy-arc/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes
