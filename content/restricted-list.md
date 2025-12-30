@@ -1,6 +1,6 @@
 +++
-menus = 'main'
-weight = 50
+#menus = 'main'
+#weight = 50
 title = 'Restricted List'
 readingTime = false
 +++

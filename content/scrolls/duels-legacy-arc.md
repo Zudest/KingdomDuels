@@ -101,7 +101,7 @@ Player 2|Mai wins||
 {{< imagetext src="/img/chars/ooka.jpg" width="160" >}}
 {{< imagetext src="/img/chars/ota.jpg" width="160" >}}
 {{< imagetext src="/img/chars/daimon.jpg" width="160" >}}
-{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba-dk.jpg" width="160" >}}
 {{< imagetext src="/img/chars/mokuba.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 42" header2="The Big Five vs Kaiba + Mokuba" >}}Setup|Duel in Draconic Virtual Realm (Dragon Valley x10) Non-Dragon monsters summoned in Dragon Valley will be destroyed some time after being summoned there.|2000 - 2000|
@@ -123,15 +123,13 @@ Player 2|Kaiba and Mokuba win||
 {{< /dueltable >}}
 
 ---
-## EP 43 - Rebecca vs Yugi (Arthur vs Sugoroku)
+## EP 43 - Rebecca vs Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/rebecca.jpg" width="160" >}}
 {{< imagetext src="/img/chars/yugi.jpg" width="160" >}}
-{{< imagetext src="/img/chars/arthur.jpg" width="160" >}}
-{{< imagetext src="/img/chars/sugoroku.jpg" width="160" >}}
 </div>
-{{< dueltable header1="EP 43" header2="Rebecca vs Yugi (Arthur vs Sugoroku)" >}}Setup|Duel in Kaiba Corporation Arena|2000 - 2000|Arena x5, Arena x5
+{{< dueltable header1="EP 43" header2="Rebecca vs Yugi" >}}Setup|Duel in Kaiba Corporation Arena|2000 - 2000|Arena x5, Arena x5
 Setup|Sugoroku and Arthur played the exact same duel in the past, card by card, but in "Tabletop" field setup||Their terrain would have been: 10x Land
 Player 1|Rebecca draws, she summons Witch of the Black Forest in ATK||
 Player 2|Yugi draws, he summons Elf Swordsman in ATK||
@@ -169,6 +167,16 @@ Player 1|Rebecca draws, she passes. Swords 3rd End Phase, swords are destroyed.|
 Player 2|Yugi draws Soul Release. If he activate this card it would result in Shadow Ghoul losing 500 ATK for its effect which will make it go from 2600 to 2100 ATK, and with Dark Magician's 2500 ATK it would have been enough to win.|0 - 355|
 Player 2|Yugi then surrenders (Surrender Card rule)||
 Player 2|Rebecca wins||
+{{< /dueltable >}}
+
+---
+## EP 43 - Arthur vs Sugoroku
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/arthur.jpg" width="160" >}}
+{{< imagetext src="/img/chars/sugoroku.jpg" width="160" >}}
+</div>
+{{< dueltable header1="EP 43" header2="Arthur vs Sugoroku" >}}Setup|Sugoroku and Arthur played the exact same duel as Rebecca and Yugi, card by card, and with the exact same result (Sugoroku surrenders, Arthur wins).||
 {{< /dueltable >}}
 
 ---
@@ -761,7 +769,7 @@ Player 1|Shadi wins.||
 ## EP 60 - Priest Seto vs Pharaoh Servant
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/0.jpg" width="160" >}}
+{{< imagetext src="/img/chars/seto.jpg" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 60" header2="Priest Seto vs Pharaoh Servant" header4="Partial Duel. Flashback" >}}Setup|Duel in progress. Pharaoh's Court (Desert 40%, Temple 60%)|2000 - 2000|
@@ -886,7 +894,7 @@ Player 2|Yugi wins.||
 ## EP 64 - Bakura vs Ishizu
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
 {{< imagetext src="/img/chars/ishizu.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 64" header2="Bakura vs Ishizu" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|
@@ -908,7 +916,7 @@ Player 1|He declares an attack using the STRIKE effect, which Ishizu responds by
 ## EP 65 - Bakura vs Pegasus
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
 {{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 65" header2="Bakura vs Pegasus" header4="Partial Duel. Flashback" >}}Setup|Duel in Progress. Tabletop terrain (100% Land)|200 - 1600|
@@ -923,7 +931,7 @@ Player 2|Pegasus wins. Bakura would then use his Millennium Item to erase Pegasu
 ## EP 65 - Bakura vs Pegasus
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
 {{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 65" header2="Bakura vs Pegasus" header4="Partial Duel. Flashback" >}}Setup|Duel in Progress. Tabletop terrain (100% Land)|1200 - 400|
@@ -939,7 +947,7 @@ Player 2|Bakura wins.||
 ## EP 65 - Bakura vs Shadi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
 {{< imagetext src="/img/chars/shadi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 65" header2="Bakura vs Shadi" >}}Setup|Duel in Museum (Ruins 60%, City 40%)|2000 - 2000|

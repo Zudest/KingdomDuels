@@ -35,7 +35,7 @@ Player 1|Yugi wins||
 ## EP 1 - Kaiba vs Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba-dk.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 1" header2="Kaiba vs Yugi" >}}Setup|Duel in Kaiba Corporation Arena (Arena 100%)|2000 - 2000|
@@ -386,7 +386,7 @@ Player 2|Jonouchi wins and gets Red-Eyes Black Dragon||Jonouchi has 4 star chips
 ## EP 13 - Bakura vs The Other Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 13" header2="Bakura vs The Other Yugi" >}}Setup|Tabletop terrain (100% Land). Yami no Game|2000 - 2000|
@@ -468,7 +468,7 @@ Player 1|Yugi wins.||Yugi has 14 star chips, he returns 8 to Mai so he goes back
 ## EP 16 - Kaiba vs Jonouchi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba-dk.jpg" width="160" >}}
 {{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 16" header2="Kaiba vs Jonouchi" >}}Setup|Duel Disk System Rules Setup. 100% "Virtual Simulation Field" Terrains|2000 - 2000|
@@ -632,7 +632,7 @@ Player 3|Yugi and Jonouchi win, and go through Kyu door out of the maze.||Yugi h
 ## EP 22-24 - Kaiba vs Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba-dk.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 22-24" header2="Kaiba vs Yugi" >}}Setup|Duel Disk System Rules Setup. 100% "Virtual Simulation Field" Terrains|2000 - 2000|
@@ -715,7 +715,7 @@ Player 2|Anzu wins.||Mai has 10 star chips. Anzu has 6 star chips, she gifts the
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/pegasus.jpg" width="160" >}}
-{{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
+{{< imagetext src="/img/chars/kaiba-dk.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 26-27" header2="Pegasus vs Kaiba" >}}Setup|Duelist Kingdom Championship Arena (Dueling Arena #1, 100% Castle Grounds). Each player has 5 Castle Grounds.|2000 - 2000|
 Player 1|Pegasus plays his Millennium Eye into the Rule Zone||

@@ -44,16 +44,50 @@ theme = 'hugo-theme-stack'
 
 [menus]
     # MAIN MENU
+    # https://tabler.io/icons
     [[menus.main]]
         name = 'Home'
         url = '/'
         weight = 1
+        [menus.main.params]
+            icon = "home"
+    [[menus.main]]
+        name = 'About'
+        url = '/about'
+        weight = 10
+        [menus.main.params]
+            icon = "help-hexagon"
+    [[menus.main]]
+        name = 'Rules'
+        url = '/rules'
+        weight = 20
+        [menus.main.params]
+            icon = "library"
+    [[menus.main]]
+        name = 'Yugioh Scrolls'
+        url = '/yugioh-scrolls'
+        weight = 30
+        [menus.main.params]
+            icon = "books"
     [[menus.main]]
         name = 'Deckbuilder'
         url = '/deckbuilder/'
         weight = 40
-        #[menus.main.params]
-            #newTab = true
+        [menus.main.params]
+            icon = "cards"
+            newTab = true
+    [[menus.main]]
+        name = 'Restricted List'
+        url = '/restricted-list'
+        weight = 50
+        [menus.main.params]
+            icon = "versions-off"
+    [[menus.main]]
+        name = 'Releases'
+        url = '/releases'
+        weight = 60
+        [menus.main.params]
+            icon = "releases"
 
     # SOCIAL MENU
     [[menus.social]]
@@ -82,7 +116,7 @@ theme = 'hugo-theme-stack'
         url = 'https://www.reddit.com/r/TheDuelistKingdom/'
         weight = 40
         [menus.social.params]
-            icon = "messages1"
+            icon = "brand-reddit"
             newTab = true
 
 

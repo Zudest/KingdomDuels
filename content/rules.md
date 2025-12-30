@@ -1,6 +1,6 @@
 +++
-menus = 'main'
-weight = 20
+#menus = 'main'
+#weight = 20
 title = 'Rules'
 readingTime = false
 +++

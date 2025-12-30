@@ -411,7 +411,7 @@ Player 1|Due to the effect of Death Meteor, in the End Phase both duelist are at
 ## EP 76 - Bakura vs Kotsuzuka + Takaido + Satake
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
 {{< imagetext src="/img/chars/kotsuzuka.jpg" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" width="160" >}}
 {{< imagetext src="/img/chars/0.jpg" width="160" >}}
@@ -476,7 +476,7 @@ Player 2|Mai wins.||Mai decides not to get any card nor puzzle card from the def
 ## EP 78 - Bakura vs Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 78" header2="Bakura vs Yugi" >}}Setup|First Quarterfinal (Finalists #6 vs #3). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|The duel is on top of the "Battle Ship", with powerful freezing winds and at 1000 meters above sea level.
@@ -566,7 +566,7 @@ Player 1|Jonouchi wins.||Jonouchi gets Ritual Seal of Serket.
 ## EP 81 - Marik vs Mai
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/marik-evil.jpg" width="160" >}}
 {{< imagetext src="/img/chars/mai.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 81" header2="Marik vs Mai" >}}Setup|Third Quarterfinal (Finalists #5 vs #4). Duel in Aerial Dueling Arena (Sky 100%).|2000 - 2000|
@@ -685,8 +685,8 @@ Player 1|Pegasus wins.||As it was a Yami no Game, the loser bursts into green fl
 ## EP 84 - Bakura vs Marik
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/bakura.jpg" width="160" >}}
-{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/bakura-evilspirit.jpg" width="160" >}}
+{{< imagetext src="/img/chars/marik-evil.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 84" header2="Bakura vs Marik" >}}Setup|Duel in Aerial Dueling Arena (Sky 100%). The normal side of Marik has joined forces with Bakura to reclaim his body. It's a Yami no Game from the start.|2000 - 2000|As the player's Life Points decrease, they lose a portion of their body.
 Player 1|Bakura draws. He activates Pot of Greed. He activates Summoning Spirit Technique, discarding Robbin Goblin and using it to summon Goblin Zombie in ATK (1100). He sets a card.||
@@ -715,7 +715,7 @@ Player 2|Marik wins.||As it was a Yami no Game, Bakura's body disappears, but he
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 {{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
 {{< imagetext src="/img/chars/kaiba.jpg" width="160" >}}
-{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/marik-evil.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 85" header2="Yugi vs Jonouchi vs Kaiba vs Marik" >}}Setup|Duel in Duel Tower (3 arena + 2 sea). Battle Royale Rules.|2000 - 2000 - 2000 - 2000|They will define the semifinals matchup here. As they lose LP they will rise on their platforms to the top of the tower. The two duelists who lose first will duel in the semifinal first against each other.
 Setup|The turn order is determined as follows: each player chooses 1 monster from his Deck and removes it from play for that duel; the owner of the monster with the highest ATK goes first and the lowest ATK goes last. The turn order is: Kaiba ("Judge Man" 2200 ATK) → Marik ("Lekunga" 1700 ATK) → Yugi ("Gremlin" 1300 ATK) → Jonouchi ("Swordsman of Landstar" 500 ATK).||
@@ -745,7 +745,7 @@ Player 3|Due to the rule effects of Seeding Process, Yugi and Kaiba win.||The se
 ## EP 86 - Marik vs Jonouchi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/marik-evil.jpg" width="160" >}}
 {{< imagetext src="/img/chars/jonouchi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 86" header2="Marik vs Jonouchi" >}}Setup|First Semifinal. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|
@@ -931,7 +931,7 @@ Player 1|Kaiba wins.||Kaiba decides not to take any card from him.
 ## EP 89 - Marik vs Yugi
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/marik.jpg" width="160" >}}
+{{< imagetext src="/img/chars/marik-evil.jpg" width="160" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="160" >}}
 </div>
 {{< dueltable header1="EP 89" header2="Marik vs Yugi" >}}Setup|Final. Duel in Duel Tower (3 arena + 2 sea).|2000 - 2000|Before the duel starts Kaiba gives a card to Yugi.

@@ -2,16 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kingdomduels.com/about/</loc>
-  </url><url>
-    <loc>https://kingdomduels.com/rules/</loc>
-  </url><url>
-    <loc>https://kingdomduels.com/yugioh-scrolls/</loc>
-  </url><url>
-    <loc>https://kingdomduels.com/restricted-list/</loc>
-  </url><url>
-    <loc>https://kingdomduels.com/releases/</loc>
-  </url><url>
     <loc>https://kingdomduels.com/categories/</loc>
     <lastmod>2025-12-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -149,6 +139,8 @@
   </url><url>
     <loc>https://kingdomduels.com/post/and-so-it-begins/</loc>
     <lastmod>2014-12-25T13:05:17-03:00</lastmod>
+  </url><url>
+    <loc>https://kingdomduels.com/about/</loc>
   </url><url>
     <loc>https://kingdomduels.com/scrolls/character/akhenaden/</loc>
   </url><url>
@@ -306,9 +298,15 @@
   </url><url>
     <loc>https://kingdomduels.com/scrolls/character/reikokitamori/</loc>
   </url><url>
+    <loc>https://kingdomduels.com/releases/</loc>
+  </url><url>
+    <loc>https://kingdomduels.com/restricted-list/</loc>
+  </url><url>
     <loc>https://kingdomduels.com/scrolls/character/richiemerced/</loc>
   </url><url>
     <loc>https://kingdomduels.com/scrolls/character/rishid/</loc>
+  </url><url>
+    <loc>https://kingdomduels.com/rules/</loc>
   </url><url>
     <loc>https://kingdomduels.com/scrolls/character/ryuzaki/</loc>
   </url><url>
@@ -369,6 +367,8 @@
     <loc>https://kingdomduels.com/scrolls/character/yako/</loc>
   </url><url>
     <loc>https://kingdomduels.com/scrolls/character/yugi/</loc>
+  </url><url>
+    <loc>https://kingdomduels.com/yugioh-scrolls/</loc>
   </url><url>
     <loc>https://kingdomduels.com/scrolls/character/zorc/</loc>
   </url>

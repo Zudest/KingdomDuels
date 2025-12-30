@@ -1,6 +1,6 @@
 +++
-menus = 'main'
-weight = 10
+#menus = 'main'
+#weight = 10
 title = 'About'
 toc = true
 +++

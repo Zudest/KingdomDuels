@@ -1,6 +1,6 @@
 +++
-menus = 'main'
-weight = 60
+#menus = 'main'
+#weight = 60
 title = 'Releases'
 toc = false
 readingTime = false

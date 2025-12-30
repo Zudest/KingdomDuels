@@ -1,6 +1,6 @@
 +++
-menus = 'main'
-weight = 30
+#menus = 'main'
+#weight = 30
 title = 'Yugioh Scrolls'
 toc = false
 readingTime = false
@@ -91,7 +91,7 @@ The story is divided into **Chapters** which are argumental arcs with a differen
 ## Duel Anecdotes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" link="/story/duel-anecdotes/" alt="Duel Anecdotes" caption="Duel Anecdotes" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" link="/story/duel-anecdotes/" alt="Duel Anecdotes" caption="💬 Duel Anecdotes" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
@@ -102,7 +102,7 @@ The story is divided into **Chapters** which are argumental arcs with a differen
 ## Duel Visions
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" link="/story/duel-visions/" alt="Duel Visions" caption="Duel Visions" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" link="/story/duel-visions/" alt="Duel Visions" caption="👁️‍🗨️ Duel Visions" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
