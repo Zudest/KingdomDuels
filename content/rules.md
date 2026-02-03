@@ -193,7 +193,7 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 {{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/106.jpg" alt="" width="170" >}}
 </div>
 
-**Fusion Monsters** (purple frame) represent a combination of two or more specific monsters into one single being. 
+**Fusion Monsters** (purple frame) represent a combination of two or more specific cards into one single being. 
 
 - To summon a Fusion Monster you need to have the required monsters in your hand and/or field and then use a card named "Fusion". After the Fusion Monster is summoned, you attach the corresponding Fusion Materials to it. 
 
@@ -447,6 +447,7 @@ They are used as a prefix to the Main Card Types and fundamentally change the me
 These types don't have gameplay changes or special rulings on their own, but are used for other cards and rules to achieve different effects or results. They are listed here:
 
 - **(Primary Monster Types)**: Refer to what the monster actually is.
+    - **Armor**: Monsters turned into objects that are used by the duelist itself when it is battling on its own.
     - **Angel**: (Equivalent to "Fairy") Angels, fairies, sprites, holy beings.
     - **Aquatic**: (Equivalent to "Fish", "Sea Serpent" and partially to "Aqua"). All kinds of water monsters or creatures whose natural habitat is water, without being themselves some sort of embodiment of water itself.
     - **Avian**: (Equivalent to "Winged Beast"). Related in some ways to birds either by being a sub-type of birds or having some bird-like feature, specially wings.
@@ -463,6 +464,7 @@ These types don't have gameplay changes or special rulings on their own, but are
     - **Machine**: Broad type that refers to mechanical constructs, machines and technology in general.
     - **Plant**: Nature based plant-like creatures, be it small ones or overgrown ones.
     - **Reptillian**: Reptiles or reptile-like creatures.
+    - **Soldier**: Modern human or humanoid fighters, equipped with technology.
     - **Spellcaster**: Individuals who naturally wield the power of magic, for example magicians, sorcerers and wizards. 
     - **Support**: Individuals that aren't tailored for direct combat but assist allies in different ways. Also living weapons, contraptions or objects like that.
     - **Undead**: (Equivalent to "Zombie"). Group of beings that includes mummies, zombies, skeletons, ghosts, vampires, apparitions, etc.
@@ -494,6 +496,7 @@ These types don't have gameplay changes or special rulings on their own, but are
     - **Fallen**: A monster that has fallen to the allure of dark powers and is transformed by them.
     - **Knighted**: A non-warrior monster now turned into a knight.
     - **Metalized**: A monster covered in an alloy that turns them into a metallic/technological version of itself.
+    - **Reincarnated**: A monster transmigrated into a different species or a different body.
     - **Swarm**: A group or copies/clones of a single monster, represented as multiple monsters on the very same card.
     - **Timeshifted**: An older or younger version of a particular monster, in a different point in time.
     - **Toon**: A "cartoonified" version of a regular monster.
