@@ -44,10 +44,10 @@ class KingdomDuelsSearch {
                 });
             }
 
-            // Índice de duelistas (múltiples) - limpiar espacios
+            // Índice de duelistas (múltiples) - separados por espacios
             if (card.duelist) {
-                card.duelist.split(',').forEach(duelist => {
-                    const cleanDuelist = duelist.trim(); // Limpiar espacios
+                card.duelist.split(' ').forEach(duelist => {
+                    const cleanDuelist = duelist.trim();
                     if (cleanDuelist) { // Solo agregar si no está vacío
                         this.addToIndex('duelist', cleanDuelist.toLowerCase(), index);
                     }
@@ -431,9 +431,9 @@ class KingdomDuelsSearch {
                 break;
 
             case 'duelist':
-                // Búsqueda en duelistas - limpiar espacios
+                // Búsqueda en duelistas - separados por espacios
                 const cleanDuelistValue = term.value.trim();
-                
+
                 // Usar búsqueda exacta en el índice primero
                 if (this.indices.duelist.has(cleanDuelistValue)) {
                     this.indices.duelist.get(cleanDuelistValue).forEach(i => matches.add(i));
@@ -442,7 +442,7 @@ class KingdomDuelsSearch {
                     this.cards.forEach((card, i) => {
                         if (card.duelist) {
                             // Limpiar duelistas y buscar coincidencia exacta en la lista
-                            const cardDuelists = card.duelist.split(',').map(d => d.trim().toLowerCase()).filter(d => d);
+                            const cardDuelists = card.duelist.split(' ').map(d => d.trim().toLowerCase()).filter(d => d);
                             if (cardDuelists.includes(cleanDuelistValue)) {
                                 matches.add(i);
                             }
