@@ -26,7 +26,7 @@ toc = false
 {{< imagetext src="/img/chars/yugi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/rafael.jpg" width="150" >}}
-{{< imagetext src="/img/chars/mai.jpg" width="150">}}
+{{< imagetext src="/img/chars/mai-doma.jpg" width="150">}}
 {{< imagetext src="/img/chars/jonouchi.jpg" width="150" >}}
 {{< imagetext src="/img/chars/valon.jpg" width="150" >}}
 {{< imagetext src="/img/chars/1.jpg" width="150" >}}

@@ -28,6 +28,7 @@ toc = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/storyimg/loc006.jpg" caption="Egypt (WIP)" width="230" >}}
 {{< imagetext src="/img/storyimg/loc007.jpg" caption="United States of America (WIP)" width="230" >}}
+{{< imagetext src="/img/storyimg/00.png" caption="Atlantis (WIP)" width="230" >}}
 {{< imagetext src="/img/storyimg/loc008.jpg" caption="Virtual World (WIP)" width="230" >}}
 </div>
 
