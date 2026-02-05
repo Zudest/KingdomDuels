@@ -33,7 +33,7 @@ Possessed Bakura|84|Win|
 Yugi / Kaiba / Jonouchi|85|Loss|
 Jonouchi|86|Win|
 Yugi|89|Loss|
-(+ Ishizu + Rishid + Jonouchi + Yugi + Anzu + Honda) vs Shadi's Puzzles|119|Win|
+(+ Ishizu + Jonouchi + Anzu) vs Shadi's Puzzles|119|Win|
 Shadi|120|Draw|
 {{< /dueltablehistory >}}
 

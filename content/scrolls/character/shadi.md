@@ -23,7 +23,8 @@ Yugi|59|Loss|
 Yoshimori|59|Win|
 Possessed Bakura|65|Loss|
 *(Puzzles)* vs Fizdis + Sugoroku|118|Loss|
-*(Puzzles)* vs Marik + Ishizu + Rishid + Jonouchi + Yugi + Anzu + Honda|119|Loss|
+*(Puzzles)* vs Marik + Ishizu + Jonouchi + Anzu|119|Loss|
+*(Puzzles)* vs Rishid + Yugi + Honda|119|Loss|
 Marik|120|Draw|
 Fizdis|121|Loss|
 {{< /dueltablehistory >}}

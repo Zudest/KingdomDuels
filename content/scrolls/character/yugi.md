@@ -67,7 +67,7 @@ Yako|102|Win|
 Gurimo|106|Win|
 Rafael|107|Loss|
 (+ Anzu) vs Jonouchi + Honda|116|Win|
-(+ Marik + Ishizu + Rishid + Anzu + Honda) vs Shadi's Puzzles|119|Win|
+(+ Rishid + Honda) vs Shadi's Puzzles|119|Win|
 Anubis & Fizdis|123|Win|
 Possessed Honda *(Bakura)*|136|Win|
 (+ Anzu + Honda + Jonouchi) vs Shadow Riders|136|Win|

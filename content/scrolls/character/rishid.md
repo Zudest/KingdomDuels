@@ -24,7 +24,7 @@ readingTime = false
 ### Duels
 
 {{< dueltablehistory>}}Jonouchi|80|Loss|
-(+ Marik + Ishizu + Jonouchi + Yugi + Anzu + Honda) vs Shadi's Puzzles|119|Win|
+(+ Yugi + Honda) vs Shadi's Puzzles|119|Win|
 Sugoroku|119|DNF|
 {{< /dueltablehistory >}}
 

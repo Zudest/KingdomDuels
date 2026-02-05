@@ -28,7 +28,7 @@ Step Johnny|62|Win|
 (+ Honda + Otogi) vs Orichalcos Police|110|Win|
 (+ The Other Yugi + Kaiba + Rafael) vs Dartz|115|Win|
 (+ Yugi) vs Jonouchi + Honda|116|Win|
-(+ Marik + Ishizu + Rishid + Yugi + Jonouchi + Honda) vs Shadi's Puzzles|119|Win|
+(+ Marik + Ishizu + Jonouchi) vs Shadi's Puzzles|119|Win|
 (+ Yugi + Honda + Jonouchi) vs Shadow Riders|136|Win|
 (+ Atem + Yugi + Jonouchi + Honda + Kaiba + Seto + Mana) vs Zorc|137-138|Win|
 {{< /dueltablehistory >}}

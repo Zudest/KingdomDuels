@@ -67,7 +67,7 @@ Haga|108|Win|
 Rafael|113|Win|
 (+ Kaiba + Rafael + Anzu) vs Dartz|115|Win|
 (+ Anzu) vs Jonouchi + Honda|116|Win|
-(+ Marik + Ishizu + Rishid + Anzu + Honda) vs Shadi's Puzzles|119|Win|
+(+ Rishid + Honda) vs Shadi's Puzzles|119|Win|
 Anubis & Fizdis|123|Win|
 (+ Karim + Seto + Isis + Shada + Akhenaden + Mahado) vs Thief King Bakura|125|DNF|
 (+ Seto) vs Thief King Bakura|129|Win|

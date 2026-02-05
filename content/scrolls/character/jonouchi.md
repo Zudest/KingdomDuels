@@ -60,7 +60,7 @@ Ryuzaki|108|Win|
 Valon|110|Win|
 Mai|111|Loss|
 (+ Honda) vs Yugi + Anzu|116|Loss|
-(+ Marik + Ishizu + Rishid + Yugi + Anzu + Honda) vs Shadi's Puzzles|119|Win|
+(+ Marik + Ishizu + Anzu) vs Shadi's Puzzles|119|Win|
 Possessed Bakura|129|DNF|
 (+ Yugi + Honda + Anzu) vs Shadow Riders|136|Win|
 (+ Atem + Yugi + Anzu + Honda + Kaiba + Seto + Mana) vs Zorc|137-138|Win|

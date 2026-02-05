@@ -27,7 +27,7 @@ readingTime = false
 Yugi|63|Loss|
 Possessed Bakura|64|DNF|
 Kaiba|82|Loss|
-(+ Marik + Rishid + Jonouchi + Yugi + Anzu + Honda) vs Shadi's Puzzles|119|Win|
+(+ Marik + Jonouchi + Anzu) vs Shadi's Puzzles|119|Win|
 Fizdis|120|Loss|
 {{< /dueltablehistory >}}
 

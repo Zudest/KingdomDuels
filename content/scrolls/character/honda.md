@@ -26,7 +26,7 @@ Kirk Dixon|93|Win|
 Reiko Kitamori|96|Loss|
 (+ Anzu + Otogi) vs Orichalcos Police|110|Win|
 (+ Jonouchi) vs Yugi + Anzu|116|Loss|
-(+ Marik + Ishizu + Rishid + Yugi + Anzu + Jonouchi) vs Shadi's Puzzles|119|Win|
+(+ Rishid + Yugi) vs Shadi's Puzzles|119|Win|
 *(Possessed)* vs Yugi|136|Loss|
 (+ Yugi + Anzu + Jonouchi) vs Shadow Riders|136|Win|
 (+ Atem + Yugi + Jonouchi + Anzu + Kaiba + Seto + Mana) vs Zorc|137-138|Win|

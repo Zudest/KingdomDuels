@@ -15,7 +15,7 @@ Therefore, i wanted to make a tentative roadmap (subject to change) for the next
     - ~~Set #7: Wicked Arc, part 1 (adaptation of Yugioh R).~~
     
 - **Q1 2026**:
-    - Set #8: Wicked Arc, part 2 (adaptation of Waking the Dragons).
+    - ~~Set #8: Wicked Arc, part 2 (adaptation of Waking the Dragons).~~
     - ~~Story Release: Millennium Chapter fifth arc.~~
     - Set #9: World of Memories Arc, part 1 (original content and adaptation of Pyramid of Light).
     
