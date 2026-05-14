@@ -20,7 +20,7 @@ toc = false
 {{< imagetext src="/img/storyimg/ep0065.jpg" link="/scrolls/duels-legacy-arc/" alt="Duels from the Legacy Arc" caption="Legacy Arc Duels" width="230" >}}
 {{< imagetext src="/img/storyimg/ep0087.jpg" link="/scrolls/duels-battle-city-arc/" alt="Duels from the Battle City Arc" caption="Battle City Arc Duels" width="230" >}}
 {{< imagetext src="/img/storyimg/ep0110.jpg" link="/scrolls/duels-wicked-arc/" alt="Duels from the Wicked Arc" caption="Wicked Arc Duels" width="230" >}}
-{{< imagetext src="/img/storyimg/00.png" alt="?" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0131.jpg" link="/scrolls/duels-world-of-memories-arc/" alt="Duels from the World of Memories Arc" caption="World of Memories Arc Duels" width="230" >}}
 </div>
 
 

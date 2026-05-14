@@ -25,7 +25,7 @@ readingTime = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/storyimg/ep0101.jpg" link="/deckbuilder/?search=set%253AROA" caption="🎇 [ROA] → Rebirth of Avatar" alt="100" width="230" >}}
 {{< imagetext src="/img/storyimg/ep0104.jpg" link="/deckbuilder/?search=set%253AORB" caption="🎇 [ORB] → Orichalcos Barrier" alt="106" width="230" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="🗝️ [?] → ?" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0119.jpg"  link="/deckbuilder/?search=set%253APYL" caption="🗝️ [PYL] → Pyramid of Light" alt="" width="230" >}}
 {{< imagetext src="/img/storyimg/00.png" caption="🗝️ [?] → ?" alt="" width="230" >}}
 </div>
 
@@ -41,6 +41,7 @@ readingTime = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/storyimg/ep0041.jpg" link="/deckbuilder/?search=set%253AT" caption="🏞️ Terrain Markers" alt="" width="230" >}}
 {{< imagetext src="/img/storyimg/ep0069.jpg" link="/deckbuilder/?search=set%253AA" caption="🖼️ Alternative Cards" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/00.png" caption="Promotional Cards (WIP)" alt="100" width="230" >}}
 {{< imagetext src="/img/storyimg/00.png" caption="Starter Decks (WIP)" alt="100" width="230" >}}
 </div>
 

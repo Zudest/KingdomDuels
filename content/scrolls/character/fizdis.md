@@ -19,7 +19,8 @@ readingTime = false
 ### Duels
 
 
-{{< dueltablehistory>}}(+ Sugoroku) vs Shadi's Puzzles|118|Win|
+{{< dueltablehistory>}}Yoshimori|121|Win|
+(+ Sugoroku) vs Shadi's Puzzles|118|Win|
 Ishizu|120|Win|
 Shadi|121|Win|
 Sugoroku|122|Win|

@@ -19,7 +19,7 @@ readingTime = false
 ### Duels
 
 
-{{< dueltablehistory>}}Ishizu|83|Win|
+{{< dueltablehistory>}}Ishizu|83|Draw|
 Gravekeeper|83|Win|
 (+Tom) vs Keith|16|Win|
 Yugi|2|Win|
