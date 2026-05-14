@@ -23,18 +23,22 @@ readingTime = false
     - Arkadarkartist: ORB-093
     - Bethany Bronwyn Curtis: KOD-082
     - Cardsoricabr: ORB-194
+    - Dgodnz: PYL-064, PYL-065, PYL-066, PYL-069, PYL-070, PYL-071, PYL-072
     - Dogerror: SOE-155
+    - Envymay: PYL-057
     - Exile0025: ROA-125, ROA-139
-    - Friizer: NPH-179
+    - Friizer: NPH-179, PYL-154
     - Heiser: ORB-228
     - Iori1990: ORB-209, ORB-210
     - jtx1213: SOE-101
+    - Kawacy: PYL-155
     - Kaminari Jin: SOE-142
     - khanhquoc2502: ROA-019, ROA-045
     - Maruchi: SOE-145
     - Mikami: LEN-218, ORB-236
     - Mirpuzzle: KOD-151
     - Moneko: ORB-226
+    - Mosha: PYL-151
     - Moudoku no Kaze: NPH-178
     - Nemo: MLY-090
     - Ochi Marco: SOE-144
@@ -42,7 +46,7 @@ readingTime = false
     - SaharaSaika: LEN-219
     - Scar Nova: SOE-163
     - Shida Xwheel: NPH-180
-    - Sys_Ygo: ORB-224
+    - Sys_Ygo: ORB-224, PYL-156
     - Trenemre: ORB-227
     - Venom Romulus 92: SOE-125, SOE-129, SOE-130, SOE-133, SOE-141
     - Yugiohoricabr: KOD-157, LEN-225
@@ -55,6 +59,6 @@ readingTime = false
     - 四海: ORB-234
 
 
-*(Updated on 2026-02-01, last set checked: ORB)*
+*(Updated on 2026-05-14, last set checked: PYL)*
 
 
