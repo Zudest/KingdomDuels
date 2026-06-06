@@ -37,7 +37,7 @@ readingTime = false
 *(Possessing the Thief King)* vs Karim + Seto + Isis + Shada + Akhenaden + Mahado + The Pharaoh|125|DNF|
 *(Possessing the Thief King)* vs Mahado|126|Loss|
 *(Possessing the Thief King)* vs Akhenaden|128|Win|
-*(Possessing the Thief King)* vs The Pharaoh + Seto|129|Loss|
+*(Possessing the Thief King)* vs The Pharaoh + Seto + Karim|129|Loss|
 *(Possessing the Thief King)* vs The Pharaoh|129|Win|
 *(As Evil Bakura)* vs Jonouchi|129|DNF|
 *(Possessing the Thief King)* vs The Pharaoh + Seto + Karim + Isis + Mana|131|Loss|

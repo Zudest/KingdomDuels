@@ -70,7 +70,7 @@ Rafael|113|Win|
 (+ Rishid + Honda) vs Shadi's Puzzles|119|Win|
 Anubis & Fizdis|123|Win|
 (+ Karim + Seto + Isis + Shada + Akhenaden + Mahado) vs Thief King Bakura|125|DNF|
-(+ Seto) vs Thief King Bakura|129|Win|
+(+ Seto + Karim) vs Thief King Bakura|129|Win|
 Thief King Bakura|129|Loss|
 (+ Seto + Karim + Isis + Mana) vs Thief King Bakura|131|Win|
 Seto|87,133|DNF|

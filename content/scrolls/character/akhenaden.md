@@ -22,7 +22,6 @@ readingTime = false
 {{< dueltablehistory>}}(+ Seto + Shada) vs Assassin|124|Win|
 (+ Seto + Mahado + Isis + Shada + Karim + The Pharaoh) vs Thief King Bakura|125|DNF|
 Thief King Bakura|128|Loss|
-*(Corrupted)* vs Hasan|132|DNF|
 *(Corrupted)* vs Karim|133|Win|
 *(Corrupted)* vs Kisara + Seto|133|Loss|
 {{< /dueltablehistory >}}

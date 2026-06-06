@@ -20,6 +20,7 @@ readingTime = false
 
 
 {{< dueltablehistory>}}(+ Seto + Isis + Shada + Akhenaden + Mahado + The Pharaoh) vs Thief King Bakura|125|DNF|
+(+ Seto + The Pharaoh) vs Thief King Bakura|129|Win|
 (+ Seto + Isis + Mana + The Pharaoh) vs Thief King Bakura|131|Win|
 Akhenaden|133|Loss|
 {{< /dueltablehistory >}}

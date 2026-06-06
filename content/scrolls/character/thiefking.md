@@ -21,7 +21,7 @@ readingTime = false
 {{< dueltablehistory>}}*(Possessed)* vs Karim + Seto + Isis + Shada + Akhenaden + Mahado + The Pharaoh|125|DNF|
 *(Possessed)* vs Mahado|126|Loss|
 *(Possessed)* vs Akhenaden|128|Win|
-*(Possessed)* vs The Pharaoh + Seto|129|Loss|
+*(Possessed)* vs The Pharaoh + Seto + Karim|129|Loss|
 *(Possessed)* vs The Pharaoh|129|Win|
 *(Possessed)* vs The Pharaoh + Seto + Karim + Isis + Mana|131|Loss|
 {{< /dueltablehistory >}}

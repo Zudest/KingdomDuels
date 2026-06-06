@@ -19,8 +19,7 @@ readingTime = false
 
 ### Duels
 
-{{< dueltablehistory>}}Akhenaden|132|DNF|
-Zorc|134|Loss|
+{{< dueltablehistory>}}Zorc|134|Loss|
 {{< /dueltablehistory >}}
 
 
