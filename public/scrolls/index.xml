@@ -93,9 +93,6 @@
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;Thief King Bakura&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;128&lt;/td&gt;
           &lt;td class=&#34;duel-lose&#34; style=&#34;text-align: center&#34;&gt;Loss&lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Corrupted)&lt;/em&gt; vs Hasan&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;132&lt;/td&gt;
-          &lt;td class=&#34;duel-dnf&#34; style=&#34;text-align: center&#34;&gt;DNF&lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Corrupted)&lt;/em&gt; vs Karim&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;133&lt;/td&gt;
           &lt;td class=&#34;duel-win&#34; style=&#34;text-align: center&#34;&gt;Win&lt;/td&gt;
@@ -104,7 +101,7 @@
           &lt;td class=&#34;duel-lose&#34; style=&#34;text-align: center&#34;&gt;Loss&lt;/td&gt;
         &lt;/tr&gt;&lt;tr class=&#34;total-row&#34;&gt;
         &lt;td colspan=&#34;3&#34; style=&#34;text-align: center&#34;&gt;
-          Total Record: 2-2-2
+          Total Record: 2-1-2
         &lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
@@ -917,7 +914,7 @@
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;(+ Karim + Seto + Isis + Shada + Akhenaden + Mahado) vs Thief King Bakura&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;125&lt;/td&gt;
           &lt;td class=&#34;duel-dnf&#34; style=&#34;text-align: center&#34;&gt;DNF&lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;(+ Seto) vs Thief King Bakura&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;(+ Seto + Karim) vs Thief King Bakura&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;129&lt;/td&gt;
           &lt;td class=&#34;duel-win&#34; style=&#34;text-align: center&#34;&gt;Win&lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;Thief King Bakura&lt;/td&gt;
@@ -31136,15 +31133,12 @@
         &lt;th style=&#34;width: 20%&#34;&gt;Outcome&lt;/th&gt;
       &lt;/tr&gt;
     &lt;/thead&gt;
-    &lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;Akhenaden&lt;/td&gt;
-          &lt;td style=&#34;text-align: center&#34;&gt;132&lt;/td&gt;
-          &lt;td class=&#34;duel-dnf&#34; style=&#34;text-align: center&#34;&gt;DNF&lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;Zorc&lt;/td&gt;
+    &lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;Zorc&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;134&lt;/td&gt;
           &lt;td class=&#34;duel-lose&#34; style=&#34;text-align: center&#34;&gt;Loss&lt;/td&gt;
         &lt;/tr&gt;&lt;tr class=&#34;total-row&#34;&gt;
         &lt;td colspan=&#34;3&#34; style=&#34;text-align: center&#34;&gt;
-          Total Record: 0-1-1
+          Total Record: 0-0-1
         &lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
@@ -32552,6 +32546,9 @@
     &lt;tbody&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;(+ Seto + Isis + Shada + Akhenaden + Mahado + The Pharaoh) vs Thief King Bakura&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;125&lt;/td&gt;
           &lt;td class=&#34;duel-dnf&#34; style=&#34;text-align: center&#34;&gt;DNF&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;(+ Seto + The Pharaoh) vs Thief King Bakura&lt;/td&gt;
+          &lt;td style=&#34;text-align: center&#34;&gt;129&lt;/td&gt;
+          &lt;td class=&#34;duel-win&#34; style=&#34;text-align: center&#34;&gt;Win&lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;(+ Seto + Isis + Mana + The Pharaoh) vs Thief King Bakura&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;131&lt;/td&gt;
           &lt;td class=&#34;duel-win&#34; style=&#34;text-align: center&#34;&gt;Win&lt;/td&gt;
@@ -32560,7 +32557,7 @@
           &lt;td class=&#34;duel-lose&#34; style=&#34;text-align: center&#34;&gt;Loss&lt;/td&gt;
         &lt;/tr&gt;&lt;tr class=&#34;total-row&#34;&gt;
         &lt;td colspan=&#34;3&#34; style=&#34;text-align: center&#34;&gt;
-          Total Record: 1-1-1
+          Total Record: 2-1-1
         &lt;/td&gt;
       &lt;/tr&gt;
     &lt;/tbody&gt;
@@ -38480,7 +38477,7 @@
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessed)&lt;/em&gt; vs Akhenaden&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;128&lt;/td&gt;
           &lt;td class=&#34;duel-win&#34; style=&#34;text-align: center&#34;&gt;Win&lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessed)&lt;/em&gt; vs The Pharaoh + Seto&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessed)&lt;/em&gt; vs The Pharaoh + Seto + Karim&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;129&lt;/td&gt;
           &lt;td class=&#34;duel-lose&#34; style=&#34;text-align: center&#34;&gt;Loss&lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessed)&lt;/em&gt; vs The Pharaoh&lt;/td&gt;
@@ -39954,7 +39951,7 @@
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessing the Thief King)&lt;/em&gt; vs Akhenaden&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;128&lt;/td&gt;
           &lt;td class=&#34;duel-win&#34; style=&#34;text-align: center&#34;&gt;Win&lt;/td&gt;
-        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessing the Thief King)&lt;/em&gt; vs The Pharaoh + Seto&lt;/td&gt;
+        &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessing the Thief King)&lt;/em&gt; vs The Pharaoh + Seto + Karim&lt;/td&gt;
           &lt;td style=&#34;text-align: center&#34;&gt;129&lt;/td&gt;
           &lt;td class=&#34;duel-lose&#34; style=&#34;text-align: center&#34;&gt;Loss&lt;/td&gt;
         &lt;/tr&gt;&lt;tr&gt;&lt;td style=&#34;text-align: center&#34;&gt;&lt;em&gt;(Possessing the Thief King)&lt;/em&gt; vs The Pharaoh&lt;/td&gt;
