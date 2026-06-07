@@ -1,7 +1,7 @@
 +++
 date = '2026-06-06T13:00:00-03:00'
 title = 'A thank you note for the Kingdom Duels community'
-categories = ['Updates']
+categories = ['Community']
 image = "/img/post/post0042.jpg"
 toc = false
 +++
