@@ -70,8 +70,8 @@ theme = 'hugo-theme-stack'
         [menus.main.params]
             icon = "books"
     [[menus.main]]
-        name = 'Deckbuilder'
-        url = '/deckbuilder/'
+        name = 'Card Library'
+        url = '/cards/'
         weight = 40
         [menus.main.params]
             icon = "cards"

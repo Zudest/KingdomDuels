@@ -2,7 +2,22 @@
 class KingdomDuelsSearch {
     constructor(cardsData) {
         this.cards = cardsData;
+        // cardid -> texto de efecto en minúsculas. Se llena aparte, bajo demanda.
+        this.effects = new Map();
+        this.effectsLoaded = false;
+        // cardids que tienen artes alternativos; lo llena app.js desde artworks.json
+        this.altArtCards = new Set();
         this.buildIndices();
+    }
+
+    // El texto se guarda ya en minúsculas: hacerlo una vez al cargar cuesta
+    // menos que 1759 toLowerCase() en cada tecleo.
+    setEffects(byCardId) {
+        this.effects = new Map();
+        Object.keys(byCardId).forEach(cardid => {
+            this.effects.set(cardid, String(byCardId[cardid]).toLowerCase());
+        });
+        this.effectsLoaded = true;
     }
 
     // Construir índices para búsqueda rápida
@@ -10,7 +25,9 @@ class KingdomDuelsSearch {
         this.indices = {
             name: new Map(),
             frame: new Map(),
+            frameFull: new Map(),
             types: new Map(),
+            fpb: new Map(),
             set: new Map(),
             deck: new Map(),
             duelist: new Map(),
@@ -36,6 +53,11 @@ class KingdomDuelsSearch {
 
             // Indice de frames
             if (card.frame) {
+                // Índice del frame completo: sin esto, elegir "Monster" devolvía
+                // también "Fusion Monster", "Ritual Monster", etc. (el índice por
+                // palabra no distingue el frame base de sus variantes).
+                this.addToIndex('frameFull', card.frame, index);
+
                 card.frame.split(' ').forEach(word => {
                     const cleanWord = word.trim();
                     if (cleanWord) {
@@ -87,6 +109,16 @@ class KingdomDuelsSearch {
                 });
             }
 
+            // Índice de Field Power Bonus (sólo Terrains) - multivalor
+            if (card.fpb) {
+                card.fpb.split(' ').forEach(bonus => {
+                    const cleanBonus = bonus.trim();
+                    if (cleanBonus) {
+                        this.addToIndex('fpb', cleanBonus.toLowerCase(), index);
+                    }
+                });
+            }
+
             // Índice de palabras del nombre
             if (card.name) {
                 card.name.toLowerCase().split(' ').forEach(word => {
@@ -100,6 +132,22 @@ class KingdomDuelsSearch {
                 });
             }
         });
+    }
+
+    // Los términos multipalabra se modelan con guion bajo ("Alter_Monster") para
+    // que sean un token único. Probamos las dos formas: así el dataset puede
+    // migrar de espacios a guiones bajos sin romper nada mientras tanto, y el
+    // usuario puede escribir frame:"alter monster" o frame:alter_monster.
+    lookupVariants(index, value) {
+        const tries = [value, value.replace(/ /g, '_'), value.replace(/_/g, ' ')];
+        for (const attempt of tries) {
+            if (index.has(attempt)) return index.get(attempt);
+        }
+        return null;
+    }
+
+    static tokenVariants(value) {
+        return [value, value.replace(/ /g, '_'), value.replace(/_/g, ' ')];
     }
 
     addToIndex(field, value, cardIndex) {
@@ -205,6 +253,7 @@ class KingdomDuelsSearch {
 
             // Manejo de alias
             if (field === 'attrib') field = 'attribute';
+            if (field === 'o' || field === 'text' || field === 'effect') field = 'oracle';
             if (field === 'level') {
                 // Caso especial: level:4 se convierte en grade:lvl + gradeval:4
                 return this.createLevelTerm(value, negate);
@@ -288,8 +337,10 @@ class KingdomDuelsSearch {
         };
     }
 
-    // Ejecutar búsqueda
-    search(query, limit = 1000) {
+    // Ejecutar búsqueda.
+    // Sin límite por defecto: la app pagina sola, y un tope acá haría que el
+    // contador mintiera ("of 1000") en cualquier consulta amplia.
+    search(query, limit = Infinity) {
         const parsed = this.parseQuery(query);
         
         if (parsed.terms.length === 0) {
@@ -354,6 +405,13 @@ class KingdomDuelsSearch {
         return resultCards;
     }
 
+    // ¿La consulta toca el texto de efecto? Determina si hay que traer los
+    // JSON de efectos antes de poder responderla.
+    needsEffects(query) {
+        if (!query || !query.trim()) return false;
+        return this.parseQuery(query).terms.some(term => term.field === 'oracle');
+    }
+
     searchTerm(term) {
         const matches = new Set();
 
@@ -377,27 +435,26 @@ class KingdomDuelsSearch {
 
         switch (term.field) {
             case 'name':
-                if (term.operator === 'contains') {
-                    // Búsqueda parcial en nombres
-                    this.cards.forEach((card, i) => {
-                        if (card.name.toLowerCase().includes(term.value)) {
-                            matches.add(i);
-                        }
-                    });
-                } else {
-                    // Búsqueda exacta por palabra
-                    if (this.nameWords.has(term.value)) {
-                        this.nameWords.get(term.value).forEach(i => matches.add(i));
+                // Siempre búsqueda parcial. El índice nameWords sólo tiene palabras
+                // sueltas, así que usarlo para el operador '=' hacía que
+                // name:"Dark Magician" (con espacios) no devolviera nada nunca.
+                this.cards.forEach((card, i) => {
+                    if (card.name.toLowerCase().includes(term.value)) {
+                        matches.add(i);
                     }
-                }
+                });
                 break;
 
-            case 'frame':
-                // Búsqueda por palabras individuales en frame
-                if (this.indices.frame.has(term.value)) {
-                    this.indices.frame.get(term.value).forEach(i => matches.add(i));
-                }
+            case 'frame': {
+                // Coincidencia exacta con el frame completo: "monster" devuelve sólo
+                // Monster, no Fusion_Monster. Con la convención de guion bajo cada
+                // frame es un token único, así que frame:fusion NO da resultados;
+                // la forma correcta es frame:Fusion_Monster.
+                const hit = this.lookupVariants(this.indices.frameFull, term.value)
+                    || this.lookupVariants(this.indices.frame, term.value);
+                if (hit) hit.forEach(i => matches.add(i));
                 break;
+            }
 
             case 'set':
             case 'deck':
@@ -431,46 +488,49 @@ class KingdomDuelsSearch {
                 break;
 
             case 'duelist':
-                // Búsqueda en duelistas - separados por espacios
-                const cleanDuelistValue = term.value.trim();
+            case 'fpb':
+            case 'types':
+            case 'type': {
+                // Campos multivalor separados por espacios
+                const field = term.field === 'type' ? 'types' : term.field;
+                const clean = term.value.trim();
 
-                // Usar búsqueda exacta en el índice primero
-                if (this.indices.duelist.has(cleanDuelistValue)) {
-                    this.indices.duelist.get(cleanDuelistValue).forEach(i => matches.add(i));
+                const hit = this.lookupVariants(this.indices[field], clean);
+                if (hit) {
+                    hit.forEach(i => matches.add(i));
                 } else {
-                    // Solo si no encuentra coincidencia exacta, hacer búsqueda parcial
+                    // Sin coincidencia exacta: recorrer comparando token a token
+                    const wanted = KingdomDuelsSearch.tokenVariants(clean);
                     this.cards.forEach((card, i) => {
-                        if (card.duelist) {
-                            // Limpiar duelistas y buscar coincidencia exacta en la lista
-                            const cardDuelists = card.duelist.split(' ').map(d => d.trim().toLowerCase()).filter(d => d);
-                            if (cardDuelists.includes(cleanDuelistValue)) {
-                                matches.add(i);
-                            }
+                        if (!card[field]) return;
+                        const tokens = card[field].split(' ').map(t => t.trim().toLowerCase()).filter(Boolean);
+                        if (wanted.some(v => tokens.includes(v))) {
+                            matches.add(i);
                         }
                     });
                 }
                 break;
+            }
 
-            case 'types':
-            case 'type':
-                // Búsqueda en tipos - limpiar espacios
-                const cleanValue = term.value.trim();
-                
-                // Usar búsqueda exacta en el índice primero
-                if (this.indices.types.has(cleanValue)) {
-                    this.indices.types.get(cleanValue).forEach(i => matches.add(i));
-                } else {
-                    // Solo si no encuentra coincidencia exacta, hacer búsqueda parcial
-                    this.cards.forEach((card, i) => {
-                        if (card.types) {
-                            // Limpiar tipos y buscar coincidencia exacta en la lista
-                            const cardTypes = card.types.split(' ').map(t => t.trim().toLowerCase()).filter(t => t);
-                            if (cardTypes.includes(cleanValue)) {
-                                matches.add(i);
-                            }
-                        }
-                    });
-                }
+            case 'alt': {
+                // alt:yes -> sólo cartas con artes alternativos; alt:no -> el resto
+                const wantAlt = !['no', 'false', '0'].includes(term.value);
+                this.cards.forEach((card, i) => {
+                    if (this.altArtCards.has(card.cardid) === wantAlt) matches.add(i);
+                });
+                break;
+            }
+
+            case 'oracle':
+                // Scan lineal sobre el texto de efecto. Medido: 0,4 ms para las
+                // 1759 cartas, así que un índice invertido no compensa — y
+                // además no podría resolver subcadenas ni frases.
+                this.cards.forEach((card, i) => {
+                    const text = this.effects.get(card.cardid);
+                    if (text && text.includes(term.value)) {
+                        matches.add(i);
+                    }
+                });
                 break;
 
             case 'id':
@@ -549,18 +609,4 @@ function setupAdvancedSearch(cardsData) {
     const searcher = new KingdomDuelsSearch(cardsData);
     return searcher;
 }
-
-// Agregar campo de búsqueda avanzada al HTML
-function addAdvancedSearchField() {
-    // Solo agregar los event listeners
-    const searchField = document.getElementById('advancedSearch');
-    if (searchField) {
-        searchField.addEventListener('input', onAdvancedSearchChange);
-        
-        // Inicializar dropdown cerrado
-        const dropdown = document.getElementById('filtersDropdown');
-        if (dropdown) {
-            dropdown.style.display = 'none';
-        }
-    }
-}
+// Los listeners de la barra los cablea app.js (con debounce), no este archivo.
