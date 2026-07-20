@@ -16,4 +16,4 @@ toc = false
 - It provides support for the following duelists: Anzu, Honda, Jonouchi, Yugi, Otogi.
 - Introduces a new terrain: "Dungeon".
 
-[**Card Gallery**](/deckbuilder/index.html#9)
+[**Card Gallery**](/cards/)

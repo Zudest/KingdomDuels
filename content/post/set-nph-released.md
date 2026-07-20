@@ -15,7 +15,7 @@ toc = false
 - It is focused around the last stage of the Battle City tournament: from the quarterfinals on top of the airship all the way to the climatic clash on the Duel Tower. Iconic cards like Dark Paladin, Lava Golem, Dark Necrofear, XYZ-Dragon Cannon and Immortal God Slime make their debut here.
 - New terrains: Sky, Underworld, Scrapyard, Colosseum.
 - It provides support for the following duelists: Bakura, Yugi, Rishid, Jonouchi, Mai, Marik, Ishizu, Kaiba, Pegasus, Gravekeeper, Tournament Duelists.
-- [**CARD GALLERY**](/deckbuilder/?search=set%253ANPH)
+- [**CARD GALLERY**](/cards/?search=set%253ANPH)
 
 #### Other Changes
 

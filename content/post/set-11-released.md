@@ -15,6 +15,6 @@ toc = false
 - It provides support for the following duelists: Shizuka, Honda, Otogi, Ota, Kaiba, Daimon, Mokuba, Noah.
 - Introduces new terrains: "Factory", "City" and "Space".
 
-[**Card Gallery**](/deckbuilder/index.html#11)
+[**Card Gallery**](/cards/)
 
 

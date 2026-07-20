@@ -17,7 +17,7 @@ toc = false
 - Introduces two new Alter monster subtypes: "Fallen" and "Knighted".
 - Introduces the very first Divine Alter monster.
 
-[**Card Gallery**](/deckbuilder/index.html#12)
+[**Card Gallery**](/cards/)
 
 #### Other Updates
 

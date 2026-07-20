@@ -16,7 +16,7 @@ toc = false
 - New terrains: Indoors, Darkness.
 - New card types: Bestial (Alter Monster Type).
 - It provides support for the following duelists: Yako, Yugi, Jonouchi, Honda, Tilla Mook, Pete Coppermine, Kirk Dixon, Maico Kato, Gekko, Reiko Kitamori, Ted Banias, Scott Depre, Richie Merced, Keith, Willa Metta. 
-- [**CARD GALLERY**](/deckbuilder/?search=set%253AROA)
+- [**CARD GALLERY**](/cards/?search=set%253AROA)
 
 #### Other Changes
 

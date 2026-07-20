@@ -9,23 +9,23 @@ readingTime = false
 ## Core Sets
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0003.jpg" link="/deckbuilder/?search=set%253ASOE" caption="🏰 [SOE] → Seal of Exodia" alt="" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0037.jpg" link="/deckbuilder/?search=set%253AKOD" caption="🏰 [KOD] → King of Duelists" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0003.jpg" link="/cards/?search=set%253ASOE" caption="🏰 [SOE] → Seal of Exodia" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0037.jpg" link="/cards/?search=set%253AKOD" caption="🏰 [KOD] → King of Duelists" alt="" width="230" >}}
 </div>
 
 ## Story Sets
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0052.jpg" link="/deckbuilder/?search=set%253ALEN" caption="🏛️ [LEN] → Loose Ends" alt="" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0065.jpg" link="/deckbuilder/?search=set%253AMLY" caption="🏛️ [MLY] → Millennium Legacy" alt="" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0071.jpg" link="/deckbuilder/?search=set%253ATEG" caption="🏙️ [TEG] → The Egyptian Gods" alt="" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0085.jpg" link="/deckbuilder/?search=set%253ANPH" caption="🏙️ [NPH] → Nameless Pharaoh" alt="85" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0052.jpg" link="/cards/?search=set%253ALEN" caption="🏛️ [LEN] → Loose Ends" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0065.jpg" link="/cards/?search=set%253AMLY" caption="🏛️ [MLY] → Millennium Legacy" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0071.jpg" link="/cards/?search=set%253ATEG" caption="🏙️ [TEG] → The Egyptian Gods" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0085.jpg" link="/cards/?search=set%253ANPH" caption="🏙️ [NPH] → Nameless Pharaoh" alt="85" width="230" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0101.jpg" link="/deckbuilder/?search=set%253AROA" caption="🎇 [ROA] → Rebirth of Avatar" alt="100" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0104.jpg" link="/deckbuilder/?search=set%253AORB" caption="🎇 [ORB] → Orichalcos Barrier" alt="106" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0119.jpg"  link="/deckbuilder/?search=set%253APYL" caption="🗝️ [PYL] → Pyramid of Light" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0101.jpg" link="/cards/?search=set%253AROA" caption="🎇 [ROA] → Rebirth of Avatar" alt="100" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0104.jpg" link="/cards/?search=set%253AORB" caption="🎇 [ORB] → Orichalcos Barrier" alt="106" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0119.jpg"  link="/cards/?search=set%253APYL" caption="🗝️ [PYL] → Pyramid of Light" alt="" width="230" >}}
 {{< imagetext src="/img/storyimg/00.png" caption="🗝️ [?] → ?" alt="" width="230" >}}
 </div>
 
@@ -39,9 +39,9 @@ readingTime = false
 ## Additional Content
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0041.jpg" link="/deckbuilder/?search=set%253AT" caption="🏞️ Terrain Markers" alt="" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0069.jpg" link="/deckbuilder/?search=set%253AA" caption="🖼️ Alternative Cards" alt="" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0001.jpg" link="/deckbuilder/?search=set%253APROMO" caption="⭐ Promotional Cards" alt="100" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0041.jpg" link="/cards/?search=set%253AT" caption="🏞️ Terrain Markers" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0069.jpg" link="/cards/?search=alt%253Ayes" caption="🖼️ Alternative Cards" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0001.jpg" link="/cards/?search=set%253APROMO" caption="⭐ Promotional Cards" alt="100" width="230" >}}
 {{< imagetext src="/img/storyimg/00.png" caption="Starter Decks (WIP)" alt="100" width="230" >}}
 </div>
 

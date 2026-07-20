@@ -15,7 +15,7 @@ toc = false
 - It provides support for the following duelists: Shadi, Kanekura, Yugi, Yoshimori, Priest Seto, Pharaoh Servant.
 - Introduces a new terrain: "Temple".
 - Introduces the very first "Subduel" mechanic interactions.
-- [**CARD GALLERY**](/deckbuilder/index.html#13)
+- [**CARD GALLERY**](/cards/)
 
 #### Other Updates
 

@@ -16,7 +16,7 @@ toc = false
 - New Monster card types: Armor, Soldier
 - New Alter Monster card type: Reincarnated.
 - This set provides support for the following duelists: Mai, Pegasus, Jonouchi, Dartz, Amelda, Kaiba, Gurimo, Yugi, Rafael, Ryuzaki, Haga, The Other Yugi, Valon, Rebecca, Otogi, Orichalcos Police, Anzu, Honda. 
-- [**CARD GALLERY**](/deckbuilder/?search=set%253AORB)
+- [**CARD GALLERY**](/cards/?search=set%253AORB)
 
 
 

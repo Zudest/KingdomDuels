@@ -16,7 +16,7 @@ toc = false
 - New card types: Union, Infested.
 - New terrain: River.
 - It provides support for the following duelists: Rare Hunter, Jonouchi, Yugi, Esper Roba, Ryuzaki, Pandora, Haga, Marik, Kajiki, Mask of Light, Mask of Darkness, Anzu, Mokuba, Bakura, Kotsuzuka, Takaido, Satake, Jean-Claude Magnum.
-- [**CARD GALLERY**](/deckbuilder/?search=set%253ATEG)
+- [**CARD GALLERY**](/cards/?search=set%253ATEG)
 
 #### Changes to Previous Sets
 

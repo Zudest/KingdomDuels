@@ -16,4 +16,4 @@ toc = false
 - It provides support for the following duelists: Kajiki, Ryuzaki, Mai, Kotsuzuka, Brother Mei, Brother Kyu, Kaiba, Mokuba, The Big Five, Yugi, Rebecca, Sugoroku, Arthur.
 - Introduces six new terrains: "Desert", "Cave", "Vortex", "Volcano", "Ruins", "Dragon Valley".
 
-[**Card Gallery**](/deckbuilder/index.html#8)
+[**Card Gallery**](/cards/)

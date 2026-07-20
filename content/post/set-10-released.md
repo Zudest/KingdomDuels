@@ -16,6 +16,6 @@ toc = false
 - It provides support for the following duelists: Yugi, Oshita, Anzu, Otaki, Jonouchi, Ooka.
 - Introduces new terrains: "Swamp", "Icefield" and "Palace".
 
-[**Card Gallery**](/deckbuilder/index.html#10)
+[**Card Gallery**](/cards/)
 
 

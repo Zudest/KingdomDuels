@@ -1,5 +1,5 @@
 +++
-date = '2026-06-06T14:00:00-03:00'
+date = '2026-06-07T15:00:00-03:00'
 title = 'Future Summoning Methods'
 categories = ['Updates']
 image = "/img/post/post0043.jpg"
