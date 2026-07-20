@@ -6,10 +6,43 @@
         <description>Recent content on Kingdom Duels</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 06 Jun 2026 14:00:00 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 20 Jul 2026 00:42:00 -0300</lastBuildDate><atom:link href="https://kingdomduels.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>The revamped deckbuilder is here: Kingdom Duels Card Library</title>
+        <link>https://kingdomduels.com/post/card-library/</link>
+        <pubDate>Mon, 20 Jul 2026 00:42:00 -0300</pubDate>
+        
+        <guid>https://kingdomduels.com/post/card-library/</guid>
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0044.jpg" alt="Featured image of post The revamped deckbuilder is here: Kingdom Duels Card Library" /&gt;&lt;p&gt;The deckbuilder has been rebuilt from the ground up and it is now the &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Card Library&lt;/strong&gt;&lt;/a&gt;. It kept everything it did before but the way you browse, filter and create your decks has changed quite a bit.&lt;/p&gt;
+&lt;p&gt;Note: It also was moved to a new address: &lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;kingdomduels.com/cards&lt;/a&gt;&lt;/strong&gt;. The old &lt;code&gt;/deckbuilder/&lt;/code&gt; links still work and will redirect you though.&lt;/p&gt;
+&lt;h4 id=&#34;layout&#34;&gt;Layout
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;The old grid showed 8 cards at a time on a 1080p screen, with the deck panel eating a third of the width. Now the filters and the deckbuilder share a single sidebar with two tabs, which leaves the rest of the page for the cards.&lt;/li&gt;
+&lt;li&gt;6 or 10 columns for cards (there is a &lt;strong&gt;S / L&lt;/strong&gt; toggle in the toolbar).&lt;/li&gt;
+&lt;li&gt;Cards already in your deck are highlighted in the grid.&lt;/li&gt;
+&lt;li&gt;Filters, deck counters and pagination stay visible while you scroll. There are small counters on the sidebar for the deck progress too.&lt;/li&gt;
+&lt;li&gt;Cards in the deckbuild are showing only as text so they are better presented without unnecessary scrolling, and have a hover with card information and a bigger image for quick reference.&lt;/li&gt;
+&lt;li&gt;Rows in the deck have &lt;strong&gt;−&lt;/strong&gt; and &lt;strong&gt;+&lt;/strong&gt; buttons, so changing from three copies to two no longer means deleting the card and finding it again.&lt;/li&gt;
+&lt;li&gt;Just as before: &lt;strong&gt;left click&lt;/strong&gt; adds a card to the corresponding deck, &lt;strong&gt;right click&lt;/strong&gt; shows it enlarged.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;searching&#34;&gt;Searching
+&lt;/h4&gt;&lt;p&gt;There is now a single search bar at the top, and typing a plain name just works. The scryfall-style syntax is still there if you want it, and the &lt;code&gt;?&lt;/code&gt; button next to the bar lists every field.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Filters apply as you type, so the &amp;ldquo;Apply Filters&amp;rdquo; button is gone. Whatever you filter shows up as removable green chips above the grid.&lt;/li&gt;
+&lt;li&gt;Every dropdown is now searchable and tells you how many cards each option has. This includes the new &lt;strong&gt;duelist&lt;/strong&gt; and &lt;strong&gt;types&lt;/strong&gt; dropdown.&lt;/li&gt;
+&lt;li&gt;ATK, DEF, Bonus ATK and Bonus DEF now have visible &lt;strong&gt;&amp;gt;= &amp;gt; &amp;lt;= &amp;lt; !=&lt;/strong&gt; operators. Those things always worked, but you had to know the syntax to use them.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grade&lt;/strong&gt; and its value work as a pair: pick a Grade and then the value control adapts to it (for example picking Level shows a numeric control while Glyph shows a dropdown of options).&lt;/li&gt;
+&lt;li&gt;Alternative artworks are now combined with the base ones so they are easier to find, browse and add to your deck.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;effect-search&#34;&gt;Effect Search
+&lt;/h4&gt;&lt;p&gt;Something that was requested for a while: You can now search the actual &lt;strong&gt;effect text&lt;/strong&gt; of every card (finally!, lol)&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Kingdom Duels Card Library&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Future Summoning Methods</title>
         <link>https://kingdomduels.com/post/summoning-methods-of-the-future/</link>
-        <pubDate>Sat, 06 Jun 2026 14:00:00 -0300</pubDate>
+        <pubDate>Sun, 07 Jun 2026 15:00:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/summoning-methods-of-the-future/</guid>
         <description>&lt;img src="https://kingdomduels.com/img/post/post0043.jpg" alt="Featured image of post Future Summoning Methods" /&gt;&lt;p&gt;It&amp;rsquo;s finally time! As we prepare for our final set of the Millennium Chapter we will be now unveiling the Summoning Mechanics that Kingdom Duels will have in the future. What follows is a list of all the planned methods of summoning monsters, and i will provide specific information regarding each one below. These are subject to change, but are more or less already well defined.&lt;/p&gt;
@@ -373,7 +406,7 @@
 &lt;li&gt;It has &lt;strong&gt;158 cards&lt;/strong&gt; from episodes &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/story/world-of-memories-arc/&#34; &gt;116 to 123&lt;/a&gt; of the Yugioh Scrolls project.&lt;/li&gt;
 &lt;li&gt;It is focused on a reinterpretation of the &amp;ldquo;Pyramid of Light&amp;rdquo; movie alongside original content that explores the last two Millennium Items that the Pharaoh needs before his final journey. We will follow a brand new character called Fizdis (which actually comes from the old yugioh videogames!) as she has some unfinished business with the mysterious Shadi. Iconic cards like Blue-Eyes Shining Dragon, Magician Valkyria, Sorcerer of Dark Magic and, of course, the Pyramid of Light make their debut here.&lt;/li&gt;
 &lt;li&gt;This set provides support for the following duelists: Yugi, Anzu, Jonouchi, Honda, Bakura, Haga, Ryuzaki, Kaiba, Fizdis, Sugoroku, Shadi, Marik, Ishizu, Rishid, Anubis.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253APYL&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/?search=set%253APYL&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -473,7 +506,7 @@
 &lt;li&gt;New Monster card types: Armor, Soldier&lt;/li&gt;
 &lt;li&gt;New Alter Monster card type: Reincarnated.&lt;/li&gt;
 &lt;li&gt;This set provides support for the following duelists: Mai, Pegasus, Jonouchi, Dartz, Amelda, Kaiba, Gurimo, Yugi, Rafael, Ryuzaki, Haga, The Other Yugi, Valon, Rebecca, Otogi, Orichalcos Police, Anzu, Honda.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AORB&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/?search=set%253AORB&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
@@ -2198,7 +2231,7 @@
 &lt;li&gt;New terrains: Indoors, Darkness.&lt;/li&gt;
 &lt;li&gt;New card types: Bestial (Alter Monster Type).&lt;/li&gt;
 &lt;li&gt;It provides support for the following duelists: Yako, Yugi, Jonouchi, Honda, Tilla Mook, Pete Coppermine, Kirk Dixon, Maico Kato, Gekko, Reiko Kitamori, Ted Banias, Scott Depre, Richie Merced, Keith, Willa Metta.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AROA&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/?search=set%253AROA&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;other-changes&#34;&gt;Other Changes
 &lt;/h4&gt;&lt;ul&gt;
@@ -2274,7 +2307,7 @@
 &lt;li&gt;It is focused around the last stage of the Battle City tournament: from the quarterfinals on top of the airship all the way to the climatic clash on the Duel Tower. Iconic cards like Dark Paladin, Lava Golem, Dark Necrofear, XYZ-Dragon Cannon and Immortal God Slime make their debut here.&lt;/li&gt;
 &lt;li&gt;New terrains: Sky, Underworld, Scrapyard, Colosseum.&lt;/li&gt;
 &lt;li&gt;It provides support for the following duelists: Bakura, Yugi, Rishid, Jonouchi, Mai, Marik, Ishizu, Kaiba, Pegasus, Gravekeeper, Tournament Duelists.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ANPH&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/?search=set%253ANPH&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;other-changes&#34;&gt;Other Changes
 &lt;/h4&gt;&lt;ul&gt;
@@ -3990,7 +4023,7 @@
 &lt;li&gt;New card types: Union, Infested.&lt;/li&gt;
 &lt;li&gt;New terrain: River.&lt;/li&gt;
 &lt;li&gt;It provides support for the following duelists: Rare Hunter, Jonouchi, Yugi, Esper Roba, Ryuzaki, Pandora, Haga, Marik, Kajiki, Mask of Light, Mask of Darkness, Anzu, Mokuba, Bakura, Kotsuzuka, Takaido, Satake, Jean-Claude Magnum.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ATEG&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/?search=set%253ATEG&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;changes-to-previous-sets&#34;&gt;Changes to Previous Sets
 &lt;/h4&gt;&lt;ul&gt;
@@ -4180,7 +4213,7 @@
 &lt;li&gt;Codename: [SPZ]&lt;/li&gt;
 &lt;li&gt;It has 64 cards from episodes &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/story/legacy-arc/&#34; &gt;61 to 65&lt;/a&gt; of the Yugioh Scrolls project, and it concludes the &lt;del&gt;Museum Arc&lt;/del&gt; Legacy Arc by bringing the Millennium Item wielders to the spotlight.&lt;/li&gt;
 &lt;li&gt;It provides support for the following duelists: Marik, Yugi, Keith, Jonouchi, Otogi, Anzu, Johnny Steps, Ishizu, Bakura, Pegasus, Shadi.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ASPZ&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;other-updates&#34;&gt;Other Updates
 &lt;/h4&gt;&lt;ul&gt;
@@ -4194,7 +4227,7 @@
 &lt;p&gt;Take a look at the tentative &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/rules-wip&#34; &gt;rulebook&lt;/a&gt; with all the upcoming changes that we&amp;rsquo;ll be rolling in the coming weeks.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;We updated our &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder&#34; &gt;Deckbuilder&lt;/a&gt; with a lot of improvements on the search system. It works now with a syntax-based system (similar to Scryfall for Magic the Gathering).&lt;/p&gt;
+&lt;p&gt;We updated our &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;Deckbuilder&lt;/a&gt; with a lot of improvements on the search system. It works now with a syntax-based system (similar to Scryfall for Magic the Gathering).&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -4213,7 +4246,7 @@
 &lt;li&gt;It provides support for the following duelists: Shadi, Kanekura, Yugi, Yoshimori, Priest Seto, Pharaoh Servant.&lt;/li&gt;
 &lt;li&gt;Introduces a new terrain: &amp;ldquo;Temple&amp;rdquo;.&lt;/li&gt;
 &lt;li&gt;Introduces the very first &amp;ldquo;Subduel&amp;rdquo; mechanic interactions.&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#13&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;CARD GALLERY&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;other-updates&#34;&gt;Other Updates
 &lt;/h4&gt;&lt;ul&gt;
@@ -5868,7 +5901,7 @@
 &lt;li&gt;Introduces two new Alter monster subtypes: &amp;ldquo;Fallen&amp;rdquo; and &amp;ldquo;Knighted&amp;rdquo;.&lt;/li&gt;
 &lt;li&gt;Introduces the very first Divine Alter monster.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#12&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;other-updates&#34;&gt;Other Updates
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Some cards from the BSN set and previous Terrains were also updated.&lt;/li&gt;
@@ -5889,7 +5922,7 @@
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/about/&#34; &gt;About&lt;/a&gt;&lt;/strong&gt;: Brief introduction to the game and the cards with useful links and images.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/rules/&#34; &gt;Rules&lt;/a&gt;&lt;/strong&gt;: Revamped rulebook with images and sections for easy navigation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt;: The story rewrite have its own dedicated page now, with sub-sections and episode navigation.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;Deckbuilder&lt;/a&gt;&lt;/strong&gt;: The deckbuilder has been integrated to the website itself.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;Deckbuilder&lt;/a&gt;&lt;/strong&gt;: The deckbuilder has been integrated to the website itself.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/restricted-list/&#34; &gt;Restricted List&lt;/a&gt;&lt;/strong&gt;: Useful quick link to check the current restricted list.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/releases/&#34; &gt;Downloads&lt;/a&gt;&lt;/strong&gt;: All the downloads available for the game, including cards, templates and old versions.&lt;/li&gt;
 &lt;/ul&gt;
@@ -5909,7 +5942,7 @@
 &lt;li&gt;It provides support for the following duelists: Shizuka, Honda, Otogi, Ota, Kaiba, Daimon, Mokuba, Noah.&lt;/li&gt;
 &lt;li&gt;Introduces new terrains: &amp;ldquo;Factory&amp;rdquo;, &amp;ldquo;City&amp;rdquo; and &amp;ldquo;Space&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#11&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -5927,7 +5960,7 @@
 &lt;li&gt;It provides support for the following duelists: Yugi, Oshita, Anzu, Otaki, Jonouchi, Ooka.&lt;/li&gt;
 &lt;li&gt;Introduces new terrains: &amp;ldquo;Swamp&amp;rdquo;, &amp;ldquo;Icefield&amp;rdquo; and &amp;ldquo;Palace&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#10&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -5960,7 +5993,7 @@
 &lt;li&gt;It provides support for the following duelists: Anzu, Honda, Jonouchi, Yugi, Otogi.&lt;/li&gt;
 &lt;li&gt;Introduces a new terrain: &amp;ldquo;Dungeon&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#9&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -5978,7 +6011,7 @@
 &lt;li&gt;It provides support for the following duelists: Kajiki, Ryuzaki, Mai, Kotsuzuka, Brother Mei, Brother Kyu, Kaiba, Mokuba, The Big Five, Yugi, Rebecca, Sugoroku, Arthur.&lt;/li&gt;
 &lt;li&gt;Introduces six new terrains: &amp;ldquo;Desert&amp;rdquo;, &amp;ldquo;Cave&amp;rdquo;, &amp;ldquo;Vortex&amp;rdquo;, &amp;ldquo;Volcano&amp;rdquo;, &amp;ldquo;Ruins&amp;rdquo;, &amp;ldquo;Dragon Valley&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/index.html#8&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Card Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -5987,7 +6020,7 @@
         <pubDate>Sun, 01 Dec 2024 15:42:00 -0300</pubDate>
         
         <guid>https://kingdomduels.com/post/deckbuilder-launched/</guid>
-        <description>&lt;img src="https://kingdomduels.com/img/post/post0005.jpg" alt="Featured image of post We have just launched an online Deckbuilder" /&gt;&lt;p&gt;A &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;small online browser based app&lt;/a&gt; is now available to help you plan your decks. It has filter options and the possibility to export and import the decks so you can edit them in the future. While not being able to export to Tabletop Simulator at the moment, i think it will be useful for testing ideas or making new decks.&lt;/p&gt;
+        <description>&lt;img src="https://kingdomduels.com/img/post/post0005.jpg" alt="Featured image of post We have just launched an online Deckbuilder" /&gt;&lt;p&gt;A &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;small online browser based app&lt;/a&gt; is now available to help you plan your decks. It has filter options and the possibility to export and import the decks so you can edit them in the future. While not being able to export to Tabletop Simulator at the moment, i think it will be useful for testing ideas or making new decks.&lt;/p&gt;
 &lt;h4 id=&#34;features&#34;&gt;Features
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Filter by card name, code, card frame, duelist, types or set.&lt;/li&gt;
@@ -5998,7 +6031,7 @@
 &lt;li&gt;Preview your combined Main Deck + Extra Deck.&lt;/li&gt;
 &lt;li&gt;Save your deck to a textfile to use as a reference.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;&lt;strong&gt;Kingdom Duels Deckbuilder&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Kingdom Duels Deckbuilder&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://old.reddit.com/r/TheDuelistKingdom/comments/1h4a4dj/yugioh_scrolls_a_story_rewrite_for_the_new/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -10277,7 +10310,7 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
 &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;You can play &lt;strong&gt;online&lt;/strong&gt; with &lt;a class=&#34;link&#34; href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=2884430004&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;&lt;strong&gt;our mod in Tabletop Simulator&lt;/strong&gt;&lt;/a&gt; (you need to have &lt;a class=&#34;link&#34; href=&#34;https://store.steampowered.com/app/286160/Tabletop_Simulator/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Tabletop Simulator in Steam&lt;/a&gt; to play it this way). You can use our &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;&lt;strong&gt;Deckbuilder&lt;/strong&gt;&lt;/a&gt; to plan your decks and import it into Tabletop Simulator later.&lt;/p&gt;
+    &gt;Tabletop Simulator in Steam&lt;/a&gt; to play it this way). You can use our &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;&lt;strong&gt;Deckbuilder&lt;/strong&gt;&lt;/a&gt; to plan your decks and import it into Tabletop Simulator later.&lt;/p&gt;
 &lt;p&gt;Otherwise you can always try the game with a &lt;strong&gt;print-and-play&lt;/strong&gt; approach, just &lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/releases/&#34; &gt;download the cards&lt;/a&gt; and print them to play with friends!&lt;/p&gt;
 &lt;h2 id=&#34;card-releases&#34;&gt;Card Releases
 &lt;/h2&gt;&lt;p&gt;In this game, cards are released to the public in sets/packs which contains between 150 and 250 cards. Furthermore, these Sets are also sub-divided depending on what approach they have:&lt;/p&gt;
@@ -10305,7 +10338,7 @@ This game was made on an interpretation of the japanese Anime, not the Manga or 
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/rules/&#34; &gt;Rules&lt;/a&gt;&lt;/strong&gt;: Everything you need to know to learn how to play.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/credits/&#34; &gt;Credits&lt;/a&gt;&lt;/strong&gt;: Proper credits for the game, rules and card art.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/deckbuilder/&#34; &gt;Deckbuilder&lt;/a&gt;&lt;/strong&gt;: See all the cards and plan your decks.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/cards/&#34; &gt;Deckbuilder&lt;/a&gt;&lt;/strong&gt;: See all the cards and plan your decks.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/yugioh-scrolls/&#34; &gt;Yugioh Scrolls&lt;/a&gt;&lt;/strong&gt;: The reimaginated story behind this game.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/restricted-list/&#34; &gt;Restricted List&lt;/a&gt;&lt;/strong&gt;: Certain restrictions for deckbuilding.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&lt;a class=&#34;link&#34; href=&#34;https://kingdomduels.com/releases/&#34; &gt;Releases&lt;/a&gt;&lt;/strong&gt;: A list of all our card Sets, including downloads.&lt;/li&gt;
@@ -47195,7 +47228,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ASOE&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253ASOE&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0003.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47225,7 +47258,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AKOD&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253AKOD&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0037.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47258,7 +47291,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ALEN&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253ALEN&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0052.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47288,7 +47321,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AMLY&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253AMLY&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0065.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47318,7 +47351,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ATEG&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253ATEG&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0071.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47348,7 +47381,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253ANPH&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253ANPH&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0085.jpg&#34; width=&#34;230&#34; alt=&#34;85&#34;&gt;
@@ -47380,7 +47413,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AROA&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253AROA&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0101.jpg&#34; width=&#34;230&#34; alt=&#34;100&#34;&gt;
@@ -47410,7 +47443,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AORB&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253AORB&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0104.jpg&#34; width=&#34;230&#34; alt=&#34;106&#34;&gt;
@@ -47440,7 +47473,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253APYL&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253APYL&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0119.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47528,7 +47561,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AT&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253AT&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0041.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47558,7 +47591,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253AA&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=alt%253Ayes&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0069.jpg&#34; width=&#34;230&#34; alt=&#34;&#34;&gt;
@@ -47588,7 +47621,7 @@ Kingdom Duels Fanmade Artwork:
 &lt;div style=&#34;display: inline-block; margin: 0px;&#34;&gt;
     &lt;div style=&#34;position: relative; text-align: center;&#34;&gt;
         
-            &lt;a href=&#34;https://kingdomduels.com/deckbuilder/?search=set%253APROMO&#34; style=&#34;text-decoration: none;&#34;&gt;
+            &lt;a href=&#34;https://kingdomduels.com/cards/?search=set%253APROMO&#34; style=&#34;text-decoration: none;&#34;&gt;
         
         
         &lt;img src=&#34;https://kingdomduels.com/img/storyimg/ep0001.jpg&#34; width=&#34;230&#34; alt=&#34;100&#34;&gt;
