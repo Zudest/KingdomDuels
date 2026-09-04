@@ -64,7 +64,7 @@
 {"name":"Larva Moth","frame":"Monster","types":"Monster Insect","set":"SOE","id":"063","deck":"A","duelist":"Haga","attribute":"earth","grade":"lvl","gradeval":"1","atk":"500","def":"400","bonusatk":"150","bonusdef":"120"},
 {"name":"Monster Recovery","frame":"Spell","types":"Slow_Spell","set":"SOE","id":"064","deck":"A","duelist":"Yugi","attribute":"wind","grade":"glyph","gradeval":"NORMAL"},
 {"name":"Kuriboh","frame":"Monster","types":"Monster Demon","set":"SOE","id":"065","deck":"A","duelist":"Yugi","attribute":"dark","grade":"lvl","gradeval":"1","atk":"300","def":"200","bonusatk":"90","bonusdef":"60"},
-{"name":"Parasite Worm","frame":"Combination","types":"Trap_Monster Insect","set":"SOE","id":"066","deck":"A","duelist":"Haga","attribute":"earth","grade":"lvl","gradeval":"2","atk":"400 / 0","bonusatk":"120 / 0"},
+{"name":"Parasite Worm","frame":"Combination","types":"Trap_Monster Insect","set":"SOE","id":"066","deck":"A","duelist":"Haga","attribute":"earth","grade":"lvl","gradeval":"2","atk":"400","def":"0","bonusatk":"120","bonusdef":"0"},
 {"name":"Cocoon of Evolution","frame":"Combination","types":"Spell_Monster Insect","set":"SOE","id":"067","deck":"A","duelist":"Haga","attribute":"earth","grade":"lvl","gradeval":"3","atk":"0","def":"2000","bonusatk":"0","bonusdef":"600"},
 {"name":"Curse of Dragon","frame":"Monster","types":"Monster Dragon Fireblast Flying","set":"SOE","id":"068","deck":"A","duelist":"Yugi","attribute":"dark","grade":"lvl","gradeval":"5","atk":"2000","def":"1500","bonusatk":"600","bonusdef":"450"},
 {"name":"Burning Land","frame":"Spell","types":"Slow_Spell","set":"SOE","id":"069","deck":"A","duelist":"Yugi","attribute":"fire","grade":"glyph","gradeval":"NORMAL"},
