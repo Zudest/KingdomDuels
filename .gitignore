@@ -1,0 +1,9 @@
+# Salida del build de Hugo: la genera GitHub Actions en cada deploy.
+/public/
+/public-preview/
+
+# Caché de assets procesados (imágenes, SCSS). Se regenera sola.
+/resources/_gen/
+
+# Lock temporal de Hugo
+.hugo_build.lock
