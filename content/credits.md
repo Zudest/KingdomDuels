@@ -17,7 +17,8 @@ readingTime = false
     - Kazuki Takahashi & NAS & Studio Gallop & Toei & Studio Bridge & Bandai & Duel Links & Konami Animation & Konami.
 
     Kingdom Duels Fanmade Artwork:
-    - (Unknown Artists): SOE-143, LEN-220, LEN-221, LEN-222, LEN-223, LEN-224, MLY-150, MLY-160, TEG-174, TEG-175, TEG-178, TEG-181, TEG-182, TEG-187, TEG-193, ROA-064, ROA-173, ORB-225
+    - (Unknown Artists): SOE-143, LEN-220, LEN-221, LEN-222, LEN-223, LEN-224, MLY-150, MLY-160, TEG-174, TEG-175, TEG-178, TEG-181,
+    TEG-182, TEG-187, TEG-193, ROA-173, ORB-225
     - Alanmac95: SOE-164, SOE-165, SOE-166, MLY-163, MLY-164, MLY-165, MLY-166, TEG-015
     - Apricot: SOE-146, NPH-046, NPH-047
     - Arkadarkartist: ORB-093
@@ -58,6 +59,20 @@ readingTime = false
     - みくず: ORB-231
     - 四海: ORB-234
 
+    Kingdom Duels Generative-AI-based Creation or Repainted Artwork:
+    - SOE: none.
+    - KOD: none.
+    - LEN: 026, 070, 077, 087, 181.
+    - MLY: 054, 088, 091, 093, 095, 097.
+    - TEG: 110.
+    - NPH: 067, 097, 183, 184.
+    - ROA: 011, 013, 016, 020, 022, 025, 034, 035, 038, 040, 041, 042, 052, 057, 058, 059, 063, 065, 072, 075, 076, 078, 082, 085, 
+    087, 088, 093, 098, 103, 105, 106, 107, 108, 109, 110, 111, 113, 115, 116, 118, 119, 120, 121, 123, 124, 131, 133, 136, 138, 
+    140, 144, 146, 147, 152, 154, 156, 160, 161, 162, 163, 164, 166, 167, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 
+    186, 187.
+    - ORB: 041, 043, 102, 119, 125, 141, 146, 165, 176, 195, 196, 197, 198.
+    - PYL: 061, 100, 101, 120, 133, 135, 152.
+    - PROMO: all.
 
 *(Updated on 2026-05-14, last set checked: PYL)*
 
