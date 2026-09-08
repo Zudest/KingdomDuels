@@ -19,8 +19,13 @@
  * la portada vale "solitude".
  * ========================================================================= */
 
-body[data-aside-position="0"]:not([data-type="solitude"]) #aside-content {
-  order: -1;
+/* Solo de 1200px para arriba. Debajo de ese ancho el theme apila el aside
+ * DEBAJO del contenido, y adelantarlo dejaria las tarjetas del sidebar antes
+ * del articulo. */
+@media screen and (min-width: 1200px) {
+  body[data-aside-position="0"]:not([data-type="solitude"]) #aside-content {
+    order: -1;
+  }
 }
 
 
@@ -290,13 +295,20 @@ body[data-aside-position="0"]:not([data-type="solitude"]) #aside-content {
  * descontamos el ancho al contenido, para no ensanchar nada.
  * ========================================================================= */
 
-body[data-aside-position="0"]:not([data-type="solitude"]) #aside-content {
-  flex: 0 0 auto;
-  margin-right: 28px;
-}
+/* IMPORTANTE: solo de 1200px para arriba, que es el breakpoint en el que el
+ * theme pone el aside al costado (#aside-content { width: 300px }).
+ * Sin este media query, en mobile le seguiamos restando 328px al contenido
+ * aunque el aside ya estuviera apilado, y la columna del articulo quedaba de
+ * ~80px: el texto salia con una palabra por linea. */
+@media screen and (min-width: 1200px) {
+  body[data-aside-position="0"]:not([data-type="solitude"]) #aside-content {
+    flex: 0 0 auto;
+    margin-right: 28px;
+  }
 
-body[data-aside-position="0"]:not([data-type="solitude"]) .layout > div:first-child {
-  width: calc(100% - 300px - 28px);
+  body[data-aside-position="0"]:not([data-type="solitude"]) .layout > div:first-child {
+    width: calc(100% - 300px - 28px);
+  }
 }
 
 
@@ -747,4 +759,44 @@ body[data-type="narrow"] .layout#content-inner {
 #home_top .home-center-title-tag {
   opacity: 0.95;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+
+/* ===========================================================================
+ * 29. DISCLAIMER DEL FOOTER: que corte en varias lineas
+ *
+ * Lo agregamos como un .footer-bar-link dentro de .beian-group, y esa clase
+ * del theme trae 'white-space: nowrap'. Al ser un texto largo quedaba en una
+ * sola linea irrompible y desbordaba el ancho de la pantalla en mobile (era
+ * lo que generaba el scroll horizontal en todo el sitio).
+ *   flex-basis 100% -> se lleva su propia linea dentro del grupo
+ *   min-width 0     -> permite que se encoja por debajo de su contenido
+ * ========================================================================= */
+
+#footer-bar .footer-bar-left .beian-group .footer-disclaimer {
+  flex: 1 1 100%;
+  min-width: 0;
+  white-space: normal;
+  overflow-wrap: anywhere;
+  line-height: 1.5;
+  text-align: center;
+}
+
+
+/* ===========================================================================
+ * 30. BLOQUES DE CODIGO: scroll horizontal en vez de recorte
+ *
+ * En mobile el theme pone 'overflow: hidden' en .article-container, asi que
+ * cualquier <pre> mas ancho que la pantalla queda cortado y no hay forma de
+ * leer el resto. Con overflow-x en el propio <pre> el bloque scrollea solo.
+ *
+ * Nota: la pagina de Credits usa indentacion de 4 espacios, que en Markdown
+ * significa "bloque de codigo", por eso sale en monoespaciada y sin envolver.
+ * Si preferis que sea texto normal que corte lineas, hay que sacarle esos
+ * 4 espacios del principio de cada linea en content/credits.md.
+ * ========================================================================= */
+
+.article-container pre {
+  max-width: 100%;
+  overflow-x: auto;
 }
