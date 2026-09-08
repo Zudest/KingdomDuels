@@ -6,10 +6,15 @@ readingTime = false
 
 **Jonouchi Katsuya** (城之内克也 *Jōnouchi Katsuya*) is a character introduced in the Millennium Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/jonouchi.jpg" caption="School (Millennium Chapter)" width="250" >}}
+{{< imagetext src="/img/chars/jonouchi.jpg" caption="School Outfit" 
+width="250" >}}
+{{< imagetext src="/img/chars/jonouchi-casual.jpg" caption="Casual Outfit" 
+width="250" >}}
+{{< imagetext src="/img/chars/jonouchi-dog.jpg" caption="Dog Costume" 
+width="250" >}}
 </div>
 
 ### About

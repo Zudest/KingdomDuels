@@ -6,11 +6,16 @@ readingTime = false
 
 **Yugi Muto** (武藤遊戯 *Yūgi Mutō*) is the main co-protagonist of the Millennium Chapter and the main protagonist of the King's Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/yugi.jpg" caption="School (Millennium Chapter)" width="250" >}}
-{{< imagetext src="/img/chars/yugi2.jpg" caption="School (King's Chapter)" width="250" >}}
+{{< imagetext src="/img/chars/yugi.jpg" caption="School Outfit" width="250" >}}
+</div>
+
+### Design (King's Chapter)
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/yugi2.jpg" caption="School Outfit" width="250" >}}
 </div>
 
 ### About

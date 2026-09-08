@@ -6,10 +6,10 @@ readingTime = false
 
 **Hiroto Honda** (本田ヒロト *Hiroto Honda*) is a character introduced in the Millennium Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/honda.jpg" caption="School (Millennium Chapter)" width="250" >}}
+{{< imagetext src="/img/chars/honda.jpg" caption="School Outfit" width="250" >}}
 </div>
 
 ### About

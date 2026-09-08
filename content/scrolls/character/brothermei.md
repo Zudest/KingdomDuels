@@ -25,6 +25,7 @@ readingTime = false
 
 
 {{< dueltablehistory>}}(+ Brother Kyu) vs Yugi + Jonouchi|19-21|Loss|
+(+ Brother Kyu) vs Takaido + Satake|41|Win|
 (+ Brother Kyu) vs Mai + Kajiki|41|Loss|
 {{< /dueltablehistory >}}
 

@@ -6,7 +6,7 @@ readingTime = false
 
 **Seto Kaiba** (海馬瀬人 *Seto Kaiba*) is a character introduced in the Millennium Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/kaiba-dk.jpg" caption="Duelist Kingdom Outfit" width="250" >}}

@@ -6,10 +6,16 @@ readingTime = false
 
 **Anzu Mazaki** (真崎杏子 *Anzu Mazaki*) is a character introduced in the Millennium Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/anzu.jpg" caption="School (Millennium Chapter)" width="250" >}}
+{{< imagetext src="/img/chars/anzu.jpg" caption="School Outfit" width="250" >}}
+{{< imagetext src="/img/chars/anzu-dk.jpg" caption="Duelist Kingdom Outfit" width="250" >}}
+{{< imagetext src="/img/chars/anzu-casual.jpg" caption="Casual Outfit" width="250" >}}
+</div>
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/anzu-date.jpg" caption="Date Outfit" width="250" >}}
 </div>
 
 ### About

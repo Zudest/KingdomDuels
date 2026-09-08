@@ -10,6 +10,7 @@ readingTime = false
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/dartz.jpg" caption="Ceremonial Doma Outfit" width="250" >}}
+{{< imagetext src="/img/chars/dartz-suit.jpg" caption="Business Outfit" width="250" >}}
 </div>
 
 ### About

@@ -6,7 +6,7 @@ readingTime = false
 
 **Ryo Bakura** (獏良了 *Ryō Bakura*) is a character introduced in the Millennium Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/bakura.jpg" caption="Normal Outfit" width="250" >}}

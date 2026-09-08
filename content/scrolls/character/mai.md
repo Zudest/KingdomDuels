@@ -6,7 +6,7 @@ readingTime = false
 
 **Mai Kujaku** (孔雀舞 *Mai Kujaku*) is a character introduced in the Millennium Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/mai.jpg" caption="Normal Outfit" width="250" >}}

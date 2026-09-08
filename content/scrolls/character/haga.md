@@ -9,7 +9,8 @@ readingTime = false
 ### Design
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/chars/haga.jpg" caption="Normal Outfit" width="250" >}}
+{{< imagetext src="/img/chars/haga.jpg" caption="Duelist Kingdom Outfit" width="250" >}}
+{{< imagetext src="/img/chars/haga-casual.jpg" caption="Casual Outfit" width="250" >}}
 </div>
 
 ### About

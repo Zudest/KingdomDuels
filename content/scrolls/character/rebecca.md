@@ -6,11 +6,16 @@ readingTime = false
 
 **Rebecca Hopkins** (レベッカ・ホプキンス *Rebekka Hopukinsu*) is a character introduced in the Millennium Chapter.
 
-### Design
+### Design (Millennium Chapter)
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/rebecca.jpg" caption="First Appearance" width="250" >}}
-{{< imagetext src="/img/chars/rebecca-doma.jpg" caption="Normal Outfit" width="250" >}}
+{{< imagetext src="/img/chars/rebecca-doma.jpg" caption="Casual Outfit" width="250" >}}
+</div>
+
+### Design (King's Chapter)
+
+<div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/rebecca-kaibaland.jpg" caption="Dueling Outfit" width="250" >}}
 </div>
 

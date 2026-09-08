@@ -25,6 +25,7 @@ readingTime = false
 
 
 {{< dueltablehistory>}}(+ Brother Mei) vs Yugi + Jonouchi|19-21|Loss|
+(+ Brother Mei) vs Takaido + Satake|41|Win|
 (+ Brother Mei) vs Mai + Kajiki|41|Loss|
 {{< /dueltablehistory >}}
 
