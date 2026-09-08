@@ -1,0 +1,750 @@
+/* ---------------------------------------------------------------------------
+ * Kingdom Duels - CSS propio para el theme Solitude.
+ *
+ * Solitude carga este archivo solo (assets/css/custom.css) y lo suma DESPUES
+ * de su hoja principal. Stack usa assets/scss/custom.scss, no se pisan.
+ * ------------------------------------------------------------------------- */
+
+
+/* ===========================================================================
+ * 1. SIDEBAR: derecha en la home, izquierda en el resto
+ *
+ * El theme escribe data-aside-position en <body> segun aside.position, pero
+ * no trae ni una regla que lo use: el aside queda siempre a la derecha
+ * (#aside-content { order: 2 }).
+ *
+ * order:-1 lo manda al principio del flex sin tener que tocar a sus hermanos,
+ * asi funciona igual en posts (.layout), archivos (.archive-layout-row) y
+ * cualquier contenedor futuro. La home queda excluida por data-type, que en
+ * la portada vale "solitude".
+ * ========================================================================= */
+
+body[data-aside-position="0"]:not([data-type="solitude"]) #aside-content {
+  order: -1;
+}
+
+
+/* ===========================================================================
+ * 2. BARRA DE NAVEGACION oscura y traslucida, en todos los estados
+ *
+ * Por defecto Solitude deja el #nav transparente y le pone "vidrio" a cada
+ * pieza por separado (#blog_name, .menus_items, #nav-right) solo al scrollear.
+ * Aca invertimos eso: el fondo va en la barra entera y las piezas se aplanan,
+ * para que se lea como una sola franja continua.
+ * ========================================================================= */
+
+/* Repetimos el selector en los 4 estados porque el theme define el fondo por
+ * separado en cada uno. Para cambiar cuan oscura es, tocar solo esta linea. */
+#page-header #nav,
+#page-header.not-top-img #nav,
+#page-header.nav-fixed #nav,
+#page-header:not(.nav-fixed) #nav {
+  background: rgba(14, 16, 20, 0.86);
+  -webkit-backdrop-filter: blur(14px) saturate(140%);
+  backdrop-filter: blur(14px) saturate(140%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Texto claro. Sin esto, en las paginas sin portada (.not-top-img) el theme
+ * fuerza texto oscuro y queda gris sobre gris.
+ * Excluimos los links del desplegable: esos van aparte, mas abajo. */
+#page-header #nav a:not(.child),
+#page-header.not-top-img #nav a:not(.child),
+#page-header #nav #site-name .title,
+#page-header #nav .back-home-button-icon {
+  color: #eef1f6;
+}
+
+/* Aplanamos las pastillas de vidrio del estado scrolleado. */
+#page-header.nav-fixed #nav #blog_name,
+#page-header.nav-fixed #nav #nav-right,
+#page-header.nav-fixed #nav div.menus_items,
+#page-header.nav-fixed.nav-visible #nav div.menus_items {
+  background: none;
+  box-shadow: none;
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+
+#page-header.nav-fixed #nav #nav-right::before {
+  opacity: 0;
+}
+
+
+/* ===========================================================================
+ * 3. DESPLEGABLE del menu, a tono con la barra
+ *
+ * El panel del theme es claro; con el texto claro que forzamos arriba quedaba
+ * blanco sobre blanco. Lo pasamos a oscuro.
+ * ========================================================================= */
+
+#page-header #nav .menus_items .menus_item .menus_item_child {
+  background: rgba(14, 16, 20, 0.94);
+  border: 1px solid rgba(255, 255, 255, 0.10);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+#page-header #nav .menus_items .menus_item .menus_item_child li a {
+  color: #eef1f6;
+}
+
+#page-header #nav .menus_items .menus_item .menus_item_child li a:hover {
+  background: rgba(255, 255, 255, 0.14);
+  color: #ffffff;
+  box-shadow: none;
+}
+
+
+/* ===========================================================================
+ * 4. Al scrollear: que la barra NO se transforme
+ *
+ * Por defecto, al bajar el theme esconde el menu y lo reemplaza por una
+ * pastilla con el titulo de la pagina que funciona como "ir arriba".
+ * Dejamos el menu siempre visible y sacamos esa pastilla.
+ * ========================================================================= */
+
+#page-header #nav #page-name-mask {
+  display: none;
+}
+
+#page-header.nav-fixed #nav div.menus_items,
+#page-header.nav-fixed.nav-visible #nav div.menus_items {
+  top: 0;
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* El boton de "ir arriba" mostraba el porcentaje de scroll (un numero) y la
+ * flecha solo al pasar el mouse. Lo dejamos como un boton normal con flecha. */
+#nav-totop #percent {
+  display: none;
+}
+
+#nav-totop .totopbtn i {
+  opacity: 1;
+}
+
+
+/* ===========================================================================
+ * 5. TARJETA DE PERFIL del sidebar, version compacta
+ *
+ * El theme fija .card-content en 320px de alto para todos los widgets. Con la
+ * tarjeta sin avatar quedaba medio vacia, asi que la dejamos crecer sola.
+ * ========================================================================= */
+
+#aside-content .card-info--compact .card-content {
+  min-height: 0;
+  height: auto;
+  padding: 1.2rem 1.2rem 1rem;
+  gap: 0.9rem;
+}
+
+/* El theme ancla .bottom-group con position:absolute al fondo de una tarjeta
+ * de 320px. En la version compacta la devolvemos al flujo para que el logo y
+ * el texto se apilen en vez de superponerse. */
+#aside-content .card-info--compact .bottom-group {
+  position: static;
+  padding: 0;
+  align-items: center;
+}
+
+#aside-content .card-info--compact .card-info-logo {
+  display: flex;
+  justify-content: center;
+}
+
+/* Logo grande, casi al ancho de la tarjeta, sin recorte circular ni fondo. */
+#aside-content .card-info--compact .card-info-logo img {
+  width: 100%;
+  height: auto;
+  max-height: 130px;
+  object-fit: contain;
+  border-radius: 0;
+  background: none;
+  padding: 0;
+}
+
+/* Los 4 sociales en una sola fila centrada debajo del logo (el theme los
+ * alinea a la derecha porque compartian espacio con el nombre y la bajada,
+ * que ya no estan). */
+#aside-content .card-info--compact .bottom-group .social-icons {
+  flex: 1 1 auto;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+
+/* ===========================================================================
+ * 6. TARJETA DE NAVEGACION del sidebar (aside-menu.html)
+ *
+ * Replica la lista de secciones que tiene el sitio actual con Stack.
+ * ========================================================================= */
+
+#aside-content .card-menu {
+  padding: 0.5rem;
+}
+
+#aside-content .aside-menu-list {
+  display: flex;
+  flex-direction: column;
+}
+
+#aside-content .aside-menu-item {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  padding: 0.55rem 0.75rem;
+  border-radius: 10px;
+  color: var(--efu-fontcolor);
+  transition: background 0.2s, color 0.2s;
+}
+
+#aside-content .aside-menu-item i {
+  font-size: 18px;
+  width: 22px;
+  text-align: center;
+  opacity: 0.75;
+}
+
+#aside-content .aside-menu-item:hover,
+#aside-content .aside-menu-item.active {
+  background: var(--efu-main-op);
+  color: var(--efu-main);
+}
+
+#aside-content .aside-menu-item:hover i,
+#aside-content .aside-menu-item.active i {
+  opacity: 1;
+}
+
+
+/* ===========================================================================
+ * 7. EXTRACTO opcional bajo el titulo del post
+ * ========================================================================= */
+
+#post-info .post-excerpt {
+  margin: 0.6rem 0 0;
+  max-width: 46rem;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: var(--efu-white);
+  opacity: 0.82;
+}
+
+
+/* ===========================================================================
+ * 8. CABECERA DEL POST: alineacion, espaciado y portada
+ * ========================================================================= */
+
+/* El theme reserva SIEMPRE dos lineas de alto para el titulo, aunque ocupe
+ * una. Eso era el hueco grande entre el titulo y el extracto. */
+.post #post-info .post-title {
+  height: auto;
+  min-height: 0;
+  margin-bottom: 0;
+}
+
+.post #post-info {
+  gap: 10px;
+}
+
+/* Ancho de la portada de la derecha (el theme la fija en 300px). Se define
+ * una sola vez aca porque el texto de la cabecera tiene que reservarle lugar:
+ * si la agrandas, el titulo y el extracto se corren solos. */
+:root {
+  --kd-cover-width: 420px;
+}
+
+.post .post-cover-aside {
+  width: var(--kd-cover-width);
+}
+
+/* El extracto respeta la misma sangria (40px) y ancho que la fila de chips. */
+.post #post-info .post-excerpt {
+  margin: 0 0 0 40px;
+  max-width: none;
+}
+
+.post #post-info .post-title,
+.post #post-info .post-excerpt,
+.post #post-info #post-meta {
+  width: calc(100% - var(--kd-cover-width) - 100px);
+}
+
+@media screen and (max-width: 1200px) {
+  .post #post-info .post-title,
+  .post #post-info .post-excerpt,
+  .post #post-info #post-meta {
+    width: calc(100% - 80px);
+  }
+}
+
+
+/* ===========================================================================
+ * 9. SEPARACION entre el contenido del post y el sidebar
+ *
+ * El theme separa con 'padding-left: 15px' sobre el aside, pensado para
+ * cuando esta a la DERECHA. Con el aside a la izquierda ese padding queda del
+ * lado de afuera y los dos bloques se tocan. Lo pasamos al otro lado y le
+ * descontamos el ancho al contenido, para no ensanchar nada.
+ * ========================================================================= */
+
+body[data-aside-position="0"]:not([data-type="solitude"]) #aside-content {
+  flex: 0 0 auto;
+  margin-right: 28px;
+}
+
+body[data-aside-position="0"]:not([data-type="solitude"]) .layout > div:first-child {
+  width: calc(100% - 300px - 28px);
+}
+
+
+/* ===========================================================================
+ * 10. IMAGENES DEL SHORTCODE imagetext
+ *
+ * El theme aplica a TODA imagen del articulo 'object-fit: cover' con
+ * 'max-height: 450px', lo que recortaba las cartas por arriba y abajo.
+ * (La segunda leyenda duplicada la resuelve la clase 'inline-img' que agrega
+ *  el shortcode: excluye la imagen del JS que copia el alt.)
+ * ========================================================================= */
+
+.article-container img.kd-imagetext {
+  object-fit: contain;
+  max-height: none;
+  max-width: 100%;
+  height: auto;
+  margin: 0;
+  border-radius: 0;   /* el theme redondea toda imagen; el original no lo hacia */
+  display: block;     /* sin esto la linea base deja un hueco bajo la imagen */
+}
+
+/* La leyenda va pegada al borde inferior y sin negrita.
+ * Los !important son necesarios: el shortcode trae estilos inline (que ganan
+ * a cualquier hoja) y Solitude pone en negrita todo <a> del articulo. */
+.article-container .kd-imagetext-caption {
+  bottom: 0 !important;
+  font-weight: 400 !important;
+}
+
+
+/* ===========================================================================
+ * 11. LIGHTBOX (Fancybox) al ~80% de alto, para no chocar con sus controles
+ * ========================================================================= */
+
+.fancybox__slide {
+  padding-top: 9vh;
+  padding-bottom: 9vh;
+}
+
+
+/* ===========================================================================
+ * 12. CONTENEDOR DE LAS PAGINAS
+ *
+ * El theme le da la tarjeta blanca a #post pero no a #page, asi que las
+ * paginas quedaban sueltas sobre el fondo al lado del sidebar. Les damos el
+ * mismo tratamiento, salvo en las vistas anchas (about, tags, categories...),
+ * que el propio theme marca con .hide-aside y estan pensadas sin tarjeta.
+ * ========================================================================= */
+
+.layout:not(.hide-aside) > #page {
+  align-self: flex-start;
+  background: var(--efu-card-bg);
+  border: var(--style-border);
+  border-radius: var(--radius);
+  box-shadow: var(--efu-shadow-border);
+}
+
+.layout:not(.hide-aside) > #page > .article-container,
+.layout:not(.hide-aside) > #page > .page-title-wrap {
+  padding: 1rem 2rem;
+}
+
+.layout:not(.hide-aside) > #page > .page-title-wrap {
+  padding-bottom: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .layout:not(.hide-aside) > #page > .article-container,
+  .layout:not(.hide-aside) > #page > .page-title-wrap {
+    padding: 0.5rem 1rem;
+  }
+}
+
+
+/* ===========================================================================
+ * 13. "Recent posts" del sidebar sin negrita, para que pese menos
+ * ========================================================================= */
+
+#aside-content .card-recent-post .aside-list-item .content .title {
+  font-weight: 400;
+}
+
+
+/* ===========================================================================
+ * 14. TIPOGRAFIA DEL ARTICULO igual a la del sitio viejo (Stack)
+ *
+ * No alcanzaba con cargar Lato. Solitude compone el texto muy distinto:
+ *      Solitude              Stack (sitio actual)
+ *      font-size: 0.9rem     1.7rem con html a 62.5%  = 17px
+ *      line-height: 1.7      1.85
+ *      text-align: justify   sin justificar
+ *      letter-spacing: .6px  normal
+ *      margin: .5rem 0       1.5em 0
+ * Eso era la diferencia que veias, no la familia tipografica.
+ * ========================================================================= */
+
+.article-container {
+  font-size: 17px;
+  line-height: 1.85;
+  letter-spacing: normal;
+}
+
+.article-container p,
+.article-container li {
+  font-size: 1em;
+  line-height: 1.85;
+  letter-spacing: normal;
+  text-align: left;
+}
+
+.article-container p {
+  margin: 1.5em 0;
+}
+
+
+/* ===========================================================================
+ * 15. IMAGENES SUELTAS del markdown, alineadas a la izquierda
+ *
+ * El theme les pone 'margin: 0.8rem auto', y ese 'auto' las centra. Stack no
+ * lo hace, por eso una imagen ![](...) aparecia centrada aca y a la izquierda
+ * alla. (Las del shortcode imagetext ya se manejan en el bloque 10.)
+ * ========================================================================= */
+
+.article-container img:not(.post_bg):not(.kd-imagetext) {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+
+/* ===========================================================================
+ * 16. SEPARADORES <hr> como los de Stack: linea corta, solida y con aire
+ * ========================================================================= */
+
+.article-container hr {
+  width: 120px;
+  margin: 2.5rem auto;
+  border: 0;
+  border-top: 2px solid var(--efu-lighttext);
+  opacity: 0.35;
+}
+
+
+/* ===========================================================================
+ * 17. SIDEBAR: tabla de contenidos y "Recent posts"
+ * ========================================================================= */
+
+/* El theme desenfoca los titulos inactivos del indice. Fuera. */
+#card-toc .toc-content .toc-link:not(.active) span {
+  filter: none;
+}
+
+#card-toc .toc-content .toc-link {
+  font-size: 15px;
+}
+
+#card-toc .toc-content .toc-link.active {
+  font-size: 19px;
+}
+
+#aside-content .card-recent-post .aside-list-item .content .title {
+  font-size: 14px;
+}
+
+
+/* ===========================================================================
+ * 18. ANCHO POR PAGINA
+ *
+ * En el front matter de cualquier pagina:
+ *     type = "wide"     -> mas ancha que el resto
+ *     type = "narrow"   -> mas angosta
+ * (nada = ancho normal). Funciona porque el theme vuelca .Params.type en el
+ * atributo data-type del <body>, que usamos de gancho.
+ * ========================================================================= */
+
+body[data-type="wide"] .layout#content-inner {
+  max-width: 1700px;
+}
+
+body[data-type="narrow"] .layout#content-inner {
+  max-width: 1000px;
+}
+
+
+/* ===========================================================================
+ * 19. AIRE VERTICAL entre filas de imagenes del shortcode imagetext
+ *
+ * En Stack la imagen era inline y el interlineado separaba las filas. Aca la
+ * pasamos a 'display: block' (para que la leyenda pegue abajo sin el hueco de
+ * la linea base), y con eso las filas quedaron pegadas. Reponemos el aire en
+ * el contenedor de afuera, no en la imagen: la leyenda esta anclada al
+ * contenedor de adentro y un margen ahi la desplazaria.
+ * El !important es por el 'margin: 0px' inline del shortcode.
+ * ========================================================================= */
+
+.article-container .kd-imagetext-wrap {
+  margin: 3px 0 !important;
+}
+
+
+/* ===========================================================================
+ * 20. TARJETA "The Story" del sidebar (aside-story.html)
+ * ========================================================================= */
+
+#aside-content .card-story {
+  padding: 0.5rem;
+}
+
+#aside-content .card-story .item-headline {
+  padding: 0.4rem 0.75rem 0.6rem;
+}
+
+#aside-content .story-list {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+#aside-content .story-item {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.35rem 0.5rem;
+  border-radius: 10px;
+  color: var(--efu-fontcolor);
+  font-size: 14px;
+  transition: background 0.2s, color 0.2s;
+}
+
+#aside-content .story-thumb {
+  flex: 0 0 auto;
+  width: 46px;
+  height: 30px;
+  border-radius: 6px;
+  overflow: hidden;
+  line-height: 0;
+}
+
+#aside-content .story-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+#aside-content .story-item:hover,
+#aside-content .story-item.active {
+  background: var(--efu-main-op);
+  color: var(--efu-main);
+}
+
+
+/* ===========================================================================
+ * 21. CHIPS DE CATEGORIA en las tarjetas del home
+ *
+ * El color de cada uno llega por la variable --kd-cat, que pone la plantilla
+ * post-card-info.html a partir de solitude.category_colors.
+ * Se mantiene el tamano chico del theme; solo cambian color y fondo.
+ * ========================================================================= */
+
+/* Los chips van sobre el titulo (posicion original del theme) y la fecha
+ * abajo a la izquierda. Solo les damos aire entre si y con el titulo. */
+.recent-post-info-top .recent-post-info-top-tips {
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-bottom: 6px;
+}
+
+/* ---------------------------------------------------------------------------
+ * CHIP DE CATEGORIA - aca se ajusta su aspecto.
+ * Fondo solido del color de la categoria, sin borde, letras blancas y puntas
+ * apenas redondeadas. El color de cada categoria NO se toca aca: sale de
+ * solitude.category_colors en hugo.redesign.yaml.
+ * ------------------------------------------------------------------------- */
+.recent-post-item > .recent-post-info .recent-post-info-top .recent-post-info-top-tips .original.kd-cat,
+.article-meta-wrap .recent-post-info-top-tips .original.kd-cat {
+  background: var(--kd-cat);
+  color: #fff;
+  border: 0;
+  border-radius: 4px;      /* puntas: 0 = cuadrado, 99px = pastilla */
+  padding: 3px 9px;        /* alto y ancho del chip */
+  font-size: 12px;         /* tamano del texto */
+  font-weight: 500;
+  line-height: 1.3;
+  letter-spacing: 0.2px;
+}
+
+
+/* ===========================================================================
+ * 22. Iconos del desplegable de la barra (nav.group): bordes redondeados
+ * ========================================================================= */
+
+#nav .back-menu-list .back-menu-item-icon {
+  border-radius: 4px;
+}
+
+
+/* ===========================================================================
+ * 23. CENTRAR UNA IMAGEN PUNTUAL
+ *
+ * Por defecto las imagenes del markdown van a la izquierda (como en Stack).
+ * Para centrar una sola, envolverla en un div con esta clase:
+ *
+ *     <div class="img-center">
+ *
+ *     ![](/img/loquesea.jpg)
+ *
+ *     </div>
+ *
+ * Las lineas en blanco son necesarias para que Hugo procese el markdown de
+ * adentro. Tambien sirve poniendo la clase en cualquier contenedor propio.
+ * ========================================================================= */
+
+.article-container .img-center {
+  text-align: center;
+}
+
+/* La cadena de :not() repite la del bloque 15 (imagenes a la izquierda) mas la
+ * clase del contenedor, si no aquella le gana por especificidad y no centra. */
+.article-container .img-center img:not(.post_bg):not(.kd-imagetext) {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+/* ===========================================================================
+ * 24. Boton del desplegable de la barra: el favicon en vez del SVG del theme
+ * ========================================================================= */
+
+.back-home-button .back-home-button-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 5px;
+  object-fit: cover;
+}
+
+
+/* ===========================================================================
+ * 25. El boton del desplegable no se pinta al pasar el mouse
+ *
+ * El theme le da fondo de color de acento a .back-home-button en hover, que
+ * con el favicon adentro queda mal. Los demas botones de la barra lo conservan.
+ * ========================================================================= */
+
+#page-header #nav .back-home-button:hover {
+  background: none;
+  color: inherit;
+}
+
+
+/* ===========================================================================
+ * 26. TITULOS: aire arriba y abajo, como en el sitio viejo
+ *
+ * Solitude aplasta todos los encabezados con 'margin: 0.5rem 0' (8px). Stack
+ * no los tocaba, asi que usaban los margenes por defecto del navegador, que
+ * son relativos al tamano de cada encabezado. Los reponemos.
+ * ========================================================================= */
+
+.article-container h1 { margin: 1.1em 0 0.6em; }
+.article-container h2 { margin: 1.6em 0 0.7em; }
+.article-container h3 { margin: 1.5em 0 0.6em; }
+.article-container h4 { margin: 1.4em 0 0.6em; }
+.article-container h5,
+.article-container h6 { margin: 1.3em 0 0.6em; }
+
+/* El primer encabezado del articulo no necesita el aire de arriba. */
+.article-container > h1:first-child,
+.article-container > h2:first-child,
+.article-container > h3:first-child {
+  margin-top: 0;
+}
+
+
+/* ===========================================================================
+ * 27. VINETAS DE LISTA por defecto
+ *
+ * El theme apaga list-style y dibuja las vinetas con ::before: un anillo de
+ * color en <ul> y un circulo relleno numerado en <ol>. Volvemos al disc y al
+ * decimal del navegador.
+ * ========================================================================= */
+
+.article-container ul {
+  list-style: disc;
+  padding-left: 1.6em;
+  margin-top: 0.4rem;
+}
+
+.article-container ol {
+  list-style: decimal;
+  padding-left: 1.6em;
+  margin-top: 0.4rem;
+}
+
+.article-container ul ul { list-style: circle; }
+.article-container ul ul ul { list-style: square; }
+
+/* Clave: el theme declara 'li, ul { display: block }' a nivel base, y un <li>
+ * en block NO dibuja marcador por mas que se le ponga list-style. Ademas pone
+ * list-style:none sobre el propio <li>, que le gana a la herencia del <ul>. */
+.article-container ul li,
+.article-container ol li {
+  display: list-item;
+  list-style: inherit;
+}
+
+.article-container ul li:before,
+.article-container ol li:before,
+.article-container ul > li:not(.tab):before,
+.article-container ol > li:before {
+  content: none;
+  background: none;
+  border: 0;
+}
+
+.article-container ul > li:not(.tab),
+.article-container ol > li:not(.tab) {
+  padding: 0.1em 0;
+}
+
+
+/* ===========================================================================
+ * 28. HERO DE LA HOME: legibilidad del titulo sobre portadas claras
+ *
+ * El theme pone el titulo en blanco de 28px sin sombra, y detras solo tiene un
+ * degradado de 120px hecho con el color de acento, demasiado tenue. Sobre una
+ * portada clara el texto se pierde. Tres ajustes:
+ *   a) el degradado pasa a ser oscuro y mas alto, para que el texto siempre
+ *      caiga sobre una base atenuada sea cual sea la imagen;
+ *   b) sombra de texto real;
+ *   c) el titulo baja de 28px a 22px.
+ * ========================================================================= */
+
+#home_top .home-center-mask {
+  height: 180px;
+  background: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.85) 0%,
+    rgba(0, 0, 0, 0.45) 50%,
+    transparent 100%
+  );
+}
+
+#home_top .home-center-title a {
+  font-size: 22px;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.55), 0 2px 12px rgba(0, 0, 0, 0.45);
+}
+
+#home_top .home-center-title-tag {
+  opacity: 0.95;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+}

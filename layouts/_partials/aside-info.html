@@ -1,0 +1,23 @@
+{{/* Override de Kingdom Duels: tarjeta de perfil del sidebar.
+    Solo el logo (grande, sin recorte circular) y los iconos sociales en una
+    fila debajo. Sin el saludo por hora, sin la descripcion al hacer hover y
+    sin el bloque de nombre + bajada, que ya estan en el logo mismo.
+    Tamanos y espaciado en assets/css/custom.css (bloque 5).
+    Original en themes/solitude/layouts/_partials/aside-info.html */}}
+{{ $card := site.Params.solitude.aside.my_card }}
+<div class="card-widget card-info card-info--compact">
+  <div class="card-content">
+    {{ with $card.author.img }}
+      <div class="card-info-logo">
+        <img src="{{ . | relURL }}" alt="{{ site.Title }}" loading="lazy" decoding="async">
+      </div>
+    {{ end }}
+    <div class="bottom-group">
+      <div class="social-icons is-center">
+        {{ range $card.information }}
+          <a class="social-icon" href="{{ .url }}" title="{{ .name }}" aria-label="{{ .name }}"><i class="solitude {{ .icon }}" aria-hidden="true"></i></a>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</div>

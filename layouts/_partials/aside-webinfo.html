@@ -1,0 +1,32 @@
+{{/* Override de Kingdom Duels: estadisticas del sidebar configurables.
+    El original tenia 4 filas fijas (y con los titulos en chino). Aca la lista
+    sale de aside.siteinfo.items en hugo.redesign.yaml, donde cada entrada es
+    { name, value }. 'value' puede ser un valor literal (texto o numero) o una
+    de estas palabras clave, que se calculan solas:
+        postcount   - cantidad de posts
+        wordcount   - total de palabras de todos los posts
+        runtime     - dias desde aside.siteinfo.runtime (contador vivo, JS)
+        updatetime  - fecha del ultimo build, en formato relativo
+    Original en themes/solitude/layouts/_partials/aside-webinfo.html */}}
+{{ $cfg := site.Params.solitude }}
+{{ $posts := where site.RegularPages "Section" "posts" }}
+{{ $words := 0 }}{{ range $posts }}{{ $words = add $words .WordCount }}{{ end }}
+<div class="webinfo">
+  {{ range $cfg.aside.siteinfo.items }}
+    {{ $value := printf "%v" .value }}
+    <div class="webinfo-item">
+      <div class="item-name">{{ .name }}</div>
+      {{ if eq $value "postcount" }}
+        <div class="item-count">{{ len $posts }}</div>
+      {{ else if eq $value "wordcount" }}
+        <div class="item-count">{{ $words }}</div>
+      {{ else if eq $value "runtime" }}
+        <div class="item-count runtimeshow"></div>
+      {{ else if eq $value "updatetime" }}
+        <time class="item-count" datetime="{{ now.Format "2006-01-02T15:04:05Z07:00" }}">{{ now.Format "2006-01-02" }}</time>
+      {{ else }}
+        <div class="item-count">{{ .value }}</div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>

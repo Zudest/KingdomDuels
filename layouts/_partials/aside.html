@@ -1,0 +1,25 @@
+{{/* Override de Kingdom Duels: scopes del aside por ruta.
+    Original en themes/solitude/layouts/_partials/aside.html */}}
+{{ $cfg := site.Params.solitude }}
+{{ if ne .Params.aside false }}
+  {{/* Scope del aside. El original solo distingue home / post / page. Como
+      /story/ quedo montado dentro de "posts" y ademas queremos tratar
+      /yugioh-scrolls/ igual que /scrolls/, resolvemos primero por ruta contra
+      aside.story_paths y recien despues caemos en la logica del theme. */}}
+  {{ $scope := $cfg.aside.page }}
+  {{ $matched := false }}
+  {{ range $cfg.aside.story_paths }}
+    {{ if hasPrefix $.RelPermalink . }}{{ $scope = $cfg.aside.story }}{{ $matched = true }}{{ end }}
+  {{ end }}
+  {{ if .IsHome }}{{ $scope = $cfg.aside.home }}
+  {{ else if and (not $matched) .IsPage (eq .Section "posts") }}{{ $scope = $cfg.aside.post }}
+  {{ end }}
+  {{ $plain := split ($scope.noSticky | default "") "," }}{{ $sticky := split ($scope.Sticky | default "") "," }}
+  <div class="aside-content" id="aside-content">
+    {{ range $plain }}{{ partial "aside-component.html" (dict "name" (strings.TrimSpace .) "page" $) }}{{ end }}
+    <div class="sticky_layout">
+      {{ $showToc := and $.IsPage (ne $.TableOfContents "") (ne $.Params.toc false) }}{{ if $showToc }}{{ partial "aside-toc.html" $ }}{{ end }}
+      {{ range $sticky }}{{ partial "aside-component.html" (dict "name" (strings.TrimSpace .) "page" $) }}{{ end }}
+    </div>
+  </div>
+{{ end }}

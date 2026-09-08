@@ -1,0 +1,38 @@
+{{/* Override de Kingdom Duels: sin las etiquetas "Unread" ni "New", y con
+    chips de color por categoria (sobre el titulo, como el theme original).
+    Original en themes/solitude/layouts/_partials/post-card-info.html */}}
+{{ $post := .post }}
+<div class="recent-post-info">
+  <div class="recent-post-info-top">
+    <div class="recent-post-info-top-tips">
+      {{ if $post.Params.sticky }}
+        <span class="article-meta sticky-warp"><i class="solitude fas fa-thumbtack sticky orange"></i><span class="sticky orange">{{ i18n "homeSticky" }}</span></span>
+      {{ end }}
+      {{/* Chip por categoria. El color sale de solitude.category_colors en
+           hugo.redesign.yaml; si una categoria no figura ahi, queda con el
+           estilo neutro del theme. Hugo pasa las claves de config a
+           minusculas, por eso el lookup va con lower. */}}
+      {{ $colors := site.Params.solitude.category_colors }}
+      {{ with $post.Params.categories }}
+        {{ range $name := . }}
+          {{ $color := index $colors (lower $name) }}
+          <span class="original{{ if $color }} kd-cat{{ end }}"{{ with $color }} style="--kd-cat: {{ . }}"{{ end }}>{{ $name }}</span>
+        {{ end }}
+      {{ end }}
+    </div>
+    <a class="article-title" href="{{ $post.RelPermalink }}" title="{{ $post.Title }}">{{ $post.Title }}</a>
+  </div>
+  <div class="article-meta-wrap">
+    {{ if ne $post.Params.comment false }}
+      <div class="post-card-commenters" data-comment-path="{{ $post.RelPermalink }}" hidden></div>
+    {{ end }}
+    {{ with $post.GetTerms "tags" }}
+      <span class="article-meta tags">
+        {{ range . }}
+          <a class="article-meta__tags" href="{{ .RelPermalink }}" title="{{ .LinkTitle }}" data-solitude-action="noop" data-solitude-stop="true"><span class="tags-punctuation"><i class="solitude fas fa-hashtag"></i>{{ .LinkTitle }}</span></a>
+        {{ end }}
+      </span>
+    {{ end }}
+    <span class="post-meta-date"><time datetime="{{ $post.Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ $post.Date.Format "2006-01-02" }}</time></span>
+  </div>
+</div>

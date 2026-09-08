@@ -1,0 +1,16 @@
+{{/* Kingdom Duels: tarjeta de navegacion del sidebar.
+    Se alimenta de menus.sidebar en hugo.redesign.yaml (independiente del menu
+    de la barra de arriba). Se activa poniendo "menu" en las listas
+    aside.<scope>.noSticky / .Sticky. */}}
+{{ with site.Menus.sidebar }}
+  <div class="card-widget card-menu">
+    <div class="aside-menu-list">
+      {{ range . }}
+        <a class="aside-menu-item{{ if $.IsMenuCurrent "sidebar" . }} active{{ end }}" href="{{ .URL | relLangURL }}" title="{{ .Name }}">
+          {{ with .Params.icon }}<i class="solitude {{ . }}" aria-hidden="true"></i>{{ end }}
+          <span>{{ .Name }}</span>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}

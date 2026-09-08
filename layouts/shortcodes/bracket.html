@@ -1,0 +1,266 @@
+{{/* Kingdom Duels Shortcode - /layouts/shortcodes/bracket.html
+
+  Llaves de eliminacion directa, estilo Wikipedia.
+
+  USO
+  ---
+  {{< bracket champion="Yugi" >}}
+  Quarterfinals
+  Yugi | 2 | Kaiba | 0
+  Jonouchi | 1 | Mai | 2
+  Bakura | 0 | Pegasus | 2
+  Marik | 2 | Rishid | 1
+  --
+  Semifinals
+  Yugi | 2 | Mai | 1
+  Pegasus | 0 | Marik | 2
+  --
+  Final
+  Yugi | 2 | Marik | 0
+  {{< /bracket >}}
+
+  REGLAS
+  ------
+  - Una linea de dos o mas guiones (--) separa una ronda de la siguiente.
+  - La PRIMERA linea de cada ronda es su titulo.
+  - Cada linea siguiente es un cruce:  NombreA | PuntosA | NombreB | PuntosB
+    Tambien vale sin puntos:           NombreA | NombreB
+  - Gana el de mayor puntaje. Si no hay puntos (o empatan), se fuerza el
+    ganador con un * delante del nombre:   *Yugi | | Marik |
+  - Los nombres aceptan markdown, asi que se pueden enlazar:
+        [Yugi](/scrolls/character/yugi) | 2 | Kaiba | 0
+  - Dejar un lado vacio lo marca como pendiente (TBD):   Yugi | 2 | |
+  - Parametro opcional  champion="Yugi"  para cerrar con el campeon.
+
+  Cada ronda deberia tener la mitad de cruces que la anterior, para que las
+  lineas de union caigan donde corresponde.
+*/}}
+
+{{- $champion := .Get "champion" | default "" -}}
+
+{{- /* Normalizamos los finales de linea primero: si el .md esta guardado con
+      CRLF (habitual en Windows), cada linea termina en \r y el separador de
+      rondas "--" no matchea, con lo que se colapsa todo en una sola ronda. */ -}}
+{{- $inner := replace .Inner "\r" "" -}}
+
+{{- /* Partimos el texto en rondas por las lineas de guiones. Va con un marcador
+      y un solo split en vez de ir armando listas anidadas, porque Hugo no deja
+      meter un slice dentro de otro con append. */ -}}
+{{- $marked := replaceRE `(?m)^[ \t]*-{2,}[ \t]*$` "@@KDROUND@@" (trim $inner "\n \t") -}}
+{{- $rounds := split $marked "@@KDROUND@@" -}}
+
+<style>
+  .kd-bracket-wrap {
+    --kd-br-line: var(--efu-lighttext, #b9b9c6);
+    --kd-br-card: var(--efu-card-bg, #fff);
+    --kd-br-text: var(--efu-fontcolor, #2c2c30);
+    --kd-br-dim: var(--efu-secondtext, #8a8a95);
+    --kd-br-win: var(--efu-main, #7c3aed);
+    --kd-br-gap: 18px;
+    overflow-x: auto;
+    margin: 1.4rem 0;
+    padding-bottom: 6px;
+  }
+  .kd-bracket {
+    display: flex;
+    align-items: stretch;
+    min-width: min-content;
+  }
+  .kd-br-round {
+    display: flex;
+    flex-direction: column;
+    flex: 0 0 auto;
+    min-width: 190px;
+    margin-right: calc(var(--kd-br-gap) * 2);
+  }
+  .kd-br-round:last-child { margin-right: 0; }
+  .kd-br-title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    color: var(--kd-br-dim);
+    padding-bottom: 8px;
+    margin-bottom: 4px;
+    border-bottom: 2px solid var(--kd-br-line);
+    text-align: center;
+  }
+  .kd-br-matches {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+  }
+  /* Cada cruce ocupa la misma altura y van pegados: gracias a eso la linea
+     vertical que une un par mide exactamente el alto de un cruce (100%). */
+  .kd-br-match {
+    position: relative;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 7px 0;
+  }
+  .kd-br-card {
+    background: var(--kd-br-card);
+    border: 1px solid var(--kd-br-line);
+    border-radius: 6px;
+    overflow: hidden;
+    position: relative;
+  }
+  .kd-br-team {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 9px;
+    font-size: 0.85rem;
+    line-height: 1.35;
+    color: var(--kd-br-text);
+    position: relative;
+  }
+  .kd-br-team + .kd-br-team { border-top: 1px solid var(--kd-br-line); }
+  .kd-br-name { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+  .kd-br-name p { margin: 0 !important; font-size: inherit !important; }
+  .kd-br-name a { border: 0 !important; font-weight: inherit !important; padding: 0 !important; }
+  .kd-br-score {
+    flex: 0 0 auto;
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    color: var(--kd-br-dim);
+  }
+  .kd-br-team.is-winner {
+    font-weight: 700;
+    background: color-mix(in srgb, var(--kd-br-win) 12%, transparent);
+  }
+  .kd-br-team.is-winner .kd-br-score { color: var(--kd-br-win); }
+  .kd-br-team.is-winner::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: var(--kd-br-win);
+  }
+  .kd-br-team.is-empty { color: var(--kd-br-dim); font-style: italic; }
+
+  /* --- lineas de union --- */
+  /* sale del cruce hacia la derecha */
+  .kd-br-round:not(:last-child) .kd-br-match::after {
+    content: "";
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    width: var(--kd-br-gap);
+    height: 2px;
+    background: var(--kd-br-line);
+  }
+  /* une el par (el impar con el que le sigue): baja media altura de cada uno,
+     o sea el alto completo de un cruce.
+     El :not(:last-child) evita que la final (un solo cruce) dibuje una
+     vertical hacia la nada cuando hay columna de campeon. */
+  .kd-br-round:not(:last-child) .kd-br-match:nth-child(odd):not(:last-child)::before {
+    content: "";
+    position: absolute;
+    left: calc(100% + var(--kd-br-gap));
+    top: 50%;
+    width: 2px;
+    height: 100%;
+    background: var(--kd-br-line);
+  }
+  /* entra al cruce de la ronda siguiente */
+  .kd-br-round:not(:first-child) .kd-br-card::after {
+    content: "";
+    position: absolute;
+    right: 100%;
+    top: 50%;
+    width: var(--kd-br-gap);
+    height: 2px;
+    background: var(--kd-br-line);
+  }
+  .kd-br-champion {
+    display: flex;
+    align-items: center;
+    align-self: center;
+    gap: 8px;
+    padding: 9px 14px;
+    border: 2px solid var(--kd-br-win);
+    border-radius: 8px;
+    font-weight: 700;
+    color: var(--kd-br-win);
+    background: var(--kd-br-card);
+    white-space: nowrap;
+  }
+  .kd-br-champion p { margin: 0 !important; }
+  @media screen and (max-width: 700px) {
+    .kd-br-round { min-width: 155px; }
+    .kd-br-team { font-size: 0.78rem; }
+  }
+</style>
+
+<div class="kd-bracket-wrap">
+  <div class="kd-bracket">
+    {{- range $block := $rounds }}
+      {{- $round := slice -}}
+      {{- range split (trim $block "\n \t") "\n" -}}
+        {{- with trim . " \t\r" }}{{ $round = $round | append . }}{{ end -}}
+      {{- end -}}
+      {{- if gt (len $round) 0 }}
+      <div class="kd-br-round">
+        <div class="kd-br-title">{{ index $round 0 }}</div>
+        <div class="kd-br-matches">
+          {{- range $line := after 1 $round }}
+            {{- $cells := split $line "|" -}}
+            {{- $nameA := "" }}{{ $scoreA := "" }}{{ $nameB := "" }}{{ $scoreB := "" -}}
+            {{- if ge (len $cells) 4 -}}
+              {{- $nameA = trim (index $cells 0) " " -}}
+              {{- $scoreA = trim (index $cells 1) " " -}}
+              {{- $nameB = trim (index $cells 2) " " -}}
+              {{- $scoreB = trim (index $cells 3) " " -}}
+            {{- else if eq (len $cells) 2 -}}
+              {{- $nameA = trim (index $cells 0) " " -}}
+              {{- $nameB = trim (index $cells 1) " " -}}
+            {{- else -}}
+              {{- $nameA = trim (index $cells 0) " " -}}
+            {{- end -}}
+
+            {{- /* ganador: por el * delante del nombre, o por puntaje */ -}}
+            {{- $winA := hasPrefix $nameA "*" -}}
+            {{- $winB := hasPrefix $nameB "*" -}}
+            {{- $nameA = trim (strings.TrimPrefix "*" $nameA) " " -}}
+            {{- $nameB = trim (strings.TrimPrefix "*" $nameB) " " -}}
+            {{- if and (not $winA) (not $winB) -}}
+              {{- if and (findRE "^[0-9]+$" $scoreA) (findRE "^[0-9]+$" $scoreB) -}}
+                {{- if gt (int $scoreA) (int $scoreB) }}{{ $winA = true }}{{ end -}}
+                {{- if gt (int $scoreB) (int $scoreA) }}{{ $winB = true }}{{ end -}}
+              {{- end -}}
+            {{- end -}}
+
+            <div class="kd-br-match">
+              <div class="kd-br-card">
+                <div class="kd-br-team{{ if $winA }} is-winner{{ end }}{{ if eq $nameA "" }} is-empty{{ end }}">
+                  <span class="kd-br-name">{{ with $nameA }}{{ . | markdownify }}{{ else }}TBD{{ end }}</span>
+                  {{- with $scoreA }}<span class="kd-br-score">{{ . }}</span>{{ end }}
+                </div>
+                <div class="kd-br-team{{ if $winB }} is-winner{{ end }}{{ if eq $nameB "" }} is-empty{{ end }}">
+                  <span class="kd-br-name">{{ with $nameB }}{{ . | markdownify }}{{ else }}TBD{{ end }}</span>
+                  {{- with $scoreB }}<span class="kd-br-score">{{ . }}</span>{{ end }}
+                </div>
+              </div>
+            </div>
+          {{- end }}
+        </div>
+      </div>
+      {{- end }}
+    {{- end }}
+    {{- with $champion }}
+      <div class="kd-br-round">
+        <div class="kd-br-title">Champion</div>
+        <div class="kd-br-matches">
+          <div class="kd-br-match">
+            <div class="kd-br-champion">🏆 {{ . | markdownify }}</div>
+          </div>
+        </div>
+      </div>
+    {{- end }}
+  </div>
+</div>

@@ -1,0 +1,26 @@
+{{/* Override de Kingdom Duels: categorias de la barra configurables (y sin
+    el texto en chino). Original en themes/solitude/layouts/_partials/category-bar.html */}}
+<div id="category-bar">
+  <div class="category-bar-items{{ if .IsHome }} home{{ end }}" id="category-bar-items">
+    <div class="category-bar-item{{ if .IsHome }} select{{ end }}" id="category-bar-home" data-default-order="0"><a href="{{ site.Home.RelPermalink }}"><span class="category-bar-link-icon"><i class="solitude fas fa-star"></i></span><span>{{ i18n "home" }}</span></a></div>
+    <div class="category-bar-item" id="archives" data-default-order="1"><a href="{{ "/archives/" | relLangURL }}"><span class="category-bar-link-icon"><i class="solitude fas fa-book"></i></span><span>{{ i18n "allPosts" }}</span></a></div>
+    {{/* Que categorias se listan aca:
+       - si category_bar.items tiene entradas, se muestran ESAS y en ESE orden
+       - si esta vacio, todas, ordenadas por cantidad de posts (lo del theme)
+       Filtramos sobre .ByCount y no con 'index' sobre el mapa de taxonomias,
+       porque ese mapa devuelve las paginas del termino, no el termino. */}}
+    {{ $cfg := site.Params.solitude }}
+    {{ $all := site.Taxonomies.categories.ByCount }}
+    {{ $terms := $all }}
+    {{ with $cfg.category_bar.items }}
+      {{ $terms = slice }}
+      {{ range $name := . }}
+        {{ range $entry := $all }}
+          {{ if eq (lower $entry.Page.LinkTitle) (lower $name) }}{{ $terms = $terms | append $entry }}{{ end }}
+        {{ end }}
+      {{ end }}
+    {{ end }}
+    {{ range $index, $item := $terms }}<div class="category-bar-item" id="category-{{ $item.Page.LinkTitle | urlize }}" data-default-order="{{ add $index 2 }}"><a href="{{ $item.Page.RelPermalink }}">{{ $item.Page.LinkTitle }}</a></div>{{ end }}
+  </div>
+  <div class="category-bar-more-group">{{ if gt (len site.Taxonomies.categories) 5 }}<button class="category-bar-next" id="category-bar-next" type="button" data-solitude-action="scrollCategoryBarToRight" aria-label="More categories"><i class="solitude fas fa-angles-right"></i></button>{{ end }}<a class="category-bar-more" href="{{ "/categories/" | relLangURL }}">{{ i18n "more" }}</a></div>
+</div>

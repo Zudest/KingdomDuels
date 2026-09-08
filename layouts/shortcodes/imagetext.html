@@ -1,13 +1,13 @@
-<div style="display: inline-block; margin: 0px;">
+<div class="kd-imagetext-wrap" style="display: inline-block; margin: 0px;">
     <div style="position: relative; text-align: center;">
         {{ if .Get "link" }}
             <a href="{{ .Get "link" }}" style="text-decoration: none;">
         {{ end }}
         
-        <img src="{{ .Get "src" }}" width="{{ .Get "width" | default "140" }}" alt="{{ .Get "alt" }}">
+        <img class="inline-img kd-imagetext" src="{{ .Get "src" }}" width="{{ .Get "width" | default "140" }}" alt="{{ .Get "alt" }}">
         
         {{ with .Get "caption" }}
-        <div style="
+        <div class="kd-imagetext-caption" style="
             position: absolute; 
             bottom: 10px; 
             left: 0; 

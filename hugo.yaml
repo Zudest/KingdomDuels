@@ -1,0 +1,451 @@
+# ---------------------------------------------------------------------------
+# Kingdom Duels - configuracion del sitio
+#
+# Un solo archivo: Hugo lo toma automaticamente, sin pasar --config.
+# Reemplaza al viejo hugo.toml (theme Stack) y al hugo.redesign.yaml que se
+# uso durante el rediseno.
+#
+# Lo especifico del theme vive bajo params.solitude.
+# Los overrides de plantilla estan en layouts/_partials/ y el CSS propio en
+# assets/css/custom.css, ambos comentados con el porque de cada cambio.
+# ---------------------------------------------------------------------------
+
+baseURL: https://kingdomduels.com/
+title: Kingdom Duels
+locale: en-us            # (antes languageCode, deprecado en Hugo 0.158)
+
+theme: solitude
+
+# Solitude tiene la seccion "posts" hardcodeada en ~15 plantillas, pero
+# nuestro contenido vive en content/post/. En vez de renombrar la carpeta
+# (que rompe URLs y ensucia el diff), la MONTAMOS como "posts". Nada cambia
+# en disco; es puro remapeo virtual y desaparece al quitar este overlay.
+module:
+  mounts:
+    - source: content
+      target: content
+      # OJO: excludeFiles figura como deprecado desde Hugo 0.153 en favor de
+      # 'files', pero probamos las tres formas documentadas de negacion y
+      # ninguna excluye estos directorios: el contenido se monta dos veces
+      # (241 paginas en vez de 192). Hasta que 'files' lo soporte, esta clave
+      # es la unica que funciona. El warning del build es inofensivo.
+      excludeFiles:
+        - post/**
+        - story/**
+    - source: content/post
+      target: content/posts
+    # /story/ tambien va al feed (con Stack entraba por mainSections). Sus URLs
+    # quedan intactas porque cada .md ahora declara su propio 'url'.
+    - source: content/story
+      target: content/posts
+
+# ...y devolvemos las URLs exactas a /post/<nombre-de-archivo>/ para no romper
+# ningun enlace existente (:contentbasename = nombre del .md, igual que hoy).
+permalinks:
+  posts: /post/:contentbasename/
+
+# 8 posts por pagina (hugo.toml tiene 7 para Stack).
+pagination:
+  pagerSize: 8
+
+# Solitude necesita estos formatos de salida (search.xml y links.json).
+outputs:
+  home: [HTML, RSS, Search, Links]
+  section: [HTML, RSS]
+  taxonomy: [HTML, RSS]
+  term: [HTML, RSS]
+
+# Menu con desplegables (como la demo). Reglas:
+#  - Los items de PRIMER NIVEL no llevan icono: el CSS los apila
+#    (flex-direction: column) en una pildora de 44px y desbordan el header.
+#  - Un padre SIN pageRef/url se vuelve automaticamente desplegable.
+#  - Los HIJOS si llevan icono (FontAwesome). Ahi se ve bien.
+# Reagrupar es solo mover lineas: cambia el 'parent' del hijo.
+menus:
+  main:
+    - name: Play
+      identifier: play
+      weight: 10
+    - name: Cards
+      identifier: cards
+      weight: 20
+    - name: Story
+      identifier: story
+      weight: 30
+    - name: More
+      identifier: more
+      weight: 40
+
+    - name: Rules
+      pageRef: /rules
+      parent: play
+      weight: 10
+      params: { icon: fas fa-book }
+    - name: Restricted List
+      pageRef: /restricted-list
+      parent: play
+      weight: 20
+      params: { icon: fas fa-ban }
+
+    - name: Card Library
+      url: /cards/
+      parent: cards
+      weight: 10
+      params: { icon: fas fa-layer-group }
+    - name: Releases
+      pageRef: /releases
+      parent: cards
+      weight: 20
+      params: { icon: fas fa-box-open }
+
+    - name: Yugioh Scrolls
+      pageRef: /yugioh-scrolls
+      parent: story
+      weight: 10
+      params: { icon: fas fa-scroll }
+
+    - name: About
+      pageRef: /about
+      parent: more
+      weight: 10
+      params: { icon: fas fa-circle-question }
+    - name: Credits
+      pageRef: /credits
+      parent: more
+      weight: 20
+      params: { icon: fas fa-heart }
+
+  # Menu del SIDEBAR. Independiente del de arriba (main), asi podes tener
+  # la lista completa y plana aca, y los desplegables alla.
+  sidebar:
+    - name: Home
+      pageRef: /
+      weight: 10
+      params: { icon: fas fa-house }
+    - name: About
+      pageRef: /about
+      weight: 20
+      params: { icon: fas fa-circle-question }
+    - name: Rules
+      pageRef: /rules
+      weight: 30
+      params: { icon: fas fa-book }
+    - name: Card Library
+      url: /cards/
+      weight: 40
+      params: { icon: fas fa-layer-group }
+    - name: Yugioh Scrolls
+      pageRef: /yugioh-scrolls
+      weight: 50
+      params: { icon: fas fa-scroll }
+    # - name: Restricted List
+      # pageRef: /restricted-list
+      # weight: 60
+      # params: { icon: fas fa-ban }
+    - name: Releases
+      pageRef: /releases
+      weight: 70
+      params: { icon: fas fa-box-open }
+
+params:
+  timeZone: Antarctica/Rothera
+
+  # Disclaimer del pie. Lo imprime nuestro override de footer.html.
+  footer:
+    customText: >-
+      This website is not endorsed by or affiliated with 4K Media or Konami
+      Digital Entertainment.
+
+  author:
+    name: Kingdom Duels
+  description: A fan-made Yu-Gi-Oh! card game inspired by the original manga and anime.
+
+  solitude:
+    site:
+      name:
+        class: text
+        custom: Kingdom Duels
+      # Favicon. Igual que el sitio actual, que usa static/favicon.ico
+      # (hugo.toml lo declara en params.favicon, que es un parametro de Stack
+      # y Solitude ignora; aca la clave equivalente es esta).
+      icon: /favicon.ico
+
+    nav:
+      # Esto es el iconito con desplegable de la esquina superior izquierda
+      # (el "back-home-button"). Son grupos de enlaces libres: le podes poner
+      # sociales, secciones, lo que quieras. El icono de cada item es una
+      # imagen (path bajo static/), no una fuente de iconos.
+      group:
+        Community:
+          - name: Discord
+            icon: /favicon.ico
+            url: https://discord.gg/mn29q7qah4
+          - name: Youtube
+            icon: /favicon.ico
+            url: https://www.youtube.com/@kingdomduels
+          - name: Reddit
+            icon: /favicon.ico
+            url: https://www.reddit.com/r/TheDuelistKingdom/
+          - name: Steam (Tabletop Simulator)
+            icon: /favicon.ico
+            url: https://steamcommunity.com/sharedfiles/filedetails/?id=2884430004
+      right:
+        random: false
+
+    # --- Bloque hero de la home (banner + lista de la derecha) ---
+    hometop:
+      enable: true
+      banner:
+        title: Kingdom Duels
+        desc: A fan-made Yu-Gi-Oh! card game inspired by the original manga and anime.
+      recommendList: []
+
+    # --- Columna derecha (aside) ---
+    # Las tarjetas se prenden/apagan por NOMBRE en estas dos listas:
+    #   noSticky = arriba, scrollea con la pagina
+    #   Sticky   = queda fija al hacer scroll
+    # Nombres validos: about | newestPost | allInfo | newest_comment | toc
+    #                  menu  <- propio nuestro (menus.sidebar)
+    aside:
+      # OJO: el theme escribe data-aside-position en <body> pero NO trae CSS
+      # que lo use (el aside queda siempre a la derecha). Lo implementamos en
+      # assets/css/custom.css, y ahi ademas lo hacemos por tipo de pagina:
+      # derecha en la home, izquierda en posts y paginas.
+      position: 0          # 1 = derecha, 0 = izquierda
+      home:
+        noSticky: about,menu
+        Sticky: allInfo
+      post:
+        noSticky: about,menu
+        Sticky: newestPost,allInfo
+      page:
+        noSticky: about,menu
+        Sticky: allInfo
+      # Scope propio, sin "newestPost": Recent posts queda exclusivo de /post/.
+      story:
+        noSticky: about,menu,story
+        Sticky: allInfo
+
+      # Rutas que usan el scope "story" (nuestro override de aside.html las
+      # compara como PREFIJO de la URL). Sirve tanto para secciones enteras
+      # como para una pagina suelta, por eso entra /yugioh-scrolls/ aunque
+      # viva en la raiz. Agregar una pagina aca es una linea.
+      story_paths:
+        - /story/
+        - /scrolls/
+        - /yugioh-scrolls/
+
+      # Contenido de la tarjeta "The Story" (componente "story").
+      story_card:
+        title: The Story
+        items:
+          - name: Chapters
+            url: /yugioh-scrolls/
+            img: /img/storyimg/M1.png
+          - name: Setting
+            url: /scrolls/world/
+            img: /img/storyimg/M2.png
+          - name: Timeline
+            url: /scrolls/timeline/
+            img: /img/storyimg/M3.png
+          - name: Duels
+            url: /scrolls/duels/
+            img: /img/storyimg/M4.png
+          - name: Characters
+            url: /scrolls/characters/
+            img: /img/storyimg/M5.png
+      my_card:
+        author:
+          img: /img/avatar.png
+        description: Fan-made card game
+        content: A fan-made Yu-Gi-Oh! card game inspired by the original manga and anime.
+        # El cartelito "Good night" sale de aca: es un saludo segun la hora.
+        # witty_words rota frases al hacer click. Vaciando ambos, desaparece.
+        state:
+          morning: Good morning
+          noon: Good afternoon
+          afternoon: Good afternoon
+          night: Good evening
+          goodnight: Good night
+        witty_words: []
+        # Iconos sociales dentro de la tarjeta
+        information:
+          - name: Discord
+            url: https://discord.gg/mn29q7qah4
+            icon: fab fa-discord
+          - name: Youtube
+            url: https://www.youtube.com/@kingdomduels
+            icon: fab fa-youtube
+          - name: Subreddit
+            url: https://www.reddit.com/r/TheDuelistKingdom/
+            icon: fab fa-reddit
+          - name: Tabletop Simulator Mod
+            url: https://steamcommunity.com/sharedfiles/filedetails/?id=2884430004
+            icon: fab fa-steam
+      siteinfo:
+        runtime: 2014-12-25 00:00:00   # arranque del proyecto (contador "Runtime")
+        # Lista libre de estadisticas. 'value' puede ser un valor fijo (texto o
+        # numero) o una de estas palabras clave, que se calculan solas:
+        #   postcount | wordcount | runtime | updatetime
+        items:
+          - name: Card Sets
+            value: 9
+          - name: Cards
+            value: 1740
+          - name: Posts
+            value: postcount
+          - name: Running for
+            value: runtime
+          #- name: Last updated
+            #value: updatetime
+      tags:
+        enable: true
+        limit: 20
+
+    post:
+      meta:
+        # "Original / Reprint" es una convencion de blogs chinos; no aplica aca.
+        # (flag agregado por nuestro override de post-meta.html)
+        original: false
+        date: true
+        updated: false     # tus posts no tienen lastmod real
+        locate: false      # <- esto mostraba "China" en la cabecera del post
+        wordcount: false
+        readtime: true
+      default:
+        copyright:
+          enable: false    # la licencia CC del theme no aplica a tu sitio
+      # Extrae el color dominante de la portada y tinta acentos de la pagina.
+      # mode: local = se calcula en el browser (sin API externa).
+      covercolor:
+        enable: true
+        mode: local
+
+    # ===== CATEGORIAS =====
+    # Color del chip de cada categoria en las tarjetas del home. La clave es el
+    # nombre de la categoria en MINUSCULAS (Hugo baja las claves de config).
+    # Una categoria que no figure aca sale con el estilo neutro del theme.
+    category_colors:
+      updates: "#A981F0"
+      set release: "#E87258"
+      yugioh scrolls: "#71BFBD"
+      community: "#A9BF71"
+
+    # Que categorias se muestran en la barra del home, y en que orden.
+    # Vacio o comentado = todas, ordenadas por cantidad de posts.
+    category_bar:
+      items:
+        - Updates
+        - Set Release
+        - Yugioh Scrolls
+        - Community
+
+    # ===== COLOR DE ACENTO DEL SITIO =====
+    # Aca se cambia toda la gama. Afecta links, pastillas, hovers, el boton
+    # activo de categorias, la tarjeta del sidebar, etc.
+    #   light = modo claro / dark = modo oscuro
+    # OJO: en las paginas de POST, covercolor pisa este color con el tono
+    # dominante de la portada. Para ver el violeta en todos lados, poner
+    # post.covercolor.enable en false.
+    theme_color:
+      light: "#6742AD"   # violeta
+      dark: "#a78bfa"    # violeta claro (para modo oscuro)
+      nav_hover_text:
+        light: "#ffffff"
+        dark: "#1b1c20"
+
+    # Aviso de "post viejo" ("last updated N days ago..."). El JS del theme lo
+    # muestra SIEMPRE porque chequea si existe el objeto, no el flag enable.
+    # Lo apagamos de verdad en nuestro override de config.html.
+    expire:
+      enable: false
+      text_prev: This post was last updated
+      text_next: days ago and some of its content may be outdated.
+
+    index_post_list:
+      direction: column
+      column: 2
+      cover: both
+
+    footer:
+      information:
+        author: /img/avatar.png
+        left:
+          - name: Discord
+            url: https://discord.gg/mn29q7qah4
+            icon: fab fa-discord
+          - name: Youtube
+            url: https://www.youtube.com/@kingdomduels
+            icon: fab fa-youtube
+        right:
+          - name: Subreddit
+            url: https://www.reddit.com/r/TheDuelistKingdom/
+            icon: fab fa-reddit
+          - name: Tabletop Simulator Mod
+            url: https://steamcommunity.com/sharedfiles/filedetails/?id=2884430004
+            icon: fab fa-steam
+
+    # Menu contextual propio del theme al hacer click derecho. Apagado: preferimos
+    # el menu nativo del navegador.
+    right_menu:
+      enable: false
+
+    # El JS del theme arma las fechas relativas concatenando ("1" + "months ago")
+    # y no contempla el singular. Como expone Solitude.diffDate en window, lo
+    # envolvemos despues de que cargue su bundle. Un <script type="module"> corre
+    # siempre despues del modulo del theme, y el parche sobrevive a PJAX porque
+    # queda pisada la funcion, no el texto.
+    extends:
+      head:
+        - |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap">
+      body:
+        - |
+          <script type="module">
+          (() => {
+            const S = window.Solitude;
+            if (!S || typeof S.diffDate !== "function" || S.__kdPlural) return;
+            const orig = S.diffDate.bind(S);
+            S.diffDate = (d, more) => {
+              const out = orig(d, more);
+              return typeof out === "string"
+                ? out.replace(/^1\s+(month|day|hour|minute)s\b/, "1 $1")
+                : out;
+            };
+            S.__kdPlural = true;
+            S.changeTimeFormat?.(document.querySelectorAll(
+              ".datetime, .webinfo-item time, .post-meta-date time"));
+          })();
+          </script>
+
+    # Misma tipografia que el sitio actual: Stack usa Lato con fallback al
+    # sistema. Solitude no carga Google Fonts solo, asi que la sumamos en
+    # extends.head (mismo pedido que hace Stack).
+    font:
+      font_size: 16px
+      code_font_size: 14px
+      font_family: "Lato, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Droid Sans', 'Helvetica Neue', sans-serif"
+      code_font_family: "Menlo, Monaco, Consolas, 'Courier New', monospace"
+
+    search:
+      enable: true
+      type: local
+
+    # Apagamos lo que depende de servicios externos
+    comment:
+      use: ""
+    console:
+      enable: false
+    music:
+      enable: false
+    capsule:
+      enable: false
+
+# HTML crudo dentro del markdown: lo necesitan las grillas de imagenes y los
+# bloques <div class="img-center"> de las paginas de Yugioh Scrolls.
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
