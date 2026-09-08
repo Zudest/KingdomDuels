@@ -1,29 +1,23 @@
 +++
 date = '2025-08-23T20:00:00-00:00'
 title = 'Wicked Arc'
+url = "/story/wicked-arc/"
 description = 'Yugioh Scrolls - The Millennium Chapter - Arc 4'
 categories = ['Yugioh Scrolls']
 readingTime = false
 image = "/img/post/post0032.jpg"
+cover = "/img/post/post0032.jpg"
 +++
 
+<div class="img-center">
 
 ![](/img/storyimg/1-04.jpg)
 
-_"Battle City is history and Yugi is the undisputed Duel King in possession of the three most powerful cards. But evil enemies arise from the shadows, willing to take away everything that is precious to him. Yugi and his friends will be tested like never before, in a thrilling battle that is centered on the evil counterpart of the Egyptian Gods, a series of monsters called: The Wicked Gods."_
-
----
-
->**Author's Note**: First and foremost i wanted to partially adapt "Yugioh R" from the spinoff manga, an interesting story that a lot of people may not know. It was heavily adapted here so it received a lot of changes, but it gave me the opportunity to continue the story of Pegasus and also tie it pretty well with the Orichalchos storyline on the second half. In there, i wanted to streamline it and lower the scale of power/danger so it wasn't as conflicting with the original mythos. It is a thrilling story that definitely deserves a spot, so i was happy to include it. Sadly, i had to cut the Grand Championship as I didn't had room for it and i feel that it works best in a future chapter.
-
-
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
 </div>
+
+>_Battle City is history and Yugi is the undisputed Duel King in possession of the three most powerful cards. But new enemies arise from the shadows, willing to take away everything that is precious to him. Yugi and his friends will be tested like never before, in a thrilling battle that is centered on the evil counterpart of the Egyptian Gods, a series of monsters called: The Wicked Gods._
+
+>**Author's Note**: First and foremost i wanted to partially adapt "Yugioh R" from the spinoff manga, an interesting story that a lot of people may not know. It was heavily transformed here so it received a lot of changes, but it gave me the opportunity to continue the story of Pegasus and also tie it pretty well with the Orichalchos storyline on the second half. In there, i wanted to streamline it and lower the scale of power/danger so it wasn't as conflicting with the original mythos. It is a thrilling story that definitely deserves a spot, so i was happy to include it. Sadly, i had to cut the Grand Championship as I didn't had room for it and i feel that it works best in a future chapter.
 
 ---
 
@@ -33,43 +27,43 @@ _"Battle City is history and Yugi is the undisputed Duel King in possession of t
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0091.jpg" link="#episode-91---a-wicked-shadow" caption="91" alt="Episode 91" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0092.jpg" link="#episode-92---battle-at-kaiba-corporation-start" caption="92" alt="Episode 92" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0093.jpg" link="#episode-93---to-each-his-own-battle" caption="93" alt="Episode 93" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0094.jpg" link="#episode-94---the-showdown-and-then" caption="94" alt="Episode 94" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0095.jpg" link="#episode-95---the-tenma-brothers-secret" caption="95" alt="Episode 95" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0091.jpg" link="#episode-91---a-wicked-shadow" caption="91" alt="Episode 91" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0092.jpg" link="#episode-92---battle-at-kaiba-corporation-start" caption="92" alt="Episode 92" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0093.jpg" link="#episode-93---to-each-his-own-battle" caption="93" alt="Episode 93" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0094.jpg" link="#episode-94---the-showdown-and-then" caption="94" alt="Episode 94" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0095.jpg" link="#episode-95---the-tenma-brothers-secret" caption="95" alt="Episode 95" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0096.jpg" link="#episode-96---jonouchi-helpless" caption="96" alt="Episode 96" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0097.jpg" link="#episode-97---pegasus-prodigies" caption="97" alt="Episode 97" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0098.jpg" link="#episode-98---turning-the-tides" caption="98" alt="Episode 98" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0099.jpg" link="#episode-99---rematch-keith-vs-jonouchi" caption="99" alt="Episode 99" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0100.jpg" link="#episode-100---rebirth-of-avatar" caption="100" alt="Episode 100" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0096.jpg" link="#episode-96---jonouchi-helpless" caption="96" alt="Episode 96" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0097.jpg" link="#episode-97---pegasus-prodigies" caption="97" alt="Episode 97" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0098.jpg" link="#episode-98---turning-the-tides" caption="98" alt="Episode 98" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0099.jpg" link="#episode-99---rematch-keith-vs-jonouchi" caption="99" alt="Episode 99" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0100.jpg" link="#episode-100---rebirth-of-avatar" caption="100" alt="Episode 100" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0101.jpg" link="#episode-101---apex-arena" caption="101" alt="Episode 101" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0102.jpg" link="#episode-102---voice-of-the-avatar" caption="102" alt="Episode 102" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0103.jpg" link="#episode-103---invitation-from-pegasus" caption="103" alt="Episode 103" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0104.jpg" link="#episode-104---an-unexpected-enemy" caption="104" alt="Episode 104" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0105.jpg" link="#episode-105---the-shadow-of-dartz" caption="105" alt="Episode 105" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0101.jpg" link="#episode-101---apex-arena" caption="101" alt="Episode 101" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0102.jpg" link="#episode-102---voice-of-the-avatar" caption="102" alt="Episode 102" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0103.jpg" link="#episode-103---invitation-from-pegasus" caption="103" alt="Episode 103" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0104.jpg" link="#episode-104---an-unexpected-enemy" caption="104" alt="Episode 104" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0105.jpg" link="#episode-105---the-shadow-of-dartz" caption="105" alt="Episode 105" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0106.jpg" link="#episode-106---the-seal-of-orichalcos" caption="106" alt="Episode 106" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0107.jpg" link="#episode-107---the-darkness-within" caption="107" alt="Episode 107" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0108.jpg" link="#episode-108---on-the-wrong-track" caption="108" alt="Episode 108" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0109.jpg" link="#episode-109---the-avenging-amelda---duel-in-the-sky" caption="109" alt="Episode 109" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0110.jpg" link="#episode-110---clash-jonouchi-vs-valon" caption="110" alt="Episode 110" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0106.jpg" link="#episode-106---the-seal-of-orichalcos" caption="106" alt="Episode 106" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0107.jpg" link="#episode-107---the-darkness-within" caption="107" alt="Episode 107" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0108.jpg" link="#episode-108---on-the-wrong-track" caption="108" alt="Episode 108" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0109.jpg" link="#episode-109---the-avenging-amelda---duel-in-the-sky" caption="109" alt="Episode 109" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0110.jpg" link="#episode-110---clash-jonouchi-vs-valon" caption="110" alt="Episode 110" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0111.jpg" link="#episode-111---bitter-victory" caption="111" alt="Episode 111" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0112.jpg" link="#episode-112---fighting-for-a-friend" caption="112" alt="Episode 112" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0113.jpg" link="#episode-113---the-fated-duel-yugi-vs-rafael" caption="113" alt="Episode 113" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0114.jpg" link="#episode-114---the-tragedy-of-atlantis" caption="114" alt="Episode 114" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0115.jpg" link="#episode-115---the-decisive-battle-dartz-vs-yugi--kaiba" caption="115" alt="Episode 115" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0111.jpg" link="#episode-111---bitter-victory" caption="111" alt="Episode 111" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0112.jpg" link="#episode-112---fighting-for-a-friend" caption="112" alt="Episode 112" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0113.jpg" link="#episode-113---the-fated-duel-yugi-vs-rafael" caption="113" alt="Episode 113" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0114.jpg" link="#episode-114---the-tragedy-of-atlantis" caption="114" alt="Episode 114" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0115.jpg" link="#episode-115---the-decisive-battle-dartz-vs-yugi--kaiba" caption="115" alt="Episode 115" width="180" >}}
 </div>
 
 ---
@@ -537,10 +531,5 @@ _"Battle City is history and Yugi is the undisputed Duel King in possession of t
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
+| [← Previous Arc](/story/battle-city-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Arc →](/story/world-of-memories-arc/) |
+|:--------------------------|:------------------------:|---------------------------:|

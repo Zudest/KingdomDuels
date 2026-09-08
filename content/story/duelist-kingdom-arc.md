@@ -1,27 +1,23 @@
 +++
 date = '2022-08-09T12:00:00-00:00'
 title = 'Duelist Kingdom Arc'
+url = "/story/duelist-kingdom-arc/"
 description = 'Yugioh Scrolls - The Millennium Chapter - Arc 1'
 categories = ['Yugioh Scrolls']
 readingTime = false
 image = "/img/post/post0011.jpg"
+cover = "/img/post/post0011.jpg"
 +++
+
+<div class="img-center">
 
 ![](/img/storyimg/1-01.jpg)
 
-_"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasus, the creator of Duel Monsters, in order to recover the soul of Yugi's grandfather."_
+</div>
 
----
+>_Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasus, the creator of Duel Monsters, in order to recover the soul of Yugi's grandfather._
 
 >**Author's Note**: My goal with this arc was to recreate it faithfully within the Kingdom Duels ruleset. Therefore, no actual changes were made in the narrative on this particular arc. The 40 episodes are replicated here as precisely as they were in the original japanese run of the anime.
-
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
 
 ---
 
@@ -31,67 +27,67 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0001.jpg" link="#episode-1---the-heart-of-the-cards" caption="1" alt="Episode 1" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0002.jpg" link="#episode-2---the-gauntlet-is-thrown" caption="2" alt="Episode 2" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0003.jpg" link="#episode-3---journey-to-the-duelist-kingdom" caption="3" alt="Episode 3" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0004.jpg" link="#episode-4---insector-combo" caption="4" alt="Episode 4" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0005.jpg" link="#episode-5---ultimate-perfect-form---great-moth" caption="5" alt="Episode 5" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0001.jpg" link="#episode-1---the-heart-of-the-cards" caption="1" alt="Episode 1" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0002.jpg" link="#episode-2---the-gauntlet-is-thrown" caption="2" alt="Episode 2" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0003.jpg" link="#episode-3---journey-to-the-duelist-kingdom" caption="3" alt="Episode 3" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0004.jpg" link="#episode-4---insector-combo" caption="4" alt="Episode 4" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0005.jpg" link="#episode-5---ultimate-perfect-form---great-moth" caption="5" alt="Episode 5" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0006.jpg" link="#episode-6---gorgeous-harpie-lady" caption="6" alt="Episode 6" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0007.jpg" link="#episode-7---attack-from-the-deep" caption="7" alt="Episode 7" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0008.jpg" link="#episode-8---stolen-blue-eyes-white-dragon" caption="8" alt="Episode 8" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0009.jpg" link="#episode-9---duel-with-a-ghoul" caption="9" alt="Episode 9" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0010.jpg" link="#episode-10---blue-eyes-white-dragons-counterattack" caption="10" alt="Episode 10" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0006.jpg" link="#episode-6---gorgeous-harpie-lady" caption="6" alt="Episode 6" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0007.jpg" link="#episode-7---attack-from-the-deep" caption="7" alt="Episode 7" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0008.jpg" link="#episode-8---stolen-blue-eyes-white-dragon" caption="8" alt="Episode 8" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0009.jpg" link="#episode-9---duel-with-a-ghoul" caption="9" alt="Episode 9" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0010.jpg" link="#episode-10---blue-eyes-white-dragons-counterattack" caption="10" alt="Episode 10" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0011.jpg" link="#episode-11---the-power-of-friendship-barbarian-1-and-2" caption="11" alt="Episode 11" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0012.jpg" link="#episode-12---black-flame-red-eyes-black-dragon" caption="12" alt="Episode 12" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0013.jpg" link="#episode-13---evil-spirit-of-the-ring" caption="13" alt="Episode 13" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0014.jpg" link="#episode-14---pitch-black-duel-castle-of-darkening" caption="14" alt="Episode 14" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0015.jpg" link="#episode-15---cut-through-the-darkness" caption="15" alt="Episode 15" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0011.jpg" link="#episode-11---the-power-of-friendship-barbarian-1-and-2" caption="11" alt="Episode 11" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0012.jpg" link="#episode-12---black-flame-red-eyes-black-dragon" caption="12" alt="Episode 12" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0013.jpg" link="#episode-13---evil-spirit-of-the-ring" caption="13" alt="Episode 13" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0014.jpg" link="#episode-14---pitch-black-duel-castle-of-darkening" caption="14" alt="Episode 14" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0015.jpg" link="#episode-15---cut-through-the-darkness" caption="15" alt="Episode 15" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0016.jpg" link="#episode-16---clash-blue-eyes-vs-red-eyes" caption="16" alt="Episode 16" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0017.jpg" link="#episode-17---terror-call-of-the-living-dead" caption="17" alt="Episode 17" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0018.jpg" link="#episode-18---arena-of-lost-souls" caption="18" alt="Episode 18" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0019.jpg" link="#episode-19---labyrinth-tag-duel" caption="19" alt="Episode 19" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0020.jpg" link="#episode-20---three-gods-combine-gate-guardian" caption="20" alt="Episode 20" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0016.jpg" link="#episode-16---clash-blue-eyes-vs-red-eyes" caption="16" alt="Episode 16" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0017.jpg" link="#episode-17---terror-call-of-the-living-dead" caption="17" alt="Episode 17" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0018.jpg" link="#episode-18---arena-of-lost-souls" caption="18" alt="Episode 18" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0019.jpg" link="#episode-19---labyrinth-tag-duel" caption="19" alt="Episode 19" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0020.jpg" link="#episode-20---three-gods-combine-gate-guardian" caption="20" alt="Episode 20" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0021.jpg" link="#episode-21---the-fiend-dragon---black-demons-dragon" caption="21" alt="Episode 21" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0022.jpg" link="#episode-22---duel-of-destiny-yugi-vs-kaiba" caption="22" alt="Episode 22" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0023.jpg" link="#episode-23---strongest-blue-eyes-ultimate-dragon" caption="23" alt="Episode 23" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0024.jpg" link="#episode-24---kuribohs-multiply-shocking-finale" caption="24" alt="Episode 24" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0025.jpg" link="#episode-25---shining-friendship" caption="25" alt="Episode 25" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0021.jpg" link="#episode-21---the-fiend-dragon---black-demons-dragon" caption="21" alt="Episode 21" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0022.jpg" link="#episode-22---duel-of-destiny-yugi-vs-kaiba" caption="22" alt="Episode 22" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0023.jpg" link="#episode-23---strongest-blue-eyes-ultimate-dragon" caption="23" alt="Episode 23" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0024.jpg" link="#episode-24---kuribohs-multiply-shocking-finale" caption="24" alt="Episode 24" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0025.jpg" link="#episode-25---shining-friendship" caption="25" alt="Episode 25" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0026.jpg" link="#episode-26---save-mokuba-kaiba-vs-pegasus" caption="26" alt="Episode 26" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0027.jpg" link="#episode-27---champion-vs-creator-invincible-toon-world" caption="27" alt="Episode 27" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0028.jpg" link="#episode-28---night-before-the-battle-pegasus-secret" caption="28" alt="Episode 28" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0029.jpg" link="#episode-29---desperate-situation-shadow-of-seduction" caption="29" alt="Episode 29" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0030.jpg" link="#episode-30---the-legendary-strongest-warrior" caption="30" alt="Episode 30" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0026.jpg" link="#episode-26---save-mokuba-kaiba-vs-pegasus" caption="26" alt="Episode 26" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0027.jpg" link="#episode-27---champion-vs-creator-invincible-toon-world" caption="27" alt="Episode 27" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0028.jpg" link="#episode-28---night-before-the-battle-pegasus-secret" caption="28" alt="Episode 28" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0029.jpg" link="#episode-29---desperate-situation-shadow-of-seduction" caption="29" alt="Episode 29" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0030.jpg" link="#episode-30---the-legendary-strongest-warrior" caption="30" alt="Episode 30" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0031.jpg" link="#episode-31---keiths-machinations" caption="31" alt="Episode 31" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0032.jpg" link="#episode-32---surpass-time-red-eyes-black-metal-dragon" caption="32" alt="Episode 32" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0033.jpg" link="#episode-33---final-match-of-friendship---yugi-vs-jounouchi" caption="33" alt="Episode 33" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0034.jpg" link="#episode-34---best-of-friends-best-of-duelists" caption="34" alt="Episode 34" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0035.jpg" link="#episode-35---yugi-vs-pegasus-match-of-the-millennium" caption="35" alt="Episode 35" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0031.jpg" link="#episode-31---keiths-machinations" caption="31" alt="Episode 31" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0032.jpg" link="#episode-32---surpass-time-red-eyes-black-metal-dragon" caption="32" alt="Episode 32" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0033.jpg" link="#episode-33---final-match-of-friendship---yugi-vs-jounouchi" caption="33" alt="Episode 33" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0034.jpg" link="#episode-34---best-of-friends-best-of-duelists" caption="34" alt="Episode 34" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0035.jpg" link="#episode-35---yugi-vs-pegasus-match-of-the-millennium" caption="35" alt="Episode 35" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0036.jpg" link="#episode-36---the-invincible-toon-army" caption="36" alt="Episode 36" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0037.jpg" link="#episode-37---counterattack-begins-mind-shuffle" caption="37" alt="Episode 37" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0038.jpg" link="#episode-38---the-wicked-eye-activates---sacrifice" caption="38" alt="Episode 38" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0039.jpg" link="#episode-39---fusion-of-light-and-darkness" caption="39" alt="Episode 39" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0040.jpg" link="#episode-40---king-of-duelists" caption="40" alt="Episode 40" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0036.jpg" link="#episode-36---the-invincible-toon-army" caption="36" alt="Episode 36" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0037.jpg" link="#episode-37---counterattack-begins-mind-shuffle" caption="37" alt="Episode 37" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0038.jpg" link="#episode-38---the-wicked-eye-activates---sacrifice" caption="38" alt="Episode 38" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0039.jpg" link="#episode-39---fusion-of-light-and-darkness" caption="39" alt="Episode 39" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0040.jpg" link="#episode-40---king-of-duelists" caption="40" alt="Episode 40" width="180" >}}
 </div>
 
 ---
@@ -579,11 +575,5 @@ _"Yugi and his friends travel to the Duelist Kingdom island and challenge Pegasu
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
-
+| ← Previous Arc | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Arc →](/story/legacy-arc/) |
+|:--------------------------|:------------------------:|---------------------------:|

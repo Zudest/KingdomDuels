@@ -2,7 +2,6 @@
 title = 'Credits'
 readingTime = false
 +++
-
     Original Work: Kazuki Takahashi & NAS & Studio Gallop & Toei & Studio Bridge & Konami.
 
     Kingdom Duels Creation and Design: Rolvak/Zudest.

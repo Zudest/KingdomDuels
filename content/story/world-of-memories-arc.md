@@ -1,75 +1,69 @@
 +++
 date = '2025-12-28T00:00:00-00:00'
 title = 'World of Memories Arc'
+url = "/story/world-of-memories-arc/"
 description = 'Yugioh Scrolls - The Millennium Chapter - Arc 5'
 categories = ['Yugioh Scrolls']
 readingTime = false
 image = "/img/post/post0038.jpg"
+cover = "/img/post/post0038.jpg"
 +++
 
+<div class="img-center">
 
 ![](/img/storyimg/1-05.jpg)
 
-_"The time has finally come, and the group travels to Egypt to help the Pharaoh find the last two Millennium Items so he can recover his memories. As he embarks to his world of memories, we discover that the final foe is a calamity of the ancient past that has been lurking in the shadows since the very beginning, waiting for this moment to wage a final war of light and darkness that will define the fate of the world."_
+</div>
 
----
+>_The time has finally come, and the group of friends travel to Egypt to help the Pharaoh find the last two Millennium Items so he can recover his memories. As he embarks on his world of memories, we discover that the final foe is a calamity of the ancient past that has been lurking in the shadows since the very beginning, waiting for this moment to wage a final war of light and darkness that will define the fate of the world._
 
 >**Author's Note**: This arc has three core storylines: The first one is an original story with some elements of the Pyramid of Light movie within it, revolving around the last two Millennium Items and featuring Fizdis which is a videogame exclusive character that i took the liberty to readapt for this story. The second one is the Millennium World, that i wanted to adapt by having actual duels while following the same plot points of the anime (as I felt that the lack of dueling in that season of the anime harmed its reputation for some people, and also because this project is based on adapting everything to the Duelist Kingdom rules). Finally, the third story is about the ceremonial duel and the fantastic closure that it gave to the show.
 
-
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
-
 ---
 
-| [← Previous Arc](/story/wicked-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | Next Arc → |
+| [← Previous Arc](/story/wicked-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Chapter →](/story/the-kings-chapter/) |
 |:--------------------------|:------------------------:|---------------------------:|
 
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0116.jpg" link="#episode-116---the-ultimate-game" caption="116" alt="Episode 116" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0117.jpg" link="#episode-117---the-dark-spirit-on-the-move" caption="117" alt="Episode 117" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0118.jpg" link="#episode-118---chasing-a-ghost" caption="118" alt="Episode 118" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0119.jpg" link="#episode-119---the-maze-within-the-pyramid" caption="119" alt="Episode 119" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0120.jpg" link="#episode-120---duel-of-the-tomb-keepers" caption="120" alt="Episode 120" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0116.jpg" link="#episode-116---the-ultimate-game" caption="116" alt="Episode 116" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0117.jpg" link="#episode-117---the-dark-spirit-on-the-move" caption="117" alt="Episode 117" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0118.jpg" link="#episode-118---chasing-a-ghost" caption="118" alt="Episode 118" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0119.jpg" link="#episode-119---the-maze-within-the-pyramid" caption="119" alt="Episode 119" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0120.jpg" link="#episode-120---duel-of-the-tomb-keepers" caption="120" alt="Episode 120" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0121.jpg" link="#episode-121---scales-of-judgment" caption="121" alt="Episode 121" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0122.jpg" link="#episode-122---arrival-of-anubis" caption="122" alt="Episode 122" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0123.jpg" link="#episode-123---the-pyramid-of-light" caption="123" alt="Episode 123" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0124.jpg" link="#episode-124---the-opened-door-of-memories" caption="124" alt="Episode 124" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0125.jpg" link="#episode-125---thief-king-bakura-appears" caption="125" alt="Episode 125" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0121.jpg" link="#episode-121---scales-of-judgment" caption="121" alt="Episode 121" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0122.jpg" link="#episode-122---arrival-of-anubis" caption="122" alt="Episode 122" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0123.jpg" link="#episode-123---the-pyramid-of-light" caption="123" alt="Episode 123" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0124.jpg" link="#episode-124---the-opened-door-of-memories" caption="124" alt="Episode 124" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0125.jpg" link="#episode-125---thief-king-bakura-appears" caption="125" alt="Episode 125" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0126.jpg" link="#episode-126---the-high-priests-of-the-pharaoh" caption="126" alt="Episode 126" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0127.jpg" link="#episode-127---blue-eyed-kisara" caption="127" alt="Episode 127" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0128.jpg" link="#episode-128---the-secret-of-the-millennium-items" caption="128" alt="Episode 128" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0129.jpg" link="#episode-129---a-reversal-of-fortune" caption="129" alt="Episode 129" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0130.jpg" link="#episode-130---in-search-of-a-king" caption="130" alt="Episode 130" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0126.jpg" link="#episode-126---the-high-priests-of-the-pharaoh" caption="126" alt="Episode 126" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0127.jpg" link="#episode-127---blue-eyed-kisara" caption="127" alt="Episode 127" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0128.jpg" link="#episode-128---the-secret-of-the-millennium-items" caption="128" alt="Episode 128" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0129.jpg" link="#episode-129---a-reversal-of-fortune" caption="129" alt="Episode 129" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0130.jpg" link="#episode-130---in-search-of-a-king" caption="130" alt="Episode 130" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0131.jpg" link="#episode-131---the-village-of-kul-elna" caption="131" alt="Episode 131" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0132.jpg" link="#episode-132---high-priest-of-darkness" caption="132" alt="Episode 132" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0133.jpg" link="#episode-133---white-dragon" caption="133" alt="Episode 133" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0134.jpg" link="#episode-134---the-great-evil-god-is-resurrected" caption="134" alt="Episode 134" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0135.jpg" link="#episode-135---the-legendary-guardian-god" caption="135" alt="Episode 135" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0131.jpg" link="#episode-131---the-village-of-kul-elna" caption="131" alt="Episode 131" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0132.jpg" link="#episode-132---high-priest-of-darkness" caption="132" alt="Episode 132" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0133.jpg" link="#episode-133---white-dragon" caption="133" alt="Episode 133" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0134.jpg" link="#episode-134---the-great-evil-god-is-resurrected" caption="134" alt="Episode 134" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0135.jpg" link="#episode-135---the-legendary-guardian-god" caption="135" alt="Episode 135" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0136.jpg" link="#episode-136---for-my-other-me" caption="136" alt="Episode 136" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0137.jpg" link="#episode-137---summon-the-three-egyptian-gods" caption="137" alt="Episode 137" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0138.jpg" link="#episode-138---in-the-name-of-the-pharaoh" caption="138" alt="Episode 138" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0139.jpg" link="#episode-139---the-final-journey" caption="139" alt="Episode 139" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0140.jpg" link="#episode-140---the-story-which-concludes-inside-the-light" caption="140" alt="Episode 140" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0136.jpg" link="#episode-136---for-my-other-me" caption="136" alt="Episode 136" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0137.jpg" link="#episode-137---summon-the-three-egyptian-gods" caption="137" alt="Episode 137" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0138.jpg" link="#episode-138---in-the-name-of-the-pharaoh" caption="138" alt="Episode 138" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0139.jpg" link="#episode-139---the-final-journey" caption="139" alt="Episode 139" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0140.jpg" link="#episode-140---the-story-which-concludes-inside-the-light" caption="140" alt="Episode 140" width="180" >}}
 </div>
 
 ---
@@ -560,10 +554,5 @@ _"The time has finally come, and the group travels to Egypt to help the Pharaoh 
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
+| [← Previous Arc](/story/wicked-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Chapter →](/story/the-kings-chapter/) |
+|:--------------------------|:------------------------:|---------------------------:|

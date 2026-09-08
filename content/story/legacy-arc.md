@@ -1,29 +1,23 @@
 +++
 date = '2024-11-21T12:00:00-00:00'
 title = 'Legacy Arc'
+url = "/story/legacy-arc/"
 description = 'Yugioh Scrolls - The Millennium Chapter - Arc 2'
 categories = ['Yugioh Scrolls']
 readingTime = false
-image = "/img/post/post0007.jpg"
+image = "/img/post/post0015.jpg"
+cover = "/img/post/post0015.jpg"
 +++
 
+<div class="img-center">
 
 ![](/img/storyimg/1-02.jpg)
 
-_"As normal life returns, grudges and events from the past resurface to challenge Yugi's other self and Kaiba, as they start to unravel a mystery that seems to tie them to Ancient Egypt."_
+</div>
 
----
+>_As normal life returns, grudges and events from the past resurface to challenge Yugi's other self and Kaiba, as they start to unravel a mystery that seems to tie them to Ancient Egypt._
 
 >**Author's Note**: My main goal in this arc was to tie multiple short storylines into one cohesive narrative block. Having the egyptian exhibition in the museum play a larger role here allows me to flesh out more characters like Ishizu and Shadi. A major goal of this arc aswell was to move the virtual arc here, to have it happen before Battle City which will in turn make Battle City flow better without that interruption before the finals. Overall, this whole arc was also a good chance to focus on the side characters for a bit and plant some seeds for upcoming future plots, while focusing on the past and legacy of both the Other Yugi and Kaiba.
-
-
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
 
 ---
 
@@ -33,43 +27,43 @@ _"As normal life returns, grudges and events from the past resurface to challeng
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0041.jpg" link="#episode-41---memories-of-the-kingdom" caption="41" alt="Episode 41" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0042.jpg" link="#episode-42---the-big-five" caption="42" alt="Episode 42" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0043.jpg" link="#episode-43---the-girl-from-america" caption="43" alt="Episode 43" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0044.jpg" link="#episode-44---the-mysterious-transfer-student--ryuji-otogi" caption="44" alt="Episode 44" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0045.jpg" link="#episode-45---showdown-the-dungeon-dice-field" caption="45" alt="Episode 45" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0041.jpg" link="#episode-41---memories-of-the-kingdom" caption="41" alt="Episode 41" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0042.jpg" link="#episode-42---the-big-five" caption="42" alt="Episode 42" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0043.jpg" link="#episode-43---the-girl-from-america" caption="43" alt="Episode 43" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0044.jpg" link="#episode-44---the-mysterious-transfer-student--ryuji-otogi" caption="44" alt="Episode 44" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0045.jpg" link="#episode-45---showdown-the-dungeon-dice-field" caption="45" alt="Episode 45" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0046.jpg" link="#episode-46---jonouchis-sister" caption="46" alt="Episode 46" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0047.jpg" link="#episode-47---a-virtual-nightmare" caption="47" alt="Episode 47" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0048.jpg" link="#episode-48---deck-master---deepsea-warrior" caption="48" alt="Episode 48" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0049.jpg" link="#episode-49---duel-on-ice---anzu-is-targeted" caption="49" alt="Episode 49" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0050.jpg" link="#episode-50---gamble-to-victory" caption="50" alt="Episode 50" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0046.jpg" link="#episode-46---jonouchis-sister" caption="46" alt="Episode 46" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0047.jpg" link="#episode-47---a-virtual-nightmare" caption="47" alt="Episode 47" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0048.jpg" link="#episode-48---deck-master---deepsea-warrior" caption="48" alt="Episode 48" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0049.jpg" link="#episode-49---duel-on-ice---anzu-is-targeted" caption="49" alt="Episode 49" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0050.jpg" link="#episode-50---gamble-to-victory" caption="50" alt="Episode 50" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0051.jpg" link="#episode-51---a-mans-path" caption="51" alt="Episode 51" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0052.jpg" link="#episode-52---settling-the-score" caption="52" alt="Episode 52" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0053.jpg" link="#episode-53---a-deepening-mystery---noahs-true-identity" caption="53" alt="Episode 53" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0054.jpg" link="#episode-54---big-5s-counterattack" caption="54" alt="Episode 54" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0055.jpg" link="#episode-55---defeat-it-five-god-dragon" caption="55" alt="Episode 55" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0051.jpg" link="#episode-51---a-mans-path" caption="51" alt="Episode 51" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0052.jpg" link="#episode-52---settling-the-score" caption="52" alt="Episode 52" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0053.jpg" link="#episode-53---a-deepening-mystery---noahs-true-identity" caption="53" alt="Episode 53" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0054.jpg" link="#episode-54---big-5s-counterattack" caption="54" alt="Episode 54" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0055.jpg" link="#episode-55---defeat-it-five-god-dragon" caption="55" alt="Episode 55" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0056.jpg" link="#episode-56---noah-vs-seto---the-duel-of-heaven-and-earths-creation" caption="56" alt="Episode 56" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0057.jpg" link="#episode-57---darkness-of-the-kaiba-family" caption="57" alt="Episode 57" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0058.jpg" link="#episode-58---the-man-from-egypt" caption="58" alt="Episode 58" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0059.jpg" link="#episode-59---desperate-situation" caption="59" alt="Episode 59" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0060.jpg" link="#episode-60---the-pharaohs-lost-memories" caption="60" alt="Episode 60" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0056.jpg" link="#episode-56---noah-vs-seto---the-duel-of-heaven-and-earths-creation" caption="56" alt="Episode 56" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0057.jpg" link="#episode-57---darkness-of-the-kaiba-family" caption="57" alt="Episode 57" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0058.jpg" link="#episode-58---the-man-from-egypt" caption="58" alt="Episode 58" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0059.jpg" link="#episode-59---desperate-situation" caption="59" alt="Episode 59" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0060.jpg" link="#episode-60---the-pharaohs-lost-memories" caption="60" alt="Episode 60" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0061.jpg" link="#episode-61---the-shattered-millennium-puzzle" caption="61" alt="Episode 61" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0062.jpg" link="#episode-62---the-fiery-dance-battle" caption="62" alt="Episode 62" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0063.jpg" link="#episode-63---the-tablet-of-lost-memories" caption="63" alt="Episode 63" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0064.jpg" link="#episode-64---this-city-will-become-battle-city" caption="64" alt="Episode 64" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0065.jpg" link="#episode-65---clash-of-the-millennium-items" caption="65" alt="Episode 65" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0061.jpg" link="#episode-61---the-shattered-millennium-puzzle" caption="61" alt="Episode 61" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0062.jpg" link="#episode-62---the-fiery-dance-battle" caption="62" alt="Episode 62" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0063.jpg" link="#episode-63---the-tablet-of-lost-memories" caption="63" alt="Episode 63" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0064.jpg" link="#episode-64---this-city-will-become-battle-city" caption="64" alt="Episode 64" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0065.jpg" link="#episode-65---clash-of-the-millennium-items" caption="65" alt="Episode 65" width="180" >}}
 </div>
 
 ---
@@ -434,14 +428,9 @@ _NOTE: Instead of a Dungeon Dice Monster duel they will play a normal duel but w
 *   Bakura, weakened after those two exchanges, looks into the ancient tablet one final time and retreats saying that he needs to gather strength as he has the feeling something interesting is going to happen in the upcoming days. In his place, the real Bakura recovers control of his own body and wonder what is he doing there.
 *   Ishizu is last seen leaving the museum, as she doesn’t feel safe there. Shadi is last seen in a different place, admitting that he cannot defeat Bakura as he is now, and looking at the Scales and the Ankh pondering why he can’t extract their full powers against other millennium items holders, wondering if he’s not worthy anymore now that he’s dead.
 
+
 ---
 
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
-
+| [← Previous Arc](/story/duelist-kingdom-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Arc →](/story/battle-city-arc/) |
+|:--------------------------|:------------------------:|---------------------------:|
 

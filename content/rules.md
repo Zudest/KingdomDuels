@@ -17,7 +17,7 @@ Kingdom Duels is a turn-based competitive card game that is normally played by 2
 ### 🗺️ The Game Board
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/promotion/RulesField.jpg" link="/img/promotion/RulesField.jpg" alt="?" width="720" >}}
+{{< imagetext src="/img/promotion/RulesField.jpg" alt="?" width="720" >}}
 </div>
 
 This game is played on a board that is divided into several card zones. It has a **Frontrow** (five card zones where you play your monsters) and a **Backrow** (five card zones where you play spell and traps). These two concepts (Frontrow and Backrow) together establish *"your Field"*.
@@ -96,7 +96,7 @@ Your opponent has the exact same board setup as you, with their own Frontrow, Ba
 ## ⛰️ Terrain Markers
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/promotion/RulesFieldTerrain.jpg" link="/img/promotion/RulesFieldTerrain.jpg" caption="Example of a field with 5 Forest Terrains and two monsters Hidden (face-down), one in ATK and one in DEF." alt="?" width="720" >}}
+{{< imagetext src="/img/promotion/RulesFieldTerrain.jpg" caption="Example of a field with 5 Forest Terrains and two monsters Hidden (face-down), one in ATK and one in DEF." alt="?" width="720" >}}
 </div>
 
 On top of each Monster Zone in the Frontrow there will be a **"Terrain Marker"** (also called **Terrains**) that may give different effects to the monster card placed on top of it. They are game components that recreate the diverse terrain effects of the anime, are not considered cards and are associated to the Monster Zone directly beneath them.
@@ -109,7 +109,7 @@ The **TERRAINS** effect type within **Field Setup Rule** cards define the starti
 ### 🏞️ Field Power Bonus
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/T/03.jpg" alt="?" caption="In this example: 'Beast', 'Insect' and 'Plant monster types gain the Field Power Bonus." width="500" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/T/003.jpg" alt="?" caption="In this example: 'Beast', 'Insect' and 'Plant monster types gain the Field Power Bonus." width="500" >}}
 </div>
 
 **"Field Power Bonus"** is a term that is used when a monster is receiving an additional ATK and DEF increase thanks to the Terrain it's located on. The ATK and DEF gained through this effect corresponds to 30% of each monster's original ATK/DEF and is printed on every monster card.
@@ -123,10 +123,10 @@ Each Terrain Marker states which type and/or attribute gains the Field Power Bon
 Broadly speaking there are four main types of cards in this game you have to be mindful of, which are: **Rules**, **Monsters**, **Spells**, **Traps**.
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/071.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/023.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/107.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/071.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/023.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/107.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg" alt="" width="250" >}}
 </div>
 
 ---
@@ -140,9 +140,9 @@ Rule Cards have effects or mechanics that are added on to the current game **rul
 Rule Cards may be one of the following types: **Normal**, **Setup** or **Symbol**.
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/071.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/109.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/156.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/071.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/109.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/156.jpg" alt="" width="250" >}}
 </div>
 
 > → **📜 Normal Rule Cards**
@@ -172,9 +172,9 @@ They represent objects or powers from the anime that can interfere in the duel i
 ### 🐉 Monster Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/017.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/048.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/079.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/017.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/048.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/079.jpg" alt="" width="250" >}}
 </div>
 
 **Normal Monster** cards (yellow frame) are placed in the Main Deck (and have effects despite being called "normal" monsters, unlike the original yugioh card game).
@@ -188,17 +188,15 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 ### 🌀 Fusion Monster Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/057.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/071.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/106.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/057.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/071.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/106.jpg" alt="" width="250" >}}
 </div>
 
 **Fusion Monsters** (purple frame) represent a combination of two or more specific cards into one single being. 
 
 - To summon a Fusion Monster you need to have the required monsters in your hand and/or field and then use a card named "Fusion". After the Fusion Monster is summoned, you attach the corresponding Fusion Materials to it. 
-
 - Fusion monsters are treated as having the same name as all their Fusion Materials for card effects.
-
 - If a Fusion Material somehow enters the field as a monster while its corresponding Fusion Monster is still on the field then this new monster can't declare an attack on the first turn it's summoned.
 
 ---
@@ -206,17 +204,15 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 ### 🕯️ Ritual Monster Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/105.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/LEN/187.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/093.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/105.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/LEN/187.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/093.jpg" alt="" width="250" >}}
 </div>
 
 **Ritual Monsters** (blue frame) represent sealed monsters being summoned to the battlefield by sacrificing cards in a ritual ceremony. 
 
 - To summon a Ritual Monster you need to fulfil the requirements of a specific "Ritual" Spell Card listed in its summoning conditions, which usually involves tributing the corresponding Ritual Material(s) to the graveyard. 
-
 - The "Ritual" Spell Card usually remains on the field face-up until the requirements are fulfiled or the card is destroyed. It's controller can also send the spell card to the Graveyard at will during its Main Phase. If you fulfil a "Ritual" Spell Card that you control but not own, you must Ritual Summon the corresponding monster from the Extra Deck of the proper owner of that spell card instead of yours (if possible).
-
 - A monster equipped to another monster is still treated as a monster on the field and therefore can be used to fulfil a Ritual Summon. This is not the case with attached monsters (unless otherwise stated).
 
 ---
@@ -224,17 +220,15 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 ### 🧬 Alter Monster Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/087.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/136.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/MLY/010.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/087.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/136.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/MLY/010.jpg" alt="" width="250" >}}
 </div>
 
 **Alter Monsters** (red frame) represent monsters that went through a transformation of some kind without merging with other monsters.
 
 - To summon an Alter Monster you need to play a card that lets you Alter Summon a specific Type of monsters (a Type unique to Alter cards) while controlling a specific monster on the field listed in the conditions of the Alter Monster. After the Alter Monster is summoned, you attach the corresponding Alter Material to it.
-
 - In some cases an Alter Summon may require a certain amount of "Summoning Counters" placed on top of the specific Alter Material as part of its summoning condition. These counters are usually placed due to card effects, and are removed once the Alter Summon is completed or the Material is removed from the field.
-
 - An Alter Monster is summoned on the same zone its corresponding Alter Material was, and any Equip card active on that monster is re-equipped to the new card instead (if the new target is still valid). Any attack or effect targeting the material monster now targets the new monster (if valid).
 
 ---
@@ -242,17 +236,15 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 ### 🤝🏻 Integration Monster Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/125.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/129.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/133.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/125.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/129.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/133.jpg" alt="" width="250" >}}
 </div>
 
 **Integration Monsters** (brown frame) represent cards that merge with the soul of the duelist that represents you as a player.
 
 - To summon an Integration Monster you need to have played a specific Duelist Setup Rule card at the beginning of the game (marked in the summoning condition with curly brackets) and Erode from your hand or field the other Material(s) listed on the card.
-
 - Integration monsters are treated as having the same name as their Integration Materials for card effects.
-
 - If you want to summon in Hidden ATK or Hidden DEF Position an Integration Summon you are not forced to reveal the eroded material card right away, but when you erode it you must set it clearly apart from other cards, and once your monster is revealed or the duel ends you must reveal that the eroded card was the proper material, otherwise you lose the duel instead.
 
 ---
@@ -260,17 +252,15 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 ### 🀄 Token Monster Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/101.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/011.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/149.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/101.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/011.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/149.jpg" alt="" width="250" >}}
 </div>
 
 **Token Monsters** (grey frame) represent artificial constructs or ephemeral monsters that are being maintained on the battlefield through magic.
 
 - To summon a Token Monster you need a card in play that specifically lets you to do so.
-
 - Tokens can only exist in the Field (except being attached) or in the Extra Deck. If they are to be sent to a different game area or Eroded they return to the Extra Deck instead. Since Tokens cannot be attached to other cards, they cannot be used for summoning methods that attach their materials. 
-
 - Even though they come from the Extra Deck, when they are in the field they are considered Normal Monsters and not Extra Deck Monsters unless otherwise stated.
 
 ---
@@ -278,10 +268,10 @@ Cards used for an Extra Deck monster summon are considered "**Materials**" of th
 ### 🔮 Spell and Trap Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/107.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/020.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/102.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/107.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/020.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/062.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/102.jpg" alt="" width="250" >}}
 </div>
 
 **Spell Cards** (green frame) and **Trap Cards** (pink frame) are placed in the Main Deck. They have Attributes like Monster Cards, and may be one of the following types: **Normal**, **Equip**, **Continuous**. They are all activated as Quick Effects unless they have the **Slow** type.
@@ -299,9 +289,9 @@ If the player **does not** activate a trap card when its Trigger is met then the
 ### 🌈 Combination Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/086.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/066.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/125.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/086.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/SOE/066.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/KOD/125.jpg" alt="" width="250" >}}
 </div>
 
 There are a few Main Deck cards that have a **combination of two colors** in their frame. These cards are considered as having both their card types at the same time (and can be affected by cards targeting either of those types). 
@@ -313,9 +303,9 @@ They are **Spell Monsters**, **Trap Monsters** and **Spell Traps**. You can usua
 ### 📿 Divine Cards
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/001.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/002.jpg" alt="" width="170" >}}
-{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/003.jpg" alt="" width="170" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/001.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/002.jpg" alt="" width="250" >}}
+{{< imagetext src="https://zudest.github.io/KingdomDuelsDeckbuilder/cards/TEG/003.jpg" alt="" width="250" >}}
 </div>
 
 **Divine** is a special Type of cards. Each Divine card is color-coded individually, meaning that it can have the frame color of its card type (main deck monster, fusion monster, spell, etc.) or a different color entirely. Divine cards have a special mechanic unique to them called "Hierarchy":

@@ -1,29 +1,23 @@
 +++
 date = '2025-05-10T12:00:00-00:00'
 title = 'Battle City Arc'
+url = "/story/battle-city-arc/"
 description = 'Yugioh Scrolls - The Millennium Chapter - Arc 3'
 categories = ['Yugioh Scrolls']
 readingTime = false
 image = "/img/post/post0025.jpg"
+cover = "/img/post/post0025.jpg"
 +++
 
+<div class="img-center">
 
 ![](/img/storyimg/1-03.jpg)
 
-_"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elite Duelists from all over Japan and introduces impressive new technology that would turn Domino City itself into a battleground. As Yugi enters the competition, he must face powerful foes and dark powers, all while uncovering secrets about the ancient Millennium Items and the mysterious Egyptian God Cards."_
+</div>
 
----
+>_A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elite Duelists from all over Japan and introduces impressive new technology that would turn Domino City itself into a battleground. As Yugi enters the competition, he must face powerful foes and dark powers, all while uncovering secrets about the ancient Millennium Items and the mysterious Egyptian God Cards._
 
 >**Author's Note**: My main goal here was to properly adapt the beloved Battle City arc to the Kingdom Duels ruleset, trying to preserve as much as possible from the original duels while also taking advantage of the fact that the Virtual World arc was moved ahead in the timeline so both the Battle City and the Battle City Finals can take place in a single arc as it should have been in the original anime release.
-
-
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
 
 ---
 
@@ -33,43 +27,43 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 ## List of Episodes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0066.jpg" link="#episode-66---stalked-by-the-ghouls" caption="66" alt="Episode 66" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0067.jpg" link="#episode-67---fierce-fight-battle-city-begins" caption="67" alt="Episode 67" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0068.jpg" link="#episode-68---esper-roba---danger-of-the-psychic-deck" caption="68" alt="Episode 68" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0069.jpg" link="#episode-69---black-magic-of-the-soul" caption="69" alt="Episode 69" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0070.jpg" link="#episode-70---the-trap-of-revenge---rampage-parasite" caption="70" alt="Episode 70" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0066.jpg" link="#episode-66---stalked-by-the-ghouls" caption="66" alt="Episode 66" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0067.jpg" link="#episode-67---fierce-fight-battle-city-begins" caption="67" alt="Episode 67" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0068.jpg" link="#episode-68---esper-roba---danger-of-the-psychic-deck" caption="68" alt="Episode 68" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0069.jpg" link="#episode-69---black-magic-of-the-soul" caption="69" alt="Episode 69" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0070.jpg" link="#episode-70---the-trap-of-revenge---rampage-parasite" caption="70" alt="Episode 70" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0071.jpg" link="#episode-71---sky-dragon-of-osiris" caption="71" alt="Episode 71" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0072.jpg" link="#episode-72---the-giant-divine-soldier-of-obelisk" caption="72" alt="Episode 72" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0073.jpg" link="#episode-73---the-legendary-fisherman" caption="73" alt="Episode 73" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0074.jpg" link="#episode-74---the-masks-curse---high-rise-duel" caption="74" alt="Episode 74" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0075.jpg" link="#episode-75---heartless-duel---yugi-vs-jonouchi" caption="75" alt="Episode 75" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0071.jpg" link="#episode-71---sky-dragon-of-osiris" caption="71" alt="Episode 71" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0072.jpg" link="#episode-72---the-giant-divine-soldier-of-obelisk" caption="72" alt="Episode 72" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0073.jpg" link="#episode-73---the-legendary-fisherman" caption="73" alt="Episode 73" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0074.jpg" link="#episode-74---the-masks-curse---high-rise-duel" caption="74" alt="Episode 74" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0075.jpg" link="#episode-75---heartless-duel---yugi-vs-jonouchi" caption="75" alt="Episode 75" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0076.jpg" link="#episode-76---shadow-of-a-duel" caption="76" alt="Episode 76" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0077.jpg" link="#episode-77---battle-ship-takes-off" caption="77" alt="Episode 77" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0078.jpg" link="#episode-78---first-duel-in-the-sky---yugi-vs-bakura" caption="78" alt="Episode 78" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0079.jpg" link="#episode-79---hidden-power---mystery-of-the-god-cards" caption="79" alt="Episode 79" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0080.jpg" link="#episode-80---the-winged-divine-dragon-of-ra" caption="80" alt="Episode 80" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0076.jpg" link="#episode-76---shadow-of-a-duel" caption="76" alt="Episode 76" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0077.jpg" link="#episode-77---battle-ship-takes-off" caption="77" alt="Episode 77" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0078.jpg" link="#episode-78---first-duel-in-the-sky---yugi-vs-bakura" caption="78" alt="Episode 78" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0079.jpg" link="#episode-79---hidden-power---mystery-of-the-god-cards" caption="79" alt="Episode 79" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0080.jpg" link="#episode-80---the-winged-divine-dragon-of-ra" caption="80" alt="Episode 80" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0081.jpg" link="#episode-81---awakening-of-evil" caption="81" alt="Episode 81" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0082.jpg" link="#episode-82---a-duel-with-destiny" caption="82" alt="Episode 82" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0083.jpg" link="#episode-83---the-tomb-keepers-secret" caption="83" alt="Episode 83" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0084.jpg" link="#episode-84---showdown-in-the-shadows" caption="84" alt="Episode 84" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0085.jpg" link="#episode-85---the-land-of-the-decisive-battle-alcatraz" caption="85" alt="Episode 85" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0081.jpg" link="#episode-81---awakening-of-evil" caption="81" alt="Episode 81" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0082.jpg" link="#episode-82---a-duel-with-destiny" caption="82" alt="Episode 82" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0083.jpg" link="#episode-83---the-tomb-keepers-secret" caption="83" alt="Episode 83" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0084.jpg" link="#episode-84---showdown-in-the-shadows" caption="84" alt="Episode 84" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0085.jpg" link="#episode-85---the-land-of-the-decisive-battle-alcatraz" caption="85" alt="Episode 85" width="180" >}}
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0086.jpg" link="#episode-86---the-darkness-returns" caption="86" alt="Episode 86" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0087.jpg" link="#episode-87---clash-in-the-coliseum" caption="87" alt="Episode 87" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0088.jpg" link="#episode-88---the-path-towards-a-true-duelist" caption="88" alt="Episode 88" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0089.jpg" link="#episode-89---the-final-face-off" caption="89" alt="Episode 89" width="140" >}}
-{{< imagetext src="/img/storyimg/ep0090.jpg" link="#episode-90---one-for-the-road" caption="90" alt="Episode 90" width="140" >}}
+{{< imagetext src="/img/storyimg/ep0086.jpg" link="#episode-86---the-darkness-returns" caption="86" alt="Episode 86" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0087.jpg" link="#episode-87---clash-in-the-coliseum" caption="87" alt="Episode 87" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0088.jpg" link="#episode-88---the-path-towards-a-true-duelist" caption="88" alt="Episode 88" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0089.jpg" link="#episode-89---the-final-face-off" caption="89" alt="Episode 89" width="180" >}}
+{{< imagetext src="/img/storyimg/ep0090.jpg" link="#episode-90---one-for-the-road" caption="90" alt="Episode 90" width="180" >}}
 </div>
 
 ---
@@ -486,10 +480,5 @@ _"A new tournament arises: Battle City. Organized by Seto Kaiba, it gathers elit
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 5px;">
-{{< imagetext src="/img/storyimg/M1.png" link="/yugioh-scrolls/" alt="Chapters" caption="Chapters" width="140" >}}
-{{< imagetext src="/img/storyimg/M2.png" link="/scrolls/world/" alt="Setting" caption="Setting" width="140" >}}
-{{< imagetext src="/img/storyimg/M3.png" link="/scrolls/timeline/" alt="Timeline" caption="Timeline" width="140" >}}
-{{< imagetext src="/img/storyimg/M4.png" link="/scrolls/duels/" alt="Duels" caption="Duels" width="140" >}}
-{{< imagetext src="/img/storyimg/M5.png" link="/scrolls/characters/" alt="Characters" caption="Characters" width="140" >}}
-</div>
+| [← Previous Arc](/story/legacy-arc/) | [The Millennium Chapter](/story/the-millennium-chapter/) | [Next Arc →](/story/wicked-arc/) |
+|:--------------------------|:------------------------:|---------------------------:|
