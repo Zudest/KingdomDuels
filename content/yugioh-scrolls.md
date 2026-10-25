@@ -78,11 +78,38 @@ readingTime = false
 {{< imagetext src="/img/storyimg/00.png" alt="Singularity Arc" caption="Singularity Arc" width="200" >}}
 </div>
 
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/Chapter08.jpg" link="/story/the-rebellious-chapter/" alt="Rebellious Chapter" caption="⚡ Rebellious Chapter" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+</div>
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/Chapter09.jpg" link="/story/the-frontier-chapter/" alt="Frontier Chapter" caption="🧭 Frontier Chapter" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+</div>
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/Chapter10.jpg" link="/story/the-unseen-chapter/" alt="Unseen Chapter" caption="📜 Unseen Chapter" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+{{< imagetext src="/img/storyimg/00.png" alt="?" width="200" >}}
+</div>
+
 
 ## Duel Anecdotes
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" link="/story/duel-anecdotes/" alt="Duel Anecdotes" caption="💬 Duel Anecdotes" width="200" >}}
+{{< imagetext src="/img/storyimg/Chapter99.jpg" link="/story/duel-anecdotes/" alt="Duel Anecdotes" caption="💬 Duel Anecdotes" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="200" >}}
@@ -90,10 +117,8 @@ readingTime = false
 {{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="200" >}}
 </div>
 
-## Duel Visions
-
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/00.png" link="/story/duel-visions/" alt="Duel Visions" caption="👁️‍🗨️ Duel Visions" width="200" >}}
+{{< imagetext src="/img/storyimg/0.png" link="/story/duel-anecdotes/" alt="Duel Anecdotes" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="200" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="200" >}}

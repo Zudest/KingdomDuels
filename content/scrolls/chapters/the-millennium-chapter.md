@@ -16,6 +16,7 @@ readingTime = false
 
 >- **Status**: Complete (**140** episodes).
 >- **Protagonists**: Yūgi Muto & Pharaoh Atem
+>- **Adaptation of**: Yugioh Duel Monsters
 >- **Author Notes**: This chapter follows the same events from the Duel Monster anime but condensed and re-arranged into five major story arcs. It has a bit of original, movie and manga content splashed into it, and some plot points were completely moved around. I attempted to tie in a few missed opportunities, give more relevance to side characters and bring to the limelight the Millennium Items, among other things, but always respecting the original vision and plan.
 
 ---
@@ -36,3 +37,8 @@ readingTime = false
 {{< imagetext src="/img/storyimg/ep0138.jpg" link="/scrolls/characters-millennium/" alt="Characters from this Chapter" caption="Characters from this Chapter" width="230" >}}
 {{< imagetext src="/img/storyimg/ep0035.jpg" link="/scrolls/duels/#millennium-chapter" alt="Duels from this Chapter" caption="Duels from this Chapter" width="230" >}}
 </div>
+
+---
+
+| | [Next Chapter →](/story/the-kings-chapter/) |
+|:--------------------------|---------------------------:|

@@ -51,7 +51,7 @@ The original cards that showed up in the Duelist Kingdom arc of the anime (from 
 These sets are based on [Yugioh Scrolls](/yugioh-scrolls/), which is a fan-fiction retelling of the anime that uses Kingdom Duels rules instead of the true rules.
 
 #### *Expansion Sets (wip)*
-These sets provide further support for existing cards and mechanics, expanding on them by narrating self-contained events from the lore (*"Duel Anecdotes"*) or maybe even from different franchises (*"Duel Visions"*). They may be developed with the community so they can be a way for fans to contribute cards for the main distribution of the game.
+These sets provide further support for existing cards and mechanics, expanding on them by narrating self-contained events (*"Duel Anecdotes"*). They may be developed with the community so they can be a way for fans to contribute cards for the main distribution of the game.
 
 
 ## Read More

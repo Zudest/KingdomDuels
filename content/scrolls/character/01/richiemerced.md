@@ -1,0 +1,28 @@
++++
+title = "Richie"
+url = "/scrolls/character/richiemerced/"
+toc = false
+readingTime = false
++++
+
+**Richie Merced** (リーチー・マーセーッド *Rīchī Māsēddo*) is a character introduced in the Millennium Chapter.
+
+### Design
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/richiemerced.jpg" caption="Normal Outfit" width="250" >}}
+</div>
+
+### About
+
+(WIP)
+
+### Duels
+
+{{< dueltablehistory>}}Gekko|97|Win|
+Keith|98|Loss|
+{{< /dueltablehistory >}}
+
+
+{{< backbutton >}}
+

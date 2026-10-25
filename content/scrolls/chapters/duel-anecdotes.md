@@ -8,7 +8,7 @@ readingTime = false
 
 <div class="img-center">
 
-![](/img/storyimg/00.png)
+![](/img/storyimg/Chapter99.jpg)
 
 </div>
 
@@ -27,4 +27,11 @@ readingTime = false
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="230" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="230" >}}
 {{< imagetext src="/img/storyimg/00.png" alt="?" width="230" >}}
+</div>
+
+
+### Quick Links
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-duel-anecdotes/" alt="Characters from Anecdotes" caption="Characters from Anecdotes" width="230" >}}
 </div>

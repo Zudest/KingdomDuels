@@ -8,7 +8,7 @@ toc = false
 
 ---
 
-## Millennium Chapter
+## Duels by Story Arcs
 
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/storyimg/ep0033.jpg" link="/scrolls/duels-duelist-kingdom-arc/" alt="Duels from the Duelist Kingdom Arc" caption="Duelist Kingdom Arc Duels" width="240" >}}
@@ -18,6 +18,15 @@ toc = false
 {{< imagetext src="/img/storyimg/ep0139.jpg" link="/scrolls/duels-world-of-memories-arc/" alt="Duels from the World of Memories Arc" caption="World of Memories Arc Duels" width="240" >}}
 </div>
 
+---
+
+## Duels in Short Stories
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" alt="?" caption="?" width="240" >}}
+</div>
+
+---
 
 ## Other Links
 

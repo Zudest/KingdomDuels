@@ -16,6 +16,7 @@ readingTime = false
 
 >- **Status**: Pre-Planning Stage
 >- **Protagonist**: Yūma Tsukumo
+>- **Adaptation of**: Yugioh Zexal
 >- **Author Notes**: A retelling of Zexal (I & II). It will require to transform the alien elements of that show into something a bit more in line with the rest of this setting (astral and barian worlds would need to be changed). Some of the first half of the show would need to be condensed, but the second half is engaging enough to try to keep it as clean as possible.
 
 ---
@@ -36,3 +37,8 @@ readingTime = false
 {{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-numbers/" alt="Characters from this Chapter" caption="Characters from this Chapter" width="230" >}}
 {{< imagetext src="/img/storyimg/00.png" link="/scrolls/duels/" alt="Duels from this Chapter" caption="Duels from this Chapter" width="230" >}}
 </div>
+
+---
+
+| [← Previous Chapter](/story/the-signers-chapter/) | [Next Chapter →](/story/the-dimensional-chapter/) |
+|:--------------------------|---------------------------:|

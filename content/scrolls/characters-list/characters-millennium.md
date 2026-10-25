@@ -104,7 +104,6 @@ toc = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/0.jpg" caption="Mr. Ishtar" width="170" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Mrs. Ishtar" width="170" >}}
-{{< imagetext src="/img/chars/0.jpg" caption="Mrs. Ishtar" width="170" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Tournament Duelist" width="170" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Tournament Duelist" width="170" >}}
 {{< imagetext src="/img/chars/0.jpg" caption="Tournament Duelist" width="170" >}}

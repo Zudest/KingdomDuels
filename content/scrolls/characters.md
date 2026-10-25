@@ -20,8 +20,14 @@ toc = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-dimensional" caption="🌌 Dimensional Chapter" width="240" >}}
 {{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-virtual" caption="🌐 Virtual Chapter" width="240" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="Duel Anecdotes" width="240" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="Duel Visions" width="240" >}}
+{{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-rebellious" caption="⚡ Rebellious Chapter" width="240" >}}
+{{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-frontier" caption="🧭 Frontier Chapter" width="240" >}}
+{{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-unseen" caption="📜 Unseen Chapter" width="240" >}}
+</div>
+
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/storyimg/00.png" link="/scrolls/characters-duel-anecdotes" caption="💬 Duel Anecdotes" width="240" >}}
 </div>
 
 ---
@@ -33,11 +39,17 @@ toc = false
 <div style="display: flex; justify-content: left; gap: 5px;">
 {{< imagetext src="/img/chars/yugi.jpg" link="/scrolls/character/yugi" caption="Yugi" width="170" >}}
 {{< imagetext src="/img/chars/theotheryugi.jpg" link="/scrolls/character/atem" caption="The Other Yugi" width="170" >}}
-{{< imagetext src="/img/chars/yudai.jpg" caption="Yudai" width="170" >}}
-{{< imagetext src="/img/chars/yusei.jpg" caption="Yusei" width="170" >}}
-{{< imagetext src="/img/chars/yuma.jpg" caption="Yuma" width="170" >}}
-{{< imagetext src="/img/chars/yuzu.jpg" caption="Yuzu" width="170" >}}
-{{< imagetext src="/img/chars/yusaku.jpg" caption="Yusaku" width="170" >}}
+{{< imagetext src="/img/chars/yudai.jpg" link="/scrolls/character/yudai" caption="Yudai" width="170" >}}
+{{< imagetext src="/img/chars/yusei.jpg" link="/scrolls/character/yusei" caption="Yusei" width="170" >}}
+{{< imagetext src="/img/chars/yuma.jpg" link="/scrolls/character/yuma" caption="Yuma" width="170" >}}
+{{< imagetext src="/img/chars/yuzu.jpg" link="/scrolls/character/yuzu" caption="Yuzu" width="170" >}}
+{{< imagetext src="/img/chars/yusaku.jpg" link="/scrolls/character/yusaku" caption="Yusaku" width="170" >}}
+</div>
+
+<div style="display: flex; justify-content: left; gap: 5px;">
+{{< imagetext src="/img/chars/yuga.jpg" link="/scrolls/character/yuga" caption="Yuga" width="170" >}}
+{{< imagetext src="/img/chars/yudias.jpg" link="/scrolls/character/yudias" caption="Yudias" width="170" >}}
+{{< imagetext src="/img/chars/yuki.jpg" link="/scrolls/character/yuki" caption="Yuki" width="170" >}}
 </div>
 
 ##### Major Characters

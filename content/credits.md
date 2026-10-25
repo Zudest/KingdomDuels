@@ -10,7 +10,8 @@ readingTime = false
 
     Yugioh Scrolls: Rolvak.
     Yugioh Scrolls Duel Scripting: Rolvak.
-    Yugioh Scrolls chapter artwork: Kazuki Takahashi, Konami, Studio Gallop, Studio Bridge. ヤエ, moribuden ゑこ, Yuuichi-87, ミ里.
+    Yugioh Scrolls chapter artwork: Kazuki Takahashi, Konami, Studio Gallop, Studio Bridge. 
+    ヤエ, moribuden ゑこ, Yuuichi-87, ミ里, セイ, Vvkagerouvvr2, Idomizu Tennen.
 
     Kingdom Duels Main Artwork:
     - Kazuki Takahashi & NAS & Studio Gallop & Toei & Studio Bridge & Bandai & Duel Links & Konami Animation & Konami.
