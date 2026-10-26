@@ -53,10 +53,10 @@ toc = false
 | -------- | ------- | ------- |  ------- |  ------- |
 | Pegasus | **39** | **0** | Yugi & The Other Yugi (title split in two) | [ep. 39](/scrolls/duels-duelist-kingdom-arc/#ep-35-39---pegasus-vs-yugi) |
 | Yugi | **4** | **0** | Rebecca (forfeit) | [ep. 43](/scrolls/duels-legacy-arc/#ep-43---rebecca-vs-yugi-arthur-vs-sugoroku) |
-| The Other Yugi | **68** | **24** | Rafael | [ep. 107](/scrolls/duels-wicked-arc/#ep-107) |
-| Rebecca | **66** | **0** | Valon | [ep. 109](/scrolls/duels-wicked-arc/#ep-109) |
-| Valon | **1** | **0** | Jonouchi | [ep. 110](/scrolls/duels-wicked-arc/#ep-110) |
-| Jonouchi | **1** | **0** | Mai | [ep. 111](/scrolls/duels-wicked-arc/#ep-111) |
-| Mai | **1** | **0** | Rafael (combined title) | [ep. 112](/scrolls/duels-wicked-arc/#ep-112) |
-| Rafael | **1** | **1** | The Other Yugi | [ep. 113](/scrolls/duels-wicked-arc/#ep-113) |
-| The Other Yugi | **27 (+68)** | **5** | Yugi | ep. 140 |
+| The Other Yugi | **68** | **24** | Rafael | [ep. 107](/scrolls/duels-wicked-arc/#ep-107---rafael-vs-yugi) |
+| Rebecca | **66** | **0** | Valon | [ep. 109](/scrolls/duels-wicked-arc/#ep-109---valon-vs-otogi--rebecca) |
+| Valon | **1** | **0** | Jonouchi | [ep. 110](/scrolls/duels-wicked-arc/#ep-110---valon-vs-jonouchi) |
+| Jonouchi | **1** | **0** | Mai | [ep. 111](/scrolls/duels-wicked-arc/#ep-111---mai-vs-jonouchi) |
+| Mai | **1** | **0** | Rafael (combined title) | [ep. 112](/scrolls/duels-wicked-arc/#ep-112---rafael-vs-mai) |
+| Rafael | **1** | **1** | The Other Yugi | [ep. 113](/scrolls/duels-wicked-arc/#ep-113---rafael-vs-the-other-yugi) |
+| The Other Yugi | **27 (+68)** | **5** | Yugi | [ep. 140](/scrolls/duels-world-of-memories-arc/#ep-140---atem-vs-yugi) |

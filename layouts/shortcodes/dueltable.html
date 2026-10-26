@@ -29,6 +29,9 @@
   .kingdom-duels-table .player-4 { background-color: #e0d039; color: white; }
   .kingdom-duels-table .player-5 { background-color: #e25786; color: white; }
   .kingdom-duels-table .player-6 { background-color: #9C27B0; color: white; }
+  .kingdom-duels-table .player-7 { background-color: #4b5b88; color: white; }
+  .kingdom-duels-table .player-8 { background-color: #833f24; color: white; }
+  .kingdom-duels-table .player-9 { background-color: #aad658; color: white; }
   </style>
 
 <div class="kingdom-duels-table">
@@ -64,6 +67,12 @@
             {{- $playerType = "player-5" -}}
           {{- else if in (lower $playerValue) "player 6" -}}
             {{- $playerType = "player-6" -}}
+          {{- else if in (lower $playerValue) "player 7" -}}
+            {{- $playerType = "player-7" -}}
+          {{- else if in (lower $playerValue) "player 8" -}}
+            {{- $playerType = "player-8" -}}
+          {{- else if in (lower $playerValue) "player 9" -}}
+            {{- $playerType = "player-9" -}}
           {{- end -}}
           <td class="{{ $playerType }}" style="text-align: center">{{ $playerValue }}</td>
           <td style="text-align: left">{{ index $cells 1 | default "" }}</td>

@@ -209,7 +209,7 @@
 "NPH-013":"[Trigger: Your opponent declares an attack while you control \"Dark Sanctuary\".] ► Negate the attack. Then you can target one other monster your opponent controls and make it attack the same target instead (Battle Swap the targeted monster to to ATK as part of this effect if it was in DEF Position).",
 "NPH-014":"If an opponent monster is destroyed in battle while this card is face-up on the field, this monster gains 300 ATK.",
 "NPH-015":"Once per duel: Target 1 face-up monster you control: Equip all face-up Equip cards to that target; then, attach all attachments in the field to that target. If any of those cards is now equipped or attached to an invalid target, destroy that equipping/attaching card.",
-"NPH-016":"Choose one: □ Target 1 Demon monster on the field: destroy it. □ Target 1 Fallen monster on the field: return it to the Extra Deck, its controller can Spcieal Summon its proper Alter material if it was attached to it.",
+"NPH-016":"Choose one: □ Target 1 Demon monster on the field: destroy it. □ Target 1 Fallen monster on the field: return it to the Extra Deck, its controller can Special Summon its proper Alter material if it was attached to it.",
 "NPH-017":"Once per turn you can discard 1 card (Slow Effect): Destroy 1 monster on the field that was Special Summoned from the graveyard.",
 "NPH-018":"(On Activation): Change 1 empty Terrain you control to a \"Temple\" Terrain; then, Special Summon 1 \"Sarcophagus Token\" in face-up DEF in that Terrain. (While Active): Your opponent cannot set more than 1 card in their Backrow per turn. Once per turn, if your \"Sarcophagus Token\" has no cards attached, you can attach to it face-down 1 card from your hand (without revealing it).",
 "NPH-019":"This monster cannot attack. If you control other monsters, this monster cannot be targeted for attacks. Your opponent cannot target cards attached to this card. Once per turn (Quick Effect) you can add to your hand a face-down card attached to this card.",
@@ -380,5 +380,5 @@
 "NPH-184":"District Tournament Deck — STRATEGY: Petit Dragon",
 "NPH-185":"District Tournament Deck — STRATEGY: Reinforcements | Castle Walls | Lesser Dragon | Biometal Protocol | Cat's Fairy | Cavern Devil - Ogre Rock",
 "NPH-186":"{1}① Matchup Decider — Assign 8 players with numbers from 1 to 8. Then roll 2D8 four times, one after the other, to define duel matchups using those assigned numbers as markers for each player. If a number comes up more than one time you must reroll it.",
-"NPH-187":"{1}① Ancient Connection — In any duel, only a player that activated a Duelist Setup Rule Card with one of these names (\"Yugi\", \"Kaiba\", \"Marik\", \"Ishizu\", \"Bakura\", \"Shadi\", \"Pegasus\") can activate an effect or declare an attack from an Egyptian God card."
+"NPH-187":"{1}① Ancient Connection — In any duel, only a player that activated a Duelist Setup Rule Card with one of these names (\"Yugi\", \"Kaiba\", \"Marik\", \"Ishizu\", \"Bakura\", \"Shadi\", \"Pegasus\", \"Fizdis\", \"Sugoroku\", \"Atem\") can activate an effect or declare an attack from an Egyptian God card."
 }

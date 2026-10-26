@@ -23,10 +23,10 @@ readingTime = false
 </div>
 
 <div style="display: flex; justify-content: left; gap: 5px;">
-{{< imagetext src="/img/storyimg/ep0101.jpg" link="/cards/?search=set%253AROA" caption="🎇 [ROA] → Rebirth of Avatar" alt="100" width="230" >}}
-{{< imagetext src="/img/storyimg/ep0104.jpg" link="/cards/?search=set%253AORB" caption="🎇 [ORB] → Orichalcos Barrier" alt="106" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0101.jpg" link="/cards/?search=set%253AROA" caption="🎇 [ROA] → Rebirth of Avatar" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0104.jpg" link="/cards/?search=set%253AORB" caption="🎇 [ORB] → Orichalcos Barrier" alt="" width="230" >}}
 {{< imagetext src="/img/storyimg/ep0119.jpg"  link="/cards/?search=set%253APYL" caption="🗝️ [PYL] → Pyramid of Light" alt="" width="230" >}}
-{{< imagetext src="/img/storyimg/00.png" caption="🗝️ [?] → ?" alt="" width="230" >}}
+{{< imagetext src="/img/storyimg/ep0137.jpg" link="/cards/?search=set%253AWOM" caption="🗝️ [WOM] → World of Memories" alt="" width="230" >}}
 </div>
 
 ## Expansion Sets

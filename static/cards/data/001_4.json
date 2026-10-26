@@ -230,7 +230,7 @@
 {"name":"Shield Token","frame":"Token_Monster","types":"Token_Monster Elemental Protector","set":"ORB","id":"042","deck":"B","duelist":"Gurimo","attribute":"earth","grade":"lvl","gradeval":"1","atk":"0","def":"1000","bonusatk":"0","bonusdef":"300"},
 {"name":"Bronze Knights","frame":"Spell","types":"Spell","set":"ORB","id":"043","deck":"A","duelist":"Gurimo","attribute":"earth","grade":"glyph","gradeval":"NORMAL"},
 {"name":"Bronze Knight Token","frame":"Token_Monster","types":"Token_Monster Warrior","set":"ORB","id":"044","deck":"B","duelist":"Gurimo","attribute":"earth","grade":"lvl","gradeval":"1","atk":"500","def":"500","bonusatk":"150","bonusdef":"150"},
-{"name":"The Warrior Returning Alive","frame":"Spell","types":"Slow_Spell","set":"ORB","id":"045","deck":"A","duelist":"Gurimo Jonouchi","attribute":"earth","grade":"glyph","gradeval":"NORMAL"},
+{"name":"The Warrior Returning Alive","frame":"Spell","types":"Slow_Spell","set":"ORB","id":"045","deck":"A","duelist":"Gurimo Jonouchi Atem","attribute":"earth","grade":"glyph","gradeval":"NORMAL"},
 {"name":"The Allied Forces","frame":"Spell","types":"Slow_Continuous_Spell","set":"ORB","id":"046","deck":"A","duelist":"Gurimo","attribute":"earth","grade":"glyph","gradeval":"CONT."},
 {"name":"Magical Academy","frame":"Spell","types":"Spell","set":"ORB","id":"047","deck":"A","duelist":"Yugi","attribute":"dark","grade":"glyph","gradeval":"NORMAL"},
 {"name":"The Eye of Timaeus","frame":"Combination","types":"Divine_Spell_Monster Divine Dragon Flying Atlantean_God (Hierarchy_3)","set":"ORB","id":"048","deck":"A","duelist":"Yugi","attribute":"light","grade":"lvl","gradeval":"5","atk":"0","def":"0","bonusatk":"0","bonusdef":"0"},
