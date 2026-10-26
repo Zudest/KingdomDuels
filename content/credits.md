@@ -18,23 +18,29 @@ readingTime = false
 
     Kingdom Duels Fanmade Artwork:
     - (Unknown Artists): SOE-143, LEN-220, LEN-221, LEN-222, LEN-223, LEN-224, MLY-150, MLY-160, TEG-174, TEG-175, TEG-178, TEG-181,
-    TEG-182, TEG-187, TEG-193, ROA-173, ORB-225
+    TEG-182, TEG-187, TEG-193, ROA-173, ORB-225, WOM-083
     - Alanmac95: SOE-164, SOE-165, SOE-166, MLY-163, MLY-164, MLY-165, MLY-166, TEG-015
     - Apricot: SOE-146, NPH-046, NPH-047
     - Arkadarkartist: ORB-093
+    - B98X: WOM-105
     - Bethany Bronwyn Curtis: KOD-082
     - Cardsoricabr: ORB-194
+    - DanteWontDierr: WOM-210
     - Dgodnz: PYL-064, PYL-065, PYL-066, PYL-069, PYL-070, PYL-071, PYL-072
     - Dogerror: SOE-155
+    - Ebanest: WOM-004, WOM-005, WOM-006, WOM-021, WOM-025, WOM-027, WOM-145
     - Envymay: PYL-057
     - Exile0025: ROA-125, ROA-139
+    - Firbet: WOM-014
     - Friizer: NPH-179, PYL-154
     - Heiser: ORB-228
     - Iori1990: ORB-209, ORB-210
     - jtx1213: SOE-101
     - Kawacy: PYL-155
+    - Kazuki Takahashi: WOM-230
     - Kaminari Jin: SOE-142
     - khanhquoc2502: ROA-019, ROA-045
+    - Knock: WOM-136
     - Maruchi: SOE-145
     - Mikami: LEN-218, ORB-236
     - Mirpuzzle: KOD-151
@@ -72,8 +78,9 @@ readingTime = false
     186, 187.
     - ORB: 041, 043, 102, 119, 125, 141, 146, 165, 176, 195, 196, 197, 198.
     - PYL: 061, 100, 101, 120, 133, 135, 152.
+    - WOM: 013, 015, 016, 018, 052, 056, 092, 095, 129, 137, 153, 154, 225, 226, 227.
     - PROMO: all.
 
-*(Updated on 2026-05-14, last set checked: PYL)*
+*(Updated on 2026-10-26, last set checked: WOM)*
 
 

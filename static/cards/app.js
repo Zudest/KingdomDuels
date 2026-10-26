@@ -15,6 +15,7 @@ const SET_MAPPING = {
     "ROA": "07 - Rebirth of Avatar",
     "ORB": "08 - Orichalcos Barrier",
     "PYL": "09 - Pyramid of Light",
+    "WOM": "10 - World of Memories",
 };
 
 // Los datos salen del script de Sheets ya como JSON, así que se cargan
